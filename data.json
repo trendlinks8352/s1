@@ -404,5 +404,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q53_paraphrase_criticism_basis",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 166 — Q53 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q53 — Paraphrase: What is Zetlin's criticism based on?]\n\nPassage (opening):\n\"One could argue that there is too much emphasis on the stereotypes and not enough on the gender.\"\n→ The film claims to tackle gender issues but actually just plays with stereotypes.\n\nQ: Zetlin's criticism of Dating the Enemy is based on her ______.\n\nYour pick — C: <strong>belief that films which tackle gender issues end up perpetuating stereotypes</strong>\nCorrect — A: perception of a difference between what the film achieves and the stated aims of its director\n\nWhy is A correct and C wrong?",
+      "options": [
+        "C is wrong because the passage never uses the word 'perpetuating'",
+        "C over-generalises to ALL films that tackle gender issues — the passage only criticises THIS film. A correctly captures the gap between the director's stated aim (investigate gender) and what the film actually does (reinforce stereotypes).",
+        "A is correct because Zetlin praises the director's intentions explicitly",
+        "C is wrong because stereotypes are not mentioned in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② A captures the aim↔reality GAP; C overgeneralises to all films",
+      "explanation": "[Passage structure decoded]\nDirector's STATED AIM: 'playing with sexual stereotypes to investigate modern relationships'\nWhat the film ACTUALLY DOES: 'too much emphasis on the stereotypes, not enough on the gender'\n→ Gap between intention and execution = Zetlin's criticism\n\n[Paraphrase chain → Choice A]\n'stated aims of its director' = Huberman said the film investigates gender\n'what the film achieves' = actually just emphasises stereotypes\n'perception of a DIFFERENCE between' = Zetlin notices the gap\n\n[Why C tempts]\nC uses the passage's own word 'tackle' and concept 'perpetuating stereotypes'\n→ Classic same-word trap (Q94 pattern repeating!)\nBut C makes a claim about ALL films that tackle gender issues\n→ The passage only criticises THIS specific film\n\n[Scope error in C]\nPassage scope: this film, this director\nC scope: all films that tackle gender issues\n→ Scope inflation = wrong",
+      "action": "Action Rule (Q53): When a choice uses exact passage words ('tackle', 'stereotypes') → immediately check SCOPE. Is it about this specific case, or all cases? The passage = specific. Overgeneralised choice = trap."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q53_subjective_gap_paraphrase",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 166 — Q53 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q53 — Paraphrase Drill]\n\nPassage:\n'too much emphasis on the stereotypes and not enough on the gender'\n→ gap between director's stated aim and actual result\n\nComplete → Choice A:\n\n① Director's stated aim = the ________ aims of its director\n② What the film actually does ≠ aim = a ________ between what the film achieves and the stated aims\n\n(Tap to check)",
+      "answer": "① stated  ② difference (perception of a difference)",
+      "explanation": "[Map]\nDirector SAID: film will investigate gender relationships\nFilm ACTUALLY: over-emphasises stereotypes instead\n↓\nZetlin NOTICES this contradiction\n= 'perception of a DIFFERENCE between what the film achieves and the stated aims'\n\n[Key word: 'stated']\nStated aims = what the director publicly claimed\nNot what was achieved — what was promised\n\n[Why C fails the scope test]\n'Films which tackle gender issues' = many films\nPassage = only about Dating the Enemy\nC inflates one film's failure into a universal law",
+      "action": "Drill habit: 'stated aims' = what the director claimed / 'what the film achieves' = actual result. When these two diverge → that gap IS the criticism."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q55_paraphrase_madcap_inverted_commas",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 166 — Q55 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q55 — Why inverted commas around 'madcap'?]\n\nPassage (line 12):\n\"...deflecting attention to another 'madcap' episode of mistaken identity.\"\n\nZetlin puts 'madcap' in inverted commas to suggest the film's episodes are ______.\n\nYour pick — A: <strong>amusing but disquieting</strong>\nCorrect — B: tired and hackneyed\n\nWhat does 'madcap' in inverted commas signal?",
+      "options": [
+        "The word 'madcap' is being used in its literal dictionary definition",
+        "Inverted commas signal scepticism — Zetlin is distancing herself from the word, implying the episodes are NOT genuinely madcap but rather stale and overused (hackneyed). 'Disquieting' (Choice A) comes from a different sentence about the film's tone, not this line.",
+        "Inverted commas mean the word is a direct quote from the director",
+        "Zetlin uses inverted commas to emphasise how creative and zany the episodes are"
+      ],
+      "correctIdx": 1,
+      "answer": "② Inverted commas = scepticism/irony → the episodes are NOT genuinely madcap = hackneyed",
+      "explanation": "[Inverted commas = distancing device]\nWhen a writer puts a word in inverted commas:\n→ They are NOT endorsing the word\n→ They are questioning or mocking it\n→ 'so-called madcap' = it PRETENDS to be wild/zany but isn't really\n\n[Paraphrase chain → Choice B]\n'madcap' (in inverted commas) = supposedly wild/zany, but actually...\n→ tired (worn out, overused)\n→ hackneyed (clichéd, unoriginal)\n= the episodes are predictable, not genuinely surprising\n\n[Why A ('amusing but disquieting') is wrong]\n'Disquieting' comes from line 8: 'faintly disquieting'\n→ This describes the FILM'S OVERALL TONE, not the 'madcap' episodes\n→ You correctly identified 'disquieting' from the passage BUT targeted the wrong line\n→ This is a Targeting error embedded inside a Paraphrase question\n\n[Context clue]\nLine 4: 'so-called battle of the sexes' — same inverted-commas technique\n= Zetlin also puts 'so-called' on 'battle of the sexes' to signal it's a cliché\n→ Consistent pattern: Zetlin uses distancing language to signal staleness",
+      "action": "Action Rule (Q55): Inverted commas around a word = the writer is being ironic or sceptical. Ask: 'Is the writer praising or mocking this word?' Mocking + overused concept = hackneyed/clichéd. Do NOT borrow 'disquieting' from a different line."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q55_subjective_inverted_commas_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 166 — Q55 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q55 — Paraphrase Drill]\n\nZetlin writes: 'madcap' (in inverted commas)\n\nComplete:\n\n① Inverted commas signal the author is being ________ about the word\n   (= she does NOT genuinely mean it)\n\n② 'madcap' (ironic) = the episodes are ________ and hackneyed\n   (= stale, overused, unoriginal)\n\n③ TRAP: 'disquieting' (line 8) describes the film's ________ tone,\n   NOT the 'madcap' episodes\n\n(Tap to check)",
+      "answer": "① ironic / sceptical  ② tired  ③ overall",
+      "explanation": "[3-point map]\n① Inverted commas = irony/scepticism = 'so-called'\n② 'madcap' (ironic) → tired and HACKNEYED\n   hackneyed = clichéd, done so many times it's boring\n③ 'disquieting' is on line 8, describing the general film tone\n   It does NOT describe the specific 'madcap' episodes on line 12\n\n[Line targeting discipline]\nLine 8: 'faintly disquieting' → film's overall tone\nLine 12: 'madcap' (inverted commas) → specific episode quality = hackneyed\nAlways note WHICH LINE the question cites before selecting evidence",
+      "action": "Drill habit: inverted commas = irony = the opposite of the word's positive meaning. 'Madcap' normally = wildly spontaneous. In inverted commas = actually stale and predictable = hackneyed."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q56_targeting_humour_contrived",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 166 — Q56 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q56 — Targeting: What kind of humour does Zetlin find?]\n\nPassage:\n• 'This stuff can be amusing' (line 8) — humour exists\n• 'the plotting is awkward and dances around these serious issues' (line 9)\n• 'deflecting attention' (line 12) — avoids direct engagement\n• 'mistaken identity' as the comic device — a classic cliché\n\nQ: Zetlin finds the humour in Dating the Enemy ______.\n\nYour pick — B: <strong>clever but contrived</strong>\nCorrect — D: <strong>subtle and provocative</strong>\n\nYour notes say 'Step 2 (타겟팅) 오류 — 단어를 잘 몰랐음'.\nWhich word was likely the targeting/vocabulary obstacle?",
+      "options": [
+        "'Subtle' — this word does not appear in the passage so it cannot be the answer",
+        "'Contrived' (억지스러운) in Choice B sounds plausible, but the passage says humour IS amusing/clever — it never says it feels forced. 'Provocative' (도발적인) in D aligns with 'disquieting' (불안감을 주는) + the film trying to make a serious point. The block was likely 'provocative' or 'contrived'.",
+        "'Amusing' — this word is too simple to cause an error",
+        "'Dull' in Choice A — the passage clearly says the film is funny so A is immediately eliminated"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'contrived' sounds plausible but passage doesn't support forced/artificial; 'provocative' = disquieting",
+      "explanation": "[Passage evidence for Choice D]\n'amusing' → subtle (the humour works, but not overtly)\n'faintly disquieting' + 'trying to make a serious point' → provocative\n(provocative = designed to make you think/feel uncomfortable = disquieting)\n\n[Why B fails]\n'clever' — partially supported (the film IS amusing/has wit)\n'contrived' — means forced, artificial, unnatural\nThe passage does NOT say the humour feels forced or fake\nThe criticism is about AVOIDANCE (deflecting, dancing around), not artificiality\n\n[Vocabulary pair to memorise]\ncontrived (억지스러운) = artificially constructed, feels fake\nprovocative (도발적인) = challenging, designed to disturb or provoke thought\n\n[Key paraphrase chain → D]\n'faintly disquieting' → provocative (both = unsettling, thought-provoking)\n'amusing' → subtle (present but understated)\n\n[Targeting lesson]\nThe question asks about ZETLIN'S ASSESSMENT of the humour\nEvidence is spread across lines 8-10: amusing + disquieting + awkward plotting\nDon't stop at line 8 ('amusing') — gather all humour-related evidence first",
+      "action": "Action Rule (Q56): For 'author's assessment' questions — collect ALL evaluative words across the passage before choosing. 'Amusing' alone = incomplete. 'Amusing + disquieting' together = subtle + provocative = Choice D.\n\nVocab to drill: contrived(억지스러운) ≠ provocative(도발적인/불안을 자아내는)"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q56_subjective_humour_paraphrase_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 166 — Q56 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q56 — Paraphrase Drill]\n\nMap the passage evidence to Choice D:\n\n① 'This stuff can be <em>amusing</em>' (line 8)\n   → ________ (understated, not loud)\n\n② 'faintly <em>disquieting</em>' + 'trying to make a serious point'\n   → ________ (designed to challenge or unsettle)\n\nBonus — vocabulary check:\n③ contrived = ________ (억지스러운)\n④ provocative = ________ (도발적인)\n\n(Tap to check)",
+      "answer": "① subtle  ② provocative  ③ artificially forced / feels fake  ④ challenging / designed to unsettle or provoke thought",
+      "explanation": "[Full evidence map → Choice D]\namusing → SUBTLE\n  subtle = present but understated, not obvious comedy\n  the humour is there but quiet — not slapstick\n\nfaintly disquieting + serious point → PROVOCATIVE\n  provocative = makes you think, challenges, unsettles\n  disquieting (불안감을 주는) = same emotional register as provocative\n\n[Vocabulary contrast]\ncontrived: the humour is MANUFACTURED, feels artificial\n  → passage does NOT support this — the humour genuinely amuses\nprovocative: the humour CHALLENGES the viewer\n  → passage DOES support this — it tries to make a serious point\n\n[Collection discipline]\nNeeded TWO lines to build Choice D:\nLine 8 → subtle / Line 8-9 → provocative\nStopping at line 8 only = missing half the evidence",
+      "action": "Drill habit: amusing → subtle / disquieting → provocative. These two passage words compress perfectly into Choice D. Always collect the full set of evaluative words before mapping to choices."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
