@@ -481,17 +481,17 @@
     "isMCQ": true,
     "source": "Unit 166 — Q56 Targeting (B→D)",
     "quiz": {
-      "question": "[Q56 — Targeting: What kind of humour does Zetlin find?]\n\nPassage:\n• 'This stuff can be amusing' (line 8) — humour exists\n• 'the plotting is awkward and dances around these serious issues' (line 9)\n• 'deflecting attention' (line 12) — avoids direct engagement\n• 'mistaken identity' as the comic device — a classic cliché\n\nQ: Zetlin finds the humour in Dating the Enemy ______.\n\nYour pick — B: <strong>clever but contrived</strong>\nCorrect — D: <strong>subtle and provocative</strong>\n\nYour notes say 'Step 2 (타겟팅) 오류 — 단어를 잘 몰랐음'.\nWhich word was likely the targeting/vocabulary obstacle?",
+      "question": "[Q56 — Targeting: What kind of humour does Zetlin find?]\n\nPassage:\n• 'This stuff can be <em>amusing</em>' (line 8)\n• 'it's also <em>faintly disquieting</em>' (line 8)\n• 'the plotting is awkward and dances around these serious issues' (line 9)\n• 'deflecting attention' (line 12)\n\nQ: Zetlin finds the humour in Dating the Enemy ______.\n\nYour pick — B: <strong>clever but contrived</strong>\nCorrect — D: <strong>pleasant but disturbing</strong>\n\nWhy is D correct and B wrong?",
       "options": [
-        "'Subtle' — this word does not appear in the passage so it cannot be the answer",
-        "'Contrived' (억지스러운) in Choice B sounds plausible, but the passage says humour IS amusing/clever — it never says it feels forced. 'Provocative' (도발적인) in D aligns with 'disquieting' (불안감을 주는) + the film trying to make a serious point. The block was likely 'provocative' or 'contrived'.",
-        "'Amusing' — this word is too simple to cause an error",
-        "'Dull' in Choice A — the passage clearly says the film is funny so A is immediately eliminated"
+        "B is correct because 'amusing' = clever",
+        "'Contrived' (억지스러운) has no passage support — the humour is criticised for AVOIDANCE not artificiality. 'Disturbing' is the direct paraphrase of 'faintly disquieting'. B misses the second word entirely.",
+        "B is wrong only because the film is not clever",
+        "D is wrong because the passage never uses the word 'pleasant'"
       ],
       "correctIdx": 1,
-      "answer": "② 'contrived' sounds plausible but passage doesn't support forced/artificial; 'provocative' = disquieting",
-      "explanation": "[Passage evidence for Choice D]\n'amusing' → subtle (the humour works, but not overtly)\n'faintly disquieting' + 'trying to make a serious point' → provocative\n(provocative = designed to make you think/feel uncomfortable = disquieting)\n\n[Why B fails]\n'clever' — partially supported (the film IS amusing/has wit)\n'contrived' — means forced, artificial, unnatural\nThe passage does NOT say the humour feels forced or fake\nThe criticism is about AVOIDANCE (deflecting, dancing around), not artificiality\n\n[Vocabulary pair to memorise]\ncontrived (억지스러운) = artificially constructed, feels fake\nprovocative (도발적인) = challenging, designed to disturb or provoke thought\n\n[Key paraphrase chain → D]\n'faintly disquieting' → provocative (both = unsettling, thought-provoking)\n'amusing' → subtle (present but understated)\n\n[Targeting lesson]\nThe question asks about ZETLIN'S ASSESSMENT of the humour\nEvidence is spread across lines 8-10: amusing + disquieting + awkward plotting\nDon't stop at line 8 ('amusing') — gather all humour-related evidence first",
-      "action": "Action Rule (Q56): For 'author's assessment' questions — collect ALL evaluative words across the passage before choosing. 'Amusing' alone = incomplete. 'Amusing + disquieting' together = subtle + provocative = Choice D.\n\nVocab to drill: contrived(억지스러운) ≠ provocative(도발적인/불안을 자아내는)"
+      "answer": "② contrived ≠ passage / disturbing = direct paraphrase of 'faintly disquieting'",
+      "explanation": "[Paraphrase chain → Choice D]\n'amusing' → pleasant\n  amusing = enjoyable on the surface ✓\n\n'faintly disquieting' → disturbing\n  disquieting (불안감을 주는) = causing unease = disturbing ✓\n\n[Combined → D]\npleasant (amusing) BUT disturbing (disquieting)\n= enjoyable on the surface, yet unsettling underneath\nThe BUT structure in the passage mirrors the BUT in Choice D\n\n[Why B fails]\n'clever' → partially plausible\n'contrived' (억지스러운) = artificially forced, fake-feeling\nThe passage NEVER says the humour feels manufactured\nThe criticism is about DEFLECTION and AVOIDANCE — not artificiality\n\n[The key paraphrase pair to memorise]\namusing → pleasant\nfaintly disquieting → disturbing\n\n[Vocab]\ndisquieting (불안감을 주는) → disturbing\ncontrived (억지스러운) → artificially forced ← NOT in passage\namusing (즐거운) → pleasant",
+      "action": "Action Rule (Q56): Collect ALL evaluative words across the passage before choosing. 'Amusing' alone = incomplete. 'Amusing + faintly disquieting' = pleasant + disturbing = Choice D.\nVocab drill: disquieting → disturbing / amusing → pleasant. The BUT structure in the passage = two-part answer."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
