@@ -1020,5 +1020,215 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u161_q49_targeting_conduct_paraphrase",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 161 — Q49 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q49 — Targeting: What does 'infer intention from conduct' mean?]\n\nPassage (sentence 2):\n\"Even when the law bases liability for an act on the perpetrator's intention,\nit tends to <em>infer intention only from conduct</em>.\"\n\nQ: A courtroom decision about guilt/innocence may take into account evidence about ______.\n\nCorrect — B: <strong>how damage or trauma was caused by the accused</strong>\n\nWhy do choices A and C fail, and how does B paraphrase 'conduct'?",
+      "options": [
+        "A (social/financial circumstances) is partially correct because background context informs intention",
+        "A is Out of Scope — circumstances are not mentioned. C (previous offences) is your imagination filling a gap — the passage says intention is inferred from conduct (the act itself), NOT from history. B correctly paraphrases 'conduct': the outward act = HOW the damage was caused.",
+        "C is correct because courts routinely examine criminal history to assess intent",
+        "B is wrong because 'trauma' implies psychological harm which goes beyond legal conduct"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = out of scope / C = imagination / B = 'conduct' paraphrased as 'how damage was caused'",
+      "explanation": "[The key sentence decoded]\n'infer intention only from conduct'\n= the law looks OUTWARD (at the act) to determine INWARD (the intention)\n= it does NOT look at: background, history, circumstances, character\n= it looks at: what the person DID — the observable act\n\n[Paraphrase chain → B]\nconduct = the outward act committed\n= how the damage or trauma was CAUSED (by the accused)\nconduct → how damage was caused ✓\n\n[Why C is RAM overflow]\nC: 'previous offences committed by the accused'\n→ This is about HISTORY — what the person did BEFORE\n→ The passage says intention is inferred from conduct (THIS act)\n→ You added 'wouldn't courts look at criminal history?' from background knowledge\n→ That question is reasonable in real life but NOT what this passage says\n\n[Why A is out of scope]\nA: 'social and financial circumstances'\n→ Background context of the accused's life\n→ Zero passage support — not mentioned anywhere\n\n[The only scope]\nPassage scope: intention ← inferred from ← THIS act (conduct)\nAnswer scope: evidence about HOW the act caused damage = B",
+      "action": "Action Rule (Q49): 'Infer from conduct' = look at the ACT ITSELF, not history or circumstances. Paraphrase: conduct → how damage/trauma was caused. When tempted by C (criminal history) — ask: does the passage say 'previous'? No → eliminate."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u161_q49_paraphrase_conduct_drill",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 161 — Q49 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q49 — Paraphrase Drill: conduct → Choice B]\n\nPassage: 'infer intention only from <strong>conduct</strong>'\n\nconduct = the outward, observable act committed\n\nChoice B: 'how <strong>damage or trauma was caused</strong> by the accused'\n\nWhich best explains why this is a valid paraphrase?",
+      "options": [
+        "Both use legal vocabulary so they must refer to the same thing",
+        "'Conduct' = the observable act → the act is what CAUSED damage → examining HOW damage was caused = examining the conduct itself. The paraphrase shifts from abstract (conduct) to concrete (how damage happened) — same meaning, different register.",
+        "B is a paraphrase because 'trauma' is a synonym for 'conduct'",
+        "B is valid only if the passage specifies that physical damage was involved"
+      ],
+      "correctIdx": 1,
+      "answer": "② conduct (abstract act) → how damage was caused (concrete consequence of the act)",
+      "explanation": "[Paraphrase logic]\nconduct = the observable behaviour of the accused\n= the outward act\n= what actually happened physically\n\nhow damage or trauma was caused\n= the manner of the act\n= what the accused did that produced harm\n\n[The abstraction shift]\nconduct = ABSTRACT label for the act\nhow damage was caused = CONCRETE description of the act's effect\nBoth refer to the same thing: the external, observable behaviour\n\n[Why this paraphrase works]\nLaw infers intention from conduct\n= law looks at how the accused caused damage (the conduct)\n= evidence about HOW damage was caused = evidence about the conduct\n\n[The attribute match]\nConduct attribute: external, observable, this specific act\n'How damage was caused' attribute: external, observable, this specific act\nAttributes match → valid paraphrase ✓\n\n[What C (previous offences) gets wrong]\nPrevious offences = past conduct, historical record\nThe passage: infer from conduct = infer from THIS act\nPast ≠ present act → C fails",
+      "action": "Drill habit: conduct (행위) → how damage or trauma was caused. The paraphrase moves from abstract legal term to concrete description of the same thing. Conduct = the act = how harm was produced."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u161_q50_paraphrase_crude_not_sensitive",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 161 — Q50 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q50 — Paraphrase: Why is legal compulsion 'crude'?]\n\nPassage (lines 4–5):\n\"...it must aim to balance the benefits to be obtained by obedience\nwith the harm that the <em>crude instrument of compulsion</em> may do.\"\n\nQ: The passage regards legal compulsion as 'crude' because it ______.\n\nYour pick — B: <strong>cannot adequately protect the well-being of society</strong>\nCorrect — A: <strong>is not sensitive to the complexities of human behaviour</strong>\n\nWhat is the core error in choosing B?",
+      "options": [
+        "B is correct because a crude instrument is by definition ineffective",
+        "B over-extends 'crude' into an outcome claim ('cannot protect') — the passage never says compulsion FAILS to protect society. 'Crude' describes the NATURE of the instrument (blunt, insensitive), not its failure. A correctly paraphrases crude = not sensitive to the subtleties/complexities it encounters.",
+        "B is wrong because the passage says compulsion is always effective",
+        "A is wrong because 'complexities of human behaviour' is not mentioned in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② B makes an outcome claim not in the passage; A paraphrases the PROPERTY of crudeness",
+      "explanation": "[What 'crude' actually means]\ncrude (투박한, 뭉툭한) = lacking subtlety, rough, not finely calibrated\n= it does not distinguish between nuances\n= it cannot handle complexity delicately\n≠ it completely fails to work\n\n[Paraphrase chain → A]\ncrude = not refined, not sensitive\n= not sensitive to the COMPLEXITIES of human behaviour\n  (human behaviour is complex; a crude tool cannot handle that complexity)\ncrude → not sensitive to complexities ✓\n\n[Why B is a logical leap]\nB says: 'cannot adequately PROTECT THE WELL-BEING of society'\n→ This is an OUTCOME claim (what the instrument fails to achieve)\n→ The passage does NOT say compulsion fails to protect society\n→ In fact, the passage says some rules are 'essential for law to enforce'\n→ Compulsion is presented as NECESSARY but CRUDE — not as failing\n\n[The Too Extreme trap in B]\n'Cannot adequately protect' = a strong failure claim\n→ Check: does the passage say compulsion fails at its purpose?\n→ No → B is Too Extreme\n\n[Property vs Outcome distinction]\nA describes a PROPERTY: crude = insensitive to complexity\nB claims an OUTCOME: cannot protect society\nThe question asks WHY it is crude = asking for a property, not an outcome\n→ A ✓",
+      "action": "Action Rule (Q50): 'Crude' = a PROPERTY (blunt, insensitive) — not a verdict on effectiveness. When a negative descriptor appears, ask: 'Is this about what it IS or what it FAILS TO DO?' IS = property (A). Fails to do = outcome claim (B) — check if passage supports it. Here it doesn't → eliminate B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u161_q50_logic_property_vs_outcome",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 161 — Q50 Logic: Property vs Outcome",
+    "quiz": {
+      "question": "[Q50 — Logic: Property vs Outcome + Too Extreme]\n\nApply the distinction:\n\nPassage says: 'the <strong>crude</strong> instrument of compulsion'\n→ crude = a PROPERTY describing the nature of compulsion\n\nChoice B: 'cannot adequately protect the well-being of society'\n→ This is an OUTCOME claim\n\nWhich reasoning chain correctly identifies why B fails TWO tests?",
+      "options": [
+        "B fails because 'crude' always implies failure and the passage says compulsion is necessary",
+        "Test 1 — Property vs Outcome: The question asks WHY it is crude (= what property does it have?). B gives an outcome (what it fails to do), not a property. Test 2 — Too Extreme: 'cannot adequately protect' is a strong failure claim. The passage says compulsion is essential for some rules — contradicting B's claim of inadequacy.",
+        "B fails only because 'well-being' is not mentioned in the passage",
+        "B fails because Choice A uses more precise academic vocabulary"
+      ],
+      "correctIdx": 1,
+      "answer": "② Fails Test 1 (outcome ≠ property) AND Test 2 (too extreme — passage calls compulsion essential)",
+      "explanation": "[Two-test framework for Q50]\n\nTest 1: Property or Outcome?\nQuestion: WHY is compulsion crude?\n= asking for its NATURE/PROPERTY\nA: 'not sensitive to complexities' = a property ✓\nB: 'cannot adequately protect' = an outcome ✗\n\nTest 2: Too Extreme?\nB claims compulsion CANNOT PROTECT society\nPassage (lines 7–8): 'there are rules which it is essential for the law to enforce'\n= compulsion IS used for essential enforcement\n= the passage supports compulsion's necessity\n= B's 'cannot protect' directly contradicts the passage\n→ Too Extreme + contradicts passage ✗\n\n[The correct understanding of 'crude' in context]\nCompulsion = necessary but blunt tool\nIt enforces rules but cannot finely calibrate for:\n→ individual moral complexity\n→ nuanced human behaviour\n→ varied ethical motivations\n= crude = not sensitive to complexities (A) ✓\n\n[Compulsion's role in the passage]\nNecessary: 'essential for the law to enforce'\nLimited: cannot enforce voluntary ethical observance\nCrude: blunt instrument — works by force, not by sensitivity",
+      "action": "Two-test drill for negative descriptor questions:\nTest 1: Is the answer a PROPERTY (what it IS) or OUTCOME (what it fails to do)? Match question type.\nTest 2: Does the choice make a Too Extreme claim? Check if passage contradicts it.\nB fails both → eliminate. A passes both → correct."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u161_meta_ram_overflow_property_outcome",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 161 — Meta: RAM Overflow + Property vs Outcome",
+    "quiz": {
+      "question": "[Unit 161 — Meta Pattern]\n\nQ49 error: chose C (previous offences) — imported real-world legal knowledge\nQ50 error: chose B (cannot protect society) — extended 'crude' into an outcome\n\nThese two errors belong to DIFFERENT categories.\nWhich correctly identifies both root causes?",
+      "options": [
+        "Both errors are paraphrasing failures — you misread the key passage words",
+        "Q49 = RAM overflow (importing outside knowledge: 'courts check criminal history'). Q50 = Property→Outcome leap (crude = blunt property, but you extended it to: therefore it fails to protect). Different bugs, different fixes.",
+        "Both errors are targeting failures — you found the wrong paragraph",
+        "Q49 = Too Extreme error / Q50 = Out of Scope error"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q49 = RAM overflow (outside knowledge) / Q50 = Property→Outcome leap",
+      "explanation": "[Q49 — RAM Overflow]\nYou knew: courts examine criminal history to assess intent (real world)\nPassage says: intention inferred from conduct (THIS act only)\nYou imported real-world legal knowledge into the passage\n= RAM overflow: reading data not present in the passage\n\nFix: Ask 'Does the passage say this?' No → delete from working memory\n\n[Q50 — Property→Outcome Leap]\nPassage: crude = a property (blunt, insensitive)\nYou extended: crude instrument → therefore cannot protect well-being\nThis is a logical extension — but the passage does NOT make this claim\n= Unjustified causal inference\n\nFix: Separate WHAT IT IS (property) from WHAT IT DOES (outcome)\nOnly use outcomes the passage explicitly states\n\n[Two different bugs — two different fixes]\nRAM overflow → Ask: 'Is this in the passage?' before using it\nProperty→Outcome → Ask: 'Does the passage state this consequence?' before inferring it\n\n[Shared principle]\nBoth errors involve going BEYOND the passage\nQ49: beyond in space (outside knowledge)\nQ50: beyond in logic (unwarranted inference)\nThe fix is the same: stay inside the passage fence",
+      "action": "Meta Rule (Unit 161):\nQ49-type: 'Is this information IN the passage?' No → RAM overflow → delete.\nQ50-type: 'Does the passage STATE this outcome?' No → outcome leap → delete.\nBoth bugs = going beyond the passage. Stay inside the fence."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u160_q39_targeting_severing_what",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 160 — Q39 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q39 — Targeting: What exactly was severed?]\n\nPassage (lines 1–2):\n\"...separating the left and right hemispheres of the brain\nby <em>cutting the corpus callosum</em>.\"\n\nPassage (line 10):\n\"...communication must pass through the <em>stem</em> of the brain.\"\n\nQ: The surgery involved severing ______.\n\nYour path — B then A: involving the <strong>brain stem</strong>\nCorrect — D: <strong>the link between the cerebral hemispheres</strong>\n\nWhy is the brain stem the wrong target?",
+      "options": [
+        "The brain stem is wrong because it is not mentioned anywhere in the passage",
+        "The brain stem appears in line 10 as the REMAINING pathway AFTER surgery — it was not cut. The TARGET of cutting is the corpus callosum (lines 1–2), which is the bridge/link between the two hemispheres. 'Stem' is a visual distractor that describes the post-surgery state, not the surgical action.",
+        "D is correct because 'corpus callosum' literally means cerebral link in Latin",
+        "The brain stem is wrong because severing it would be fatal"
+      ],
+      "correctIdx": 1,
+      "answer": "② Brain stem = remaining pathway AFTER surgery, NOT what was cut. Corpus callosum = the cut.",
+      "explanation": "[Verb-object pairing — the targeting discipline]\nQuestion keyword: SEVERING (切斷 = cutting)\nPassage answer: 'cutting the corpus callosum' (line 1–2)\n→ Object of cutting = corpus callosum ✓\n\n[Why 'stem' is a false target]\nLine 10: 'communication must pass through the stem'\n= after the corpus callosum is cut, the brain stem becomes the only remaining channel\n= the stem is the SURVIVOR of the surgery, not the TARGET\n\n[The visual pull trap]\nYour eye landed on 'stem' (line 10) — a concrete, vivid noun\nBut the question asks about the object of SEVERING\n→ Only lines 1–2 contain the severing verb: 'cutting'\n→ The object there is: corpus callosum\n\n[Paraphrase chain → D]\ncorpus callosum = the structure connecting left and right hemispheres\n= the link between the cerebral hemispheres\ncutting corpus callosum → severing the link between hemispheres = Choice D ✓\n\n[Targeting rule: verb-object pairing]\nWhen question asks about an ACTION (sever/cut)\n→ Find that verb in the passage\n→ Lock onto its OBJECT\n→ Do not migrate to other nouns in the passage",
+      "action": "Action Rule (Q39): For 'what was severed/cut/removed' questions — find the CUTTING VERB in the passage and read its direct object. Do not let other nouns (stem) pull you away. Verb → Object → paraphrase the object."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u160_q39_paraphrase_corpus_callosum_link",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 160 — Q39 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q39 — Paraphrase: corpus callosum → Choice D]\n\nPassage defines corpus callosum (line 2) as the structure that\n<em>connects / bridges</em> the left and right hemispheres.\n\nChoice D: 'the <strong>link</strong> between the <strong>cerebral hemispheres</strong>'\n\nComplete the paraphrase map:\n\n① corpus callosum (the bridge structure) → the ________ between the hemispheres\n② left and right hemispheres → ________ hemispheres\n③ cutting → ________",
+      "options": [
+        "① connection  ② brain  ③ removing",
+        "① link  ② cerebral  ③ severing — corpus callosum = the physical link; cerebral = of the brain/cerebrum; cutting = severing. Three direct synonym substitutions.",
+        "① gap  ② divided  ③ separating",
+        "① barrier  ② cortical  ③ disconnecting"
+      ],
+      "correctIdx": 1,
+      "answer": "② link / cerebral / severing — three direct synonym substitutions",
+      "explanation": "[Three-part paraphrase map]\n① corpus callosum → LINK\n  corpus callosum = the structural bridge between hemispheres\n  bridge = link = connection\n  → 'link between the hemispheres' ✓\n\n② left and right hemispheres → CEREBRAL hemispheres\n  cerebral = relating to the cerebrum (brain)\n  left + right hemispheres = the two cerebral hemispheres\n  → 'cerebral hemispheres' ✓\n\n③ cutting → SEVERING\n  cutting = physically dividing by cutting\n  severing = cutting apart, disconnecting\n  → 'severing' ✓\n\n[Why stem-related choices fail]\nThe stem (line 10) is what REMAINS after surgery\nNot the object of the surgical cut\nVerb-object pairing locks the answer to corpus callosum, not stem",
+      "action": "Drill habit: corpus callosum → link / cerebral hemispheres → left and right hemispheres / cutting → severing. Three clean synonym swaps. Always define the unfamiliar technical term using the passage's own description before paraphrasing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u160_q40_paraphrase_checking_relieve",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 160 — Q40 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q40 — Paraphrase: What does 'checking' mean here?]\n\nPassage:\n\"...in the hope of <em>checking</em> crippling epilepsy.\"\n\nQ: The surgery was performed with the primary aim of ______.\n\nYour path — C then B: involving <strong>research</strong> into epilepsy\nCorrect — A: <strong>relieving</strong> epilepsy\n\nIn this medical context, 'checking' means ______.",
+      "options": [
+        "Checking = verifying or examining (as in 'check-up') → supporting Choice B (research)",
+        "Checking = HALTING or SUPPRESSING the advance of something (medical usage) → 'checking crippling epilepsy' = stopping/relieving the epilepsy. Combined with 'crippling' (severely disabling) and 'in the hope of' (therapeutic intent), the purpose is clinical relief, not research.",
+        "Checking = monitoring over time → supporting ongoing research",
+        "Checking = confirming a diagnosis → supporting Choice C (studying mental integration)"
+      ],
+      "correctIdx": 1,
+      "answer": "② checking = halting/suppressing (medical) → relieving epilepsy = Choice A",
+      "explanation": "[The word 'checking' — context filter]\nchecking (general): to examine, verify, inspect\nchecking (medical/formal): to halt, restrain, stop the progress of\n\n[Context clues that unlock the correct meaning]\n① 'crippling epilepsy' = severely disabling epilepsy\n   → the problem is severe and disabling\n   → the goal is to STOP it, not study it\n\n② 'in the hope of' = expressing a therapeutic wish\n   → hope of = aspiration for a beneficial outcome\n   → research doesn't require 'hope' — treatment does\n\n③ Surgery as a context\n   → Surgeons cut the corpus callosum\n   → Surgery is a TREATMENT action, not a research action\n   → Purpose of treatment = relieve/alleviate the condition\n\n[Paraphrase chain → A]\nchecking (halting) crippling epilepsy\n= relieving (reducing the severity of) epilepsy\ncheck → relieve ✓\n\n[Why C (research / mental integration) fails]\nC imports 'speculation', 'insight' vocabulary from elsewhere in the passage\nThese words describe SECONDARY benefits or intellectual consequences\nThe PRIMARY PURPOSE stated: 'in the hope of checking crippling epilepsy'\n= clinical relief is the stated aim, not research",
+      "action": "Action Rule (Q40): 'Checking' in medical/clinical context = halting/suppressing, not examining. Filter ambiguous words using: (1) the severity of the subject ('crippling'), (2) the framing ('in the hope of' = therapeutic intent), (3) the action context (surgery = treatment)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u160_q40_logic_primary_vs_secondary_purpose",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 160 — Q40 Logic: Primary vs Secondary Purpose",
+    "quiz": {
+      "question": "[Q40 — Logic: Primary purpose vs secondary benefit]\n\nThe passage mentions:\n① 'in the hope of checking crippling epilepsy' — the stated SURGICAL GOAL\n② 'speculation', 'remarkable insights' — intellectual consequences DISCOVERED AFTERWARDS\n\nChoice C: studying mental integration (research focus)\nChoice A: relieving epilepsy (clinical focus)\n\nWhy does the question's answer depend on identifying which is PRIMARY?",
+      "options": [
+        "Both are equally primary — the surgery served dual purposes simultaneously",
+        "The PRIMARY purpose = what motivated the surgery = 'checking crippling epilepsy' (stated directly with 'in the hope of'). Insights and speculation = SECONDARY benefits discovered as a result. The question asks for the AIM of the surgery, not its intellectual consequences. C describes a secondary outcome; A describes the primary stated aim.",
+        "C is primary because the passage opens with speculation and insight",
+        "A is wrong because 'relieving' implies a cure, but the passage only mentions 'hope'"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'In the hope of checking' = primary surgical aim / insights = secondary discovery. Q asks for aim → A.",
+      "explanation": "[Identifying primary vs secondary in passages]\nPrimary purpose = stated motivation BEFORE or AT the time of action\n= 'in the hope of checking crippling epilepsy'\n= this is WHY surgeons performed the operation\n\nSecondary outcome = what was discovered or gained AS A RESULT\n= 'remarkable insights', 'speculation about consciousness'\n= these emerged FROM the surgery, they didn't motivate it\n\n[Signal phrases for primary purpose]\n'in the hope of' = explicitly stating the intention\n'with the aim of' = stating purpose\n'in order to' = stating purpose\n→ Always anchor 'purpose' questions to these signal phrases\n\n[Why C tempts]\nThe passage DOES discuss insights and mental integration\nThese are intellectually vivid and memorable\n→ Your eye is drawn to them\n→ But they are CONSEQUENCES, not CAUSES\n\n[Causal chain]\nCRIPPLING EPILEPSY (problem)\n→ surgery (solution attempt)\n→ 'in the hope of checking' (primary aim = A)\n→ corpus callosum severed\n→ insights discovered (secondary outcome = C)\n\nThe question asks for step 2, not step 5",
+      "action": "Action Rule (Q40): For 'aim/purpose' questions — find the signal phrase ('in the hope of', 'with the aim of', 'in order to') and use its object as your answer. Do not use intellectual consequences that appear elsewhere in the passage as the primary purpose."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u160_meta_verb_object_context_filter",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 160 — Meta: Verb-Object Lock + Context Filter",
+    "quiz": {
+      "question": "[Unit 160 — Meta Pattern]\n\nQ39 error: eye landed on 'stem' (line 10) instead of 'corpus callosum' (line 1–2)\nQ40 error: 'checking' read as 'examining/research' instead of 'halting/relieving'\n\nThese share a common fix. Which correctly names BOTH corrections?",
+      "options": [
+        "Both errors are paraphrasing failures — find better synonyms for the key words",
+        "Q39 fix: VERB-OBJECT LOCK — find the action verb (cutting/severing) and stay locked to its grammatical object (corpus callosum), ignoring other nouns. Q40 fix: CONTEXT FILTER — use surrounding clues (crippling, in the hope of, surgical context) to select the correct sense of an ambiguous word (checking = halting).",
+        "Both errors are targeting failures — you searched in the wrong paragraph",
+        "Q39 fix: read more carefully / Q40 fix: learn medical vocabulary"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q39 = Verb-Object Lock / Q40 = Context Filter for ambiguous words",
+      "explanation": "[Q39 — Verb-Object Lock]\nError: visual pull toward 'stem' (a vivid noun in line 10)\nFix: When question asks about a surgical ACTION → find the ACTION VERB → lock to its OBJECT\nVerb: 'cutting' → Object: 'corpus callosum' → do not drift to other nouns\n\n[Q40 — Context Filter]\nError: 'checking' read as 'examining' (common everyday meaning)\nFix: When a word has multiple meanings → filter using:\n  ① What is the subject? (crippling epilepsy = severe disease)\n  ② What is the framing? ('in the hope of' = therapeutic intent)\n  ③ What is the action type? (surgery = treatment, not research)\n  → All three point to: checking = halting/suppressing → relieving\n\n[Two distinct bugs]\nQ39: Coordinate error — correct verb, wrong object\nQ40: Semantic error — correct word spotted, wrong meaning selected\n\n[Shared principle]\nBoth require staying close to the passage's grammar and context\nQ39: grammar (verb-object pair)\nQ40: context (surrounding words filter meaning)\n\n[Quick application checklist]\nFor ACTION questions: verb → object → paraphrase object\nFor AMBIGUOUS WORD questions: check severity + framing + action type",
+      "action": "Meta Rule (Unit 160):\nQ39-type (what was done TO what): Verb → Object → paraphrase. Never let other nouns distract.\nQ40-type (what does this word mean here): Use severity + framing + action context to filter. Medical context + 'in the hope of' + surgery = halting, not examining."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
