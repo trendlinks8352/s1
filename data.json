@@ -873,5 +873,152 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u162_q10_targeting_what_impacted",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 162 — Q10 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q10 — Targeting: What did self-disclosure impact?]\n\nPassage (lines 23–26):\n\"...the private sphere has become a legitimate area for public scrutiny.\nSo any claim for <em>privacy</em> represents a refusal to accept the new etiquette...\"\n\nQ: The author claims the acceptability of self-disclosure has had an impact on ______.\n\nYour pick — B: <strong>our sense of personal worth</strong>\nCorrect — D: <strong>what should be allowed to remain private</strong>\n\nWhy is D the correct target and B a distractor?",
+      "options": [
+        "B is correct because the passage says public disclosure increases personal worth",
+        "D follows directly from the passage's closing argument: once self-disclosure is normalised, privacy itself becomes suspect — 'any claim for privacy represents a refusal'. B imports the word 'worth' from earlier positive language (affirmation, heroism) and misapplies it as the main impact.",
+        "D is wrong because the passage never defines what should remain private",
+        "B is correct because 'personal worth' is the central theme of therapy culture"
+      ],
+      "correctIdx": 1,
+      "answer": "② D follows the closing argument; B misreads positive language as the main impact",
+      "explanation": "[The passage's logical structure]\nOpening premise: erosion of boundary between public and private\nMid-passage: disclosure = virtue, heroism, affirmation ← these are MECHANISMS\nClosing argument (lines 23–26): private sphere → public scrutiny → privacy = refusal of etiquette\n\n[What the question asks]\n'Impact of the acceptability of self-disclosure'\n= what changes AS A RESULT of normalised disclosure\n= the concept of privacy is undermined\n= what should be allowed to remain private (Choice D)\n\n[Why B tempts]\nLines 16–20 contain: 'affirmation and support', 'heroism', positive framing\n→ These describe WHY people disclose, not WHAT IS IMPACTED\n→ 'Personal worth' is not stated as an impact in the passage\n→ Importing vocabulary from the wrong paragraph = targeting error\n\n[Anchoring test]\nCan you point a finger at a specific sentence that says disclosure impacts personal worth?\nNo → eliminate B\nCan you point at 'private sphere → public scrutiny → privacy = refusal'?\nYes (lines 23–26) → D is anchored ✓",
+      "action": "Action Rule (Q10): For 'impact of X' questions — go to the CONCLUSION of the argument, not the middle emotional language. The closing sentences carry the logical consequence. Affirmation/heroism = motivation, not impact."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u162_q10_paraphrase_privacy_drill",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 162 — Q10 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q10 — Paraphrase: Closing argument → Choice D]\n\nPassage (lines 23–26):\n\"...the private sphere has become a legitimate area for public scrutiny.\nSo any claim for <strong>privacy</strong> represents a refusal to accept the new etiquette...\"\n\nHow does this passage evidence map to Choice D?\n'what should be allowed to <strong>remain private</strong>'",
+      "options": [
+        "'private sphere → public scrutiny' means privacy has expanded and strengthened",
+        "'any claim for privacy = refusal of etiquette' means the concept of what deserves to stay private has been destabilised — the impact of normalised disclosure is on the very idea of privacy itself = 'what should be allowed to remain private'",
+        "Choice D is about legal rights to privacy, which is the passage's main topic",
+        "'Remain private' paraphrases 'public scrutiny' directly"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'privacy = refusal of etiquette' → the idea of remaining private is undermined = D",
+      "explanation": "[Paraphrase chain]\n'private sphere → legitimate area for public scrutiny'\n= things once private are now publicly examined\n\n'any claim for privacy = refusal of new etiquette'\n= asking to keep something private is now seen as socially unacceptable\n\n[Combined impact]\nThe concept of what SHOULD REMAIN PRIVATE has been redefined — and shrunk\n= 'what should be allowed to remain private' (Choice D)\n\n[Key paraphrase pairs]\nprivate sphere → what should remain private\nlegitimate area for public scrutiny → no longer allowed to remain private\nclaim for privacy = refusal → the concept is undermined\n\n[Why 'personal worth' (B) fails the anchor test]\nSearch the closing paragraph for 'worth', 'value', 'self-esteem'\n→ None found\n→ B is unsupported = eliminate",
+      "action": "Drill habit: 'private sphere → public scrutiny' + 'privacy = refusal' → the IMPACT is on the concept of privacy itself = what should remain private. Always anchor to the closing argument for 'impact' questions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u162_q13_targeting_invitation_infirmity",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 162 — Q13 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q13 — Targeting: Furedi's PERCEPTION, not just description]\n\nPassage (line 13):\n\"But this new narrative of illness does not simply frame the way people are expected to feel...\n— it is also an <em>invitation to infirmity</em>.\"\n\nQ: Frank Furedi perceives the naming of psychological illnesses as ______.\n\nYour pick — D: <strong>a means of labelling widespread emotional dysfunctions</strong>\nCorrect — A: <strong>an invitation to suffer from them</strong>\n\nWhy does the question demand Furedi's PERCEPTION, and why does that eliminate D?",
+      "options": [
+        "D is eliminated because labelling is not mentioned in the passage",
+        "The question asks what Furedi PERCEIVES — his subjective critical stance. D is a neutral, descriptive statement (labelling dysfunctions) that could appear in a textbook. A directly quotes Furedi's loaded metaphor 'invitation to infirmity' and paraphrases it exactly. D describes WHAT happens; A captures HOW Furedi judges it.",
+        "A is correct because Furedi supports the naming of psychological illnesses",
+        "D is eliminated because 'widespread' is an extreme qualifier not supported by the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = neutral description; A = Furedi's critical metaphor 'invitation to infirmity' paraphrased",
+      "explanation": "[The PERCEIVES signal]\n'Perceives' = asks for subjective viewpoint, not objective description\n→ The answer must reflect Furedi's CRITICAL ATTITUDE, not just facts\n\n[Furedi's exact language]\n'invitation to infirmity' = he is NOT neutrally describing the naming process\n= he is saying: naming disorders INVITES people to become ill\n= a critical, alarmed stance\n\n[Paraphrase chain → A]\n'invitation' → invitation (kept directly)\n'to infirmity' (병약함으로) → to suffer from them\ninfirmity = suffering from illness\n= 'invitation to suffer from them' (Choice A) ✓\n\n[Why D is a neutral trap]\nD: 'a means of labelling widespread emotional dysfunctions'\n= this is a factual description of what naming does\n= no evaluative language, no Furedi's critical stance\n= could describe the process neutrally — Furedi is NOT neutral\n\n[The targeting failure]\nYou found the right paragraph but missed the KEY SENTENCE\nThe anchor: 'invitation to infirmity' (line 13) — this single phrase IS the answer",
+      "action": "Action Rule (Q13): When a question asks 'perceives / regards / views' — the answer must carry the author's evaluative tone, not a neutral description. 'Invitation to infirmity' is Furedi's alarm signal. Paraphrase the metaphor, don't describe the process."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u162_q13_paraphrase_infirmity_suffer",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 162 — Q13 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q13 — Paraphrase: 'invitation to infirmity' → Choice A]\n\nPassage: '...it is also an <strong>invitation to infirmity</strong>.'\n\ninfirmity = physical or mental weakness / illness\n\nComplete the 1:1 paraphrase map:\n'invitation to infirmity'\n→ 'an invitation to ______ from them'\n\nWhich word fills the blank AND why does this make Choice A correct?",
+      "options": [
+        "benefit — because naming illnesses helps people understand their condition",
+        "suffer — 'infirmity' means weakness/illness → to be infirm = to suffer from illness → 'invitation to infirmity' = 'invitation to suffer from them'. This is a direct 1:1 paraphrase with no inference required.",
+        "recover — because naming illnesses is the first step toward treatment",
+        "label — because naming is a form of labelling"
+      ],
+      "correctIdx": 1,
+      "answer": "② suffer — infirmity = illness/weakness → to be infirm = to suffer",
+      "explanation": "[Vocabulary chain]\ninfirmity (noun) = the state of being infirm\ninfirm (adjective) = weak, ill, physically or mentally impaired\nto be infirm = to suffer from weakness/illness\n\n[Paraphrase]\n'invitation to infirmity'\n= an invitation to BECOME infirm\n= an invitation to SUFFER FROM illness\n= 'an invitation to suffer from them' (Choice A) ✓\n\n[Why this is NOT inference]\nThis is a vocabulary substitution, not reasoning:\ninfirmity → suffering from illness\nNo additional logic needed\n\n[Furedi's critical point decoded]\nHe argues: naming disorders (PTSD, ADHD, MPD)\n→ does not just describe people's feelings\n→ actively INVITES people to become ill\n→ creates illness by naming it\nThis is his core criticism of therapy culture's medicalisation",
+      "action": "Drill habit: infirmity = suffering from illness/weakness. 'Invitation to infirmity' = 'invitation to suffer from them'. When a question contains a difficult vocabulary word, decompose it: infirmity → infirm → weak/ill → suffering."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u162_q14_targeting_proposition_medication",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 162 — Q14 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q14 — Targeting: What PROPOSITION underlies medication use?]\n\nPassage (lines 14–16):\n\"Distress is thus not something to be lived through,\nbut a <em>condition that requires treatment</em>.\"\n\nQ: Furedi claims underlying the use of medication to treat emotional distress is the proposition that ______.\n\nYour pick — A: <strong>these treatments are effective</strong>\nCorrect — C: <strong>these conditions need intervention</strong>\n\nWhy is A importing background knowledge and C is anchored in the passage?",
+      "options": [
+        "A is correct because medication is only used when it has been proven effective",
+        "A introduces 'effective' — a word and concept absent from the passage. The passage only says distress 'requires treatment' (= needs intervention), not that treatment works. C directly paraphrases 'requires treatment' → 'need intervention'. A is your background knowledge, not Furedi's argument.",
+        "C is wrong because 'intervention' implies surgery, not medication",
+        "A is correct because Furedi implies medication is the most effective form of treatment"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = background knowledge (effective not in passage); C = 'requires treatment' → 'need intervention'",
+      "explanation": "[The word 'proposition' is the key signal]\nProposition = an underlying assumption, a premise\nQ: What assumption MUST be true for medication to be used?\nA: The condition requires treatment / intervention\n(If you didn't believe it needed treatment, you wouldn't medicate)\n\n[Paraphrase chain → C]\n'a condition that requires treatment'\n= these conditions NEED treatment\n= treatment = medical intervention\n= 'these conditions need intervention' (Choice C) ✓\n\nrequires → need\ntreatment → intervention\n\n[Why A is background knowledge]\n'These treatments are effective'\n→ Is 'effective' / 'efficacy' / 'works' anywhere in lines 14–16?\n→ No\n→ This is what YOU assume about medication from common sense\n→ Furedi does not make this claim — he makes no statement about whether treatment works\n\n[The background knowledge trap]\nCommon sense: if doctors use medication, it must be effective\nPassage says: distress = condition requiring treatment (a CATEGORY claim, not an efficacy claim)\nCategorising distress as a medical condition ≠ claiming treatment is effective",
+      "action": "Action Rule (Q14): 'Proposition' questions ask for the PREMISE, not the outcome. The premise of using medication = 'distress is a condition that requires treatment (intervention)'. Never introduce effectiveness/outcome language unless the passage states it explicitly."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u162_q14_paraphrase_treatment_intervention",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 162 — Q14 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q14 — Paraphrase: 'requires treatment' → 'need intervention']\n\nPassage: 'Distress is...a <strong>condition that requires treatment</strong>.'\n\nChoice C: 'these conditions need <strong>intervention</strong>.'\n\nWhich statement BEST explains why this is a valid paraphrase?",
+      "options": [
+        "Both sentences use the word 'condition' so they must mean the same thing",
+        "'requires' → 'need' (same obligation meaning) AND 'treatment' → 'intervention' (medical action applied to a problem). Both pairs are direct synonyms in a medical context. The paraphrase changes only the words, not the meaning.",
+        "Intervention is a stronger word than treatment, so C overstates the passage",
+        "The paraphrase is only valid if the passage specifies which type of treatment"
+      ],
+      "correctIdx": 1,
+      "answer": "② requires→need AND treatment→intervention — both are direct synonym substitutions",
+      "explanation": "[Two-part paraphrase map]\nrequires → need\n  requires = needs, demands, calls for\n  → 'need' = exact synonym in this context ✓\n\ntreatment → intervention\n  treatment = medical action applied to a condition\n  intervention = action taken to change/address a situation (medical sense: clinical intervention)\n  → in medical context: treatment = intervention ✓\n\n[Combined]\n'a condition that requires treatment'\n= 'these conditions need intervention'\nWord-for-word swap, meaning preserved ✓\n\n[Why A (effective) fails the paraphrase test]\n'Effective' = working, producing the desired result\nThe passage says the condition NEEDS treatment — not that the treatment WORKS\nNeeding treatment ≠ treatment being effective\nThis is a logical leap, not a paraphrase\n\n[Vocabulary to drill]\nrequires = needs\ntreatment (의학적 처치) = intervention (개입, 처치)\nlived through (겪어내다) ≠ treated/intervened upon",
+      "action": "Drill habit: requires → need / treatment → intervention. These are the two core synonym swaps in Q14. When you see 'proposition' or 'underlying assumption' — find the passage's PREMISE sentence and paraphrase its key nouns and verbs."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u162_meta_background_knowledge_trap",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 162 — Meta: Background Knowledge Trap",
+    "quiz": {
+      "question": "[Unit 162 — Meta Pattern: Background Knowledge vs Passage Anchor]\n\nAll three errors (Q10, Q13, Q14) share the same root cause.\nWhich habit would have prevented all three?\n\n• Q10: chose B (personal worth) — imported from mid-passage positive language\n• Q13: chose D (labelling dysfunctions) — neutral description, missed the metaphor\n• Q14: chose A (treatments effective) — common sense about medication",
+      "options": [
+        "Read the passage more slowly and carefully from beginning to end",
+        "For every answer chosen, point a finger at the EXACT sentence in the passage that supports it. If you cannot find a specific sentence — eliminate the choice. Q10: no sentence says 'personal worth is impacted'. Q13: D describes facts, not Furedi's metaphor. Q14: no sentence says 'effective'.",
+        "Focus on understanding the author's overall tone before answering any questions",
+        "Eliminate the most extreme-sounding choices first to narrow down options"
+      ],
+      "correctIdx": 1,
+      "answer": "② Finger-pointing test — no specific sentence anchor = eliminate",
+      "explanation": "[The finger-pointing test applied to all 3 errors]\n\nQ10 — Choice B: 'our sense of personal worth'\n→ Point finger at sentence that says disclosure impacts personal worth\n→ Cannot find one → eliminate B ✗\n→ Point finger at lines 23–26: 'private sphere → public scrutiny → privacy = refusal'\n→ Found → D is anchored ✓\n\nQ13 — Choice D: 'labelling widespread emotional dysfunctions'\n→ Point finger at sentence where Furedi criticises naming as LABELLING\n→ Cannot find one (he uses 'invitation to infirmity', not 'labelling')\n→ Eliminate D ✗\n→ Point finger at line 13: 'invitation to infirmity'\n→ Found → A is anchored ✓\n\nQ14 — Choice A: 'treatments are effective'\n→ Point finger at sentence that says medication is effective\n→ Cannot find one → eliminate A ✗\n→ Point finger at lines 14–16: 'requires treatment'\n→ Found → C is anchored ✓\n\n[Furedi's overall tone — useful filter]\nFuredi is CRITICAL and SCEPTICAL of therapy culture\n→ Positive/neutral choices (B, D, A) are automatically suspicious\n→ Use tone as a secondary filter, not the primary decision",
+      "action": "Meta Rule (Unit 162): The finger-pointing test — before finalising any answer, ask: 'Can I point to the specific sentence?' No sentence = no answer. This single habit eliminates all three Unit 162 errors and most GAMSAT S1 targeting mistakes."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
