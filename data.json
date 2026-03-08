@@ -1776,5 +1776,103 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u156_q36_paraphrase_fabricated_history",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 156 — Q36 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q36 — Paraphrase: Why didn't the teacher teach about 'holiness'?]\n\nPassage (line 41):\n\"Conquerors, my son, consider as true history only what they have themselves <em>fabricated</em>.\"\n\nQ: The teacher did not teach his pupils about the 'holiness' because he believes that ______.\n\nYour pick — B: <strong>children need to be shielded from the debate that accompanies war</strong>\nCorrect — D: <strong>politically true history is that of the conquerors</strong>\n\nWhy is B an unsupported inference and D a direct paraphrase?",
+      "options": [
+        "B is partially correct because teachers protect students from difficult truths",
+        "B invents a protective motive for the teacher — no passage support for 'shielding children'. D directly paraphrases line 41: conquerors fabricate their own version = politically true history = that of the conquerors. The teacher didn't teach it because it contradicts the conquerors' fabricated version — not because children need protecting.",
+        "D is wrong because the teacher explicitly says he wants to teach the truth",
+        "B is correct because the teacher says 'But why didn't you teach us' implies he was hiding things"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = invented protective motive / D paraphrases 'fabricated' = politically true history = conquerors' version",
+      "explanation": "[Paraphrase chain → D]\n'Conquerors consider as true history only what they have fabricated'\n= the version of history that counts as 'true' = the conquerors' version\n= 'politically true history is that of the conquerors' (D) ✓\n\nfabricated → politically constructed/controlled\nconquerors consider it true → politically true history = theirs\n\n[Why B fails the finger-pointing test]\nB requires: passage says teacher withholds to protect children from debate\nSearch: any mention of protecting children, shielding, debate?\nNone found → B is pure invention of motive\n\n[The teacher's actual logic]\nHe didn't teach it BECAUSE:\n→ the 'holiness' narrative belongs to the conquerors' fabricated history\n→ teaching it would mean teaching the occupiers' version as truth\n→ conquerors only accept their own fabrications as real history\n= D: politically true history = conquerors' history ✓\n\n[Key vocabulary]\nfabricated (꾸며낸, 조작된) = invented, constructed\nconquerors = those who conquered = the victors who write history\npolitically true = accepted as official truth by those in power",
+      "action": "Action Rule (Q36): The question asks WHY he didn't teach it. Answer must be anchored in the teacher's stated reasoning. Line 41 gives his explicit belief: conquerors fabricate history → their version = politically true. B invents a motive not in the text. Always anchor to the teacher's direct statement."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u156_q36_paraphrase_drill_fabricated",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 156 — Q36 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q36 — Paraphrase Drill]\n\nPassage (line 41):\n'Conquerors consider as true history only what they have themselves <em>fabricated</em>.'\n\nComplete → Choice D:\n① fabricated = politically ________ or controlled version\n② conquerors consider it true = ________ true history = theirs\n③ Combined: politically true history is that of the ________\n\n(Tap to check)",
+      "answer": "① constructed/invented  ② politically  ③ conquerors",
+      "explanation": "[Paraphrase map]\nfabricated = invented, manufactured, constructed\n= a version created by those in power to serve their narrative\n= politically constructed history\n\nconquerors consider it true\n= they declare their fabricated version to be THE truth\n= politically true = officially accepted as true\n\ncombined → D: 'politically true history is that of the conquerors'\n\n[Why this is the teacher's core belief]\nThe teacher has been recounting real history (massacres, sieges, liberation)\nBut this history contradicts the conquerors' narrative\nConquerors only accept what THEY fabricated\n= the teacher's real history will never be 'politically true'\n= this is why he didn't teach it — it doesn't count as history to those in power",
+      "action": "Drill habit: fabricated → politically constructed / conquerors' version = politically true history. This is the teacher's cynical conclusion about whose history counts as 'real' in political terms."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u156_q37_paraphrase_returning_citizens",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 156 — Q37 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q37 — Paraphrase: What does the teacher's response reveal about his view of Israelis?]\n\nPassage (lines 18–20):\n\"God forbid, my son. No. That is derived from the word for a leader of a thousand men,\na term used in the <em>Bible</em>. Oh, no! These aren't Mamluks or Crusaders.\n<em>These are people returning to their country after an absence of two thousand years.</em>\"\n\nQ: The teacher's response shows that he regards ______.\n\nYour pick — B: <strong>all but the Arabs as usurpers of his country</strong>\nCorrect — C: <strong>Israelis as rightful citizens of the Holy Land</strong>\n\nWhy does B contradict the specific tone of this passage section?",
+      "options": [
+        "B is correct because the teacher generally opposes all conquerors throughout the passage",
+        "B applies the teacher's general anti-conqueror sentiment to THIS specific moment, but lines 18–20 explicitly distinguish Israelis from Mamluks/Crusaders: 'These are people RETURNING TO THEIR COUNTRY' — returning implies rightful ownership. In THIS response, the teacher acknowledges their Biblical claim and 2000-year absence. C correctly captures this specific acknowledgement.",
+        "C is wrong because the teacher never explicitly uses the word 'rightful'",
+        "B is correct because 'God forbid' shows the teacher is horrified by Israeli claims"
+      ],
+      "correctIdx": 1,
+      "answer": "② B overgeneralises teacher's tone / C anchored in 'returning to their country' = rightful citizens",
+      "explanation": "[The specific distinction in lines 18–20]\nThe teacher explicitly separates:\nMamluks and Crusaders = foreign conquerors, invaders\nIsraelis = 'people returning to THEIR country' ← possessive = ownership\n\n[Paraphrase chain → C]\n'returning to their country' = going back to what is theirs\n= implies the country belongs to them\n= they have a legitimate claim = rightful citizens ✓\n\n[Why B fails this specific section]\nB: 'all but Arabs as usurpers'\n= everyone except Arabs are illegitimate\n= but the teacher in THIS section says Israelis are NOT like Crusaders\n= they have a Biblical basis and 2000-year connection\n= the teacher is NOT calling them usurpers here\n\n[Context matters — the teacher's nuance]\nGeneral tone: critical of conquerers and fabricated history\nThis specific moment: acknowledges Israelis' historical/Biblical claim\n= 'returning to their country' = a different category from Crusaders\n\n[The 'God forbid' signal]\n'God forbid, my son. No.' = teacher denies the Alluf-Qalawun connection\n= he is correcting Saeed's assumption, not expressing horror at Israeli claims\n= he goes on to explain their legitimate biblical origins",
+      "action": "Action Rule (Q37): Don't apply a character's GENERAL attitude to a SPECIFIC response that contradicts it. The teacher is generally critical of conquerors, BUT in lines 18–20 specifically distinguishes Israelis as 'returning to their country'. The answer must reflect THIS specific statement, not the overall tone."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u156_q38_targeting_haifa_lost_history",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 156 — Q38 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q38 — Targeting: Which place most lost its history?]\n\nPassage (lines 35–36):\n\"So Haifa, you see my boy, is not a new city.\nThe point is that after every massacre there was\n<em>no one left to tell the new generation about their origins</em>.\"\n\nQ: According to the teacher, which place most lost its history during the crusades?\n\nYour pick — A: <strong>Acre</strong>\nCorrect — B: <strong>Haifa</strong>\n\nWhat specifically about Haifa makes it the answer, and not Acre?",
+      "options": [
+        "Acre is wrong because it was never conquered by the Crusaders",
+        "Acre was sieged and conquered, but the passage describes its history in detail — it was liberated, besieged again, and eventually freed. Haifa is different: 'no one left to tell the new generation about their origins' = the mechanism of history loss. Complete extermination of inhabitants = no oral transmission of history = history itself is lost. Acre's history was recorded; Haifa's was erased at the human level.",
+        "B is correct because Haifa is Saeed's city and therefore most important to the teacher",
+        "A is correct because Acre had the largest massacre with 2,600 hostages executed"
+      ],
+      "correctIdx": 1,
+      "answer": "② Haifa = 'no one left to tell origins' = history erased at human transmission level / Acre's history was documented",
+      "explanation": "[The key distinction: recorded history vs lost history]\nAcre:\n= conquered, massacred, besieged, liberated\n= the teacher KNOWS all this history in detail\n= it was brutal, but the history was PRESERVED and transmitted\n= Acre's history was NOT lost — the teacher just taught it\n\nHaifa:\n= 'no one left to tell the new generation about their origins'\n= complete extermination meant NO survivors to pass on the story\n= the mechanism of history loss: when everyone is killed, memory dies with them\n= history was ERASED because its human carriers were eliminated\n\n[Paraphrase chain → B]\n'most lost its history'\n= history transmission was completely broken\n= 'no one left to tell' = total loss of historical memory\n= Haifa ✓\n\n[Why A (Acre) is the targeting error]\nYou found evidence of violence at Acre (lines 4–14: siege, massacre, hostages)\n= lots of dramatic detail about Acre → easy target\nBut the question asks about LOSING HISTORY, not about suffering violence\nAcre suffered violence but its history survived\nHaifa suffered violence AND lost its history\n\n[The targeting discipline]\nQuestion keyword: 'most LOST ITS HISTORY'\nNot: most suffered / most was attacked / most was conquered\n= find the place where historical MEMORY was broken\n= lines 35–36: Haifa = no survivors to transmit origins = B",
+      "action": "Action Rule (Q38): The question asks about LOSING HISTORY, not about suffering. Distinguish: violence (Acre had more documented violence) vs historical erasure (Haifa — no survivors = no transmission). Target the phrase 'no one left to tell their origins' — this is the definition of losing history."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u156_meta_overgeneralisation_specific_targeting",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 156 — Meta: Over-generalisation + Specific Targeting",
+    "quiz": {
+      "question": "[Unit 156 — Meta Pattern]\n\nQ36 error: chose B (protecting children) — invented motive not in passage\nQ37 error: chose B (all non-Arabs = usurpers) — applied general tone to specific moment that contradicts it\nQ38 error: chose A (Acre) — found violence evidence but missed the 'lost history' keyword\n\nAll three share which root cause?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar words caused misreading",
+        "All three failed to anchor to the SPECIFIC evidence the question requires: Q36 = line 41 (fabricated), not invented motive. Q37 = lines 18–20 (returning to their country), not the teacher's general stance. Q38 = lines 35–36 (no one left to tell origins), not the most-violence evidence.",
+        "All three are tone errors — the teacher's sarcasm was misread",
+        "All three are Too Extreme errors — the correct answers were more moderate"
+      ],
+      "correctIdx": 1,
+      "answer": "② All three failed to anchor to the SPECIFIC evidence the question requires",
+      "explanation": "[Q36 — Wrong anchor]\nUsed: general impression of teacher's protective attitude\nNeeded: line 41 specific statement about fabricated history\nFix: 'WHY didn't he teach it?' → find the teacher's explicit reason → line 41\n\n[Q37 — Wrong anchor (over-generalisation)]\nUsed: teacher's general anti-conqueror stance throughout passage\nNeeded: lines 18–20 specific statement: 'returning to THEIR country'\nFix: This specific response distinguishes Israelis from Crusaders — the answer must reflect THIS moment, not the general tone\n\n[Q38 — Wrong anchor (wrong keyword)]\nUsed: evidence of violence/siege at Acre (most dramatic)\nNeeded: lines 35–36 'no one left to tell origins' = loss of historical memory\nFix: Question keyword = 'lost its HISTORY' → anchor to the mechanism of history loss, not the mechanism of violence\n\n[The shared discipline]\nEach question specifies a PRECISE claim or quality\nThe correct answer anchors to the passage evidence that matches THAT precise claim\nGeneral impressions, over-generalised tone, or most-vivid evidence = wrong anchor\n\n[Three-question anchor checklist]\nQ36: 'Why didn't he teach it?' → teacher's stated belief (line 41)\nQ37: 'This response shows...' → what THIS specific response says (lines 18–20)\nQ38: 'Most lost its HISTORY' → where history transmission broke down (lines 35–36)",
+      "action": "Meta Rule (Unit 156): Each question points to a SPECIFIC claim — anchor precisely. Q36 = fabricated (line 41). Q37 = returning to their country (lines 18–20). Q38 = no one left to tell origins (lines 35–36). General tone or most-dramatic evidence = wrong anchor when a specific passage claim is available."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
