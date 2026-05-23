@@ -6263,5 +6263,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u78_q43_paraphrase_policies_not_animosity",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 78 — Q43 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q43 — Paraphrase: The MAIN REASON Labour slowed down their press responses]\n\nPassage (lines 15–20):\n'In opposition we had become LIGHTNING FAST in our response.\nBut we had no experience of government press work...\nIn government, such HASTE GOT US INTO TROUBLE.\n...and acceptance that <em>POLICIES are what matters over the long term</em>.'\n\nQ: The main reason for this change was ______.\n\nYour pick — B: <strong>a change to Labour party perception of media animosity</strong>\nCorrect — A: <strong>the need to develop and adhere to policies</strong>\n\nHow does 'policies are what matters long-term' map to A, and why does B have no passage anchor?",
+      "options": [
+        "B is correct because Labour's hostility with the press drove them to change their approach",
+        "'Haste got us into trouble' → they needed to slow down. 'Policies are what matters over the long term' = the positive reason for slowing down = to focus on policies. A: 'need to develop and adhere to policies' = direct paraphrase. B: 'media animosity' = hostile press is mentioned as background context, but there is NO passage sentence saying Labour's PERCEPTION OF media animosity CHANGED causing the slow-down. B imports an unsupported causal link.",
+        "A is wrong because 'adhere to policies' implies stubbornness not strategic communication",
+        "B is correct because 'haste got us into trouble' shows media hostility was causing problems"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Policies are what matters long-term' = A (develop and adhere to policies) = direct passage anchor / B = 'media animosity perception changed' = no passage anchor for this causal link",
+      "explanation": "[Why they slowed down — two passage signals]\n1. 'Such HASTE got us into TROUBLE'\n= speed caused problems = needed to slow down\n\n2. 'acceptance that POLICIES are what matters over the long term'\n= the positive reason = focus should be on POLICIES, not quick press responses\n\n[Paraphrase chain → A]\n'policies are what matters'\n→ 'need to DEVELOP AND ADHERE TO POLICIES' ✓\n\n[Why B fails]\nB: 'change to Labour party PERCEPTION OF MEDIA ANIMOSITY'\n= requires: Labour's view OF media hostility changed → caused slow-down\n= passage: hostile press IS mentioned (line 5–10)\n= BUT no passage line says their PERCEPTION OF animosity CHANGED\n= no causal link: changed perception → slower response\n= B invents a causal mechanism not in the passage ✗\n\n[The cause structure]\nProblem: haste caused trouble\nSolution/cause of change: realisation that policies matter long-term\n= A captures the positive motivation = direct passage anchor ✓",
+      "action": "Action Rule (Q43): 'Main reason' = find the passage's stated reason. 'Policies are what matters long-term' = why they slowed down = A. B = 'changed perception of animosity' = no passage anchor for this causal link. Media hostility = background, not the cause of the change."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u78_q44_paraphrase_direct_pm_communication",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 78 — Q44 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q44 — Paraphrase: Factors mentioned as making spin doctoring less important]\n\nPassage (lines 19–21):\n'There are fewer selective briefings, more considered responses,\nfewer relaunches, <em>much more DIRECT COMMUNICATION FROM THE PM</em>,\nand acceptance that policies are what matters over the long term.'\n\nQ: The factors mentioned include ______.\n\nYour pick — C: <strong>a lowered perception of the efficacy of spin</strong>\nCorrect — B: <strong>frequent media contact by Tony Blair</strong>\n\nHow does 'direct communication from the PM' = 'frequent media contact by Tony Blair'?",
+      "options": [
+        "C is correct because the passage says spin was exaggerated from the start, implying its perceived efficacy fell",
+        "'Much more direct communication FROM THE PM' = the Prime Minister (Tony Blair) directly communicating = FREQUENT MEDIA CONTACT BY TONY BLAIR. B = direct paraphrase: PM = Tony Blair / direct communication = media contact / much more = frequent. C: 'lowered perception of efficacy of spin' = this describes the beginning of the article (line 1-3: spin was exaggerated from the start). The question asks about changes at SIX YEARS into Labour's term. C conflates the article's initial claim about spin being exaggerated all along with a NEW change at year 6.",
+        "B is wrong because 'direct communication' doesn't necessarily mean increased frequency",
+        "C is correct because Allan says spin was never as effective as people thought, implying its perceived efficacy lowered"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Much more direct communication from PM' = B (Tony Blair directly communicating with media) / C = conflates 'spin was always exaggerated' (line 1) with a NEW change at year 6 = wrong time reference",
+      "explanation": "[Paraphrase chain → B]\n'much more DIRECT COMMUNICATION from THE PM'\n= the PM (Prime Minister) = Tony Blair\n= direct communication = he speaks to media himself\n= much more = FREQUENTLY\n= FREQUENT MEDIA CONTACT BY TONY BLAIR ✓\n\n[Why C fails: temporal conflation]\nC: 'a LOWERED PERCEPTION of the efficacy of spin'\n= implies: at year 6, people's view of spin CHANGED DOWNWARD\n\nBut the article's structure:\nLines 1–3: spin 'has been vastly exaggerated' = always was exaggerated (past perfect)\n= from the BEGINNING spin was overrated\n\nQuestion: asks about changes at SIX YEARS in office\n= C's 'lowered perception' describes the initial claim (line 1)\n= NOT a new change at year 6\n\n[The time-anchor error]\nC takes the article's OPENING general claim about spin (always exaggerated)\nand misapplies it as a NEW DEVELOPMENT at year 6 = temporal conflation ✗\n\n[B = direct passage anchor for year 6 changes]\n'much more direct communication from the PM' = explicitly listed as a year-6 change\n= B ✓",
+      "action": "Action Rule (Q44): 'Much more direct communication from PM' = B (Tony Blair contacts media directly/frequently). C = 'lowered perception of efficacy' = conflates the article's opening claim (spin always exaggerated) with a new year-6 change. Time-anchor: always verify what period the question targets."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u78_meta_causal_anchor_time_anchor",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 78 — Meta: Causal Anchor + Time Anchor",
+    "quiz": {
+      "question": "[Unit 78 — Meta Pattern]\n\nQ43: chose B (media animosity perception changed) — no passage anchor for this causal mechanism\nQ44: chose C (lowered perception of spin efficacy) — conflated opening claim with year-6 change\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar political terms",
+        "Tool 1 = CAUSAL ANCHOR (Q43): for 'main reason' questions, find the passage's STATED causal mechanism. 'Policies are what matters long-term' = explicit reason = A. B = 'changed perception of animosity' = background context, not a stated cause. Every element of a causal claim must have a passage anchor. Tool 2 = TIME ANCHOR (Q44): identify which TIME PERIOD the question targets. Q44 = 'six years into Labour's term' = specific year-6 changes. C = 'lowered spin efficacy perception' = from the article's opening (line 1) = always-true claim, NOT a new year-6 development. B = explicitly listed as a year-6 change.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Causal anchor (Q43: main reason = explicit passage cause) + time anchor (Q44: year-6 changes ≠ article's general opening claim)",
+      "explanation": "[Tool 1: Causal anchor (Q43)]\nFor 'main reason' questions:\n= find the explicit causal statement in the passage\n= 'policies are what matters long-term' = explicit stated reason ✓\n\nB's problem:\n= 'media animosity perception changed' = causal claim\n= but WHERE in the passage does it say their perception of animosity changed?\n= nowhere → no causal anchor → B ✗\n\nFix: every word in a causal answer must trace back to a passage line\n\n[Tool 2: Time anchor (Q44)]\nQuestion: 'six years into Labour's term'\n= targets: what is NEW or DIFFERENT at year 6\n\nC: 'lowered perception of spin efficacy'\n= comes from lines 1–3: 'spin has BEEN vastly exaggerated'\n= present perfect = always was exaggerated, from the beginning\n= NOT a new year-6 change\n\nB: 'much more direct communication from PM'\n= explicitly listed in the paragraph about year-6 changes\n= B = correctly anchored to year 6 ✓\n\nFix: when a question specifies a time period, only accept answers about NEW DEVELOPMENTS in that period",
+      "action": "Meta Rule (Unit 78):\nCausal anchor: 'main reason' = find the passage's explicit causal statement. Reject reasons without passage anchor.\nTime anchor: questions specifying a period = only accept changes NEW to that period. Opening-claim content ≠ new developments."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
