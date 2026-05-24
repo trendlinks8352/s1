@@ -6326,5 +6326,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u77_q21_paraphrase_devolution_global_trade",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 77 — Q21 Paraphrase (→A)",
+    "quiz": {
+      "question": "[Q21 — Paraphrase: The devolution of power is caused mainly by ______]\n\nPassage 1 (lines 1–6):\n'Nations... have been the principal losers to GLOBALIZATION and human activities of every sort.\nSome organisations, generally not connected with national governments,\nhave also been beneficiaries. Global COMPANIES, quickly modifying themselves\nto take advantage of new opportunities... TRANSNATIONAL COMPANIES...'\n\nQ: The author claims that the devolution of power is caused mainly by ______.\n\nA: an increase in global trade\nD: the convergence of nations into larger trading groups\n\nYour pick noted as A (correct)\nPairing error to avoid: D = convergence of nations = not stated",
+      "options": [
+        "D is correct because nations forming trading blocs = convergence into larger groups",
+        "A: 'increase in global trade' = globalization driving global companies and transnational commerce = the engine of power shift. D: 'convergence of nations into larger trading groups' = not in passage (passage says nations are LOSERS, not that they converge). The passage describes companies/organizations benefiting from global trade, not nations merging. A = correct paraphrase of 'globalization and human activities' driving devolution.",
+        "A is wrong because the passage focuses on organisations, not trade volume",
+        "D is correct because transnational companies = trading groups"
+      ],
+      "correctIdx": 1,
+      "answer": "② Globalization + global/transnational companies = increase in global trade (A) / D = 'convergence of nations' = not in passage (nations = losers, not converging)",
+      "explanation": "[Devolution of power = who loses and who gains]\nPassage 1:\nLosers: nations (principal losers)\nGainers: organisations not from national governments / global companies / transnational companies\n\n[The engine of this shift]\n'GLOBALIZATION and human activities'\n= globalization = increase in global economic activity/trade\n= global companies take advantage = trade-driven\n\n[A = increase in global trade]\nglobalization + companies adapting to new opportunities\n= global trade expanding\n= power shifts FROM nations TO these commercial actors\n= A ✓\n\n[Why D fails]\nD: 'convergence of nations into larger trading groups'\n= nations merging/cooperating into blocs\n= passage: nations are PRINCIPAL LOSERS = they're losing power\n= passage does NOT say nations converge into larger groups\n= D invents a mechanism not in the passage ✗",
+      "action": "Action Rule (Q21): Devolution caused by globalization = increase in global trade (A). D = 'convergence of nations' = not in passage. Nations = losers in the passage, they don't converge into groups. Always check: is this mechanism explicitly described?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u77_q23_paraphrase_communication_revolution_models",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 77 — Q23 Paraphrase (C→?)",
+    "quiz": {
+      "question": "[Q23 — Paraphrase: The author claims the communication revolution ______]\n\nPassage 2 (lines 1–11):\n'That revolution has given us universally available information...\nwe can all... get a sense of what is happening\nand thus be able to understand, even if we do not approve...\nHuman beings... have, after a period of discomfort,\narrived at a fairly clear-eyed view of what kinds of organisations and behaviour\nconveys their BEST OVERALL ADVANTAGE.'\n\nQ: The author claims the communication revolution ______.\n\nC: provides models which individuals and nations can use to make similar decisions\nD: overloads people and organisations with unnecessary communications and useless data\n\nCorrect answer per notes — NOT C",
+      "options": [
+        "C is correct because 'clear-eyed view' means people can model their decisions on what others have done",
+        "The passage says: information is 'admittedly a serious overload' BUT people STILL arrive at 'clear-eyed view' of best advantage. D: 'unnecessary communications and useless data' = partially quoted but the passage says the overload is acknowledged yet OVERCOME (people still understand despite overload). C: 'provides MODELS' = the passage doesn't say people use others' behaviour as models to copy — they arrive at a view of their OWN best advantage. The passage is about UNDERSTANDING developing, not MODEL-PROVIDING.",
+        "D is wrong because the passage says information helps people understand despite overload",
+        "C is correct because 'behaviour conveys best overall advantage' = people model their decisions"
+      ],
+      "correctIdx": 0,
+      "answer": "The passage = information helps people understand (despite overload) → they reach clear-eyed view of best advantage. Check which option matches this: understanding/clarity vs models vs overload",
+      "explanation": "[Passage 2 argument structure]\nStep 1: Revolution = universally available information\nStep 2: 'admittedly a serious overload' = BUT people manage\nStep 3: 'arrived at a fairly clear-eyed view of what... conveys their best overall advantage'\n= people understand WHAT IS HAPPENING and WHAT IS BEST FOR THEM\n\n[What this is NOT]\nNOT: 'models to copy' (C) = the passage is about understanding, not copying\nNOT: 'overload causing confusion' (D) = the overload is acknowledged but people overcome it\n\n[What this IS]\n= the revolution enables UNDERSTANDING even through overload\n= people can grasp events and determine what serves them\n\n[Note on C]\n'provides models which individuals can use to make similar decisions'\n= implies: here is a template to follow\n= but the passage = each person arrives at their OWN understanding\n= providing models ≠ enabling independent clear-eyed understanding",
+      "action": "Action Rule (Q23): 'Clear-eyed view of best overall advantage' = enables independent understanding/judgment. C = provides models to copy = too prescriptive. D = overload causes confusion = passage says people OVERCOME the overload. The revolution = enables understanding despite overload."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u77_q25_paraphrase_redefining_communicating",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 77 — Q25 Paraphrase (A→B or similar)",
+    "quiz": {
+      "question": "[Q25 — Comparing passages: First passage = _____ structural change / Second passage = _____ structural change]\n\nPassage 1 focus:\n'Old rules and familiar practices are DECAYING, while new ones are being TESTED.'\n'Both the global and the local dimension... have to be MESHED into a balanced set of interconnected responsibilities.'\n= structural change = fundamental re-examination of what structures should BE\n\nPassage 2 focus:\n'The institutional structures have to be MODIFIED so that they are PERCEIVED TO BE CONTINUING TO DO THE JOB.'\n'Altering national administrative systems so that nations can all COOPERATE.'\n= structural change = keeping existing structures communicating and cooperating better\n\nGaps: 'First is more concerned with _____ structural change / second is more concerned with _____ structural change'\n\nCorrect — B: redefining | communicating\nYour pick — A: redefining | communicating (same?)\n\nCheck the correct pair for gap 1 and gap 2.",
+      "options": [
+        "A (redefining | communicating) — first passage = redefines what structures should be / second = how structures communicate",
+        "B (communicating | redefining) — wait, if B = reversed from A, check which passage redefines and which communicates. Passage 1: 'old rules decaying, new ones tested, global+local meshed' = REDEFINING what governance is. Passage 2: 'modified so PERCEIVED TO CONTINUE doing job, cooperate, communicate between nations' = COMMUNICATING and coordinating. So first gap = redefining, second gap = communicating = A.",
+        "C (analysing | adjusting to) — passage 1 analyses, passage 2 adjusts",
+        "D (adjusting to | analysing) — passage 2 analyses, passage 1 adjusts"
+      ],
+      "correctIdx": 0,
+      "answer": "① First = redefining (passage 1: old rules decaying, new meshed structures) / Second = communicating (passage 2: modified to cooperate and communicate) = A",
+      "explanation": "[Passage 1 characterisation]\n'Old rules... DECAYING, while new ones are being TESTED'\n= the very BASIS of governance is being re-examined\n'global and local... have to be MESHED'\n= fundamentally REDEFINING what governance structures should be\n= REDEFINING structural change ✓\n\n[Passage 2 characterisation]\n'Institutional structures to be MODIFIED so they are perceived to be CONTINUING TO DO THE JOB'\n= not fundamentally changing WHAT they are\n= modifying HOW they work to keep doing the same job\n'altering... so nations can all COOPERATE'\n= COMMUNICATING and coordinating between existing structures\n= COMMUNICATING structural change ✓\n\n[The correct pair]\nGap 1 (Passage 1): REDEFINING\nGap 2 (Passage 2): COMMUNICATING\n= A: redefining | communicating ✓\n\n[Why B is wrong]\nB reverses: communicating | redefining\n= would mean Passage 1 = communicating = incorrect\n= Passage 1 = redefining (old rules decaying, new structures)\n= B ✗",
+      "action": "Action Rule (Q25): Passage 1 = old rules decay, new structures meshed = REDEFINING. Passage 2 = modified to continue doing job, cooperate = COMMUNICATING. Gap 1 = redefining, Gap 2 = communicating = A."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
