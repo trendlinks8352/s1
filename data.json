@@ -6389,5 +6389,26 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u76_q15_targeting_reciprocity_repayment",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 76 — Q15 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q15 — Targeting: Within BOTH quotes, Confucius is distinguishing between ______]\n\nQuote 1: 'Repay hostility with uprightness and repay kindness with kindness'\n= a specific rule for how to RESPOND to what others have done\n= REPAYMENT: reactive, case-by-case correspondence\n\nQuote 2: 'Reciprocity perhaps? Do not inflict on others what you yourself would not wish done to you.'\n= a universal principle: consider the other's position before acting\n= RECIPROCITY: proactive, universal moral principle\n\nQ: Within these quotes, Confucius is distinguishing between ______.\n\nYour pick — B: <strong>hostility and repayment</strong>\nCorrect — D: <strong>reciprocity and repayment</strong>\n\nWhy does B = stuck in quote 1, while D = spans both quotes?",
+      "options": [
+        "B is correct because Confucius specifically addresses how to repay hostility in the first quote",
+        "B: 'hostility and repayment' = both concepts from QUOTE 1 ONLY. The question asks: 'within THESE QUOTES' = both quotes together. Quote 2 introduces RECIPROCITY as the supreme lifelong principle. The distinction Confucius draws ACROSS both quotes = REPAYMENT (quote 1: reactive correspondence) vs RECIPROCITY (quote 2: proactive universal principle). D: 'reciprocity and repayment' = spans both quotes ✓",
+        "D is wrong because reciprocity and repayment are similar concepts in Confucian thought",
+        "B is correct because the first quote is where Confucius makes the main distinction"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = both concepts from quote 1 only (trapped in first quote) / D = quote 1 (repayment) + quote 2 (reciprocity) = spans both = the full distinction",
+      "explanation": "[Quote 1 decoded]\n'Repay hostility with uprightness / repay kindness with kindness'\n= a RULE for responding to what was done TO you\n= reactive: something happened → you respond proportionally\n= REPAYMENT: reactive, case-by-case correspondence\n\n[Quote 2 decoded]\n'Reciprocity perhaps?'\n'Do not inflict on others what you yourself would not wish done'\n= a PRINCIPLE for how to act toward others generally\n= proactive: consider others' perspective before acting\n= RECIPROCITY: universal moral principle, not just reaction\n\n[The distinction ACROSS both quotes]\nRepayment (quote 1) = reactive response to specific actions\nReciprocity (quote 2) = proactive universal principle for all relations\n= D: 'reciprocity and repayment' = the full distinction ✓\n\n[Why B fails]\nB: 'hostility and repayment'\n= hostility = from quote 1 (what you might face)\n= repayment = from quote 1 (how to respond)\n= BOTH from quote 1 only\n= misses quote 2's contribution (reciprocity)\n\n[The 'within these quotes' instruction]\n= plural 'quotes' = must account for BOTH\n= any answer covering only one quote = fails the scope instruction",
+      "action": "Action Rule (Q15): 'Within these QUOTES' (plural) = must span BOTH quotes. B = both concepts from quote 1 only = trapped. D = repayment (quote 1) + reciprocity (quote 2) = full span. When multiple quotes/passages are given, find the distinction that CROSSES both."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
