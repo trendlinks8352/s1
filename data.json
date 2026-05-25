@@ -6391,6 +6391,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "u75_q31_paraphrase_need_vs_pleasure_target",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 75 — Q31 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q31 — Paraphrase: Target Mismatch — Need vs. Pleasure]\n\nPassage (lines 7–9):\n'If they are able to satisfy them, humans behave in ways to <em>maintain or increase the resulting pleasure</em>.'\n\nQ: According to the author, human beings when <strong>satiating</strong> their needs ______.\n\nC: devise ways to <strong>prolong the satisfaction</strong>\nD: ensure that the need is never fully <strong>assuaged</strong>\n\nYour pick — D\nCorrect answer — C\n\nWhy does D distort the passage logic, and how does C correctly paraphrase it?",
+      "options": [
+        "D is correct because the passage says humans try to keep their needs active by maintaining pleasure",
+        "D: 'need is never fully assuaged' = says the TARGET humans maintain is the NEED (unsatisfied state). But the passage says humans maintain PLEASURE (satisfied state). Target mismatch: Need ≠ Pleasure. Also, keeping a need 'never assuaged' = staying in a painful deficit state — opposite to the passage's logic. C: 'prolong the satisfaction' = maintain or increase → prolong / the resulting pleasure → satisfaction = correct paraphrase chain ✓",
+        "C is wrong because 'devise' is too active a word — the passage only says 'behave in ways'",
+        "D is correct because 'assuaged' is a synonym for 'satisfied' and maps directly to the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = Target Mismatch (Need ≠ Pleasure) + State Reversal (deficit ≠ satisfaction). C = correct paraphrase: maintain or increase → prolong / resulting pleasure → satisfaction ✓",
+      "explanation": "[Passage logic decoded]\n'If they are able to satisfy them [needs]'\n= Condition: needs ARE being satisfied (satiating)\n'humans behave in ways to MAINTAIN OR INCREASE the resulting PLEASURE'\n= What humans do AFTER satisfying needs: extend/amplify the pleasure state\n= TARGET of maintenance = PLEASURE (a satisfied, positive state)\n\n[C — Correct paraphrase chain]\n'maintain or increase' → PROLONG ✓\n'the resulting pleasure' → THE SATISFACTION ✓\n'behave in ways to~' → DEVISE WAYS TO~ ✓\n= C maps every element of the passage correctly ✓\n\n[D — Two-layer distortion]\nLayer 1 — TARGET MISMATCH:\nPassage: humans maintain PLEASURE (what you HAVE after satisfying the need)\nD: humans ensure the NEED is never fully assuaged (the need itself stays unsatisfied)\n= Pleasure ≠ Need → wrong object of maintenance\n\nLayer 2 — STATE REVERSAL:\nPassage: describes a POSITIVE state (pleasure, satisfaction gained)\nD: describes a NEGATIVE state (need perpetually unmet = ongoing deficit/pain)\n= The passage says unsatisfied needs cause PAIN (lines 8–10)\n= D literally describes the pain state, not the pleasure state\n= Logically contradicts the passage's own framework\n\n[The 'assuaged' trap]\n'Assuaged' (완화하다/달래다) looks like a synonym for 'satisfied'\n→ but D says the need is NEVER FULLY assuaged\n→ = keeping the need permanently unmet\n→ passage: unsatisfied needs = pain and paradoxical harmful behaviour\n→ D describes the BAD outcome, not the satiating-then-maintaining-pleasure sequence",
+      "action": "Action Rule (Q31): When satiating needs → humans maintain PLEASURE (positive state), not the unsatisfied NEED (deficit state). D = Target Mismatch: confuses maintaining pleasure with keeping the need unassuaged. Always ask: 'What is the object being maintained?' Pleasure ≠ Need."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
