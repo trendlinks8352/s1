@@ -6412,6 +6412,90 @@
     "cycleIdx": 0
   },
   {
+    "id": "u74_q18_paraphrase_newspaper_challenge",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 74 — Q18 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q18 — Paraphrase: Subject–Object Swap Trap]\n\nPassage (Paragraph 1):\n'Mountains of writing that will inform, but only in ways we do not need and do not need to retain; or will divert or titillate or disturb, but <em>not too seriously</em>. Reading at this level is <em>not much more than irritation of the eyeball</em>...'\n\nQ: Paragraph 1 implies that the kind of writing found in newspapers ______.\n\nA: fails to challenge on any meaningful level\nB: is taken far too seriously by readers\n\nYour pick — B\nCorrect answer — A\n\nWhy does B swap the subject, and how does A correctly paraphrase?",
+      "options": [
+        "B is correct because 'not too seriously' means readers are treating the content too lightly",
+        "B: 'taken too seriously BY READERS' = makes READERS the subject who misjudges the writing. But 'not too seriously' in the passage describes the WRITING's depth/impact, not readers' attitudes. Subject-object swap error. A: 'fails to challenge on any meaningful level' = the writing (not readers) is the subject / 'not too seriously' + 'irritation of eyeball' = no meaningful challenge ✓",
+        "A is wrong because the passage never uses the word 'challenge'",
+        "B is correct because readers are clearly described as taking newspaper writing too lightly"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = Subject–Object Swap: 'not too seriously' describes the WRITING's shallowness, not readers' attitudes. A = writing fails to challenge meaningfully = correct paraphrase of 'not too seriously' + 'irritation of eyeball' ✓",
+      "explanation": "[Passage logic decoded]\n'titillate or disturb, but NOT TOO SERIOUSLY'\n= the writing's impact/depth is shallow — it barely disturbs, barely challenges\n'Reading at this level is NOT MUCH MORE THAN irritation of the eyeball'\n= no intellectual engagement; pure surface-level stimulation\n= the WRITING is the subject → it fails to deliver meaningful challenge\n\n[A — Correct paraphrase chain]\n'not too seriously' + 'irritation of eyeball' → FAILS TO CHALLENGE ✓\n'on any meaningful level' = captures 'not much more than' (near-zero depth) ✓\n= A keeps the WRITING as subject and maps depth/impact correctly ✓\n\n[B — Subject–Object Swap Error]\n'not too seriously' in the passage = describes HOW DEEPLY the writing affects the reader\n= the writing doesn't disturb deeply\nB reinterprets: readers are 'taking it far too seriously'\n= suddenly READERS are the ones misjudging\n= the passage never criticises readers' attitudes\n= B invents a reader-error that is absent from the passage\n\n[The 'seriously' trap]\n'not too seriously' → B picks up 'seriously' and attaches it to readers\n→ classic keyword recycling with subject swap\n→ same word, completely different logical role",
+      "action": "Action Rule (Q18): 'Not too seriously' = the WRITING is shallow, not that READERS overreact. B = Subject–Object Swap: attributes the writing's shallowness to readers' misjudgment. Always ask: 'Who is the subject of this action — the text or the reader?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u74_q19_paraphrase_communication_simplistic",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 74 — Q19 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q19 — Paraphrase: Over-Extrapolation Trap — Language Form vs. Media Genre]\n\nPassage (Paragraph 2):\n'...the sort that goes under the name of \"communication\"; that uses the <em>easiest and most instantaneous form of language</em> that will get information or opinion across from one mind to the next...'\n\nQ: For Malouf, the popular meaning of 'communication' is a problem when ______.\n\nB: the best way to communicate is defined as being the most simplistic way to communicate\nC: it reduces communication to little more than advertising and infotainment\n\nYour pick — C\nCorrect answer — B\n\nWhy does C over-extrapolate, and how does B correctly paraphrase?",
+      "options": [
+        "C is correct because 'information or opinion' in the passage clearly refers to advertising and infotainment",
+        "C: 'advertising and infotainment' = specific media genres not mentioned in the passage. The passage criticises the FORM OF LANGUAGE (easiest, most instantaneous), not the media category. Over-extrapolation from 'information/opinion/chat/screens' to a specific genre. B: 'most simplistic way = defined as best way' = 'easiest and most instantaneous' → simplistic / used as THE standard = defined as best ✓",
+        "B is wrong because the passage never says simplicity is defined as 'best'",
+        "C is correct because 'flickering of screens' directly implies infotainment"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = Over-Extrapolation: invents specific genres (advertising/infotainment) absent from the passage. B = correct paraphrase: 'easiest and most instantaneous' → most simplistic / used as THE standard → defined as best ✓",
+      "explanation": "[Passage logic decoded]\n'uses the EASIEST AND MOST INSTANTANEOUS form of language'\n= the critique = choosing language by ease/speed, not quality\n= the FORM of language is the target, not the type of media\n'that will get information or opinion across'\n= all that matters is transmission, not depth or craft\n= simplicity is implicitly treated as the optimal standard\n\n[B — Correct paraphrase chain]\n'easiest and most instantaneous' → MOST SIMPLISTIC ✓\n'the sort that goes under the name of communication' = treated as THE way to communicate\n→ DEFINED AS BEING THE BEST WAY ✓\n= B captures both the simplicity critique and the false elevation of that standard ✓\n\n[C — Over-Extrapolation Error]\n'information or opinion' → C jumps to 'advertising'\n'chat / flickering of screens' → C jumps to 'infotainment'\n= these are genre labels the passage never uses\n= the passage criticises LANGUAGE FORM, not content category\n= C grafts external media concepts onto the passage\n\n[The extrapolation trap]\nPassage ingredients: information, opinion, chat, screens\n→ these can evoke advertising/infotainment in real life\n→ but the passage's actual argument = language form critique\n→ importing genre labels = over-extrapolation",
+      "action": "Action Rule (Q19): Passage = critiques LANGUAGE FORM (easiest/instantaneous). C = imports genre labels (advertising/infotainment) not in the passage = over-extrapolation. B = simplistic form elevated as the standard = correct. Always ask: 'Is the passage criticising the type of content or the way it is written?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u74_q20_paraphrase_bracing_restraints_silence",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 74 — Q20 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q20 — Paraphrase: Literal vs. Figurative Interpretation Trap]\n\nPassage (lines 14–15):\n'In the face of so much chat... writers might do well to recommend to themselves the <em>bracing restraints</em> of silence.'\n\n• <strong>Bracing</strong> = invigorating, beneficial (긍정적: 활력을 주는)\n• <strong>Restraints</strong> = self-imposed limits, abstention (절제)\n\nQ: The phrase 'bracing restraints of silence' refers to the ______.\n\nC: benefits that arise from choosing to avoid writing in a mediocre manner\nD: period of quiet reflection before a writer puts pen to paper\n\nYour pick — D\nCorrect answer — C\n\nWhy is D a literal misread, and how does C correctly capture the figurative meaning?",
+      "options": [
+        "D is correct because 'silence' naturally means a quiet period before writing begins",
+        "D: reads 'silence' literally = a physical quiet period before writing. GAMSAT figurative language must be decoded: 'bracing restraints of silence' = the BENEFICIAL DISCIPLINE of NOT producing mediocre writing. 'Bracing' = positive/beneficial (not just 'quiet'). 'Restraints of silence' = abstaining from the flood of meaningless chat-writing. C: 'benefits (bracing) from choosing to avoid writing in a mediocre manner (restraints of silence)' = correct figurative decode ✓",
+        "C is wrong because the passage doesn't mention mediocre writing directly",
+        "D is correct because 'recommend to themselves' implies a preparatory act before writing"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = Literal misread: treats 'silence' as a physical quiet period. C = figurative decode: bracing (beneficial) + restraints of silence (abstaining from mediocre writing flood) = benefits of choosing not to write poorly ✓",
+      "explanation": "[Figurative decode — step by step]\nCONTEXT: 'In the face of SO MUCH CHAT... so much flickering of screens and verbal static'\n= the world is drowning in low-quality, purposeless writing\n\n'writers might do well to recommend to themselves...'\n= writers should consciously choose something\n\n'the BRACING RESTRAINTS of SILENCE'\n= BRACING: positive, invigorating, beneficial — not merely 'quiet'\n= RESTRAINTS: self-imposed discipline of holding back\n= SILENCE: not adding to the flood of meaningless chat-writing\n= Together: the BENEFICIAL DISCIPLINE of choosing NOT to produce mediocre writing\n\n[C — Correct figurative paraphrase]\n'bracing' → BENEFITS ✓\n'restraints of silence' → CHOOSING TO AVOID WRITING IN A MEDIOCRE MANNER ✓\n= C captures both the positive valence (bracing=benefits) and the action (restraint=avoiding mediocre output) ✓\n\n[D — Literal Misread]\n'silence' → D reads as 'quiet reflection period'\n'before a writer puts pen to paper' → implies pre-writing preparation\n= treats a figurative phrase as a literal description of a writing routine\n= misses 'bracing' (positive/beneficial) entirely\n= misses the contrast with 'so much chat' (the point is refusing to add to it)\n\n[GAMSAT figurative language rule]\nWhen a phrase uses abstract nouns (silence, restraints) + evaluative adjectives (bracing)\n→ DO NOT read literally\n→ decode: what VALUE does the adjective express? what ACTION does the noun describe?",
+      "action": "Action Rule (Q20): 'Bracing restraints of silence' = figurative. Bracing = beneficial (not just quiet). Restraints of silence = abstaining from mediocre writing flood. D = literal trap (quiet period before writing). C = figurative decode (benefits of avoiding mediocre output). Rule: evaluative adjective (bracing) + abstract noun (silence) = always figurative in GAMSAT."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u74_q21_paraphrase_necessity_vs_instinct",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 74 — Q21 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q21 — Paraphrase: Necessity vs. Instinct — Scope & Concept Error]\n\nPassage (last sentence):\n'Good writing springs from <em>necessity</em>.'\n\nQ: In the last sentence, Malouf suggests that good writing ______.\n\nB: is an instinctive need felt by all writers\nD: results when something essential can be conveyed best through writing\n\nYour pick — B\nCorrect answer — D\n\nWhy does B misread 'necessity' + over-generalise, and how does D correctly paraphrase?",
+      "options": [
+        "B is correct because 'necessity' and 'instinctive need' are synonyms in this context",
+        "B: 'instinctive need felt by ALL writers' = two errors: (1) 'instinctive need' = a personal urge/drive (the writer feels compelled) — but passage 'necessity' = an external/objective condition (the content demands to be written). (2) 'all writers' = extreme overgeneralisation with no basis in the passage. D: 'something essential can be conveyed BEST THROUGH WRITING' = the content has necessity (must be written) + writing is the optimal medium = the condition that produces good writing ✓",
+        "D is wrong because the passage says necessity comes from the writer, not from the content",
+        "B is correct because Malouf is writing about the writer's inner drive throughout the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = two errors: (1) necessity (objective condition) ≠ instinctive need (personal urge) / (2) 'all writers' = unsupported overgeneralisation. D = correct: something essential (necessity) best conveyed through writing (the medium is the right one) ✓",
+      "explanation": "[The word 'necessity' decoded]\nNECESSITY ≠ 'instinctive need'\n= Necessity: an objective condition — something that MUST exist or be done\n= 'Good writing springs from necessity'\n= good writing arises when there is a genuine REASON it must be written\n= the content or message makes writing NECESSARY (not just desired)\n\n[D — Correct paraphrase chain]\n'something essential' → NECESSITY (objective condition, not personal urge) ✓\n'can be conveyed BEST through writing' → writing is the necessary/optimal medium ✓\n= D captures: the content demands to be written + writing is the right vehicle ✓\n\n[B — Two-Layer Error]\nError 1 — Concept distortion:\n'necessity' → B reads as 'instinctive need'\n= instinctive need = a personal, emotional, internal drive (충동)\n= necessity = an external, objective condition (필연성)\n= inner urge ≠ objective necessity\n\nError 2 — Scope inflation:\n'felt by ALL writers' → extreme universalisation\n= the passage makes no claim about every writer\n= adding 'all' converts a philosophical point into an empirical claim\n= classic Scope Inflation / extreme qualifier error\n\n[Why D is philosophically precise]\nMalouf's argument = the flood of communication-writing lacks necessity\n= it is written because it CAN be, not because it MUST be\n= good writing = arises only when the content genuinely requires that form\n= D: 'something essential conveyed best through writing' = that precise condition",
+      "action": "Action Rule (Q21): 'Necessity' = objective condition (must be written), NOT personal instinct/urge. B = two errors: instinct ≠ necessity + 'all writers' = overgeneralisation. D = something essential + best conveyed through writing = the objective condition of necessity. Rule: when the passage uses philosophical/abstract nouns, find the choice that preserves the external/objective meaning, not the personal/emotional one."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
