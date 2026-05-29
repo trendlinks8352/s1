@@ -6396,17 +6396,17 @@
     "isMCQ": true,
     "source": "Unit 75 — Q31 Paraphrase (D→C)",
     "quiz": {
-      "question": "[Q31 — Paraphrase: Target Mismatch — Need vs. Pleasure]\n\nPassage (lines 7–9):\n'If they are able to satisfy them, humans behave in ways to <em>maintain or increase the resulting pleasure</em>.'\n\nQ: According to the author, human beings when <strong>satiating</strong> their needs ______.\n\nC: devise ways to <strong>prolong the satisfaction</strong>\nD: ensure that the need is never fully <strong>assuaged</strong>\n\nYour pick — D\nCorrect answer — C\n\nWhy does D distort the passage logic, and how does C correctly paraphrase it?",
+      "question": "[Q31 — Target Mismatch: Need vs. Pleasure]\n\nPassage (lines 7–9): 'If they are able to satisfy them, humans behave in ways to maintain or increase the resulting pleasure.'\n\nQ: Human beings when satiating their needs ______.\nC: devise ways to prolong the satisfaction\nD: ensure that the need is never fully assuaged\n\nYour pick — D / Correct — C",
       "options": [
-        "D is correct because the passage says humans try to keep their needs active by maintaining pleasure",
-        "D: 'need is never fully assuaged' = says the TARGET humans maintain is the NEED (unsatisfied state). But the passage says humans maintain PLEASURE (satisfied state). Target mismatch: Need ≠ Pleasure. Also, keeping a need 'never assuaged' = staying in a painful deficit state — opposite to the passage's logic. C: 'prolong the satisfaction' = maintain or increase → prolong / the resulting pleasure → satisfaction = correct paraphrase chain ✓",
-        "C is wrong because 'devise' is too active a word — the passage only says 'behave in ways'",
-        "D is correct because 'assuaged' is a synonym for 'satisfied' and maps directly to the passage"
+        "D: 'need is never fully assuaged' = target = NEED (unsatisfied deficit). But passage says humans maintain PLEASURE (satisfied state). Need ≠ Pleasure = Target Mismatch + State Reversal. C: maintain or increase → prolong / the resulting pleasure → satisfaction ✓",
+        "D is correct — 'assuaged' is a synonym for 'satisfied' in this context",
+        "C is wrong — 'devise' is too active a word",
+        "D is correct — humans maintain their needs active"
       ],
-      "correctIdx": 1,
-      "answer": "② D = Target Mismatch (Need ≠ Pleasure) + State Reversal (deficit ≠ satisfaction). C = correct paraphrase: maintain or increase → prolong / resulting pleasure → satisfaction ✓",
-      "explanation": "[Passage logic decoded]\n'If they are able to satisfy them [needs]'\n= Condition: needs ARE being satisfied (satiating)\n'humans behave in ways to MAINTAIN OR INCREASE the resulting PLEASURE'\n= What humans do AFTER satisfying needs: extend/amplify the pleasure state\n= TARGET of maintenance = PLEASURE (a satisfied, positive state)\n\n[C — Correct paraphrase chain]\n'maintain or increase' → PROLONG ✓\n'the resulting pleasure' → THE SATISFACTION ✓\n'behave in ways to~' → DEVISE WAYS TO~ ✓\n= C maps every element of the passage correctly ✓\n\n[D — Two-layer distortion]\nLayer 1 — TARGET MISMATCH:\nPassage: humans maintain PLEASURE (what you HAVE after satisfying the need)\nD: humans ensure the NEED is never fully assuaged (the need itself stays unsatisfied)\n= Pleasure ≠ Need → wrong object of maintenance\n\nLayer 2 — STATE REVERSAL:\nPassage: describes a POSITIVE state (pleasure, satisfaction gained)\nD: describes a NEGATIVE state (need perpetually unmet = ongoing deficit/pain)\n= The passage says unsatisfied needs cause PAIN (lines 8–10)\n= D literally describes the pain state, not the pleasure state\n= Logically contradicts the passage's own framework\n\n[The 'assuaged' trap]\n'Assuaged' (완화하다/달래다) looks like a synonym for 'satisfied'\n→ but D says the need is NEVER FULLY assuaged\n→ = keeping the need permanently unmet\n→ passage: unsatisfied needs = pain and paradoxical harmful behaviour\n→ D describes the BAD outcome, not the satiating-then-maintaining-pleasure sequence",
-      "action": "Action Rule (Q31): When satiating needs → humans maintain PLEASURE (positive state), not the unsatisfied NEED (deficit state). D = Target Mismatch: confuses maintaining pleasure with keeping the need unassuaged. Always ask: 'What is the object being maintained?' Pleasure ≠ Need."
+      "correctIdx": 0,
+      "answer": "① D = Target Mismatch (Pleasure ≠ Need) + State Reversal. C = correct: prolong ↔ maintain or increase / satisfaction ↔ resulting pleasure ✓",
+      "explanation": "[C correct chain] maintain or increase → PROLONG ✓ / the resulting pleasure → THE SATISFACTION ✓\n[D Layer 1 — Target Mismatch] passage maintains PLEASURE / D maintains the NEED (unsatisfied) = wrong object\n[D Layer 2 — State Reversal] passage = positive state (pleasure gained) / D = negative state (need perpetually unmet = pain)\n→ passage explicitly says unsatisfied needs cause PAIN\n→ D describes the pain state, not the satiating-then-maintaining sequence\n['assuaged' trap] assuaged ≈ satisfied BUT D says NEVER FULLY assuaged = permanent deficit = pain state",
+      "action": "Action Rule (Q31): When satiating needs → humans maintain PLEASURE (positive), not the unsatisfied NEED (deficit). Always ask: 'What is the object being maintained? Pleasure ≠ Need.'"
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6417,17 +6417,17 @@
     "isMCQ": true,
     "source": "Unit 74 — Q18 Paraphrase (B→A)",
     "quiz": {
-      "question": "[Q18 — Paraphrase: Subject–Object Swap Trap]\n\nPassage (Paragraph 1):\n'Mountains of writing that will inform, but only in ways we do not need and do not need to retain; or will divert or titillate or disturb, but <em>not too seriously</em>. Reading at this level is <em>not much more than irritation of the eyeball</em>...'\n\nQ: Paragraph 1 implies that the kind of writing found in newspapers ______.\n\nA: fails to challenge on any meaningful level\nB: is taken far too seriously by readers\n\nYour pick — B\nCorrect answer — A\n\nWhy does B swap the subject, and how does A correctly paraphrase?",
+      "question": "[Q18 — Subject–Object Swap Trap]\n\nPassage (Para 1): '...titillate or disturb, but not too seriously. Reading at this level is not much more than irritation of the eyeball...'\n\nQ: Paragraph 1 implies writing found in newspapers ______.\nA: fails to challenge on any meaningful level\nB: is taken far too seriously by readers\n\nYour pick — B / Correct — A",
       "options": [
-        "B is correct because 'not too seriously' means readers are treating the content too lightly",
-        "B: 'taken too seriously BY READERS' = makes READERS the subject who misjudges the writing. But 'not too seriously' in the passage describes the WRITING's depth/impact, not readers' attitudes. Subject-object swap error. A: 'fails to challenge on any meaningful level' = the writing (not readers) is the subject / 'not too seriously' + 'irritation of eyeball' = no meaningful challenge ✓",
-        "A is wrong because the passage never uses the word 'challenge'",
-        "B is correct because readers are clearly described as taking newspaper writing too lightly"
+        "B: 'taken too seriously BY READERS' = makes READERS the subject who misjudges the writing. But 'not too seriously' describes the WRITING's depth/impact, not readers' attitudes. Subject–Object Swap. A: 'fails to challenge on any meaningful level' = writing is subject / 'not too seriously' + 'irritation of eyeball' = no meaningful challenge ✓",
+        "B is correct — 'not too seriously' means readers treat content too lightly",
+        "A is wrong — the passage never uses 'challenge'",
+        "B is correct — readers are criticised throughout"
       ],
-      "correctIdx": 1,
-      "answer": "② B = Subject–Object Swap: 'not too seriously' describes the WRITING's shallowness, not readers' attitudes. A = writing fails to challenge meaningfully = correct paraphrase of 'not too seriously' + 'irritation of eyeball' ✓",
-      "explanation": "[Passage logic decoded]\n'titillate or disturb, but NOT TOO SERIOUSLY'\n= the writing's impact/depth is shallow — it barely disturbs, barely challenges\n'Reading at this level is NOT MUCH MORE THAN irritation of the eyeball'\n= no intellectual engagement; pure surface-level stimulation\n= the WRITING is the subject → it fails to deliver meaningful challenge\n\n[A — Correct paraphrase chain]\n'not too seriously' + 'irritation of eyeball' → FAILS TO CHALLENGE ✓\n'on any meaningful level' = captures 'not much more than' (near-zero depth) ✓\n= A keeps the WRITING as subject and maps depth/impact correctly ✓\n\n[B — Subject–Object Swap Error]\n'not too seriously' in the passage = describes HOW DEEPLY the writing affects the reader\n= the writing doesn't disturb deeply\nB reinterprets: readers are 'taking it far too seriously'\n= suddenly READERS are the ones misjudging\n= the passage never criticises readers' attitudes\n= B invents a reader-error that is absent from the passage\n\n[The 'seriously' trap]\n'not too seriously' → B picks up 'seriously' and attaches it to readers\n→ classic keyword recycling with subject swap\n→ same word, completely different logical role",
-      "action": "Action Rule (Q18): 'Not too seriously' = the WRITING is shallow, not that READERS overreact. B = Subject–Object Swap: attributes the writing's shallowness to readers' misjudgment. Always ask: 'Who is the subject of this action — the text or the reader?'"
+      "correctIdx": 0,
+      "answer": "① B = Subject–Object Swap: 'not too seriously' = writing's shallowness, not readers' attitudes. A = correct paraphrase ✓",
+      "explanation": "['not too seriously'] = writing's impact is shallow (writing is subject)\n['irritation of eyeball'] = no intellectual engagement\n[A correct chain] not too seriously + irritation of eyeball → FAILS TO CHALLENGE ON ANY MEANINGFUL LEVEL ✓\n[B swap] 'seriously' recycled and attached to READERS → invents a reader-error absent from passage",
+      "action": "Action Rule (Q18): 'Not too seriously' = WRITING is shallow, not that READERS overreact. B = Subject–Object Swap. Always ask: 'Who is the subject — the text or the reader?'"
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6438,17 +6438,17 @@
     "isMCQ": true,
     "source": "Unit 74 — Q19 Paraphrase (C→B)",
     "quiz": {
-      "question": "[Q19 — Paraphrase: Over-Extrapolation Trap — Language Form vs. Media Genre]\n\nPassage (Paragraph 2):\n'...the sort that goes under the name of \"communication\"; that uses the <em>easiest and most instantaneous form of language</em> that will get information or opinion across from one mind to the next...'\n\nQ: For Malouf, the popular meaning of 'communication' is a problem when ______.\n\nB: the best way to communicate is defined as being the most simplistic way to communicate\nC: it reduces communication to little more than advertising and infotainment\n\nYour pick — C\nCorrect answer — B\n\nWhy does C over-extrapolate, and how does B correctly paraphrase?",
+      "question": "[Q19 — Over-Extrapolation: Language Form vs. Media Genre]\n\nPassage (Para 2): '...uses the easiest and most instantaneous form of language that will get information or opinion across...'\n\nQ: The popular meaning of 'communication' is a problem when ______.\nB: the best way to communicate is defined as being the most simplistic way\nC: it reduces communication to little more than advertising and infotainment\n\nYour pick — C / Correct — B",
       "options": [
-        "C is correct because 'information or opinion' in the passage clearly refers to advertising and infotainment",
-        "C: 'advertising and infotainment' = specific media genres not mentioned in the passage. The passage criticises the FORM OF LANGUAGE (easiest, most instantaneous), not the media category. Over-extrapolation from 'information/opinion/chat/screens' to a specific genre. B: 'most simplistic way = defined as best way' = 'easiest and most instantaneous' → simplistic / used as THE standard = defined as best ✓",
-        "B is wrong because the passage never says simplicity is defined as 'best'",
-        "C is correct because 'flickering of screens' directly implies infotainment"
+        "C: 'advertising and infotainment' = genre labels NOT in the passage. Passage critiques FORM OF LANGUAGE (easiest, instantaneous), not media category. Over-extrapolation from 'information/opinion/chat/screens'. B: easiest and most instantaneous → most simplistic / treated as THE standard → defined as best ✓",
+        "C is correct — 'information or opinion' clearly means advertising",
+        "B is wrong — the passage never says simplicity is 'best'",
+        "C is correct — 'flickering of screens' = infotainment"
       ],
-      "correctIdx": 1,
-      "answer": "② C = Over-Extrapolation: invents specific genres (advertising/infotainment) absent from the passage. B = correct paraphrase: 'easiest and most instantaneous' → most simplistic / used as THE standard → defined as best ✓",
-      "explanation": "[Passage logic decoded]\n'uses the EASIEST AND MOST INSTANTANEOUS form of language'\n= the critique = choosing language by ease/speed, not quality\n= the FORM of language is the target, not the type of media\n'that will get information or opinion across'\n= all that matters is transmission, not depth or craft\n= simplicity is implicitly treated as the optimal standard\n\n[B — Correct paraphrase chain]\n'easiest and most instantaneous' → MOST SIMPLISTIC ✓\n'the sort that goes under the name of communication' = treated as THE way to communicate\n→ DEFINED AS BEING THE BEST WAY ✓\n= B captures both the simplicity critique and the false elevation of that standard ✓\n\n[C — Over-Extrapolation Error]\n'information or opinion' → C jumps to 'advertising'\n'chat / flickering of screens' → C jumps to 'infotainment'\n= these are genre labels the passage never uses\n= the passage criticises LANGUAGE FORM, not content category\n= C grafts external media concepts onto the passage\n\n[The extrapolation trap]\nPassage ingredients: information, opinion, chat, screens\n→ these can evoke advertising/infotainment in real life\n→ but the passage's actual argument = language form critique\n→ importing genre labels = over-extrapolation",
-      "action": "Action Rule (Q19): Passage = critiques LANGUAGE FORM (easiest/instantaneous). C = imports genre labels (advertising/infotainment) not in the passage = over-extrapolation. B = simplistic form elevated as the standard = correct. Always ask: 'Is the passage criticising the type of content or the way it is written?'"
+      "correctIdx": 0,
+      "answer": "① C = Over-Extrapolation: invents genre labels absent from passage. B = correct: easiest/instantaneous → most simplistic / used as the standard → defined as best ✓",
+      "explanation": "[Passage critique] = FORM OF LANGUAGE (ease/speed), not content category\n[B correct chain] easiest and most instantaneous → MOST SIMPLISTIC ✓ / treated as THE way → DEFINED AS BEST ✓\n[C error] information/opinion/chat/screens → jumps to 'advertising'/'infotainment' = genre labels passage never uses",
+      "action": "Action Rule (Q19): Passage = critiques LANGUAGE FORM. C = imports genre labels not in passage. Always ask: 'Is the passage criticising the type of content or the way it is written?'"
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6459,17 +6459,17 @@
     "isMCQ": true,
     "source": "Unit 74 — Q20 Paraphrase (D→C)",
     "quiz": {
-      "question": "[Q20 — Paraphrase: Literal vs. Figurative Interpretation Trap]\n\nPassage (lines 14–15):\n'In the face of so much chat... writers might do well to recommend to themselves the <em>bracing restraints</em> of silence.'\n\n• <strong>Bracing</strong> = invigorating, beneficial (긍정적: 활력을 주는)\n• <strong>Restraints</strong> = self-imposed limits, abstention (절제)\n\nQ: The phrase 'bracing restraints of silence' refers to the ______.\n\nC: benefits that arise from choosing to avoid writing in a mediocre manner\nD: period of quiet reflection before a writer puts pen to paper\n\nYour pick — D\nCorrect answer — C\n\nWhy is D a literal misread, and how does C correctly capture the figurative meaning?",
+      "question": "[Q20 — Literal vs. Figurative Trap]\n\nPassage (lines 14–15): '...writers might do well to recommend to themselves the bracing restraints of silence.'\n• Bracing = invigorating, beneficial (활력을 주는)\n• Restraints = self-imposed limits (절제)\n\nQ: 'bracing restraints of silence' refers to the ______.\nC: benefits that arise from choosing to avoid writing in a mediocre manner\nD: period of quiet reflection before a writer puts pen to paper\n\nYour pick — D / Correct — C",
       "options": [
-        "D is correct because 'silence' naturally means a quiet period before writing begins",
-        "D: reads 'silence' literally = a physical quiet period before writing. GAMSAT figurative language must be decoded: 'bracing restraints of silence' = the BENEFICIAL DISCIPLINE of NOT producing mediocre writing. 'Bracing' = positive/beneficial (not just 'quiet'). 'Restraints of silence' = abstaining from the flood of meaningless chat-writing. C: 'benefits (bracing) from choosing to avoid writing in a mediocre manner (restraints of silence)' = correct figurative decode ✓",
-        "C is wrong because the passage doesn't mention mediocre writing directly",
-        "D is correct because 'recommend to themselves' implies a preparatory act before writing"
+        "D: reads 'silence' literally = physical quiet period before writing. Must decode figuratively: BRACING = beneficial (not just quiet) / RESTRAINTS OF SILENCE = abstaining from the flood of chat-writing. C: benefits (bracing) from choosing to avoid mediocre writing (restraints of silence) ✓",
+        "D is correct — 'silence' = quiet period before writing begins",
+        "C is wrong — 'mediocre' is not in the passage",
+        "D is correct — 'recommend to themselves' implies a preparatory act"
       ],
-      "correctIdx": 1,
-      "answer": "② D = Literal misread: treats 'silence' as a physical quiet period. C = figurative decode: bracing (beneficial) + restraints of silence (abstaining from mediocre writing flood) = benefits of choosing not to write poorly ✓",
-      "explanation": "[Figurative decode — step by step]\nCONTEXT: 'In the face of SO MUCH CHAT... so much flickering of screens and verbal static'\n= the world is drowning in low-quality, purposeless writing\n\n'writers might do well to recommend to themselves...'\n= writers should consciously choose something\n\n'the BRACING RESTRAINTS of SILENCE'\n= BRACING: positive, invigorating, beneficial — not merely 'quiet'\n= RESTRAINTS: self-imposed discipline of holding back\n= SILENCE: not adding to the flood of meaningless chat-writing\n= Together: the BENEFICIAL DISCIPLINE of choosing NOT to produce mediocre writing\n\n[C — Correct figurative paraphrase]\n'bracing' → BENEFITS ✓\n'restraints of silence' → CHOOSING TO AVOID WRITING IN A MEDIOCRE MANNER ✓\n= C captures both the positive valence (bracing=benefits) and the action (restraint=avoiding mediocre output) ✓\n\n[D — Literal Misread]\n'silence' → D reads as 'quiet reflection period'\n'before a writer puts pen to paper' → implies pre-writing preparation\n= treats a figurative phrase as a literal description of a writing routine\n= misses 'bracing' (positive/beneficial) entirely\n= misses the contrast with 'so much chat' (the point is refusing to add to it)\n\n[GAMSAT figurative language rule]\nWhen a phrase uses abstract nouns (silence, restraints) + evaluative adjectives (bracing)\n→ DO NOT read literally\n→ decode: what VALUE does the adjective express? what ACTION does the noun describe?",
-      "action": "Action Rule (Q20): 'Bracing restraints of silence' = figurative. Bracing = beneficial (not just quiet). Restraints of silence = abstaining from mediocre writing flood. D = literal trap (quiet period before writing). C = figurative decode (benefits of avoiding mediocre output). Rule: evaluative adjective (bracing) + abstract noun (silence) = always figurative in GAMSAT."
+      "correctIdx": 0,
+      "answer": "① D = Literal misread of figurative phrase. C = correct: bracing → benefits / restraints of silence → avoiding mediocre writing ✓",
+      "explanation": "[Context] 'so much chat... verbal static' = world drowning in low-quality purposeless writing\n[Figurative decode] BRACING = positive/beneficial / RESTRAINTS OF SILENCE = not adding to the meaningless flood\n[C correct] bracing → BENEFITS ✓ / restraints of silence → AVOID WRITING IN MEDIOCRE MANNER ✓\n[D error] 'silence' → physical quiet period / misses 'bracing' (positive valence) entirely / misses contrast with 'so much chat'\n[GAMSAT rule] evaluative adjective (bracing) + abstract noun (silence) = always figurative",
+      "action": "Action Rule (Q20): Bracing = beneficial. Restraints of silence = abstaining from mediocre writing. D = literal trap. Rule: evaluative adjective + abstract noun = always figurative in GAMSAT."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6480,17 +6480,143 @@
     "isMCQ": true,
     "source": "Unit 74 — Q21 Paraphrase (B→D)",
     "quiz": {
-      "question": "[Q21 — Paraphrase: Necessity vs. Instinct — Scope & Concept Error]\n\nPassage (last sentence):\n'Good writing springs from <em>necessity</em>.'\n\nQ: In the last sentence, Malouf suggests that good writing ______.\n\nB: is an instinctive need felt by all writers\nD: results when something essential can be conveyed best through writing\n\nYour pick — B\nCorrect answer — D\n\nWhy does B misread 'necessity' + over-generalise, and how does D correctly paraphrase?",
+      "question": "[Q21 — Concept Distortion + Scope Inflation]\n\nPassage (last sentence): 'Good writing springs from necessity.'\n\nQ: Malouf suggests that good writing ______.\nB: is an instinctive need felt by all writers\nD: results when something essential can be conveyed best through writing\n\nYour pick — B / Correct — D",
       "options": [
-        "B is correct because 'necessity' and 'instinctive need' are synonyms in this context",
-        "B: 'instinctive need felt by ALL writers' = two errors: (1) 'instinctive need' = a personal urge/drive (the writer feels compelled) — but passage 'necessity' = an external/objective condition (the content demands to be written). (2) 'all writers' = extreme overgeneralisation with no basis in the passage. D: 'something essential can be conveyed BEST THROUGH WRITING' = the content has necessity (must be written) + writing is the optimal medium = the condition that produces good writing ✓",
-        "D is wrong because the passage says necessity comes from the writer, not from the content",
-        "B is correct because Malouf is writing about the writer's inner drive throughout the passage"
+        "B: two errors: (1) 'instinctive need' = personal internal urge (충동) ≠ 'necessity' = objective external condition (필연성). (2) 'all writers' = extreme overgeneralisation not in the passage. D: 'something essential' = necessity (objective) / 'conveyed best through writing' = writing is the necessary medium ✓",
+        "B is correct — 'necessity' and 'instinctive need' are synonyms",
+        "D is wrong — necessity comes from the writer, not the content",
+        "B is correct — Malouf focuses on the writer's inner drive"
       ],
-      "correctIdx": 1,
-      "answer": "② B = two errors: (1) necessity (objective condition) ≠ instinctive need (personal urge) / (2) 'all writers' = unsupported overgeneralisation. D = correct: something essential (necessity) best conveyed through writing (the medium is the right one) ✓",
-      "explanation": "[The word 'necessity' decoded]\nNECESSITY ≠ 'instinctive need'\n= Necessity: an objective condition — something that MUST exist or be done\n= 'Good writing springs from necessity'\n= good writing arises when there is a genuine REASON it must be written\n= the content or message makes writing NECESSARY (not just desired)\n\n[D — Correct paraphrase chain]\n'something essential' → NECESSITY (objective condition, not personal urge) ✓\n'can be conveyed BEST through writing' → writing is the necessary/optimal medium ✓\n= D captures: the content demands to be written + writing is the right vehicle ✓\n\n[B — Two-Layer Error]\nError 1 — Concept distortion:\n'necessity' → B reads as 'instinctive need'\n= instinctive need = a personal, emotional, internal drive (충동)\n= necessity = an external, objective condition (필연성)\n= inner urge ≠ objective necessity\n\nError 2 — Scope inflation:\n'felt by ALL writers' → extreme universalisation\n= the passage makes no claim about every writer\n= adding 'all' converts a philosophical point into an empirical claim\n= classic Scope Inflation / extreme qualifier error\n\n[Why D is philosophically precise]\nMalouf's argument = the flood of communication-writing lacks necessity\n= it is written because it CAN be, not because it MUST be\n= good writing = arises only when the content genuinely requires that form\n= D: 'something essential conveyed best through writing' = that precise condition",
-      "action": "Action Rule (Q21): 'Necessity' = objective condition (must be written), NOT personal instinct/urge. B = two errors: instinct ≠ necessity + 'all writers' = overgeneralisation. D = something essential + best conveyed through writing = the objective condition of necessity. Rule: when the passage uses philosophical/abstract nouns, find the choice that preserves the external/objective meaning, not the personal/emotional one."
+      "correctIdx": 0,
+      "answer": "① B = two errors: instinct (personal urge) ≠ necessity (objective condition) + 'all writers' = scope inflation. D = correct ✓",
+      "explanation": "[NECESSITY] = objective condition: something that MUST be written, not personal desire\n[D correct] 'something essential' → NECESSITY ✓ / 'conveyed best through writing' → writing is necessary medium ✓\n[B Error 1 Concept] instinctive need = inner emotional drive / necessity = objective external condition → inner urge ≠ objective necessity\n[B Error 2 Scope] 'all writers' = extreme universalisation passage never makes\n[Malouf's argument] flood of communication-writing lacks necessity = written because it CAN be, not MUST be → good writing = arises only when content genuinely requires that form",
+      "action": "Action Rule (Q21): 'Necessity' = objective condition (must be written), NOT personal instinct. B = Concept Distortion + Scope Inflation. Rule: philosophical abstract nouns → find the external/objective meaning, not the personal/emotional one."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u73_q14_paraphrase_advocate_target_medical_doctors",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 73 — Q14 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q14 — Keyword Recycling + Redundancy (Advocate for whom?)]\n\nPassage: Taylor argues alternative therapies emphasise 'subjective experience of the patient' and 'focus on the whole person'. By contrast, 'scientific medicine sees the human body as a machine... Patients should not distract the doctor by their unique personal feelings.'\n\nQ: Furnham sees Taylor as a potential advocate for _______.\nC: medical doctors whose patient relationships are based on an holistic model\nD: alternative health therapists whose patient relationships are based on an holistic model\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: alternative health therapists ALREADY use holistic model — no advocacy needed (redundant). Taylor's actual argument = scientific medicine (orthodox doctors) treats patients as machines → CHANGE is needed THERE. C: medical doctors (group needing change) + holistic model (direction of change) = Taylor's actual advocacy target ✓. D = keyword recycling trap: 'holistic' + 'therapists' both from passage but wrong subject.",
+        "D is correct — Taylor focuses on alternative therapists throughout",
+        "C is wrong — Taylor never directly mentions medical doctors adopting holistic models",
+        "D is correct — Furnham praises alternative therapists"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Keyword Recycling + Redundancy: therapists already use holistic model. C = correct: medical doctors (who need to change) + holistic model (direction) = Taylor's advocacy ✓",
+      "explanation": "[Taylor's argument structure]\nStep 1: Alternative therapies → emphasise subjective experience + whole person\nStep 2: BY CONTRAST → scientific medicine = body as machine / patients' feelings = distraction\n= critique of orthodox medicine, not praise of alternative therapists\n[C correct] medical doctors (need to change) + holistic model (the change needed) ✓\n[D Error 1 Redundancy] therapists already use holistic model → advocating for what they already do = logically pointless\n[D Error 2 Keyword Recycling] 'alternative health therapists' + 'holistic' = both prominent in passage → surface paraphrase, wrong subject\n['most likely' instruction] requires inference: Taylor's critique → implied advocacy = doctors should change",
+      "action": "Action Rule (Q14): Advocate for = the group that NEEDS TO CHANGE, not the group already doing it. D = redundant advocacy. Always ask: 'Does this group actually need advocating for, or are they already there?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u73_q15_targeting_paramount_relationship",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 73 — Q15 Targeting",
+    "quiz": {
+      "question": "[Q15 — Targeting: 'paramount' — irony reversal]\n\nFurnham: 'When medicine can promise neither relief nor cure, the quality of the individual doctor–patient relationship is paramount.' (최우선의)\n\nQ: Doctors should concentrate on ______.\nA: the 'technological sophistication of modern medicine' (line 3)\nB: the 'subjective experience of the patient' (line 9)\nC: a 'focus on the whole person' (line 10)\nD: a patient's 'unique personal feelings and experiences' (line 13)\n\nWhich correctly paraphrases 'quality of the individual doctor–patient relationship is paramount'?",
+      "options": [
+        "A = technological sophistication = what orthodox medicine already relies on = the PROBLEM, not the solution. B = patient-side only, misses relational quality (both sides). C = too broad (holistic philosophy). D = 'unique personal feelings and experiences' = what orthodox medicine currently SUPPRESSES (line 13). The very thing doctors dismiss = what becomes paramount when cure fails. Passage irony: suppress → suppress becomes supreme ✓",
+        "B is correct — 'subjective experience' directly means quality relationship",
+        "C is correct — holistic = the whole relationship",
+        "A is correct — technology is always the answer"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = correct: the suppressed element (unique personal feelings) becomes paramount when cure is impossible. Passage irony: what orthodox medicine dismisses → what becomes most important ✓",
+      "explanation": "['paramount' quote decoded]\n'neither relief nor cure' = medical treatment has failed\n'quality of the individual doctor–patient relationship is paramount'\n= what makes relationship quality high? → attending to the patient AS A PERSON\n[D correct] line 13: 'unique personal feelings and experiences' = what orthodox medicine says should NOT distract doctor\n= the very thing currently dismissed = what becomes the ENTIRE point when cure is impossible ✓\n[A fails] technological sophistication = the orthodox medicine framework = the problem itself\n[B falls short] subjective experience = patient's experience broadly / D more precise: the specific element\n[C falls short] 'focus on whole person' = too abstract / D captures the specific suppressed element\n[The irony] Orthodox medicine: feelings = distraction → SUPPRESS / Furnham: when cure fails → those same feelings = PARAMOUNT",
+      "action": "Action Rule (Q15): What orthodox medicine suppresses (unique personal feelings, line 13) = exactly what becomes paramount when cure fails. D = suppressed element now elevated. A = the problem itself. B = patient-side only. C = too broad."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u72_q1_targeting_report_made_to_sanctioned_by",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 72 — Q1 Targeting + Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q1 — Targeting: Two-Location Evidence + 'made to' vs 'sanctioned by']\n\nPassage evidence (two separate locations):\n① Para 2: 'a commission presented a report to Britain's International Development Secretary'\n② Para 4: 'The Department for International Development set up the commission and is understood to be pleased with the report.'\n\nQ: The report mentioned in the article was ______.\nC: sanctioned by but not made to the Department of International Development\nD: made to and sanctioned by the Department of International Development\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: scanned Para 4 ('set up' = sanctioned ✓) but missed Para 2 ('presented to' = made to ✓). Both conditions are true → D. Key: evidence is SPLIT ACROSS TWO PARAGRAPHS. 'presented a report to' → MADE TO ✓ / 'set up the commission' → SANCTIONED BY ✓ → D: both made to AND sanctioned by ✓",
+        "C is correct — 'set up' means sanctioned but the report was not formally submitted",
+        "D is wrong — the department only received the report, not commissioned it",
+        "B is correct — neither condition is met"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Partial scan: found sanctioned (Para 4) but missed 'made to' (Para 2). D = both conditions met: presented to → made to ✓ / set up → sanctioned by ✓",
+      "explanation": "[Para 2 evidence] 'presented a report to Britain's International Development Secretary'\n→ MADE TO = report was submitted/directed to the Department ✓\n[Para 4 evidence] 'The Department for International Development SET UP the commission'\n→ SANCTIONED BY = Department authorised/established the commission ✓\n[Why C fails] C says 'sanctioned by but NOT made to'\n= you confirmed sanctioned (Para 4) but missed the 'presented to' in Para 2\n= classic split-evidence trap: answer requires combining two separate paragraphs\n[Paraphrase chain]\npresented a report to → MADE TO ✓\nset up the commission → SANCTIONED BY ✓",
+      "action": "Action Rule (Q1): When answer options have two conditions (A and B / A but not B), ALWAYS scan for BOTH pieces of evidence separately — they may be in different paragraphs. 'presented to' → made to / 'set up' → sanctioned by."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u72_q5_targeting_trips_result_vs_recommendation",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 72 — Q5 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q5 — Targeting: TRIPS Result vs. Commission Recommendation Confusion]\n\nPassage:\nPara 5: 'Effectively, Trips transfers a patent system... lock, stock and barrel to the poor southern nations.' (고스란히 이전한다)\nPara 6 (next sentence): 'The commission says that... poorer countries SHOULD BE ALLOWED to set up levels of intellectual property protection...'\n\nQ: Post 2006, when Trips has been ratified, poorer southern nations will be ______.\nA: forced to follow current patent laws\nC: allowed to develop their own patent laws\n\nYour pick — C / Correct — A",
+      "options": [
+        "C: comes from the commission's RECOMMENDATION ('should be allowed' = what they wish would happen). But the question asks what WILL HAPPEN after ratification. A: 'lock, stock and barrel' transfers the northern patent system to poor nations → forced to follow current patent laws ✓. ACER trap: actual regulation (TRIPS result) vs. advocate's wish (commission recommendation) in adjacent sentences.",
+        "C is correct — the commission says countries should develop their own laws",
+        "A is wrong — TRIPS doesn't force anything on poor countries",
+        "D is correct — TRIPS encourages R&D"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Commission's recommendation ('should be allowed' = wish). A = TRIPS actual result: lock, stock and barrel transfer = forced to follow current patent laws ✓",
+      "explanation": "[Q asks] what WILL HAPPEN after TRIPS ratification = the regulation's EFFECT\n[Para 5 — TRIPS result] 'transfers... lock, stock and barrel to the poor southern nations'\n= forced to adopt the northern patent system AS-IS\n→ A: FORCED TO FOLLOW CURRENT PATENT LAWS ✓\n[Para 6 — Commission's wish] 'commission says... SHOULD BE ALLOWED to set up their own...'\n= 'should be' = normative recommendation, not description of what happens\n→ C describes what the commission WANTS, not what TRIPS DOES\n[ACER trap] actual regulation outcome vs. author/commission wish placed in adjacent sentences\n[Key distinction] 'will be' in question = factual future result / 'should be allowed' in passage = normative wish",
+      "action": "Action Rule (Q5): Distinguish TRIPS RESULT (what happens = forced, Para 5) from COMMISSION RECOMMENDATION (what should happen = 'should be allowed', Para 6). Question asks 'will be' = regulation effect, not the wish. Lock, stock and barrel = forced to follow ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u72_q6_paraphrase_not_supported_rd",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 72 — Q6 NOT Question Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q6 — NOT Question: 'make their own generic drugs' IS supported]\n\nPoor southern nations should be allowed to [which is NOT supported by the commission's report?]\nA: make their own generic drugs\nB: buy generic drugs made in other nations\nC: develop their own intellectual property laws\nD: do R&D that will lead to drugs appropriate to their own populations\n\nYour pick — A / Correct — D\n\nWhy is A actually supported, and why is D not supported?",
+      "options": [
+        "A: Para 7 last sentence: 'if they do not have the capacity to MAKE THEM AT HOME' → implies: if they DO have capacity, they should make them → 'make their own generic drugs' IS supported ✓ (implicit). D: Para 5 says 'the only way to do that is to spend public money' — commission never says poor nations should do their own R&D. D = commission's report does NOT support poor nations conducting their own R&D ✓",
+        "A is not supported — 'make at home' doesn't mean generic drugs specifically",
+        "D is supported — the commission wants poor nations to do their own research",
+        "C is the correct NOT answer — intellectual property laws are not mentioned"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = IS supported: 'make them at home' → make their own generic drugs (implicit support). D = NOT supported: commission never advocates for poor nations doing own R&D; only says public money needed ✓",
+      "explanation": "[A — IS supported]\nPara 7: 'allowed to buy cheap generics made elsewhere IF THEY DO NOT HAVE THE CAPACITY TO MAKE THEM AT HOME'\n= contrapositive: if they DO have capacity → they should make them\n→ 'make their own generic drugs' = implicitly supported ✓\n[D — NOT supported]\nPara 5: 'the only way to do that is to spend public money'\n= commission's point = R&D needs public funding (in rich countries)\n= commission never advocates that poor southern nations should DO THEIR OWN R&D\n= D = the commission does not support this ✓ → D is the NOT answer\n[Why A is the trap]\n'make at home' → student reads as 'domestic production' broadly, not connecting to 'generic drugs'\n→ the paraphrase chain: make them at home = make their own generic drugs is easy to miss",
+      "action": "Action Rule (Q6): 'Make them at home' (Para 7) → 'make their own generic drugs' = supported (implicit contrapositive). D = commission never says poor nations should do own R&D = NOT supported ✓. In NOT questions: confirm each option is supported before eliminating."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u72_q7_paraphrase_altruism_vs_protectionism",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 72 — Q7 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q7 — Paraphrase: Motivation Misidentification (Protectionism vs. Altruism)]\n\nPassage (last sentence): 'Britain could take a lead on patents and poverty, and make a real difference to the worst-off people on the planet.'\n\nQ: The author claims that Britain's future actions on patents should be motivated by ______.\nA: altruism (이타주의)\nC: protectionism (보호무역주의)\n\nYour pick — C / Correct — A",
+      "options": [
+        "C: protectionism = protecting domestic industries/companies = what Para 4 describes as the CURRENT government tendency (pharma companies, jobs, economy). Author argues future actions should DEPART from this. A: 'make a real difference to the WORST-OFF PEOPLE on the planet' = acting for others' benefit with no self-gain = ALTRUISM ✓. C describes the past problem, not the future motivation the author advocates.",
+        "C is correct — protecting British pharmaceutical interests = the goal",
+        "A is wrong — altruism is too idealistic for government policy",
+        "D is correct — neo-colonialism drives the recommendation"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Protectionism = the CURRENT PROBLEM (Para 4: pharma companies, jobs, economy). A = correct: 'worst-off people on the planet' = acting for others' benefit = ALTRUISM ✓",
+      "explanation": "[Last sentence] 'make a real difference to the WORST-OFF PEOPLE on the planet'\n= benefit directed at the most disadvantaged others, no self-gain implied\n= ALTRUISM (이타주의) ✓\n[A correct chain] worst-off people on the planet → those most in need / make a real difference → act for their benefit / take a lead → proactive choice = ALTRUISM ✓\n[C error — Wrong Time Frame]\nProtectionism = protecting domestic industries (pharma companies, jobs, economy)\nPara 4: 'the government as a whole has always inclined to the interests of the pharmaceutical companies'\n= this is the CURRENT/PAST tendency the author is CRITICISING\n= the author's point = Britain should move AWAY from protectionism TOWARD altruism\n= C picks up the problem described in the passage and misattributes it as the recommended future motivation\n[Key distinction] What IS the current motivation (protectionism) vs. What SHOULD BE the future motivation (altruism)",
+      "action": "Action Rule (Q7): Protectionism = current government tendency (the problem, Para 4). Altruism = 'worst-off people on the planet' = the future motivation the author advocates. Always ask: 'Is this describing the current problem or the recommended change?'"
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
