@@ -6468,7 +6468,7 @@
       ],
       "correctIdx": 0,
       "answer": "① D = Literal misread of figurative phrase. C = correct ✓",
-      "explanation": "[Context] 'so much chat... verbal static' = world drowning in low-quality writing\n[Figurative decode] BRACING = positive/beneficial / RESTRAINTS OF SILENCE = not adding to meaningless flood\n[C correct] bracing → BENEFITS ✓ / restraints of silence → AVOID MEDIOCRE WRITING ✓\n[D error] 'silence' → physical quiet / misses 'bracing' (positive valence) / misses contrast with 'so much chat'\n[GAMSAT rule] evaluative adjective (bracing) + abstract noun (silence) = always figurative",
+      "explanation": "[Context] 'so much chat... verbal static' = world drowning in low-quality writing\n[Figurative decode] BRACING = positive/beneficial / RESTRAINTS OF SILENCE = not adding to meaningless flood\n[C correct] bracing → BENEFITS ✓ / restraints of silence → AVOID MEDIOCRE WRITING ✓\n[D error] 'silence' → physical quiet / misses 'bracing' (positive valence) / misses contrast with 'so much chat'",
       "action": "Action Rule (Q20): Bracing = beneficial. Restraints of silence = abstaining from mediocre writing. Rule: evaluative adjective + abstract noun = always figurative."
     },
     "nextReview": "TODAY",
@@ -6503,7 +6503,7 @@
     "quiz": {
       "question": "[Q14 — Keyword Recycling + Redundancy (Advocate for whom?)]\n\nPassage: Alternative therapies emphasise 'subjective experience' and 'whole person'. By contrast, 'scientific medicine sees the human body as a machine... Patients should not distract the doctor by their unique personal feelings.'\n\nQ: Furnham sees Taylor as a potential advocate for _______.\nC: medical doctors whose patient relationships are based on an holistic model\nD: alternative health therapists whose patient relationships are based on an holistic model\n\nYour pick — D / Correct — C",
       "options": [
-        "D: therapists ALREADY use holistic model → advocating for them = redundant. Taylor's actual argument = scientific medicine treats patients as machines → CHANGE needed THERE. C: medical doctors (group needing change) + holistic model (direction) = Taylor's actual advocacy target ✓. D = keyword recycling: 'holistic' + 'therapists' both from passage but wrong subject.",
+        "D: therapists ALREADY use holistic model → advocating for them = redundant. Taylor's actual argument = scientific medicine treats patients as machines → CHANGE needed THERE. C: medical doctors (group needing change) + holistic model (direction) = Taylor's actual advocacy target ✓.",
         "D is correct — Taylor focuses on alternative therapists",
         "C is wrong — Taylor never directly says doctors should use holistic models",
         "D is correct — Furnham praises alternative therapists"
@@ -6524,14 +6524,14 @@
     "quiz": {
       "question": "[Q15 — Targeting: 'paramount' — irony reversal]\n\nFurnham: 'When medicine can promise neither relief nor cure, the quality of the individual doctor–patient relationship is paramount.'\n\nQ: Doctors should concentrate on ______.\nA: the 'technological sophistication of modern medicine' (line 3)\nB: the 'subjective experience of the patient' (line 9)\nC: a 'focus on the whole person' (line 10)\nD: a patient's 'unique personal feelings and experiences' (line 13)",
       "options": [
-        "A = the problem itself (orthodox medicine framework). B = patient-side only, misses relational quality. C = too broad. D = what orthodox medicine currently SUPPRESSES (line 13). The very thing doctors dismiss = what becomes paramount when cure fails. Passage irony: suppress → becomes supreme ✓",
+        "A = the problem itself. B = patient-side only. C = too broad. D = what orthodox medicine currently SUPPRESSES (line 13). The very thing doctors dismiss = what becomes paramount when cure fails ✓",
         "B is correct — 'subjective experience' = quality relationship",
         "C is correct — holistic = the whole relationship",
         "A is correct — technology is always the answer"
       ],
       "correctIdx": 0,
       "answer": "① D = the suppressed element (unique personal feelings) becomes paramount when cure fails ✓",
-      "explanation": "[D correct] line 13: 'unique personal feelings and experiences' = what orthodox medicine says should NOT distract doctor = the very thing currently dismissed = what becomes ENTIRE point when cure is impossible ✓\n[Irony] Orthodox medicine: feelings = distraction → SUPPRESS / Furnham: when cure fails → those same feelings = PARAMOUNT\n[A fails] = the problem itself / [B] = patient-side only / [C] = too abstract",
+      "explanation": "[D correct] line 13: 'unique personal feelings' = what orthodox medicine says should NOT distract doctor = what becomes ENTIRE point when cure is impossible ✓\n[Irony] Orthodox medicine: feelings = distraction → SUPPRESS / Furnham: when cure fails → those same feelings = PARAMOUNT",
       "action": "Action Rule (Q15): What orthodox medicine suppresses (unique personal feelings, line 13) = exactly what becomes paramount when cure fails. D = suppressed element now elevated."
     },
     "nextReview": "TODAY",
@@ -6543,7 +6543,7 @@
     "isMCQ": true,
     "source": "Unit 72 — Q1 Targeting (C→D)",
     "quiz": {
-      "question": "[Q1 — Split-Evidence Trap: 'made to' + 'sanctioned by']\n\nEvidence in TWO separate locations:\n① Para 2: 'a commission presented a report to Britain's International Development Secretary'\n② Para 4: 'The Department for International Development set up the commission'\n\nQ: The report mentioned in the article was ______.\nC: sanctioned by but not made to the Department of International Development\nD: made to and sanctioned by the Department of International Development\n\nYour pick — C / Correct — D",
+      "question": "[Q1 — Split-Evidence Trap: 'made to' + 'sanctioned by']\n\nEvidence in TWO separate locations:\n① Para 2: 'a commission presented a report to Britain's International Development Secretary'\n② Para 4: 'The Department for International Development set up the commission'\n\nQ: The report was ______.\nC: sanctioned by but not made to the Department of International Development\nD: made to and sanctioned by the Department of International Development\n\nYour pick — C / Correct — D",
       "options": [
         "C: scanned Para 4 ('set up' = sanctioned ✓) but MISSED Para 2 ('presented to' = made to ✓). Both conditions true → D. presented a report to → MADE TO ✓ / set up the commission → SANCTIONED BY ✓",
         "C is correct — 'set up' means sanctioned but report was not formally submitted",
@@ -6564,16 +6564,16 @@
     "isMCQ": true,
     "source": "Unit 72 — Q5 Targeting (C→A)",
     "quiz": {
-      "question": "[Q5 — TRIPS Result vs. Commission Recommendation Confusion]\n\nPassage:\nPara 5: 'Effectively, Trips transfers a patent system... lock, stock and barrel to the poor southern nations.'\nPara 6: 'The commission says that... poorer countries SHOULD BE ALLOWED to set up levels of intellectual property protection...'\n\nQ: Post 2006, when Trips has been ratified, poorer southern nations will be ______.\nA: forced to follow current patent laws\nC: allowed to develop their own patent laws\n\nYour pick — C / Correct — A",
+      "question": "[Q5 — TRIPS Result vs. Commission Recommendation Confusion]\n\nPara 5: 'Trips transfers a patent system... lock, stock and barrel to the poor southern nations.'\nPara 6: 'The commission says... poorer countries SHOULD BE ALLOWED to set up their own IP protection...'\n\nQ: Post 2006, when Trips has been ratified, poorer southern nations will be ______.\nA: forced to follow current patent laws\nC: allowed to develop their own patent laws\n\nYour pick — C / Correct — A",
       "options": [
-        "C: comes from commission's RECOMMENDATION ('should be allowed' = wish). Question asks what WILL HAPPEN after ratification = regulation's EFFECT. A: 'lock, stock and barrel' = forced to adopt northern patent system AS-IS → FORCED TO FOLLOW CURRENT PATENT LAWS ✓",
+        "C: comes from commission's RECOMMENDATION ('should be allowed' = wish). Question asks what WILL HAPPEN = regulation's EFFECT. A: 'lock, stock and barrel' = forced to adopt northern patent system AS-IS ✓",
         "C is correct — the commission says countries should develop their own laws",
         "A is wrong — TRIPS doesn't force anything",
         "D is correct — TRIPS encourages R&D"
       ],
       "correctIdx": 0,
-      "answer": "① C = Commission's recommendation (wish). A = TRIPS actual result: lock, stock and barrel = forced to follow current patent laws ✓",
-      "explanation": "[Q asks] what WILL HAPPEN = regulation's EFFECT\n[Para 5] 'lock, stock and barrel' → FORCED TO FOLLOW CURRENT PATENT LAWS ✓\n[Para 6] 'SHOULD BE ALLOWED' = normative recommendation, not what happens\n[Key] 'will be' in question = factual future / 'should be' in passage = normative wish",
+      "answer": "① C = Commission's recommendation (wish). A = TRIPS actual result: forced ✓",
+      "explanation": "[Para 5] 'lock, stock and barrel' → FORCED TO FOLLOW CURRENT PATENT LAWS ✓\n[Para 6] 'SHOULD BE ALLOWED' = normative recommendation, not what happens\n[Key] 'will be' in question = factual future / 'should be' in passage = normative wish",
       "action": "Action Rule (Q5): TRIPS RESULT (Para 5) ≠ COMMISSION RECOMMENDATION (Para 6). 'will be' = regulation effect. Lock, stock and barrel = forced ✓."
     },
     "nextReview": "TODAY",
@@ -6587,14 +6587,14 @@
     "quiz": {
       "question": "[Q6 — NOT Question: 'make their own generic drugs' IS supported]\n\nQ: Which is NOT supported by the commission's report?\nA: make their own generic drugs\nD: do R&D that will lead to drugs appropriate to their own populations\n\nYour pick — A / Correct — D",
       "options": [
-        "A: Para 7: 'if they do not have capacity to MAKE THEM AT HOME' → contrapositive: if they DO have capacity → should make them → 'make their own generic drugs' IS supported ✓. D: commission only says 'only way = spend public money' — never says poor nations should DO THEIR OWN R&D → D is NOT supported ✓",
+        "A: Para 7: 'if they do not have capacity to MAKE THEM AT HOME' → contrapositive: if capacity → should make them → IS supported ✓. D: commission only says 'only way = spend public money' — never says poor nations should DO THEIR OWN R&D → NOT supported ✓",
         "A is not supported — 'make at home' ≠ generic drugs",
         "D is supported — commission wants poor nations to research",
         "C is the NOT answer"
       ],
       "correctIdx": 0,
       "answer": "① A = IS supported (implicit contrapositive). D = NOT supported: poor nations' own R&D never advocated ✓",
-      "explanation": "[A IS supported] Para 7: 'if they do not have capacity to make them at home' = contrapositive: if capacity → should make them ✓\n[D NOT supported] commission never advocates poor nations DO THEIR OWN R&D\n[A trap] 'make at home' → 'make their own generic drugs' paraphrase easy to miss",
+      "explanation": "[A IS supported] Para 7: 'if they do not have capacity to make them at home' = contrapositive: if capacity → should make them ✓\n[D NOT supported] commission never advocates poor nations DO THEIR OWN R&D",
       "action": "Action Rule (Q6): 'Make them at home' → 'make their own generic drugs' = supported (implicit). D = NOT supported. In NOT questions: confirm each option is supported before eliminating."
     },
     "nextReview": "TODAY",
@@ -6606,16 +6606,16 @@
     "isMCQ": true,
     "source": "Unit 72 — Q7 Paraphrase (C→A)",
     "quiz": {
-      "question": "[Q7 — Wrong Time Frame: Protectionism (current problem) vs. Altruism (future motivation)]\n\nPassage (last sentence): 'Britain could take a lead on patents and poverty, and make a real difference to the worst-off people on the planet.'\n\nQ: Britain's future actions on patents should be motivated by ______.\nA: altruism (이타주의)\nC: protectionism (보호무역주의)\n\nYour pick — C / Correct — A",
+      "question": "[Q7 — Wrong Time Frame: Protectionism (current problem) vs. Altruism (future motivation)]\n\nPassage (last sentence): 'Britain could... make a real difference to the worst-off people on the planet.'\n\nQ: Britain's future actions on patents should be motivated by ______.\nA: altruism (이타주의)\nC: protectionism (보호무역주의)\n\nYour pick — C / Correct — A",
       "options": [
-        "C: protectionism = what Para 4 describes as the CURRENT government tendency (pharma companies, jobs) = the PROBLEM the author criticises. A: 'make a real difference to the WORST-OFF PEOPLE on the planet' = acting for others' benefit = ALTRUISM ✓. Author argues future should DEPART from protectionism toward altruism.",
+        "C: protectionism = what Para 4 describes as the CURRENT government tendency = the PROBLEM the author criticises. A: 'make a real difference to the WORST-OFF PEOPLE on the planet' = acting for others' benefit = ALTRUISM ✓",
         "C is correct — protecting British pharma = the goal",
         "A is wrong — altruism is too idealistic",
         "D is correct — neo-colonialism drives the recommendation"
       ],
       "correctIdx": 0,
-      "answer": "① C = Protectionism = the CURRENT PROBLEM (Para 4). A = correct: 'worst-off people on the planet' = ALTRUISM ✓",
-      "explanation": "[Last sentence] 'make a real difference to the WORST-OFF PEOPLE' = benefit directed at most disadvantaged others = ALTRUISM ✓\n[C error — Wrong Time Frame] protectionism = CURRENT/PAST tendency the author CRITICISES (Para 4)\n= author's point: Britain should move AWAY from protectionism TOWARD altruism",
+      "answer": "① C = Protectionism = the CURRENT PROBLEM (Para 4). A = correct: 'worst-off people' = ALTRUISM ✓",
+      "explanation": "[Last sentence] 'make a real difference to the WORST-OFF PEOPLE' = benefit for others = ALTRUISM ✓\n[C error — Wrong Time Frame] protectionism = CURRENT/PAST tendency the author CRITICISES (Para 4)",
       "action": "Action Rule (Q7): Protectionism = current problem (Para 4). Altruism = 'worst-off people' = future motivation. Always ask: 'Is this the current problem or the recommended change?'"
     },
     "nextReview": "TODAY",
@@ -6627,17 +6627,101 @@
     "isMCQ": true,
     "source": "Unit 71 — Q22 Targeting (정답 A=Alford)",
     "quiz": {
-      "question": "[Q22 — Targeting: 'tradition as source of authority' — which author?]\n\n• Alford: 'we have always regarded the to of the infinitive as inseparable from its verb, and there seems no good reason for flying in the face of common usage.'\n• Fowler: 'Those upon whom the fear of infinitive-splitting sits heavy should remember that... misconceiving the nature of the split infinitive is far more damaging to their literary pretensions than is an actual lapse.'\n• Jespersen: 'The preposition to no more belongs to the infinitive than the word the belongs to its following substantive. Are we to call the good man a split substantive?'\n• Follett: 'The temptation to split an infinitive is extremely rare in spoken English. It is in written English that splitting is called for, and desk sets should include small hatchets of silver or gold for the purpose.'\n\nQ: Which author regards tradition as the source of authority on English grammar?\nA: Alford   B: Fowler   C: Jespersen   D: Follett",
+      "question": "[Q22 — Targeting: 'tradition as source of authority' — which author?]\n\n• Alford: 'we have always regarded the to of the infinitive as inseparable from its verb, and there seems no good reason for flying in the face of common usage.'\n• Fowler: '...misconceiving the nature of the split infinitive is far more damaging to their literary pretensions than is an actual lapse.'\n• Jespersen: 'The preposition to no more belongs to the infinitive than the word the belongs to its following substantive.'\n• Follett: '...splitting is called for, and desk sets should include small hatchets of silver or gold for the purpose.'\n\nQ: Which author regards tradition as the source of authority?\nA: Alford   B: Fowler   C: Jespersen   D: Follett",
       "options": [
-        "A: Alford — 'we have ALWAYS regarded' (historical continuity = 전통) + 'no good reason for flying in the face of COMMON USAGE' (common usage = established traditional practice). Both = appeal to tradition as authority ✓",
+        "A: 'we have ALWAYS regarded' (historical continuity = 전통) + 'no good reason for flying in the face of COMMON USAGE' (established traditional practice) = both appeal to tradition as authority ✓",
         "B: Fowler — appeals to tradition by citing literary standards",
         "C: Jespersen — appeals to tradition via grammatical history",
         "D: Follett — appeals to traditional spoken English norms"
       ],
       "correctIdx": 0,
-      "answer": "① A = Alford. Evidence: 'always regarded' (precedent) + 'common usage' (convention) = tradition as authority ✓",
-      "explanation": "[Alford = TRADITION]\n'we have ALWAYS regarded' = appeal to historical continuity (항상 그래왔다 = 전통)\n'no good reason for flying in the face of COMMON USAGE' = common usage = established traditional norm = tradition IS the justification\n= '예전부터 다들 그렇게 써왔으니까 그게 맞다' = classic traditionalist position\n\n[Fowler = LOGIC / Comparative harm]\nCriticises those who blindly follow the rule → uses logical argument (misconceiving > actual lapse)\n= does NOT appeal to tradition; he criticises those who rely on it\n\n[Jespersen = ANALOGY / Structural logic]\n'the preposition to no more belongs to the infinitive than the word the belongs to its following substantive'\n= linguistic analogy (구조적 비유) = logic, not tradition\n\n[Follett = EMPIRICAL OBSERVATION / Necessity]\n'extremely rare in spoken English' = frequency-based observation\n'splitting is called for' = necessity-based argument\n= actively encourages breaking the traditional rule\n\n[Authority type map]\nAlford → TRADITION (always + common usage)\nFowler → LOGIC (comparative harm argument)\nJespersen → ANALOGY (structural linguistic reasoning)\nFollett → EMPIRICAL OBSERVATION + NECESSITY",
-      "action": "Action Rule (Q22): 'Tradition as authority' = look for 'always' (historical precedent) + 'common usage' (conventional norm). Map each author's authority type: Alford = tradition / Fowler = logic / Jespersen = analogy / Follett = empirical observation."
+      "answer": "① A = Alford. 'always regarded' (precedent) + 'common usage' (convention) = tradition as authority ✓",
+      "explanation": "[Alford = TRADITION] 'ALWAYS regarded' = historical continuity / 'COMMON USAGE' = established traditional norm\n[Fowler = LOGIC] comparative harm argument (misconceiving > actual lapse)\n[Jespersen = ANALOGY] linguistic structural analogy\n[Follett = EMPIRICAL OBSERVATION] frequency-based + necessity\n[Map] Alford → tradition / Fowler → logic / Jespersen → analogy / Follett → empirical observation",
+      "action": "Action Rule (Q22): 'Tradition as authority' = 'always' (historical precedent) + 'common usage' (conventional norm). Map each author: Alford = tradition / Fowler = logic / Jespersen = analogy / Follett = empirical observation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u70_q95_targeting_devine_formality_social_relationships",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 70 — Q95 Targeting + Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q95 — Targeting: Whose opinion? + 'valuable amenity' paraphrase]\n\nPassage (lines 11–14, Devine's 1st person):\n'(I attribute the broadened use of first names with strangers to email and wish emailers would back off a bit. Gradation of relationship through forms of address is a valuable amenity.)'\n\n• amenity (here) = 사회적 상호작용에서의 예의, 유용한 특징\n\nQ: Devine thinks that linguistic formality is ______.\nB: important in defining social relationships\nC: distinct for each means of communication\n\nYour pick — C / Correct — B",
+      "options": [
+        "C: 'distinct for each means of communication' = reflects the passage's GENERAL THEME (email vs. phone vs. face-to-face) = General Theme Trap. B: 'Gradation of relationship through forms of address' → defining social relationships ✓ / 'valuable amenity' → important ✓ = correct paraphrase of Devine's 1st-person view ✓",
+        "B is wrong — Devine never says formality is important",
+        "C is correct — Devine discusses each medium separately",
+        "D is correct — Devine thinks formality confuses people"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = General Theme Trap: reflects overall passage structure, not Devine's specific opinion. B = correct ✓",
+      "explanation": "[Targeting] Question asks DEVINE's view on formality → must target Devine's 1st-person lines (11–14)\n[B correct] 'Gradation of RELATIONSHIP through FORMS OF ADDRESS' → defining SOCIAL RELATIONSHIPS ✓ / 'VALUABLE AMENITY' → IMPORTANT ✓\n[C — General Theme Trap] passage compares email/phone/face-to-face = STRUCTURE of the passage, not Devine's specific opinion about formality",
+      "action": "Action Rule (Q95): Always check WHOSE opinion the question asks for. C = General Theme Trap (passage structure ≠ Devine's specific view). Target Devine's 1st-person lines. 'Valuable amenity' → important / 'Gradation of relationship' → defining social relationships ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u70_q96_paraphrase_email_speech_overstatement",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 70 — Q96 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q96 — Paraphrase: Overstatement Trap — 'no regard' vs. 'little/less']\n\nPassage (lines 14–15): 'Herbert's central reason for placing email with speech is that there is LITTLE PRE-PLANNING and even LESS POST-EDITING.'\n\nQ: Herbert says that email is like spoken conversation in that it ______.\nB: has no regard for the normal rules of logical coherence\nC: is a product of the moment and is not filtered by critical reflection\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'NO REGARD for... logical coherence' = extreme overstatement. Passage says 'LITTLE pre-planning' and 'LESS post-editing' = degree words, not total absence. C: 'product of the MOMENT' = little pre-planning ✓ / 'not filtered by CRITICAL REFLECTION' = less post-editing ✓ = correct degree-matched paraphrase ✓",
+        "B is correct — no pre-planning = no regard for logical rules",
+        "C is wrong — 'critical reflection' is not in the passage",
+        "D is correct — email grammar is unacceptable in writing"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Overstatement: 'no regard' >> 'little/less' in passage. C = correct degree match ✓",
+      "explanation": "[Passage] 'LITTLE pre-planning' + 'LESS post-editing' = degree words: not zero, just less\n[C correct] little pre-planning → PRODUCT OF THE MOMENT ✓ / less post-editing → NOT FILTERED BY CRITICAL REFLECTION ✓\n[B — Overstatement] 'no regard' = implies email is completely incoherent = far beyond 'little/less'\n[GAMSAT rule] degree qualifiers (little, less, somewhat) in passage → reject absolute terms (no, never, completely) in choices",
+      "action": "Action Rule (Q96): 'Little/less' in passage = degree qualifiers. B = Overstatement: 'no regard' is absolute. Rule: absolute terms (no/never/completely) → reject when passage uses degree words."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u69_q70_targeting_sheldon_triathlete_classification",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 69 — Q70 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q70 — Partial Keyword Match + Cross-Check Failure]\n\nSheldon's 1–7 scale (7 = high, 1 = low):\n• Endomorph: softness, roundness, large digestive system, UNDERdevelopment of bone and muscle\n• Mesomorph: strong bones and muscles, GENERALLY HEAVY, hard and rectangular, equipped for STRENUOUS physical demands\n• Ectomorph: THINNESS, large skin area, nervous system, LINEAR and fragile\n\nSubjects: athletes in marathon races or triathlons 3+ times a year\n\nQ: Most likely classification (Endomorph – Mesomorph – Ectomorph)?\nA: 1 – 5 – 5\nC: 3 – 7 – 2\n\nYour pick — C / Correct — A",
+      "options": [
+        "C: locked onto 'strenuous physical demands' → Mesomorph 7. But MISSED 'generally HEAVY' = marathon/triathlon athletes are NOT heavy → contradicts Mesomorph 7. Also Ectomorph 2 too low — distance athletes are thin and linear = high ectomorph. A: Endomorph 1 / Mesomorph 5 (muscular but lean, not heavy) / Ectomorph 5 (thin, linear) ✓",
+        "A is wrong — triathletes need extreme mesomorph scores",
+        "C is correct — 'strenuous' directly maps to Mesomorph 7",
+        "D is correct — marathon runners are pure ectomorphs"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Partial Keyword Match: 'strenuous' → Mesomorph 7, but 'generally heavy' contradicts distance athletes. A = all descriptors cross-checked: 1–5–5 ✓",
+      "explanation": "[Why C fails — Mesomorph 7] 'strenuous' → assigns 7 BUT Mesomorph ALSO = 'GENERALLY HEAVY' / marathon athletes = extremely lean, NOT heavy → 7 = bodybuilder, not distance athlete → 5 = muscular but lean ✓\n[Why C fails — Ectomorph 2] Ectomorph = THINNESS + LINEAR / distance athletes = extremely thin and linear = HIGH ectomorph → 2 = almost no ectomorph = wrong → 5 ✓\n[Why C fails — Endomorph 3] Endomorph = softness, roundness / distance athletes = extremely low body fat → 3 too high → 1 ✓\n[Cross-check protocol] For each body type: keyword match is NOT enough → must check ALL descriptors, especially the FIRST descriptor → conflict found = cannot assign maximum score",
+      "action": "Action Rule (Q70): Never assign max score from ONE keyword match. Must cross-check ALL descriptors. 'Strenuous' → Mesomorph seems high BUT 'generally heavy' contradicts distance athlete. Distance athlete profile: Endomorph 1 / Mesomorph 5 / Ectomorph 5."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u68_q39_tone_ridicule_vs_praise_ig_nobel",
+    "type": "tone",
+    "isMCQ": true,
+    "source": "Unit 68 — Q39 Tone/Inference (C→D)",
+    "quiz": {
+      "question": "[Q39 — Tone: Ridicule vs. Praise + Mission Statement Alignment]\n\nIg Nobel Mission: 'celebrate the unusual, honour the imaginative, and spur people's interest in science, medicine and technology.'\n\nPassage evidence:\n• Lines 7–8: email grows 'more slowly than it takes for grass to grow or paint to dry'\n• Lines 9–12: in the time pitch took to fall 7 drops, humanity built atomic bombs, designed polio vaccine, sent man to the moon, mapped the human genome\n• Lines 14–15: experiment 'proved something of LIMITED SCIENTIFIC VALUE'\n• Lines 15–17: Parnell to join, 'posthumously', Ig Nobel list for 'achievements that cannot, or should not, be reproduced'\n\nQ: To what extent is the extract in keeping with the spirit of the 'Ig Nobels' as reflected in this mission statement?\nC: to some extent, because despite the passage's derogatory tone it still praises Parnell's scientific achievements\nD: not at all, since the passage sets Parnell's reported experiment up for ridicule rather than appreciation\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'still praises Parnell's scientific achievements' = factual error. Passage explicitly states 'LIMITED scientific value' = the achievements are diminished, not praised. D: the author uses juxtaposition (7 drops vs. atom bomb/moon/genome) to expose how trivial the experiment is = RIDICULE, not appreciation. Mission = celebrate + honour (positive) ≠ ridicule = NOT AT ALL aligned ✓",
+        "D is wrong — the passage still celebrates the spirit of unusual science",
+        "C is correct — 'limited scientific value' is a mild criticism, not ridicule",
+        "A is correct — the passage fully aligns with the mission"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Factual Error: passage says 'limited scientific value' = diminished, NOT praised. D = correct: ridicule (juxtaposition device) ≠ mission's 'celebrate and honour' = NOT AT ALL aligned ✓",
+      "explanation": "[C — Factual Error]\n'still PRAISES Parnell's scientific achievements'\n= passage says 'proved something of LIMITED SCIENTIFIC VALUE' (lines 14–15)\n= the author explicitly DIMINISHES the value, does NOT praise it\n= C contains a direct contradiction of a stated fact in the passage\n\n[D — correct tone analysis]\nAuthor uses JUXTAPOSITION (대비) as a rhetorical device:\n→ 7 drops of pitch in 70+ years\n→ MEANWHILE: atomic bomb, polio vaccine, moon landing, human genome\n= these achievements are listed to make the pitch experiment look absurdly trivial\n= the contrast creates RIDICULE, not celebration\n\nAdditional ridicule markers:\n'more slowly than grass grows or paint dries' = comic exaggeration (조롱)\n'posthumously' joining = ironic distance from the award\n'achievements that cannot, or should not, be reproduced' = the Ig Nobel framing itself = gentle mockery\n\n[Mission alignment check]\nMission: 'celebrate', 'honour', 'spur interest' = POSITIVE, appreciative framing\nPassage: ridicule through juxtaposition + limited scientific value = NEGATIVE, dismissive framing\n= NOT AT ALL aligned with the mission's spirit ✓\n\n[Why C was attractive]\n'derogatory tone' is correctly identified in C\nBut C then adds 'still PRAISES' = false conclusion\n= half-right observation (tone) + false conclusion (praise) = classic partial-match trap",
+      "action": "Action Rule (Q39): When passage uses JUXTAPOSITION (trivial event vs. massive achievements listed), the author's intent = RIDICULE, not appreciation. Check factual accuracy of each choice: C says 'praises' but passage says 'limited scientific value' = factual contradiction → eliminate. Mission 'celebrate/honour' ≠ ridicule = NOT AT ALL aligned ✓."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
