@@ -6636,8 +6636,8 @@
       ],
       "correctIdx": 0,
       "answer": "① A = Alford. 'always regarded' (precedent) + 'common usage' (convention) = tradition as authority ✓",
-      "explanation": "[Alford = TRADITION] 'ALWAYS regarded' = historical continuity / 'COMMON USAGE' = established traditional norm\n[Fowler = LOGIC] comparative harm argument (misconceiving > actual lapse)\n[Jespersen = ANALOGY] linguistic structural analogy\n[Follett = EMPIRICAL OBSERVATION] frequency-based + necessity\n[Map] Alford → tradition / Fowler → logic / Jespersen → analogy / Follett → empirical observation",
-      "action": "Action Rule (Q22): 'Tradition as authority' = 'always' (historical precedent) + 'common usage' (conventional norm). Map each author: Alford = tradition / Fowler = logic / Jespersen = analogy / Follett = empirical observation."
+      "explanation": "[Alford = TRADITION] 'ALWAYS regarded' = historical continuity / 'COMMON USAGE' = established traditional norm\n[Fowler = LOGIC] comparative harm argument\n[Jespersen = ANALOGY] linguistic structural analogy\n[Follett = EMPIRICAL OBSERVATION] frequency-based + necessity",
+      "action": "Action Rule (Q22): 'Tradition as authority' = 'always' (historical precedent) + 'common usage' (conventional norm). Map: Alford = tradition / Fowler = logic / Jespersen = analogy / Follett = empirical observation."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6648,17 +6648,17 @@
     "isMCQ": true,
     "source": "Unit 70 — Q95 Targeting + Paraphrase (C→B)",
     "quiz": {
-      "question": "[Q95 — Targeting: Whose opinion? + 'valuable amenity' paraphrase]\n\nPassage (lines 11–14, Devine's 1st person):\n'(I attribute the broadened use of first names with strangers to email and wish emailers would back off a bit. Gradation of relationship through forms of address is a valuable amenity.)'\n\n• amenity (here) = 사회적 상호작용에서의 예의, 유용한 특징\n\nQ: Devine thinks that linguistic formality is ______.\nB: important in defining social relationships\nC: distinct for each means of communication\n\nYour pick — C / Correct — B",
+      "question": "[Q95 — Targeting: Whose opinion? + 'valuable amenity' paraphrase]\n\nPassage (lines 11–14, Devine's 1st person): 'Gradation of relationship through forms of address is a valuable amenity.'\n\nQ: Devine thinks that linguistic formality is ______.\nB: important in defining social relationships\nC: distinct for each means of communication\n\nYour pick — C / Correct — B",
       "options": [
-        "C: 'distinct for each means of communication' = reflects the passage's GENERAL THEME (email vs. phone vs. face-to-face) = General Theme Trap. B: 'Gradation of relationship through forms of address' → defining social relationships ✓ / 'valuable amenity' → important ✓ = correct paraphrase of Devine's 1st-person view ✓",
+        "C: 'distinct for each means of communication' = reflects the passage's GENERAL THEME = General Theme Trap. B: 'Gradation of relationship through forms of address' → defining social relationships ✓ / 'valuable amenity' → important ✓ = correct paraphrase of Devine's 1st-person view ✓",
         "B is wrong — Devine never says formality is important",
         "C is correct — Devine discusses each medium separately",
         "D is correct — Devine thinks formality confuses people"
       ],
       "correctIdx": 0,
-      "answer": "① C = General Theme Trap: reflects overall passage structure, not Devine's specific opinion. B = correct ✓",
-      "explanation": "[Targeting] Question asks DEVINE's view on formality → must target Devine's 1st-person lines (11–14)\n[B correct] 'Gradation of RELATIONSHIP through FORMS OF ADDRESS' → defining SOCIAL RELATIONSHIPS ✓ / 'VALUABLE AMENITY' → IMPORTANT ✓\n[C — General Theme Trap] passage compares email/phone/face-to-face = STRUCTURE of the passage, not Devine's specific opinion about formality",
-      "action": "Action Rule (Q95): Always check WHOSE opinion the question asks for. C = General Theme Trap (passage structure ≠ Devine's specific view). Target Devine's 1st-person lines. 'Valuable amenity' → important / 'Gradation of relationship' → defining social relationships ✓."
+      "answer": "① C = General Theme Trap. B = correct ✓",
+      "explanation": "[Targeting] Question asks DEVINE's view → target Devine's 1st-person lines\n[B correct] 'Gradation of RELATIONSHIP through FORMS OF ADDRESS' → defining SOCIAL RELATIONSHIPS ✓ / 'VALUABLE AMENITY' → IMPORTANT ✓\n[C — General Theme Trap] passage structure (email/phone/face-to-face comparison) ≠ Devine's specific opinion",
+      "action": "Action Rule (Q95): Always check WHOSE opinion the question asks for. C = General Theme Trap. 'Valuable amenity' → important / 'Gradation of relationship' → defining social relationships ✓."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6671,15 +6671,15 @@
     "quiz": {
       "question": "[Q96 — Paraphrase: Overstatement Trap — 'no regard' vs. 'little/less']\n\nPassage (lines 14–15): 'Herbert's central reason for placing email with speech is that there is LITTLE PRE-PLANNING and even LESS POST-EDITING.'\n\nQ: Herbert says that email is like spoken conversation in that it ______.\nB: has no regard for the normal rules of logical coherence\nC: is a product of the moment and is not filtered by critical reflection\n\nYour pick — B / Correct — C",
       "options": [
-        "B: 'NO REGARD for... logical coherence' = extreme overstatement. Passage says 'LITTLE pre-planning' and 'LESS post-editing' = degree words, not total absence. C: 'product of the MOMENT' = little pre-planning ✓ / 'not filtered by CRITICAL REFLECTION' = less post-editing ✓ = correct degree-matched paraphrase ✓",
+        "B: 'NO REGARD for... logical coherence' = extreme overstatement of 'little/less' in passage. C: 'product of the MOMENT' = little pre-planning ✓ / 'not filtered by CRITICAL REFLECTION' = less post-editing ✓ = correct degree-matched paraphrase ✓",
         "B is correct — no pre-planning = no regard for logical rules",
         "C is wrong — 'critical reflection' is not in the passage",
         "D is correct — email grammar is unacceptable in writing"
       ],
       "correctIdx": 0,
-      "answer": "① B = Overstatement: 'no regard' >> 'little/less' in passage. C = correct degree match ✓",
-      "explanation": "[Passage] 'LITTLE pre-planning' + 'LESS post-editing' = degree words: not zero, just less\n[C correct] little pre-planning → PRODUCT OF THE MOMENT ✓ / less post-editing → NOT FILTERED BY CRITICAL REFLECTION ✓\n[B — Overstatement] 'no regard' = implies email is completely incoherent = far beyond 'little/less'\n[GAMSAT rule] degree qualifiers (little, less, somewhat) in passage → reject absolute terms (no, never, completely) in choices",
-      "action": "Action Rule (Q96): 'Little/less' in passage = degree qualifiers. B = Overstatement: 'no regard' is absolute. Rule: absolute terms (no/never/completely) → reject when passage uses degree words."
+      "answer": "① B = Overstatement: 'no regard' >> 'little/less'. C = correct degree match ✓",
+      "explanation": "[Passage] 'LITTLE pre-planning' + 'LESS post-editing' = degree words: not zero, just less\n[C correct] little pre-planning → PRODUCT OF THE MOMENT ✓ / less post-editing → NOT FILTERED BY CRITICAL REFLECTION ✓\n[B — Overstatement] 'no regard' = completely incoherent = far beyond 'little/less'\n[GAMSAT rule] degree qualifiers in passage → reject absolute terms in choices",
+      "action": "Action Rule (Q96): 'Little/less' in passage = degree qualifiers. Absolute terms (no/never/completely) → reject when passage uses degree words."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6690,17 +6690,17 @@
     "isMCQ": true,
     "source": "Unit 69 — Q70 Targeting (C→A)",
     "quiz": {
-      "question": "[Q70 — Partial Keyword Match + Cross-Check Failure]\n\nSheldon's 1–7 scale (7 = high, 1 = low):\n• Endomorph: softness, roundness, large digestive system, UNDERdevelopment of bone and muscle\n• Mesomorph: strong bones and muscles, GENERALLY HEAVY, hard and rectangular, equipped for STRENUOUS physical demands\n• Ectomorph: THINNESS, large skin area, nervous system, LINEAR and fragile\n\nSubjects: athletes in marathon races or triathlons 3+ times a year\n\nQ: Most likely classification (Endomorph – Mesomorph – Ectomorph)?\nA: 1 – 5 – 5\nC: 3 – 7 – 2\n\nYour pick — C / Correct — A",
+      "question": "[Q70 — Partial Keyword Match + Cross-Check Failure]\n\nSheldon's 1–7 scale (7 = high, 1 = low):\n• Endomorph: softness, roundness, UNDERdevelopment of bone and muscle\n• Mesomorph: strong bones and muscles, GENERALLY HEAVY, equipped for STRENUOUS physical demands\n• Ectomorph: THINNESS, large skin area, LINEAR and fragile\n\nSubjects: marathon/triathlon athletes\n\nQ: Most likely classification (Endomorph – Mesomorph – Ectomorph)?\nA: 1 – 5 – 5\nC: 3 – 7 – 2\n\nYour pick — C / Correct — A",
       "options": [
-        "C: locked onto 'strenuous physical demands' → Mesomorph 7. But MISSED 'generally HEAVY' = marathon/triathlon athletes are NOT heavy → contradicts Mesomorph 7. Also Ectomorph 2 too low — distance athletes are thin and linear = high ectomorph. A: Endomorph 1 / Mesomorph 5 (muscular but lean, not heavy) / Ectomorph 5 (thin, linear) ✓",
+        "C: 'strenuous' → Mesomorph 7. But MISSED 'generally HEAVY' = distance athletes are NOT heavy → contradicts 7. Ectomorph 2 too low (distance athletes = thin, linear = high). A: 1 / 5 (muscular but lean) / 5 (thin, linear) ✓",
         "A is wrong — triathletes need extreme mesomorph scores",
         "C is correct — 'strenuous' directly maps to Mesomorph 7",
         "D is correct — marathon runners are pure ectomorphs"
       ],
       "correctIdx": 0,
-      "answer": "① C = Partial Keyword Match: 'strenuous' → Mesomorph 7, but 'generally heavy' contradicts distance athletes. A = all descriptors cross-checked: 1–5–5 ✓",
-      "explanation": "[Why C fails — Mesomorph 7] 'strenuous' → assigns 7 BUT Mesomorph ALSO = 'GENERALLY HEAVY' / marathon athletes = extremely lean, NOT heavy → 7 = bodybuilder, not distance athlete → 5 = muscular but lean ✓\n[Why C fails — Ectomorph 2] Ectomorph = THINNESS + LINEAR / distance athletes = extremely thin and linear = HIGH ectomorph → 2 = almost no ectomorph = wrong → 5 ✓\n[Why C fails — Endomorph 3] Endomorph = softness, roundness / distance athletes = extremely low body fat → 3 too high → 1 ✓\n[Cross-check protocol] For each body type: keyword match is NOT enough → must check ALL descriptors, especially the FIRST descriptor → conflict found = cannot assign maximum score",
-      "action": "Action Rule (Q70): Never assign max score from ONE keyword match. Must cross-check ALL descriptors. 'Strenuous' → Mesomorph seems high BUT 'generally heavy' contradicts distance athlete. Distance athlete profile: Endomorph 1 / Mesomorph 5 / Ectomorph 5."
+      "answer": "① C = Partial Keyword Match: 'strenuous' → 7, but 'generally heavy' contradicts distance athletes. A = 1–5–5 cross-checked ✓",
+      "explanation": "[Mesomorph 7 fails] 'generally HEAVY' = marathon athletes NOT heavy → 7 = bodybuilder / 5 = muscular but lean ✓\n[Ectomorph 2 fails] THINNESS + LINEAR = distance athletes → 2 wrong → 5 ✓\n[Endomorph 3 fails] extreme lean = low body fat → 3 too high → 1 ✓\n[Protocol] keyword match alone NOT enough → check ALL descriptors → conflict = cannot assign max score",
+      "action": "Action Rule (Q70): Never assign max score from ONE keyword match. Must cross-check ALL descriptors. Distance athlete profile: Endomorph 1 / Mesomorph 5 / Ectomorph 5."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6711,17 +6711,122 @@
     "isMCQ": true,
     "source": "Unit 68 — Q39 Tone/Inference (C→D)",
     "quiz": {
-      "question": "[Q39 — Tone: Ridicule vs. Praise + Mission Statement Alignment]\n\nIg Nobel Mission: 'celebrate the unusual, honour the imaginative, and spur people's interest in science, medicine and technology.'\n\nPassage evidence:\n• Lines 7–8: email grows 'more slowly than it takes for grass to grow or paint to dry'\n• Lines 9–12: in the time pitch took to fall 7 drops, humanity built atomic bombs, designed polio vaccine, sent man to the moon, mapped the human genome\n• Lines 14–15: experiment 'proved something of LIMITED SCIENTIFIC VALUE'\n• Lines 15–17: Parnell to join, 'posthumously', Ig Nobel list for 'achievements that cannot, or should not, be reproduced'\n\nQ: To what extent is the extract in keeping with the spirit of the 'Ig Nobels' as reflected in this mission statement?\nC: to some extent, because despite the passage's derogatory tone it still praises Parnell's scientific achievements\nD: not at all, since the passage sets Parnell's reported experiment up for ridicule rather than appreciation\n\nYour pick — C / Correct — D",
+      "question": "[Q39 — Tone: Ridicule vs. Praise + Mission Statement Alignment]\n\nIg Nobel Mission: 'celebrate the unusual, honour the imaginative, and spur people's interest in science.'\n\nPassage: pitch drops slower than grass grows / 7 drops meanwhile: atomic bomb, polio vaccine, moon landing, genome / 'LIMITED SCIENTIFIC VALUE' / 'achievements that cannot, or should not, be reproduced'\n\nQ: To what extent is the extract in keeping with the spirit of the Ig Nobels?\nC: to some extent, because despite the passage's derogatory tone it still praises Parnell's scientific achievements\nD: not at all, since the passage sets Parnell's reported experiment up for ridicule rather than appreciation\n\nYour pick — C / Correct — D",
       "options": [
-        "C: 'still praises Parnell's scientific achievements' = factual error. Passage explicitly states 'LIMITED scientific value' = the achievements are diminished, not praised. D: the author uses juxtaposition (7 drops vs. atom bomb/moon/genome) to expose how trivial the experiment is = RIDICULE, not appreciation. Mission = celebrate + honour (positive) ≠ ridicule = NOT AT ALL aligned ✓",
-        "D is wrong — the passage still celebrates the spirit of unusual science",
-        "C is correct — 'limited scientific value' is a mild criticism, not ridicule",
+        "C: 'still PRAISES Parnell's scientific achievements' = factual error — passage says 'LIMITED scientific value' = diminished, NOT praised. D: juxtaposition (7 drops vs. atom bomb/moon/genome) = RIDICULE device. Mission = 'celebrate + honour' ≠ ridicule = NOT AT ALL aligned ✓",
+        "D is wrong — the passage still celebrates unusual science",
+        "C is correct — 'limited scientific value' is a mild criticism",
         "A is correct — the passage fully aligns with the mission"
       ],
       "correctIdx": 0,
-      "answer": "① C = Factual Error: passage says 'limited scientific value' = diminished, NOT praised. D = correct: ridicule (juxtaposition device) ≠ mission's 'celebrate and honour' = NOT AT ALL aligned ✓",
-      "explanation": "[C — Factual Error]\n'still PRAISES Parnell's scientific achievements'\n= passage says 'proved something of LIMITED SCIENTIFIC VALUE' (lines 14–15)\n= the author explicitly DIMINISHES the value, does NOT praise it\n= C contains a direct contradiction of a stated fact in the passage\n\n[D — correct tone analysis]\nAuthor uses JUXTAPOSITION (대비) as a rhetorical device:\n→ 7 drops of pitch in 70+ years\n→ MEANWHILE: atomic bomb, polio vaccine, moon landing, human genome\n= these achievements are listed to make the pitch experiment look absurdly trivial\n= the contrast creates RIDICULE, not celebration\n\nAdditional ridicule markers:\n'more slowly than grass grows or paint dries' = comic exaggeration (조롱)\n'posthumously' joining = ironic distance from the award\n'achievements that cannot, or should not, be reproduced' = the Ig Nobel framing itself = gentle mockery\n\n[Mission alignment check]\nMission: 'celebrate', 'honour', 'spur interest' = POSITIVE, appreciative framing\nPassage: ridicule through juxtaposition + limited scientific value = NEGATIVE, dismissive framing\n= NOT AT ALL aligned with the mission's spirit ✓\n\n[Why C was attractive]\n'derogatory tone' is correctly identified in C\nBut C then adds 'still PRAISES' = false conclusion\n= half-right observation (tone) + false conclusion (praise) = classic partial-match trap",
-      "action": "Action Rule (Q39): When passage uses JUXTAPOSITION (trivial event vs. massive achievements listed), the author's intent = RIDICULE, not appreciation. Check factual accuracy of each choice: C says 'praises' but passage says 'limited scientific value' = factual contradiction → eliminate. Mission 'celebrate/honour' ≠ ridicule = NOT AT ALL aligned ✓."
+      "answer": "① C = Factual Error: 'praises' contradicts 'limited scientific value'. D = Juxtaposition = Ridicule ≠ Mission's 'celebrate/honour' = NOT AT ALL aligned ✓",
+      "explanation": "[C — Factual Error] 'still PRAISES' = passage says 'LIMITED SCIENTIFIC VALUE' = DIMINISHED not praised = direct factual contradiction\n[D — correct] JUXTAPOSITION: 7 drops in 70+ years MEANWHILE atomic bomb/vaccine/moon/genome = makes experiment look absurdly trivial = RIDICULE\n[Mission check] 'celebrate', 'honour' (positive) / Passage: ridicule + limited value (negative) = NOT AT ALL ✓\n[Why C attractive] 'derogatory tone' correctly identified BUT then adds 'still praises' = false conclusion = partial-match trap",
+      "action": "Action Rule (Q39): Juxtaposition (trivial event vs. massive achievements) = RIDICULE. Check factual accuracy: C says 'praises' but passage says 'limited value' → contradiction → eliminate. Mission 'celebrate/honour' ≠ ridicule = NOT AT ALL ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u66_q35_targeting_armory_real_vs_fictional",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 66 — Q35 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q35 — Targeting: Real Place vs. Fictional Place Confusion]\n\nP1 (lines 10–11): 'When I tell you about the single greatest game I ever SAW PLAYED at the Armory...'\nP2 (lines 5–9): '...I wanted to walk myself out of the GYMNASIUM where I would dance and glide... When I went onto the floor of the now-empty GYM...'\n\nQ: What is the Armory?\nA: a fictional place in which Conroy set his basketball games\nB: a gymnasium at Conroy's college\n\nYour pick — A / Correct — B",
+      "options": [
+        "A: passage is fiction-heavy → student assumes Armory = fictional place. But P1: 'SAW played' = real personal memory. P2: same space = 'gymnasium'/'gym' = real college gym. Armory = real gymnasium; fictional CHARACTER (Will McLean) placed in REAL setting. A = wrong ✓ B ✓",
+        "B is wrong — Armory is where Will McLean plays, so it is fictional",
+        "C is correct — Armory is the name of Conroy's college",
+        "D is correct — Armory is a VMI basketball court"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Fiction-Contamination Error: fictional content ≠ fictional setting. B = correct: Armory = real gymnasium (P1: 'saw played' / P2: 'gymnasium'/'gym') ✓",
+      "explanation": "[P1] 'SAW PLAYED' = personal memory of real event Conroy physically attended\n[P2] 'GYMNASIUM'/'GYM' = real physical space = Armory (P1) = gymnasium (P2) = real college gymnasium ✓\n[Why A chosen] Fiction-Contamination Error: fictional characters (Will McLean) → student assumes fictional setting\nBUT: Conroy places FICTIONAL CHARACTERS in a REAL SETTING\n[Key distinction] Fictional: Will McLean, the characters / Real: the Armory/gymnasium, the game, the basketball experience",
+      "action": "Action Rule (Q35): Fictional characters ≠ fictional setting. Check if author personally interacts with the place (P1: 'saw played' = real memory). Rule: fiction-heavy passages may use REAL settings for FICTIONAL characters — distinguish place vs. person."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u66_q36_targeting_count_fiction_believers",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 66 — Q36 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q36 — Targeting: Count Task — who believes Conroy writes fiction?]\n\nFour people in Passage 2 (excluding DeBrosse's kids):\n1. Conroy's wife → 'You don't write fiction.' = NOT fiction ✗\n2. Will McLean → agrees with wife = NOT fiction ✗\n3. John DeBrosse → 'Bullshit. Conroy's making that up.' = FICTION ✓\n4. Conroy himself → 'This really is fiction,' I said. = FICTION ✓\n\nQ: How many thought that Conroy wrote fiction?\nA: 0   B: 1   C: 2   D: 3\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: counted only DeBrosse (1) and missed Conroy himself explicitly saying 'This really is fiction, I said' (lines 22–24). C: DeBrosse (✓) + Conroy himself (✓) = 2 ✓",
+        "C is wrong — Conroy is the author, not a 'person' to count",
+        "A is correct — nobody believes Conroy writes fiction",
+        "D is correct — wife, DeBrosse, and Conroy all think it is fiction"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = missed Conroy himself saying 'This really is fiction' (lines 22–24). C = DeBrosse + Conroy = 2 ✓",
+      "explanation": "[Systematic count]\nWife: 'You don't write fiction' = NOT fiction ✗\nWill: agrees with wife = NOT fiction ✗\nDeBrosse: 'Bullshit. Conroy's making that up.' = thinks it IS fiction ✓\nConroy: 'This really is fiction, I said.' = explicitly states IS fiction ✓\nTotal = 2 → C ✓\n[Why B chosen — Omission of Self] counted DeBrosse (1) but missed Conroy himself\nCommon error: excluding the narrator/speaker from the count\n[Trap] Wife + Will = most prominent voices saying 'NOT fiction' → easy to miss DeBrosse + Conroy",
+      "action": "Action Rule (Q36): In count tasks, include the NARRATOR/AUTHOR when they make an explicit statement. Conroy says 'This really is fiction' = counts as 1. Systematic check: Wife (✗) + Will (✗) + DeBrosse (✓) + Conroy (✓) = 2. Never omit the speaker from the count."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u66_q38_targeting_literary_device_vs_hallucination",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 66 — Q38 Targeting (C→B)",
+    "quiz": {
+      "question": "[Q38 — Targeting: Literary Device vs. Literal Reading Trap]\n\nPassage evidence:\n• P1 line 3–4: 'I fictionalize events stolen from my actual life'\n• P1 line 6–8: 'My made-up doubles and stand-ins... hijacked a train-full of all my friends'\n• P1 line 20: 'I'm your father, Will. I created you out of words. I made you up.'\n• P2 line 22–24: 'We're not really having this conversation, are we? / No, we're not.'\n\nQ: From a consideration of both passages, which is closest to the truth?\nB: Conroy invents characters based on his life experiences\nC: Conroy hallucinates in his novels which lose contact with reality\n\nYour pick — C / Correct — B",
+      "options": [
+        "C: treats Conroy's conversation with Will McLean as literal hallucination. But Conroy is FULLY AWARE ('I created you out of words' / 'We're not really having this conversation') = deliberate literary device, not loss of contact with reality. B: 'fictionalize events stolen from my actual life' + 'made-up doubles and stand-ins' = invents characters BASED ON real life experiences ✓",
+        "B is wrong — Conroy doesn't use real life, he purely invents",
+        "C is correct — the passage describes Conroy losing grip on reality",
+        "D is correct — Conroy confuses memory and imagination"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Literal Reading Trap: conversation with Will = literary device (author consciously imagines his character). Conroy is FULLY AWARE ('I created you... We're not really having this conversation'). B = correct: invents characters based on real life ✓",
+      "explanation": "[C — Literal Reading Trap]\nConroy meets Will McLean in the empty gym → student reads as HALLUCINATION\nBUT: 'I CREATED YOU OUT OF WORDS. I MADE YOU UP.' = Conroy fully aware Will is fictional creation\n'We're not really having this conversation, are we? No, we're not.' = explicitly states conversation is not real = no delusion\n= LITERARY DEVICE (author consciously inhabiting his fiction), NOT psychiatric symptom\n\n[B — correct chain]\n'fictionalize events STOLEN FROM MY ACTUAL LIFE' → invents characters BASED ON life experiences ✓\n'made-up doubles and stand-ins' = fictional characters modelled on real people ✓\n\n[Key GAMSAT distinction]\nLiterary device = author consciously creates imaginative scene / remains self-aware\nHallucination = involuntary, no self-awareness, believes fiction is real\nTest: does the author know it is fictional? Conroy = YES ('We're not really having this conversation') → Literary device ✓",
+      "action": "Action Rule (Q38): Distinguish LITERARY DEVICE (author consciously imagines) from HALLUCINATION (involuntary, no self-awareness). Key test: does the author know the conversation is fictional? Conroy explicitly says yes → literary device ✓, not hallucination ✗."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u64_q39_targeting_history_conditioned_by_attitudes",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 64 — Q39 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q39 — Targeting: Overstatement + Time-Conditioned Perspective]\n\nPassage (Para 2, lines 12–17):\n'To a certain degree, the revised viewpoint on primitive cinema was formed in a framework of opposition to the standard Hollywood product of the studio era. In the 1970s, when a vigorous and influential independent film movement flourished, parallels were drawn between primitive cinema and the modern avant-garde...'\n\nQ: The passage implies that any history of primitive cinema will be ______.\nA: likely to present a grossly distorted view of reality\nC: conditioned to some extent by current attitudes and values\n\nYour pick — A / Correct — C",
+      "options": [
+        "A: 'GROSSLY distorted view of reality' = extreme overstatement. Passage says the revised viewpoint was shaped by 1970s film movement = influenced by contemporary attitudes, not that it GROSSLY distorts reality. C: 'conditioned TO SOME EXTENT by current attitudes and values' = the 1970s revised view = shaped by the era's independent film movement = attitudes of that time ✓",
+        "C is wrong — the passage doesn't say attitudes shape history",
+        "A is correct — 1970s viewpoint is grossly distorted",
+        "D is correct — primitive cinema history is impossible to write"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Overstatement: 'grossly distorted' >> 'formed in a framework of opposition' in passage. C = correct: revised viewpoint = shaped by 1970s era attitudes = conditioned by current attitudes ✓",
+      "explanation": "[Passage logic]\nPara 1: 'linear perspective... gave way to a recognition that cinema developed through debate, controversy, and struggle'\n= the old view (linear) has been revised\nPara 2: 'revised viewpoint... was formed in a FRAMEWORK OF OPPOSITION to... Hollywood... In the 1970s, when... independent film movement flourished, parallels were drawn'\n= the NEW view was also shaped by the contemporary context (1970s film culture)\n= implication: any historical view is influenced by the attitudes of its era\n\n[C correct chain]\n'framework of opposition' to Hollywood + '1970s independent film movement flourished'\n→ the historical reassessment was CONDITIONED BY CURRENT ATTITUDES (1970s attitudes) ✓\n'to SOME EXTENT' = 'to a certain degree' (Para 2 opener) ✓\n= C matches the hedged, qualified claim of the passage ✓\n\n[A — Overstatement Error]\n'GROSSLY distorted view of reality' = extreme, severe misrepresentation\nPassage says the revised view was 'formed in a framework of opposition' = influenced, shaped\n= being shaped by contemporary attitudes ≠ 'grossly distorting reality'\n= passage never says the history is severely wrong or distorted\n= A imports extreme language absent from the passage\n\n[Paraphrase chain that was missed]\n'linear' (line 5) → 'progressive development' (Para 2, line 17) → same concept, different words\nThis synonym chain is the scanning key: linear = progressive development = the basis for historian criticism",
+      "action": "Action Rule (Q39 U64): 'Conditioned to some extent' = hedged claim. Match the passage's degree: 'to a certain degree' + 'framework of opposition' = shaped by attitudes (C), not 'grossly distorted' (A). Also: 'linear' (Para 1) = 'progressive development' (Para 2) — same concept, scan for synonyms not just identical words."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u64_q40_targeting_linear_progressive_development",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 64 — Q40 Targeting (근거 못 찾음→B)",
+    "quiz": {
+      "question": "[Q40 — Targeting: Synonym Scan Failure — 'linear' = 'progressive development']\n\nQ: Those who saw the history of cinema as 'linear' criticised early film makers because they ______.\nA: set out to take cinema in the wrong direction\nB: did not appreciate the film medium as well as they should\nC: ignored what people and politicians wanted to see in films\nD: failed to make use of accumulated knowledge and experience\n\nScanning challenge: 'linear' appears in Para 1 (line 5) but the REASON for criticism is in Para 2 (lines 16–19) under its SYNONYM 'progressive development'.\n\nCorrect — B",
+      "options": [
+        "Key paraphrase chain: 'linear' → 'progressive development' (Para 2 synonym). Target: Para 2 lines 16–19: 'many aspects of primitive cinema had been criticised... on the supposition that early film makers ONLY SLOWLY CAME TO UNDERSTAND THE STYLISTIC POTENTIALS OF THE MEDIUM.' → 'did not appreciate the film medium as well as they should' ✓",
+        "A is correct — early film makers went in the wrong direction",
+        "C is correct — early films ignored political content",
+        "D is correct — early film makers ignored accumulated knowledge"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = correct: 'only slowly came to understand the stylistic potentials of the medium' → 'did not appreciate the film medium as well as they should' ✓",
+      "explanation": "[Two-step scan required]\nStep 1: find the synonym of 'linear' in the passage\n'linear perspective' (Para 1, line 5) → 'notion of film history as PROGRESSIVE DEVELOPMENT' (Para 2, line 17)\n= linear = progressive development = same concept, different words\n\nStep 2: find the reason for CRITICISM under 'progressive development'\nPara 2, lines 16–19:\n'many aspects of primitive cinema had been criticised by historians on the supposition that early film makers ONLY SLOWLY CAME TO UNDERSTAND THE STYLISTIC POTENTIALS OF THE MEDIUM'\n\n[B correct paraphrase chain]\n'only slowly came to understand' = did not understand as quickly as expected\n'the stylistic potentials of the MEDIUM' = the film medium\n→ 'did not APPRECIATE THE FILM MEDIUM as well as they should' ✓\n\n[Why scanning fails]\nStudent scans for 'linear' → finds it at Para 1 line 5\n→ no criticism reason stated there → gives up or picks incorrect answer\n→ MUST continue to Para 2 and recognise 'progressive development' = 'linear'\n\n[Other choices eliminated]\nA 'wrong direction' = not stated / passage says they were slow to understand, not that they went wrong direction\nC 'politicians' = mentioned in Para 1 (line 7) as factors in primitive cinema's decline, not as content ignored by filmmakers\nD 'accumulated knowledge' = not in passage",
+      "action": "Action Rule (Q40 U64): When question uses a keyword that appears early in the passage without context, scan for its SYNONYM in later paragraphs. 'linear' (Para 1) = 'progressive development' (Para 2) = same concept. Reason for criticism = Para 2 lines 16–19: 'only slowly came to understand stylistic potentials of the medium' → 'did not appreciate the film medium as well as they should' ✓."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
