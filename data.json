@@ -6405,7 +6405,7 @@
       ],
       "correctIdx": 0,
       "answer": "① D = Target Mismatch (Pleasure ≠ Need) + State Reversal. C = correct ✓",
-      "explanation": "[C correct chain] maintain or increase → PROLONG ✓ / the resulting pleasure → THE SATISFACTION ✓\n[D Layer 1] passage maintains PLEASURE / D maintains the NEED = wrong object\n[D Layer 2] passage = positive state (pleasure) / D = negative state (need perpetually unmet = pain)\n['assuaged' trap] assuaged ≈ satisfied BUT 'never fully assuaged' = permanent deficit = pain",
+      "explanation": "[C correct chain] maintain or increase → PROLONG ✓ / the resulting pleasure → THE SATISFACTION ✓\n[D Layer 1] passage maintains PLEASURE / D maintains the NEED = wrong object\n[D Layer 2] passage = positive state (pleasure) / D = negative state (need perpetually unmet = pain)",
       "action": "Action Rule (Q31): Humans maintain PLEASURE (positive), not the unsatisfied NEED (deficit). Always ask: 'What is the object being maintained? Pleasure ≠ Need.'"
     },
     "nextReview": "TODAY",
@@ -6419,7 +6419,7 @@
     "quiz": {
       "question": "[Q18 — Subject–Object Swap Trap]\n\nPassage: '...titillate or disturb, but not too seriously. Reading at this level is not much more than irritation of the eyeball...'\n\nQ: Writing found in newspapers ______.\nA: fails to challenge on any meaningful level\nB: is taken far too seriously by readers\n\nYour pick — B / Correct — A",
       "options": [
-        "B: 'taken too seriously BY READERS' = makes READERS the subject. But 'not too seriously' describes the WRITING's depth/impact, not readers' attitudes = Subject–Object Swap. A: writing fails to challenge meaningfully = correct subject + correct depth mapping ✓",
+        "B: 'taken too seriously BY READERS' = makes READERS the subject. But 'not too seriously' describes the WRITING's depth/impact, not readers' attitudes = Subject–Object Swap. A: writing fails to challenge meaningfully ✓",
         "B is correct — readers treat content too lightly",
         "A is wrong — 'challenge' not in passage",
         "B is correct — readers are criticised"
@@ -6447,7 +6447,7 @@
       ],
       "correctIdx": 0,
       "answer": "① C = Over-Extrapolation: genre labels not in passage. B = correct ✓",
-      "explanation": "[Passage] critiques FORM OF LANGUAGE (ease/speed), not content category\n[B correct] easiest/instantaneous → MOST SIMPLISTIC ✓ / treated as THE way → DEFINED AS BEST ✓\n[C error] information/opinion/chat/screens → jumps to 'advertising'/'infotainment' = genre labels passage never uses",
+      "explanation": "[Passage] critiques FORM OF LANGUAGE (ease/speed), not content category\n[B correct] easiest/instantaneous → MOST SIMPLISTIC ✓ / treated as THE way → DEFINED AS BEST ✓\n[C error] information/opinion/chat/screens → jumps to genre labels passage never uses",
       "action": "Action Rule (Q19): Passage = critiques LANGUAGE FORM. C = imports genre labels. Always ask: 'Type of content or way it is written?'"
     },
     "nextReview": "TODAY",
@@ -6461,14 +6461,14 @@
     "quiz": {
       "question": "[Q20 — Literal vs. Figurative Trap]\n\nPassage: '...the bracing restraints of silence.'\n• Bracing = invigorating, beneficial\n• Restraints = self-imposed limits\n\nQ: 'bracing restraints of silence' refers to the ______.\nC: benefits that arise from choosing to avoid writing in a mediocre manner\nD: period of quiet reflection before a writer puts pen to paper\n\nYour pick — D / Correct — C",
       "options": [
-        "D: reads 'silence' literally = physical quiet period. Must decode figuratively: BRACING = beneficial / RESTRAINTS OF SILENCE = abstaining from chat-writing flood. C: benefits (bracing) from avoiding mediocre writing (restraints of silence) ✓",
+        "D: reads 'silence' literally = physical quiet period. BRACING = beneficial / RESTRAINTS OF SILENCE = abstaining from chat-writing flood. C: benefits (bracing) from avoiding mediocre writing (restraints of silence) ✓",
         "D is correct — 'silence' = quiet period before writing",
         "C is wrong — 'mediocre' is not in the passage",
         "D is correct — 'recommend to themselves' implies preparation"
       ],
       "correctIdx": 0,
       "answer": "① D = Literal misread of figurative phrase. C = correct ✓",
-      "explanation": "[Context] 'so much chat... verbal static' = world drowning in low-quality writing\n[Figurative decode] BRACING = positive/beneficial / RESTRAINTS OF SILENCE = not adding to meaningless flood\n[C correct] bracing → BENEFITS ✓ / restraints of silence → AVOID MEDIOCRE WRITING ✓\n[D error] 'silence' → physical quiet / misses 'bracing' (positive valence) / misses contrast with 'so much chat'",
+      "explanation": "[Figurative decode] BRACING = positive/beneficial / RESTRAINTS OF SILENCE = not adding to meaningless flood\n[C correct] bracing → BENEFITS ✓ / restraints of silence → AVOID MEDIOCRE WRITING ✓\n[D error] 'silence' → physical quiet / misses 'bracing' (positive valence)",
       "action": "Action Rule (Q20): Bracing = beneficial. Restraints of silence = abstaining from mediocre writing. Rule: evaluative adjective + abstract noun = always figurative."
     },
     "nextReview": "TODAY",
@@ -6482,7 +6482,7 @@
     "quiz": {
       "question": "[Q21 — Concept Distortion + Scope Inflation]\n\nPassage: 'Good writing springs from necessity.'\n\nQ: Malouf suggests that good writing ______.\nB: is an instinctive need felt by all writers\nD: results when something essential can be conveyed best through writing\n\nYour pick — B / Correct — D",
       "options": [
-        "B: two errors: (1) 'instinctive need' = personal urge (충동) ≠ 'necessity' = objective condition (필연성). (2) 'all writers' = extreme overgeneralisation. D: 'something essential' = necessity (objective) / 'conveyed best through writing' = writing is the necessary medium ✓",
+        "B: (1) 'instinctive need' = personal urge ≠ 'necessity' = objective condition. (2) 'all writers' = extreme overgeneralisation. D: 'something essential' = necessity (objective) / 'conveyed best through writing' = necessary medium ✓",
         "B is correct — 'necessity' and 'instinctive need' are synonyms",
         "D is wrong — necessity comes from the writer",
         "B is correct — Malouf focuses on the writer's inner drive"
@@ -6501,16 +6501,16 @@
     "isMCQ": true,
     "source": "Unit 73 — Q14 Paraphrase (D→C)",
     "quiz": {
-      "question": "[Q14 — Keyword Recycling + Redundancy (Advocate for whom?)]\n\nPassage: Alternative therapies emphasise 'subjective experience' and 'whole person'. By contrast, 'scientific medicine sees the human body as a machine... Patients should not distract the doctor by their unique personal feelings.'\n\nQ: Furnham sees Taylor as a potential advocate for _______.\nC: medical doctors whose patient relationships are based on an holistic model\nD: alternative health therapists whose patient relationships are based on an holistic model\n\nYour pick — D / Correct — C",
+      "question": "[Q14 — Keyword Recycling + Redundancy (Advocate for whom?)]\n\nPassage: Alternative therapies emphasise 'subjective experience' and 'whole person'. By contrast, 'scientific medicine sees the human body as a machine...'\n\nQ: Furnham sees Taylor as a potential advocate for _______.\nC: medical doctors whose patient relationships are based on an holistic model\nD: alternative health therapists whose patient relationships are based on an holistic model\n\nYour pick — D / Correct — C",
       "options": [
-        "D: therapists ALREADY use holistic model → advocating for them = redundant. Taylor's actual argument = scientific medicine treats patients as machines → CHANGE needed THERE. C: medical doctors (group needing change) + holistic model (direction) = Taylor's actual advocacy target ✓.",
+        "D: therapists ALREADY use holistic model → advocating for them = redundant. Taylor's actual argument = scientific medicine treats patients as machines → CHANGE needed THERE. C: medical doctors (group needing change) + holistic model (direction) ✓",
         "D is correct — Taylor focuses on alternative therapists",
         "C is wrong — Taylor never directly says doctors should use holistic models",
         "D is correct — Furnham praises alternative therapists"
       ],
       "correctIdx": 0,
       "answer": "① D = Keyword Recycling + Redundancy. C = correct: medical doctors (need to change) + holistic model (direction) ✓",
-      "explanation": "[Taylor's structure] Step 1: Alternative therapies → whole person ✓ / Step 2: BY CONTRAST → scientific medicine = machine = critique\n[C correct] medical doctors (need to change) + holistic model (the change needed) ✓\n[D Error 1 Redundancy] therapists already use holistic model → advocating for what they already do = logically pointless\n[D Error 2 Keyword Recycling] both terms from passage → surface paraphrase, wrong subject",
+      "explanation": "[Taylor's structure] Step 1: Alternative therapies → whole person ✓ / Step 2: BY CONTRAST → scientific medicine = machine = critique\n[C correct] medical doctors (need to change) + holistic model (the change needed) ✓\n[D Error 1 Redundancy] therapists already use holistic model → logically pointless advocacy\n[D Error 2 Keyword Recycling] both terms from passage → surface paraphrase, wrong subject",
       "action": "Action Rule (Q14): Advocate for = the group that NEEDS TO CHANGE, not the group already doing it. Always ask: 'Does this group actually need advocating for?'"
     },
     "nextReview": "TODAY",
@@ -6545,7 +6545,7 @@
     "quiz": {
       "question": "[Q1 — Split-Evidence Trap: 'made to' + 'sanctioned by']\n\nEvidence in TWO separate locations:\n① Para 2: 'a commission presented a report to Britain's International Development Secretary'\n② Para 4: 'The Department for International Development set up the commission'\n\nQ: The report was ______.\nC: sanctioned by but not made to the Department of International Development\nD: made to and sanctioned by the Department of International Development\n\nYour pick — C / Correct — D",
       "options": [
-        "C: scanned Para 4 ('set up' = sanctioned ✓) but MISSED Para 2 ('presented to' = made to ✓). Both conditions true → D. presented a report to → MADE TO ✓ / set up the commission → SANCTIONED BY ✓",
+        "C: scanned Para 4 ('set up' = sanctioned ✓) but MISSED Para 2 ('presented to' = made to ✓). Both conditions true → D.",
         "C is correct — 'set up' means sanctioned but report was not formally submitted",
         "D is wrong — department only received the report",
         "B is correct — neither condition met"
@@ -6564,7 +6564,7 @@
     "isMCQ": true,
     "source": "Unit 72 — Q5 Targeting (C→A)",
     "quiz": {
-      "question": "[Q5 — TRIPS Result vs. Commission Recommendation Confusion]\n\nPara 5: 'Trips transfers a patent system... lock, stock and barrel to the poor southern nations.'\nPara 6: 'The commission says... poorer countries SHOULD BE ALLOWED to set up their own IP protection...'\n\nQ: Post 2006, when Trips has been ratified, poorer southern nations will be ______.\nA: forced to follow current patent laws\nC: allowed to develop their own patent laws\n\nYour pick — C / Correct — A",
+      "question": "[Q5 — TRIPS Result vs. Commission Recommendation Confusion]\n\nPara 5: 'Trips transfers a patent system... lock, stock and barrel to the poor southern nations.'\nPara 6: 'The commission says... poorer countries SHOULD BE ALLOWED to set up their own IP protection...'\n\nQ: Post 2006, poorer southern nations will be ______.\nA: forced to follow current patent laws\nC: allowed to develop their own patent laws\n\nYour pick — C / Correct — A",
       "options": [
         "C: comes from commission's RECOMMENDATION ('should be allowed' = wish). Question asks what WILL HAPPEN = regulation's EFFECT. A: 'lock, stock and barrel' = forced to adopt northern patent system AS-IS ✓",
         "C is correct — the commission says countries should develop their own laws",
@@ -6573,7 +6573,7 @@
       ],
       "correctIdx": 0,
       "answer": "① C = Commission's recommendation (wish). A = TRIPS actual result: forced ✓",
-      "explanation": "[Para 5] 'lock, stock and barrel' → FORCED TO FOLLOW CURRENT PATENT LAWS ✓\n[Para 6] 'SHOULD BE ALLOWED' = normative recommendation, not what happens\n[Key] 'will be' in question = factual future / 'should be' in passage = normative wish",
+      "explanation": "[Para 5] 'lock, stock and barrel' → FORCED TO FOLLOW CURRENT PATENT LAWS ✓\n[Para 6] 'SHOULD BE ALLOWED' = normative recommendation, not what happens\n[Key] 'will be' = factual future / 'should be' = normative wish",
       "action": "Action Rule (Q5): TRIPS RESULT (Para 5) ≠ COMMISSION RECOMMENDATION (Para 6). 'will be' = regulation effect. Lock, stock and barrel = forced ✓."
     },
     "nextReview": "TODAY",
@@ -6587,14 +6587,14 @@
     "quiz": {
       "question": "[Q6 — NOT Question: 'make their own generic drugs' IS supported]\n\nQ: Which is NOT supported by the commission's report?\nA: make their own generic drugs\nD: do R&D that will lead to drugs appropriate to their own populations\n\nYour pick — A / Correct — D",
       "options": [
-        "A: Para 7: 'if they do not have capacity to MAKE THEM AT HOME' → contrapositive: if capacity → should make them → IS supported ✓. D: commission only says 'only way = spend public money' — never says poor nations should DO THEIR OWN R&D → NOT supported ✓",
+        "A: Para 7: 'if they do not have capacity to MAKE THEM AT HOME' → contrapositive: if capacity → should make them → IS supported ✓. D: commission never says poor nations should DO THEIR OWN R&D → NOT supported ✓",
         "A is not supported — 'make at home' ≠ generic drugs",
         "D is supported — commission wants poor nations to research",
         "C is the NOT answer"
       ],
       "correctIdx": 0,
       "answer": "① A = IS supported (implicit contrapositive). D = NOT supported: poor nations' own R&D never advocated ✓",
-      "explanation": "[A IS supported] Para 7: 'if they do not have capacity to make them at home' = contrapositive: if capacity → should make them ✓\n[D NOT supported] commission never advocates poor nations DO THEIR OWN R&D",
+      "explanation": "[A IS supported] 'if they do not have capacity to make them at home' = contrapositive: if capacity → should make them ✓\n[D NOT supported] commission never advocates poor nations DO THEIR OWN R&D",
       "action": "Action Rule (Q6): 'Make them at home' → 'make their own generic drugs' = supported (implicit). D = NOT supported. In NOT questions: confirm each option is supported before eliminating."
     },
     "nextReview": "TODAY",
@@ -6608,7 +6608,7 @@
     "quiz": {
       "question": "[Q7 — Wrong Time Frame: Protectionism (current problem) vs. Altruism (future motivation)]\n\nPassage (last sentence): 'Britain could... make a real difference to the worst-off people on the planet.'\n\nQ: Britain's future actions on patents should be motivated by ______.\nA: altruism (이타주의)\nC: protectionism (보호무역주의)\n\nYour pick — C / Correct — A",
       "options": [
-        "C: protectionism = what Para 4 describes as the CURRENT government tendency = the PROBLEM the author criticises. A: 'make a real difference to the WORST-OFF PEOPLE on the planet' = acting for others' benefit = ALTRUISM ✓",
+        "C: protectionism = what Para 4 describes as the CURRENT government tendency = the PROBLEM the author criticises. A: 'WORST-OFF PEOPLE on the planet' = acting for others' benefit = ALTRUISM ✓",
         "C is correct — protecting British pharma = the goal",
         "A is wrong — altruism is too idealistic",
         "D is correct — neo-colonialism drives the recommendation"
@@ -6627,17 +6627,17 @@
     "isMCQ": true,
     "source": "Unit 71 — Q22 Targeting (정답 A=Alford)",
     "quiz": {
-      "question": "[Q22 — Targeting: 'tradition as source of authority' — which author?]\n\n• Alford: 'we have always regarded the to of the infinitive as inseparable from its verb, and there seems no good reason for flying in the face of common usage.'\n• Fowler: '...misconceiving the nature of the split infinitive is far more damaging to their literary pretensions than is an actual lapse.'\n• Jespersen: 'The preposition to no more belongs to the infinitive than the word the belongs to its following substantive.'\n• Follett: '...splitting is called for, and desk sets should include small hatchets of silver or gold for the purpose.'\n\nQ: Which author regards tradition as the source of authority?\nA: Alford   B: Fowler   C: Jespersen   D: Follett",
+      "question": "[Q22 — Targeting: 'tradition as source of authority' — which author?]\n\n• Alford: 'we have always regarded the to of the infinitive as inseparable... no good reason for flying in the face of common usage.'\n• Fowler: '...misconceiving the nature of the split infinitive is far more damaging to their literary pretensions than is an actual lapse.'\n• Jespersen: 'The preposition to no more belongs to the infinitive than the word the belongs to its following substantive.'\n• Follett: '...splitting is called for, and desk sets should include small hatchets of silver or gold for the purpose.'\n\nQ: Which author regards tradition as the source of authority?\nA: Alford   B: Fowler   C: Jespersen   D: Follett",
       "options": [
-        "A: 'we have ALWAYS regarded' (historical continuity = 전통) + 'no good reason for flying in the face of COMMON USAGE' (established traditional practice) = both appeal to tradition as authority ✓",
+        "A: 'we have ALWAYS regarded' (historical continuity) + 'COMMON USAGE' (established traditional practice) = both appeal to tradition as authority ✓",
         "B: Fowler — appeals to tradition by citing literary standards",
         "C: Jespersen — appeals to tradition via grammatical history",
         "D: Follett — appeals to traditional spoken English norms"
       ],
       "correctIdx": 0,
       "answer": "① A = Alford. 'always regarded' (precedent) + 'common usage' (convention) = tradition as authority ✓",
-      "explanation": "[Alford = TRADITION] 'ALWAYS regarded' = historical continuity / 'COMMON USAGE' = established traditional norm\n[Fowler = LOGIC] comparative harm argument\n[Jespersen = ANALOGY] linguistic structural analogy\n[Follett = EMPIRICAL OBSERVATION] frequency-based + necessity",
-      "action": "Action Rule (Q22): 'Tradition as authority' = 'always' (historical precedent) + 'common usage' (conventional norm). Map: Alford = tradition / Fowler = logic / Jespersen = analogy / Follett = empirical observation."
+      "explanation": "[Map] Alford → tradition / Fowler → logic (comparative harm) / Jespersen → analogy (structural) / Follett → empirical observation",
+      "action": "Action Rule (Q22): Tradition as authority = 'always' (historical precedent) + 'common usage' (conventional norm). Map: Alford = tradition / Fowler = logic / Jespersen = analogy / Follett = empirical observation."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6650,14 +6650,14 @@
     "quiz": {
       "question": "[Q95 — Targeting: Whose opinion? + 'valuable amenity' paraphrase]\n\nPassage (lines 11–14, Devine's 1st person): 'Gradation of relationship through forms of address is a valuable amenity.'\n\nQ: Devine thinks that linguistic formality is ______.\nB: important in defining social relationships\nC: distinct for each means of communication\n\nYour pick — C / Correct — B",
       "options": [
-        "C: 'distinct for each means of communication' = reflects the passage's GENERAL THEME = General Theme Trap. B: 'Gradation of relationship through forms of address' → defining social relationships ✓ / 'valuable amenity' → important ✓ = correct paraphrase of Devine's 1st-person view ✓",
+        "C: 'distinct for each means of communication' = passage's GENERAL THEME = General Theme Trap. B: 'Gradation of relationship through forms of address' → defining social relationships ✓ / 'valuable amenity' → important ✓ = correct paraphrase of Devine's 1st-person view ✓",
         "B is wrong — Devine never says formality is important",
         "C is correct — Devine discusses each medium separately",
         "D is correct — Devine thinks formality confuses people"
       ],
       "correctIdx": 0,
       "answer": "① C = General Theme Trap. B = correct ✓",
-      "explanation": "[Targeting] Question asks DEVINE's view → target Devine's 1st-person lines\n[B correct] 'Gradation of RELATIONSHIP through FORMS OF ADDRESS' → defining SOCIAL RELATIONSHIPS ✓ / 'VALUABLE AMENITY' → IMPORTANT ✓\n[C — General Theme Trap] passage structure (email/phone/face-to-face comparison) ≠ Devine's specific opinion",
+      "explanation": "[Targeting] Question asks DEVINE's view → target Devine's 1st-person lines\n[B correct] 'Gradation of RELATIONSHIP through FORMS OF ADDRESS' → defining SOCIAL RELATIONSHIPS ✓ / 'VALUABLE AMENITY' → IMPORTANT ✓\n[C — General Theme Trap] passage structure ≠ Devine's specific opinion",
       "action": "Action Rule (Q95): Always check WHOSE opinion the question asks for. C = General Theme Trap. 'Valuable amenity' → important / 'Gradation of relationship' → defining social relationships ✓."
     },
     "nextReview": "TODAY",
@@ -6669,9 +6669,9 @@
     "isMCQ": true,
     "source": "Unit 70 — Q96 Paraphrase (B→C)",
     "quiz": {
-      "question": "[Q96 — Paraphrase: Overstatement Trap — 'no regard' vs. 'little/less']\n\nPassage (lines 14–15): 'Herbert's central reason for placing email with speech is that there is LITTLE PRE-PLANNING and even LESS POST-EDITING.'\n\nQ: Herbert says that email is like spoken conversation in that it ______.\nB: has no regard for the normal rules of logical coherence\nC: is a product of the moment and is not filtered by critical reflection\n\nYour pick — B / Correct — C",
+      "question": "[Q96 — Paraphrase: Overstatement Trap — 'no regard' vs. 'little/less']\n\nPassage: 'there is LITTLE PRE-PLANNING and even LESS POST-EDITING.'\n\nQ: Herbert says that email is like spoken conversation in that it ______.\nB: has no regard for the normal rules of logical coherence\nC: is a product of the moment and is not filtered by critical reflection\n\nYour pick — B / Correct — C",
       "options": [
-        "B: 'NO REGARD for... logical coherence' = extreme overstatement of 'little/less' in passage. C: 'product of the MOMENT' = little pre-planning ✓ / 'not filtered by CRITICAL REFLECTION' = less post-editing ✓ = correct degree-matched paraphrase ✓",
+        "B: 'NO REGARD' = extreme overstatement of 'little/less'. C: 'product of the MOMENT' = little pre-planning ✓ / 'not filtered by CRITICAL REFLECTION' = less post-editing ✓ = correct degree-matched paraphrase ✓",
         "B is correct — no pre-planning = no regard for logical rules",
         "C is wrong — 'critical reflection' is not in the passage",
         "D is correct — email grammar is unacceptable in writing"
@@ -6690,16 +6690,16 @@
     "isMCQ": true,
     "source": "Unit 69 — Q70 Targeting (C→A)",
     "quiz": {
-      "question": "[Q70 — Partial Keyword Match + Cross-Check Failure]\n\nSheldon's 1–7 scale (7 = high, 1 = low):\n• Endomorph: softness, roundness, UNDERdevelopment of bone and muscle\n• Mesomorph: strong bones and muscles, GENERALLY HEAVY, equipped for STRENUOUS physical demands\n• Ectomorph: THINNESS, large skin area, LINEAR and fragile\n\nSubjects: marathon/triathlon athletes\n\nQ: Most likely classification (Endomorph – Mesomorph – Ectomorph)?\nA: 1 – 5 – 5\nC: 3 – 7 – 2\n\nYour pick — C / Correct — A",
+      "question": "[Q70 — Partial Keyword Match + Cross-Check Failure]\n\nSheldon's 1–7 scale:\n• Endomorph: softness, roundness, UNDERdevelopment of bone and muscle\n• Mesomorph: strong bones and muscles, GENERALLY HEAVY, equipped for STRENUOUS physical demands\n• Ectomorph: THINNESS, large skin area, LINEAR and fragile\n\nSubjects: marathon/triathlon athletes\n\nQ: Most likely classification (Endomorph – Mesomorph – Ectomorph)?\nA: 1 – 5 – 5\nC: 3 – 7 – 2\n\nYour pick — C / Correct — A",
       "options": [
-        "C: 'strenuous' → Mesomorph 7. But MISSED 'generally HEAVY' = distance athletes are NOT heavy → contradicts 7. Ectomorph 2 too low (distance athletes = thin, linear = high). A: 1 / 5 (muscular but lean) / 5 (thin, linear) ✓",
+        "C: 'strenuous' → Mesomorph 7. But MISSED 'generally HEAVY' = distance athletes NOT heavy → contradicts 7. Ectomorph 2 too low (thin, linear = high). A: 1 / 5 (muscular but lean) / 5 (thin, linear) ✓",
         "A is wrong — triathletes need extreme mesomorph scores",
         "C is correct — 'strenuous' directly maps to Mesomorph 7",
         "D is correct — marathon runners are pure ectomorphs"
       ],
       "correctIdx": 0,
       "answer": "① C = Partial Keyword Match: 'strenuous' → 7, but 'generally heavy' contradicts distance athletes. A = 1–5–5 cross-checked ✓",
-      "explanation": "[Mesomorph 7 fails] 'generally HEAVY' = marathon athletes NOT heavy → 7 = bodybuilder / 5 = muscular but lean ✓\n[Ectomorph 2 fails] THINNESS + LINEAR = distance athletes → 2 wrong → 5 ✓\n[Endomorph 3 fails] extreme lean = low body fat → 3 too high → 1 ✓\n[Protocol] keyword match alone NOT enough → check ALL descriptors → conflict = cannot assign max score",
+      "explanation": "[Mesomorph 7 fails] 'generally HEAVY' = marathon athletes NOT heavy → 7 = bodybuilder / 5 = muscular but lean ✓\n[Ectomorph 2 fails] THINNESS + LINEAR = distance athletes → 5 ✓\n[Endomorph 3 fails] extreme lean → 1 ✓\n[Protocol] keyword match alone NOT enough → check ALL descriptors → conflict = cannot assign max score",
       "action": "Action Rule (Q70): Never assign max score from ONE keyword match. Must cross-check ALL descriptors. Distance athlete profile: Endomorph 1 / Mesomorph 5 / Ectomorph 5."
     },
     "nextReview": "TODAY",
@@ -6711,7 +6711,7 @@
     "isMCQ": true,
     "source": "Unit 68 — Q39 Tone/Inference (C→D)",
     "quiz": {
-      "question": "[Q39 — Tone: Ridicule vs. Praise + Mission Statement Alignment]\n\nIg Nobel Mission: 'celebrate the unusual, honour the imaginative, and spur people's interest in science.'\n\nPassage: pitch drops slower than grass grows / 7 drops meanwhile: atomic bomb, polio vaccine, moon landing, genome / 'LIMITED SCIENTIFIC VALUE' / 'achievements that cannot, or should not, be reproduced'\n\nQ: To what extent is the extract in keeping with the spirit of the Ig Nobels?\nC: to some extent, because despite the passage's derogatory tone it still praises Parnell's scientific achievements\nD: not at all, since the passage sets Parnell's reported experiment up for ridicule rather than appreciation\n\nYour pick — C / Correct — D",
+      "question": "[Q39 — Tone: Ridicule vs. Praise + Mission Statement Alignment]\n\nIg Nobel Mission: 'celebrate the unusual, honour the imaginative, and spur people's interest in science.'\nPassage: 'LIMITED SCIENTIFIC VALUE' / juxtaposition: 7 drops vs. atom bomb/moon/genome / 'achievements that cannot, or should not, be reproduced'\n\nQ: To what extent is the extract in keeping with the spirit of the Ig Nobels?\nC: to some extent, because despite the derogatory tone it still praises Parnell's scientific achievements\nD: not at all, since the passage sets Parnell's reported experiment up for ridicule rather than appreciation\n\nYour pick — C / Correct — D",
       "options": [
         "C: 'still PRAISES Parnell's scientific achievements' = factual error — passage says 'LIMITED scientific value' = diminished, NOT praised. D: juxtaposition (7 drops vs. atom bomb/moon/genome) = RIDICULE device. Mission = 'celebrate + honour' ≠ ridicule = NOT AT ALL aligned ✓",
         "D is wrong — the passage still celebrates unusual science",
@@ -6720,8 +6720,8 @@
       ],
       "correctIdx": 0,
       "answer": "① C = Factual Error: 'praises' contradicts 'limited scientific value'. D = Juxtaposition = Ridicule ≠ Mission's 'celebrate/honour' = NOT AT ALL aligned ✓",
-      "explanation": "[C — Factual Error] 'still PRAISES' = passage says 'LIMITED SCIENTIFIC VALUE' = DIMINISHED not praised = direct factual contradiction\n[D — correct] JUXTAPOSITION: 7 drops in 70+ years MEANWHILE atomic bomb/vaccine/moon/genome = makes experiment look absurdly trivial = RIDICULE\n[Mission check] 'celebrate', 'honour' (positive) / Passage: ridicule + limited value (negative) = NOT AT ALL ✓\n[Why C attractive] 'derogatory tone' correctly identified BUT then adds 'still praises' = false conclusion = partial-match trap",
-      "action": "Action Rule (Q39): Juxtaposition (trivial event vs. massive achievements) = RIDICULE. Check factual accuracy: C says 'praises' but passage says 'limited value' → contradiction → eliminate. Mission 'celebrate/honour' ≠ ridicule = NOT AT ALL ✓."
+      "explanation": "[C — Factual Error] 'still PRAISES' = passage says 'LIMITED SCIENTIFIC VALUE' = DIMINISHED not praised = direct factual contradiction\n[D — correct] JUXTAPOSITION: 7 drops in 70+ years MEANWHILE atomic bomb/vaccine/moon/genome = trivialises the experiment = RIDICULE\n[Mission check] 'celebrate', 'honour' (positive) / Passage: ridicule + limited value (negative) = NOT AT ALL ✓",
+      "action": "Action Rule (Q39 U68): Juxtaposition (trivial event vs. massive achievements) = RIDICULE. Check factual accuracy: C says 'praises' but passage says 'limited value' → contradiction → eliminate."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6732,17 +6732,17 @@
     "isMCQ": true,
     "source": "Unit 66 — Q35 Targeting (A→B)",
     "quiz": {
-      "question": "[Q35 — Targeting: Real Place vs. Fictional Place Confusion]\n\nP1 (lines 10–11): 'When I tell you about the single greatest game I ever SAW PLAYED at the Armory...'\nP2 (lines 5–9): '...I wanted to walk myself out of the GYMNASIUM where I would dance and glide... When I went onto the floor of the now-empty GYM...'\n\nQ: What is the Armory?\nA: a fictional place in which Conroy set his basketball games\nB: a gymnasium at Conroy's college\n\nYour pick — A / Correct — B",
+      "question": "[Q35 — Targeting: Real Place vs. Fictional Place Confusion]\n\nP1 (lines 10–11): 'When I tell you about the single greatest game I ever SAW PLAYED at the Armory...'\nP2 (lines 5–9): '...I wanted to walk myself out of the GYMNASIUM... the now-empty GYM...'\n\nQ: What is the Armory?\nA: a fictional place in which Conroy set his basketball games\nB: a gymnasium at Conroy's college\n\nYour pick — A / Correct — B",
       "options": [
-        "A: passage is fiction-heavy → student assumes Armory = fictional place. But P1: 'SAW played' = real personal memory. P2: same space = 'gymnasium'/'gym' = real college gym. Armory = real gymnasium; fictional CHARACTER (Will McLean) placed in REAL setting. A = wrong ✓ B ✓",
+        "A: passage is fiction-heavy → student assumes Armory = fictional place. But P1: 'SAW played' = real personal memory. P2: same space = 'gymnasium'/'gym' = real college gym. Armory = real gymnasium; fictional CHARACTER (Will McLean) placed in REAL setting ✓",
         "B is wrong — Armory is where Will McLean plays, so it is fictional",
         "C is correct — Armory is the name of Conroy's college",
         "D is correct — Armory is a VMI basketball court"
       ],
       "correctIdx": 0,
-      "answer": "① A = Fiction-Contamination Error: fictional content ≠ fictional setting. B = correct: Armory = real gymnasium (P1: 'saw played' / P2: 'gymnasium'/'gym') ✓",
-      "explanation": "[P1] 'SAW PLAYED' = personal memory of real event Conroy physically attended\n[P2] 'GYMNASIUM'/'GYM' = real physical space = Armory (P1) = gymnasium (P2) = real college gymnasium ✓\n[Why A chosen] Fiction-Contamination Error: fictional characters (Will McLean) → student assumes fictional setting\nBUT: Conroy places FICTIONAL CHARACTERS in a REAL SETTING\n[Key distinction] Fictional: Will McLean, the characters / Real: the Armory/gymnasium, the game, the basketball experience",
-      "action": "Action Rule (Q35): Fictional characters ≠ fictional setting. Check if author personally interacts with the place (P1: 'saw played' = real memory). Rule: fiction-heavy passages may use REAL settings for FICTIONAL characters — distinguish place vs. person."
+      "answer": "① A = Fiction-Contamination Error: fictional content ≠ fictional setting. B = correct: Armory = real gymnasium ✓",
+      "explanation": "[P1] 'SAW PLAYED' = personal memory of real event / [P2] 'GYMNASIUM'/'GYM' = real physical space\n[Why A chosen] Fictional characters → student assumes fictional setting\nBUT: Conroy places FICTIONAL CHARACTERS in a REAL SETTING\n[Key distinction] Fictional: Will McLean / Real: the Armory/gymnasium",
+      "action": "Action Rule (Q35): Fictional characters ≠ fictional setting. Check if author personally interacts with the place ('saw played' = real memory). Rule: fiction-heavy passages may use REAL settings for FICTIONAL characters."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6753,7 +6753,7 @@
     "isMCQ": true,
     "source": "Unit 66 — Q36 Targeting (B→C)",
     "quiz": {
-      "question": "[Q36 — Targeting: Count Task — who believes Conroy writes fiction?]\n\nFour people in Passage 2 (excluding DeBrosse's kids):\n1. Conroy's wife → 'You don't write fiction.' = NOT fiction ✗\n2. Will McLean → agrees with wife = NOT fiction ✗\n3. John DeBrosse → 'Bullshit. Conroy's making that up.' = FICTION ✓\n4. Conroy himself → 'This really is fiction,' I said. = FICTION ✓\n\nQ: How many thought that Conroy wrote fiction?\nA: 0   B: 1   C: 2   D: 3\n\nYour pick — B / Correct — C",
+      "question": "[Q36 — Targeting: Count Task — who believes Conroy writes fiction?]\n\nFour people in Passage 2 (excluding DeBrosse's kids):\n1. Wife → 'You don't write fiction.' = NOT fiction ✗\n2. Will McLean → agrees with wife = NOT fiction ✗\n3. John DeBrosse → 'Bullshit. Conroy's making that up.' = FICTION ✓\n4. Conroy himself → 'This really is fiction,' I said. = FICTION ✓\n\nQ: How many thought that Conroy wrote fiction?\nA: 0   B: 1   C: 2   D: 3\n\nYour pick — B / Correct — C",
       "options": [
         "B: counted only DeBrosse (1) and missed Conroy himself explicitly saying 'This really is fiction, I said' (lines 22–24). C: DeBrosse (✓) + Conroy himself (✓) = 2 ✓",
         "C is wrong — Conroy is the author, not a 'person' to count",
@@ -6762,8 +6762,8 @@
       ],
       "correctIdx": 0,
       "answer": "① B = missed Conroy himself saying 'This really is fiction' (lines 22–24). C = DeBrosse + Conroy = 2 ✓",
-      "explanation": "[Systematic count]\nWife: 'You don't write fiction' = NOT fiction ✗\nWill: agrees with wife = NOT fiction ✗\nDeBrosse: 'Bullshit. Conroy's making that up.' = thinks it IS fiction ✓\nConroy: 'This really is fiction, I said.' = explicitly states IS fiction ✓\nTotal = 2 → C ✓\n[Why B chosen — Omission of Self] counted DeBrosse (1) but missed Conroy himself\nCommon error: excluding the narrator/speaker from the count\n[Trap] Wife + Will = most prominent voices saying 'NOT fiction' → easy to miss DeBrosse + Conroy",
-      "action": "Action Rule (Q36): In count tasks, include the NARRATOR/AUTHOR when they make an explicit statement. Conroy says 'This really is fiction' = counts as 1. Systematic check: Wife (✗) + Will (✗) + DeBrosse (✓) + Conroy (✓) = 2. Never omit the speaker from the count."
+      "explanation": "[Systematic count] Wife (✗) + Will (✗) + DeBrosse (✓) + Conroy (✓) = 2 → C ✓\n[Why B chosen — Omission of Self] counted DeBrosse (1) but missed Conroy himself\nCommon error: excluding the narrator/speaker from the count",
+      "action": "Action Rule (Q36): Include the NARRATOR/AUTHOR when they make an explicit statement. Conroy says 'This really is fiction' = counts as 1. Systematic check: Wife (✗) + Will (✗) + DeBrosse (✓) + Conroy (✓) = 2. Never omit the speaker from the count."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6774,7 +6774,7 @@
     "isMCQ": true,
     "source": "Unit 66 — Q38 Targeting (C→B)",
     "quiz": {
-      "question": "[Q38 — Targeting: Literary Device vs. Literal Reading Trap]\n\nPassage evidence:\n• P1 line 3–4: 'I fictionalize events stolen from my actual life'\n• P1 line 6–8: 'My made-up doubles and stand-ins... hijacked a train-full of all my friends'\n• P1 line 20: 'I'm your father, Will. I created you out of words. I made you up.'\n• P2 line 22–24: 'We're not really having this conversation, are we? / No, we're not.'\n\nQ: From a consideration of both passages, which is closest to the truth?\nB: Conroy invents characters based on his life experiences\nC: Conroy hallucinates in his novels which lose contact with reality\n\nYour pick — C / Correct — B",
+      "question": "[Q38 — Targeting: Literary Device vs. Literal Reading Trap]\n\nPassage evidence:\n• P1: 'I fictionalize events stolen from my actual life'\n• P1: 'I created you out of words. I made you up.'\n• P2: 'We're not really having this conversation, are we? / No, we're not.'\n\nQ: Which is closest to the truth?\nB: Conroy invents characters based on his life experiences\nC: Conroy hallucinates in his novels which lose contact with reality\n\nYour pick — C / Correct — B",
       "options": [
         "C: treats Conroy's conversation with Will McLean as literal hallucination. But Conroy is FULLY AWARE ('I created you out of words' / 'We're not really having this conversation') = deliberate literary device, not loss of contact with reality. B: 'fictionalize events stolen from my actual life' + 'made-up doubles and stand-ins' = invents characters BASED ON real life experiences ✓",
         "B is wrong — Conroy doesn't use real life, he purely invents",
@@ -6782,9 +6782,9 @@
         "D is correct — Conroy confuses memory and imagination"
       ],
       "correctIdx": 0,
-      "answer": "① C = Literal Reading Trap: conversation with Will = literary device (author consciously imagines his character). Conroy is FULLY AWARE ('I created you... We're not really having this conversation'). B = correct: invents characters based on real life ✓",
-      "explanation": "[C — Literal Reading Trap]\nConroy meets Will McLean in the empty gym → student reads as HALLUCINATION\nBUT: 'I CREATED YOU OUT OF WORDS. I MADE YOU UP.' = Conroy fully aware Will is fictional creation\n'We're not really having this conversation, are we? No, we're not.' = explicitly states conversation is not real = no delusion\n= LITERARY DEVICE (author consciously inhabiting his fiction), NOT psychiatric symptom\n\n[B — correct chain]\n'fictionalize events STOLEN FROM MY ACTUAL LIFE' → invents characters BASED ON life experiences ✓\n'made-up doubles and stand-ins' = fictional characters modelled on real people ✓\n\n[Key GAMSAT distinction]\nLiterary device = author consciously creates imaginative scene / remains self-aware\nHallucination = involuntary, no self-awareness, believes fiction is real\nTest: does the author know it is fictional? Conroy = YES ('We're not really having this conversation') → Literary device ✓",
-      "action": "Action Rule (Q38): Distinguish LITERARY DEVICE (author consciously imagines) from HALLUCINATION (involuntary, no self-awareness). Key test: does the author know the conversation is fictional? Conroy explicitly says yes → literary device ✓, not hallucination ✗."
+      "answer": "① C = Literal Reading Trap: conversation with Will = literary device (author consciously imagines his character). B = correct: invents characters based on real life ✓",
+      "explanation": "[C — Literal Reading Trap] 'I CREATED YOU OUT OF WORDS' + 'We're not really having this conversation' = Conroy fully aware = LITERARY DEVICE, not hallucination\n[B correct] 'fictionalize events STOLEN FROM MY ACTUAL LIFE' → invents characters BASED ON life experiences ✓\n[Key test] Does author know it is fictional? Conroy = YES → literary device ✓",
+      "action": "Action Rule (Q38): Distinguish LITERARY DEVICE (author consciously imagines) from HALLUCINATION (involuntary, no self-awareness). Key test: does the author know the conversation is fictional? If YES → literary device ✓."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6795,17 +6795,17 @@
     "isMCQ": true,
     "source": "Unit 64 — Q39 Targeting (A→C)",
     "quiz": {
-      "question": "[Q39 — Targeting: Overstatement + Time-Conditioned Perspective]\n\nPassage (Para 2, lines 12–17):\n'To a certain degree, the revised viewpoint on primitive cinema was formed in a framework of opposition to the standard Hollywood product of the studio era. In the 1970s, when a vigorous and influential independent film movement flourished, parallels were drawn between primitive cinema and the modern avant-garde...'\n\nQ: The passage implies that any history of primitive cinema will be ______.\nA: likely to present a grossly distorted view of reality\nC: conditioned to some extent by current attitudes and values\n\nYour pick — A / Correct — C",
+      "question": "[Q39 — Targeting: Overstatement + Time-Conditioned Perspective]\n\nPassage (Para 2, lines 12–17): 'To a certain degree, the revised viewpoint on primitive cinema was formed in a framework of opposition to the standard Hollywood product of the studio era. In the 1970s, when a vigorous and influential independent film movement flourished, parallels were drawn...'\n\nQ: The passage implies that any history of primitive cinema will be ______.\nA: likely to present a grossly distorted view of reality\nC: conditioned to some extent by current attitudes and values\n\nYour pick — A / Correct — C",
       "options": [
-        "A: 'GROSSLY distorted view of reality' = extreme overstatement. Passage says the revised viewpoint was shaped by 1970s film movement = influenced by contemporary attitudes, not that it GROSSLY distorts reality. C: 'conditioned TO SOME EXTENT by current attitudes and values' = the 1970s revised view = shaped by the era's independent film movement = attitudes of that time ✓",
+        "A: 'GROSSLY distorted view of reality' = extreme overstatement. Passage says the revised viewpoint was shaped by 1970s film movement = influenced by contemporary attitudes, not that it GROSSLY distorts reality. C: 'conditioned TO SOME EXTENT' = 'to a certain degree' (Para 2 opener) / current attitudes = 1970s film culture ✓",
         "C is wrong — the passage doesn't say attitudes shape history",
         "A is correct — 1970s viewpoint is grossly distorted",
         "D is correct — primitive cinema history is impossible to write"
       ],
       "correctIdx": 0,
-      "answer": "① A = Overstatement: 'grossly distorted' >> 'formed in a framework of opposition' in passage. C = correct: revised viewpoint = shaped by 1970s era attitudes = conditioned by current attitudes ✓",
-      "explanation": "[Passage logic]\nPara 1: 'linear perspective... gave way to a recognition that cinema developed through debate, controversy, and struggle'\n= the old view (linear) has been revised\nPara 2: 'revised viewpoint... was formed in a FRAMEWORK OF OPPOSITION to... Hollywood... In the 1970s, when... independent film movement flourished, parallels were drawn'\n= the NEW view was also shaped by the contemporary context (1970s film culture)\n= implication: any historical view is influenced by the attitudes of its era\n\n[C correct chain]\n'framework of opposition' to Hollywood + '1970s independent film movement flourished'\n→ the historical reassessment was CONDITIONED BY CURRENT ATTITUDES (1970s attitudes) ✓\n'to SOME EXTENT' = 'to a certain degree' (Para 2 opener) ✓\n= C matches the hedged, qualified claim of the passage ✓\n\n[A — Overstatement Error]\n'GROSSLY distorted view of reality' = extreme, severe misrepresentation\nPassage says the revised view was 'formed in a framework of opposition' = influenced, shaped\n= being shaped by contemporary attitudes ≠ 'grossly distorting reality'\n= passage never says the history is severely wrong or distorted\n= A imports extreme language absent from the passage\n\n[Paraphrase chain that was missed]\n'linear' (line 5) → 'progressive development' (Para 2, line 17) → same concept, different words\nThis synonym chain is the scanning key: linear = progressive development = the basis for historian criticism",
-      "action": "Action Rule (Q39 U64): 'Conditioned to some extent' = hedged claim. Match the passage's degree: 'to a certain degree' + 'framework of opposition' = shaped by attitudes (C), not 'grossly distorted' (A). Also: 'linear' (Para 1) = 'progressive development' (Para 2) — same concept, scan for synonyms not just identical words."
+      "answer": "① A = Overstatement: 'grossly distorted' >> 'formed in a framework of opposition' in passage. C = correct: revised viewpoint = shaped by 1970s attitudes = conditioned by current attitudes ✓",
+      "explanation": "[Passage] 'To a CERTAIN DEGREE, the revised viewpoint... was formed in a FRAMEWORK OF OPPOSITION... In the 1970s, when... independent film movement flourished'\n= the historical reassessment was influenced by the contemporary context (1970s film culture)\n= implication: any historical view is influenced by the attitudes of its era\n[C correct] 'to SOME EXTENT' ↔ 'to a certain degree' ✓ / 'current attitudes and values' = 1970s film movement ✓\n[A error] 'GROSSLY distorted' = extreme / passage says 'shaped/influenced', not 'severely wrong or distorted'",
+      "action": "Action Rule (Q39 U64): Match the passage's DEGREE: 'to a certain degree' = conditioned to some extent (C). 'Grossly distorted' = extreme overstatement absent from passage. Also: 'linear' (Para 1) = 'progressive development' (Para 2) — scan for synonyms."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
@@ -6816,17 +6816,59 @@
     "isMCQ": true,
     "source": "Unit 64 — Q40 Targeting (근거 못 찾음→B)",
     "quiz": {
-      "question": "[Q40 — Targeting: Synonym Scan Failure — 'linear' = 'progressive development']\n\nQ: Those who saw the history of cinema as 'linear' criticised early film makers because they ______.\nA: set out to take cinema in the wrong direction\nB: did not appreciate the film medium as well as they should\nC: ignored what people and politicians wanted to see in films\nD: failed to make use of accumulated knowledge and experience\n\nScanning challenge: 'linear' appears in Para 1 (line 5) but the REASON for criticism is in Para 2 (lines 16–19) under its SYNONYM 'progressive development'.\n\nCorrect — B",
+      "question": "[Q40 — Targeting: Synonym Scan Failure — 'linear' = 'progressive development']\n\nQ: Those who saw the history of cinema as 'linear' criticised early film makers because they ______.\nA: set out to take cinema in the wrong direction\nB: did not appreciate the film medium as well as they should\nC: ignored what people and politicians wanted to see in films\nD: failed to make use of accumulated knowledge and experience\n\nScanning challenge: 'linear' (Para 1 line 5) → synonym 'progressive development' (Para 2 line 17) → reason for criticism in Para 2 lines 16–19.\n\nCorrect — B",
       "options": [
-        "Key paraphrase chain: 'linear' → 'progressive development' (Para 2 synonym). Target: Para 2 lines 16–19: 'many aspects of primitive cinema had been criticised... on the supposition that early film makers ONLY SLOWLY CAME TO UNDERSTAND THE STYLISTIC POTENTIALS OF THE MEDIUM.' → 'did not appreciate the film medium as well as they should' ✓",
+        "Para 2 lines 16–19: 'many aspects of primitive cinema had been criticised... on the supposition that early film makers ONLY SLOWLY CAME TO UNDERSTAND THE STYLISTIC POTENTIALS OF THE MEDIUM' → B: 'did not appreciate the film medium as well as they should' ✓",
         "A is correct — early film makers went in the wrong direction",
         "C is correct — early films ignored political content",
         "D is correct — early film makers ignored accumulated knowledge"
       ],
       "correctIdx": 0,
       "answer": "① B = correct: 'only slowly came to understand the stylistic potentials of the medium' → 'did not appreciate the film medium as well as they should' ✓",
-      "explanation": "[Two-step scan required]\nStep 1: find the synonym of 'linear' in the passage\n'linear perspective' (Para 1, line 5) → 'notion of film history as PROGRESSIVE DEVELOPMENT' (Para 2, line 17)\n= linear = progressive development = same concept, different words\n\nStep 2: find the reason for CRITICISM under 'progressive development'\nPara 2, lines 16–19:\n'many aspects of primitive cinema had been criticised by historians on the supposition that early film makers ONLY SLOWLY CAME TO UNDERSTAND THE STYLISTIC POTENTIALS OF THE MEDIUM'\n\n[B correct paraphrase chain]\n'only slowly came to understand' = did not understand as quickly as expected\n'the stylistic potentials of the MEDIUM' = the film medium\n→ 'did not APPRECIATE THE FILM MEDIUM as well as they should' ✓\n\n[Why scanning fails]\nStudent scans for 'linear' → finds it at Para 1 line 5\n→ no criticism reason stated there → gives up or picks incorrect answer\n→ MUST continue to Para 2 and recognise 'progressive development' = 'linear'\n\n[Other choices eliminated]\nA 'wrong direction' = not stated / passage says they were slow to understand, not that they went wrong direction\nC 'politicians' = mentioned in Para 1 (line 7) as factors in primitive cinema's decline, not as content ignored by filmmakers\nD 'accumulated knowledge' = not in passage",
-      "action": "Action Rule (Q40 U64): When question uses a keyword that appears early in the passage without context, scan for its SYNONYM in later paragraphs. 'linear' (Para 1) = 'progressive development' (Para 2) = same concept. Reason for criticism = Para 2 lines 16–19: 'only slowly came to understand stylistic potentials of the medium' → 'did not appreciate the film medium as well as they should' ✓."
+      "explanation": "[Two-step scan]\nStep 1: 'linear' (Para 1, line 5) → synonym = 'PROGRESSIVE DEVELOPMENT' (Para 2, line 17)\nStep 2: Under 'progressive development', find criticism reason:\n'early film makers ONLY SLOWLY CAME TO UNDERSTAND THE STYLISTIC POTENTIALS OF THE MEDIUM'\n[B correct chain] 'only slowly came to understand' = did not understand as quickly as expected / 'stylistic potentials of the MEDIUM' = the film medium → 'did not APPRECIATE THE FILM MEDIUM as well as they should' ✓\n[Why scanning fails] student scans for 'linear' → finds it at Para 1 line 5 → no criticism reason stated there → gives up\n→ MUST continue to Para 2 and recognise 'progressive development' = 'linear'",
+      "action": "Action Rule (Q40 U64): When question keyword appears early in passage without context, scan for its SYNONYM in later paragraphs. 'linear' (Para 1) = 'progressive development' (Para 2). Reason for criticism = Para 2 lines 16–19: 'only slowly came to understand stylistic potentials of the medium' → 'did not appreciate the film medium as well as they should' ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u62_q29_targeting_new_genre_raw_vs_commercial",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 62 — Q29 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q29 — Targeting: Visual Keyword Match Trap — 'commercial' is the OLD genre, not the NEW]\n\nPassage (Para 1, lines 1–7):\n'...tension between convention and rebellion — between familiarity and freedom. In the music itself, musicians forge personal statements from a common \"commercial\" language...'\n'Periodically, when genres become too familiar, NEW GENERATIONS OF ROCKERS arrive with something TOUGHER AND SIMPLER, shaking down the current conventions.'\n\nQ: According to paragraph 1, a new rock genre is characteristically ______.\nA: raw\nB: disliked\nC: commercial\nD: sophisticated\n\nYour pick — C / Correct — A",
+      "options": [
+        "C: 'commercial' appears in Para 1 but describes the OLD/FAMILIAR genre that the new generation REACTS AGAINST. The new genre's characteristics = 'tougher and simpler' (lines 5–6) → A: RAW (가공되지 않은, 원초적인, 거친) = correct paraphrase of 'tougher and simpler' ✓. C = Visual Keyword Match Trap: correct word, wrong generation.",
+        "A is wrong — 'raw' is not in the passage",
+        "C is correct — 'commercial' appears in the passage and describes new rock",
+        "D is correct — new genres are more sophisticated"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Visual Keyword Match Trap: 'commercial' = the OLD familiar genre being rebelled against. A = correct: 'tougher and simpler' → RAW ✓",
+      "explanation": "[Targeting — TWO generations in Para 1]\nGeneration 1 (OLD/FAMILIAR genre): 'common \"commercial\" language' = existing formula/convention\n= this is what the NEW generation REACTS AGAINST\n\nGeneration 2 (NEW genre): 'new generations of rockers arrive with something TOUGHER AND SIMPLER'\n= this is the characteristic of the NEW genre\n→ TOUGHER AND SIMPLER → RAW ✓\n\n[A correct paraphrase chain]\n'tougher and simpler' = rougher, less polished, more primitive/elemental\n→ RAW = unprocessed, rough, elemental = 가공되지 않은, 원초적인 ✓\n\n[C — Visual Keyword Match Trap]\n'commercial' = visually prominent in the passage\nBUT: 'commercial language' = the OLD formula the new generation SHAKES DOWN\n= the new genre is defined by OPPOSITION to the commercial formula\n= C describes the thing being rebelled against, not the new genre itself\n\n[Key test for this type of error]\nWhen a word appears in the passage, ask: WHICH ENTITY does it describe?\n= 'commercial' → old/familiar genre → being rejected\n= 'tougher and simpler' → new genre → raw ✓",
+      "action": "Action Rule (Q29 U62): When a keyword appears in the passage, always check WHICH ENTITY it describes. 'Commercial' = OLD familiar genre being rebelled against, NOT the new genre. New genre characteristic = 'tougher and simpler' → RAW ✓. Rule: visually prominent keyword ≠ automatically describes the question's subject."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u61_q1_targeting_alert_to_art_context_meaning",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 61 — Q1 In-Context Meaning (C→D)",
+    "quiz": {
+      "question": "[Q1 — In-Context Meaning: Micro-Targeting Trap — 'alert to art']\n\nPassage logic (core contrast):\n• People DEPLORE lack of ornament in furniture/hardware/chinaware (= value only traditional decorative beauty)\n• BUT they OVERLOOK the beauty of everyday machinery (handphone, power-house, motor-car)\n• The car: 'dependence on stream-lines and expressive mass INSTEAD OF ornament... absolute sense of FLEETNESS'\n• 'qualities that... anyone ALERT TO ART must feel'\n\nQ: In the context of this passage, to be 'alert to art' (line 6) is to ______.\nC: be fascinated by the artistic expression of physical power\nD: have an appreciation of beauty in whatever form it occurs\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: locked onto 'power-house' + 'potent' near line 6 → physical power. But passage never says physical power IS the art — it says LINE-AND-FORM is the fascination. D: the passage's core contrast = traditional ornament vs. modern machine both have beauty → 'alert to art' = appreciating beauty IN WHATEVER FORM it occurs, not just one type ✓",
+        "D is wrong — the passage is only about machinery, not beauty in general",
+        "C is correct — 'power-house' + 'potent' directly describe what art means here",
+        "B is correct — seeing artistic possibilities in mechanical objects is what 'alert to art' means"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Micro-Targeting Trap: 'power-house'/'potent' nearby → physical power. But passage = LINE-AND-FORM fascination, not power itself. D = correct: core contrast (ornament vs. machine beauty) → 'alert to art' = beauty in WHATEVER FORM it occurs ✓",
+      "explanation": "[Passage core contrast — macro-context]\nPeople deplore: lack of ornament in furniture/chinaware (= value TRADITIONAL decorative form)\nPeople overlook: beauty in everyday machinery (= MODERN functional form)\n= both forms have beauty / the point = some people only see ONE type\n\n['alert to art' in context]\nComes right after: 'The machinery in the power-house has a potent LINE-AND-FORM FASCINATION that anyone alert to art must feel'\n= alert to art = someone who can feel the line-and-form fascination of MODERN objects\n= NOT exclusive to machinery / the contrast with ornament means:\n= alert to art = can see beauty whether it appears as ornament OR as machine line-and-form\n→ D: 'appreciation of beauty IN WHATEVER FORM IT OCCURS' ✓\n\n[C — Micro-Targeting Trap]\n'power-house' + 'potent' appear near 'alert to art'\n→ student targets these words → 'physical power' seems right\nBUT: 'potent' modifies 'line-and-form fascination' NOT the power itself\n= the art is in the FORM (lines, volumes, shapes), not the mechanical power output\n= C imports 'physical power' where passage says 'line-and-form'\n\n[Why B is weaker than D — Tautology]\nB: 'see artistic possibilities in mechanical objects'\n= if 'alert to art' means noticing art in machines, then:\n= 'the machinery has a fascination that anyone who sees art in machines must feel'\n= circular / tautological\nD avoids this by framing it as the broader capacity = beauty in ANY form\n\n[Key lesson — In-Context questions]\n'In the context of this passage' = must read the MACRO logic of the whole paragraph\n= identify the core contrast/argument\n= ask: what role does the phrase play in that argument?\n= 'alert to art' = the quality that lets you see BOTH traditional and modern beauty",
+      "action": "Action Rule (Q1 U61): 'In the context of this passage' = read MACRO contrast first, not micro-words near the target phrase. Core contrast: ornament beauty vs. machine beauty = both valid. 'Alert to art' = appreciation of beauty IN WHATEVER FORM = D ✓. C = Micro-Targeting Trap: 'power-house'/'potent' nearby ≠ physical power IS the art."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
