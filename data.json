@@ -6874,6 +6874,111 @@
     "cycleIdx": 0
   },
   {
+    "id": "robot_q46_paraphrase_competence_vs_result",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Robot Surgery — Q46 오답 분석 (D = 오답 이유 이해)",
+    "quiz": {
+      "question": "[Q46 — Overkill Paraphrase: 'better result' ≠ 'gain competence']\n\nPassage evidence:\n• Less experienced surgeon using robot → achieved BETTER RESULT than more experienced surgeon without robot\n• Robot physically guides the path to the target (kidney stone)\n\nQ: What part does the robot play?\nB: creates a pathway to the kidney stone (CORRECT)\nD: gives less experienced surgeons the opportunity to gain competence in the procedure\n\nWhy is D wrong even though 'less experienced' surgeons are mentioned?",
+      "options": [
+        "D: 'gain competence in the procedure' = implies the robot is a TRAINING device that improves surgeons' actual skill. But the passage says the robot COMPENSATES for inexperience (better result), not that it TRAINS surgeons. Also, the question asks what the robot DOES physically — B directly describes the physical function. D = function mismatch: result-compensation ≠ skill training.",
+        "D is correct — the robot helps less experienced surgeons improve",
+        "D is correct — 'competence' = getting a better result, same thing",
+        "D is correct — the passage says surgeons become more skilled with robot assistance"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Function Mismatch: robot = compensates for lack of experience (better result now) ≠ trains surgeons to gain competence (better skill for the future). B = correct: robot physically creates the pathway ✓",
+      "explanation": "[Passage logic]\nLess experienced surgeon + robot → BETTER RESULT than more experienced surgeon without robot\n= the robot COMPENSATES FOR the skill gap in real-time\n= the surgeon's own hands-on skill does NOT necessarily improve\n\n[B correct — physical function]\nPassage describes the robot physically guiding/drilling the path to the kidney stone\n→ 'creates a pathway to the kidney stone' = direct paraphrase of the robot's described action ✓\n\n[D — Function Mismatch]\n'gain competence in the procedure' = the surgeon LEARNS and IMPROVES their skill\n= a TRAINING outcome (future improvement)\nPassage says: BETTER RESULT (immediate outcome), not 'surgeon became more skilled'\n= the robot does the precise work → surgeon's physical dexterity may NOT improve\n\n[Key distinction]\nResult compensation: robot helps bad outcome → good outcome NOW\nSkill training: robot helps surgeon → better surgeon FOR THE FUTURE\nPassage = result compensation only ≠ D = skill training\n\n[Also: question scope]\n'What part does the robot PLAY?' = what physical function does it perform?\n→ B = physical pathway creation = directly described in passage\n→ D = training benefit = not described as the robot's function",
+      "action": "Action Rule (Q46): 'Better result with robot' ≠ 'gaining competence/training'. Result compensation (now) ≠ skill development (future). When question asks 'what does X do?' → target the PHYSICAL FUNCTION described in the passage, not implied downstream benefits."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "robot_q47_paraphrase_frequently_overstatement",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Robot Surgery — Q47 오답 분석 (B = Overstatement, A = correct)",
+    "quiz": {
+      "question": "[Q47 — Overstatement Trap: 'far lower chance' ≠ 'frequently cause']\n\nPassage evidence:\n• Para 3: 'the device took significantly FEWER ATTEMPTS to hit the right spot'\n• 'On most occasions the robot needed only ONE ATTEMPT'\n• Para: 'far lower chance of... damage to a nearby organ'\n\nQ: What does the passage imply about conventional (non-robot) surgery?\nA: surgeons need to drill more than once to locate the target (CORRECT)\nB: operations frequently cause damage to surrounding organs\n\nWhy is B wrong despite the passage mentioning organ damage risk?",
+      "options": [
+        "B: 'FREQUENTLY cause damage' = high frequency absolute claim. Passage says robot gives 'FAR LOWER CHANCE' of organ damage → implies some risk exists without robot, but NEVER says this happens FREQUENTLY. 'Far lower chance' = relative comparison, not statement of frequency. A: 'robot needed only ONE attempt' → implies humans needed MORE THAN ONE attempt = correct implication ✓",
+        "B is correct — 'far lower chance' implies the non-robot method frequently causes damage",
+        "A is wrong — the passage never says how many attempts humans make",
+        "B is correct — organ damage is clearly described as a common problem"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Overstatement: 'frequently' is absolute frequency claim not supported by passage. 'Far lower chance' = relative comparison only. A = correct implication: robot = mostly 1 attempt → humans = more than 1 attempt ✓",
+      "explanation": "[B — Overstatement Error]\n'FREQUENTLY cause damage' = implies organ damage happens OFTEN in conventional surgery\nPassage says: robot gives 'FAR LOWER CHANCE of... damage to a nearby organ'\n= this is a RELATIVE comparison (robot < conventional), not a statement of HOW OFTEN conventional surgery causes damage\n= e.g., if conventional damage rate = 3% and robot = 0.1%, that is 'far lower'\n= but 3% does NOT qualify as 'frequent' (빈번한)\n= 'frequently' imports a frequency judgment the passage never makes\n\n[A — correct implication chain]\n'the device took significantly FEWER ATTEMPTS to hit the right spot'\n'On most occasions the robot needed only ONE ATTEMPT'\n= robot: mostly 1 attempt / conventional: SIGNIFICANTLY MORE attempts\n= implication: surgeons (without robot) need to drill MORE THAN ONCE to locate the target ✓\n= this is a direct, supported inference from the passage ✓\n\n[GAMSAT overstatement rule]\nWhen passage uses relative/comparative language ('far lower', 'significantly fewer', 'less likely'):\n→ correct answers must preserve the comparison\n→ reject any choice that converts the comparison into an absolute/frequency claim\n→ 'far lower chance' ≠ 'frequently happens'\n→ 'significantly fewer attempts' → implies conventional = more attempts (not 'frequently fails')",
+      "action": "Action Rule (Q47): 'Far lower chance' = relative comparison, NOT frequency statement. B = Overstatement: 'frequently' imports frequency judgment not in passage. A = correct implication: robot = 1 attempt → humans = more than 1 attempt. Rule: relative comparison language ('far lower', 'significantly fewer') → preserve the comparison, do NOT convert to absolute frequency claims."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u58_q23_targeting_consumer_movement_quality_of_service",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 58 — Q23 Targeting (근거 확인, 정답 B)",
+    "quiz": {
+      "question": "[Q23 — Targeting: Consumer movement aim — 근거 문장 확인]\n\nPassage 1 (lines 9–12):\n'The consumer movement, the women's movement and the more general demand for participation all focussed on the medical encounter, but traditional medical schools and practising doctors resisted populist demands and THE PRESSURE FOR DEMOCRATISATION AND CUSTOMER SERVICE.'\n\nQ: The passage implies that an aim of the consumer movement has been to ______.\nA: foster the growth of profit-oriented orthodox medical practitioners\nB: encourage patients to assess doctors in terms of quality of service\nC: devalue the intimate nature of the doctor-patient relationship\nD: make patients less likely to consume alternative therapies\n\nCorrect — B (명확한 근거 확인용 카드)",
+      "options": [
+        "B: 'pressure for CUSTOMER SERVICE' = treating medical care as a service to be evaluated → 'encourage patients to ASSESS DOCTORS in terms of QUALITY OF SERVICE' ✓. Doctors RESISTED this pressure → implies the consumer movement was PUSHING FOR this assessment. Key paraphrase: customer service → quality of service / pressure for = aim to encourage ✓",
+        "A is correct — consumer movement = promoting for-profit medicine",
+        "C is correct — consumer movement devalued doctor-patient intimacy",
+        "D is correct — consumer movement aimed to replace alternative therapies"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = correct: 'pressure for customer service' → encourage patients to assess doctors in terms of quality of service ✓",
+      "explanation": "[Targeting]\nLine 11–12: 'the pressure for DEMOCRATISATION AND CUSTOMER SERVICE'\n= consumer movement pushed for doctors to be subject to 'customer service' standards\n= doctors RESISTED → implies the movement's AIM was to impose this standard\n\n[B correct paraphrase chain]\n'customer service' → quality of service ✓\n'pressure for' (resisted) → aim of the movement = 'encourage patients to assess doctors' ✓\n= if doctors resist customer service pressure, the movement's goal = making patients assess doctors as service providers ✓\n\n[Why A/C/D fail]\nA: 'profit-oriented' = not in passage / consumer movement ≠ promoting profit medicine\nC: 'devalue intimate nature' = the deterioration in doctor-patient relationship is attributed to malpractice lawsuits and technology (lines 13–16), not the consumer movement\nD: 'make patients less likely to consume alternative therapies' = consumer movement is about orthodox medicine accountability, not about alternative therapies",
+      "action": "Action Rule (Q23): 'Pressure for customer service' (resisted by doctors) → the consumer movement's AIM = encourage patients to assess doctors in terms of quality of service. Paraphrase: customer service → quality of service / pressure for = aim to encourage. The RESISTANCE tells you what the movement was PUSHING FOR."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u58_q25_paraphrase_holistic_not_verify_scientifically",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 58 — Q25 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q25 — Paraphrase: Direction Reversal — 'emphasis on mind' ≠ 'too little faith in mind']\n\nPassage 2 (lines 3–7):\n'...holistic practitioners are ABSOLVED FROM DEMONSTRATING CAUSAL RELATIONSHIPS between their treatments and alleged therapeutic gains. They are UNDER NO OBLIGATION to reconcile their claims about therapy with what is known about the CAUSAL PATHWAYS of the body. Their EMPHASIS ON THE POWER OF THE MIND...'\n\nQ: In this passage the main objection to holistic practitioners is that they ______.\nA: do not verify their therapies scientifically\nB: put too little faith in the power of the mind to heal\n\nYour pick — B / Correct — A",
+      "options": [
+        "B: 'too LITTLE faith in the power of the mind' = OPPOSITE of the passage. Passage says holistic practitioners EMPHASISE the power of the mind (line 6–7). The objection = they avoid demonstrating causal relationships + refuse to reconcile claims with scientific knowledge of the body = NOT VERIFYING SCIENTIFICALLY. A: absolved from demonstrating causal relationships + under no obligation to reconcile with causal pathways = do not verify their therapies scientifically ✓",
+        "A is wrong — the passage doesn't say anything about scientific verification",
+        "B is correct — holistic practitioners underestimate the mind's power",
+        "D is correct — holistic practitioners deliberately deceive patients"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Direction Reversal: passage says holistic practitioners EMPHASISE the power of the mind, NOT that they have too little faith in it. A = correct: absolved from causal proof + no obligation to reconcile with causal pathways = do not verify scientifically ✓",
+      "explanation": "[B — Direction Reversal Error]\nPassage line 6–7: 'Their EMPHASIS ON THE POWER OF THE MIND is part theme and part tactic'\n= holistic practitioners OVER-EMPHASISE the power of the mind\nB says: 'TOO LITTLE faith in the power of the mind'\n= exact opposite of the passage\n= classic direction reversal: passage = TOO MUCH emphasis / B = TOO LITTLE faith\n\n[A correct paraphrase chain]\n'absolved from DEMONSTRATING CAUSAL RELATIONSHIPS' = not required to prove how treatment works\n'under NO OBLIGATION to RECONCILE claims with... CAUSAL PATHWAYS of the body' = not required to match claims with scientific knowledge\n= not demonstrating causal relationships + not reconciling with scientific knowledge\n→ DO NOT VERIFY THEIR THERAPIES SCIENTIFICALLY ✓\n\n[Why D is wrong]\nD: 'deliberately deceitful in their claims of therapeutic effectiveness'\n= passage says their emphasis on mind is 'part theme and part TACTIC' = possibly strategic, not necessarily lying\n= 'absolved from demonstrating' = they believe they don't need to prove it, not that they are deliberately deceiving\n= 'deliberately deceitful' = stronger claim than passage supports",
+      "action": "Action Rule (Q25): Direction Reversal: 'EMPHASIS on the power of the mind' (passage) ≠ 'TOO LITTLE faith in the power of the mind' (B). When passage says X over-emphasises something, reject choices saying they under-value that same thing. A = correct: absolved from causal proof + no obligation to reconcile with science = do not verify scientifically ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u58_q28_targeting_authors_regard_alternative_inferior",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 58 — Q28 Targeting (B→D, 타게팅오류)",
+    "quiz": {
+      "question": "[Q28 — Targeting: Authors' PERSONAL VIEW — both passages' tone toward alternative therapies]\n\nPassage 1 (lines 1–3):\n'Why should the STRANGE, VARIED, CONTRADICTORY AND BIZARRE collection of alternative treatments MESMERISE sophisticated Western populations who have the TECHNOLOGICAL SOPHISTICATION of modern medicine available to them?'\n\nPassage 2 (lines 8–10):\n'The holistic practitioner sees the body in much the same way that MAGICIANS OF OLD viewed the universe. The body becomes the last BASTION OF MAGIC.'\n\nQ: Judging from their comments, the authors of both passages would personally regard alternative therapies as ______.\nB: responses to problems in orthodox medicine\nC: viable and attractive, if not fully justifiable\nD: inferior to orthodox medical therapies\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'responses to problems in orthodox medicine' = a neutral/objective description of WHY alternative therapies exist. But the question asks the authors' PERSONAL REGARD = their evaluative opinion. P1: 'strange, contradictory and bizarre' (dismissive) + contrast with 'technological sophistication' of orthodox. P2: 'magicians of old' + 'bastion of magic' (dismissive). Both authors personally VIEW alternative therapies as INFERIOR to orthodox medicine → D ✓",
+        "D is wrong — the authors acknowledge alternative therapies have some merit",
+        "C is correct — both authors find alternative therapies viable",
+        "A is correct — both authors see alternative therapies as populist products"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Neutral Description Trap: 'responses to problems' = WHY they exist (objective), not how the authors VALUE them (evaluative). D = correct: 'strange/bizarre' (P1) + 'magicians of old/bastion of magic' (P2) = both authors personally view alternative therapies as inferior ✓",
+      "explanation": "[Question requirement]\n'PERSONALLY REGARD' = the authors' own evaluative opinion/stance\n= not what alternative therapies ARE, but how the authors JUDGE them\n\n[D correct — author tone evidence]\nP1 line 1–3: 'STRANGE, VARIED, CONTRADICTORY AND BIZARRE collection'\n= strongly dismissive language about alternative therapies\nP1: contrast with 'TECHNOLOGICAL SOPHISTICATION of modern medicine'\n= orthodox = sophisticated / alternative = bizarre → alternative = INFERIOR to orthodox ✓\n\nP2 line 8–10: 'MAGICIANS OF OLD' = pre-scientific, primitive thinking\n'BASTION OF MAGIC' = the last refuge of magical (unscientific) thinking\n= P2 author equates holistic practitioners with ancient magicians = dismissive/inferior framing ✓\n\n[B — Neutral Description Trap]\n'responses to problems in orthodox medicine' = describes the SOCIOLOGICAL REASON for alternative therapies' existence\n= this is what P1 Para 2 explains (dissatisfaction with orthodox medicine drove people to alternatives)\n= this is an OBJECTIVE DESCRIPTION of causation, not the authors' PERSONAL EVALUATION\n= B answers 'why do alternative therapies exist?' not 'how do the authors regard them?'\n\n[C eliminated]\n'viable and attractive, if not fully justifiable' = suggests positive evaluation with minor reservation\n= neither author shows this. P1: 'bizarre' / P2: 'magicians' = both are strongly dismissive",
+      "action": "Action Rule (Q28): 'Personally regard' = authors' EVALUATIVE OPINION, not objective description. B = Neutral Description Trap: 'responses to problems' = WHY alternative therapies exist (sociological fact), not how authors judge them. Tone evidence: P1 'strange/bizarre' + P2 'magicians of old/bastion of magic' = both dismissive = INFERIOR to orthodox medicine → D ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
