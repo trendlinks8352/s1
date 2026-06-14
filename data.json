@@ -6979,6 +6979,132 @@
     "cycleIdx": 0
   },
   {
+    "id": "u57_q8_targeting_identity_pretended_french_russian",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 57 — Q8 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q8 — Targeting: Emotion vs. Identity — 'foreigner in my own country']\n\nPassage I (lines 1–4):\n'The end of September arrived... as a foreigner in MY OWN COUNTRY. Never in my life had I enjoyed so much freedom in my homeland nor even the respect of the caretakers as I did in those six months as a FRENCH CITIZEN OF PETERSBURG.'\n\nQ: During the six months that Shlyapnikov had lived in Russia, he ______.\nA: was happy although he pretended he was not\nB: was unhappy although he pretended he was not\nC: pretended to be French although he was Russian\nD: pretended to be Russian although he was French\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'was unhappy although he pretended he was not' = emotion-based reading. But passage says 'happy-go-lucky', 'enjoyed so much freedom', 'happy memories' = he WAS happy. The contrast is not about emotion but IDENTITY: 'own country' (= Russian) vs 'French citizen' (= pretending to be French). C: he was Russian ('own country') but posed as French ('French citizen of Petersburg') ✓",
+        "C is wrong — the passage doesn't mention pretending to be French",
+        "B is correct — 'happy-go-lucky' means he was hiding unhappiness",
+        "D is correct — he was French pretending to be Russian"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Emotion Targeting Error: passage says he WAS happy (happy-go-lucky, enjoyed freedom, happy memories). C = correct: IDENTITY contrast = 'own country' (Russian) vs 'French citizen' (disguise) ✓",
+      "explanation": "[B — Emotion Targeting Error]\nStudent reads 'as a foreigner in my own country' = feeling alienated = unhappy\nBUT passage describes: 'happy-go-lucky way of life' / 'never enjoyed so much freedom' / 'happy memories'\n= he was GENUINELY happy, not pretending\n= the contrast is NOT about emotion\n\n[C correct — Identity contrast]\n'as a foreigner in MY OWN COUNTRY' = he IS Russian (own country)\n'as a FRENCH CITIZEN of Petersburg' = he was disguised/identified as French\n= Underground Movement operative = using French identity as a cover\n= physical reality: Russian / presented identity: French\n→ pretended to be French although he was Russian ✓\n\n[Key targeting principle]\nQuestion asks WHAT HE DID, not HOW HE FELT\n'foreigner in own country' + 'French citizen' = IDENTITY STATUS, not emotional state\n= target the concrete factual contrast (nationality), not the emotional tone (happy/unhappy)",
+      "action": "Action Rule (Q8): 'Foreigner in own country' + 'French citizen' = IDENTITY contrast (Russian pretending to be French), not emotion (unhappy pretending happy). When passage provides explicit factual descriptors (nationality, status), target those before inferring emotional states. C = correct: Russian reality + French disguise ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u57_q9_paraphrase_pleasant_recollection_collaborative_striving",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 57 — Q9 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q9 — Paraphrase: 'happy memories' content — what specifically does he recall fondly?]\n\nPassage I (lines 4–6):\n'But those six months flew past like a sunny May day, leaving HAPPY MEMORIES of WORKING-CLASS STRUGGLE, SOLIDARITY AND READINESS FOR SACRIFICE.'\n\nQ: Shlyapnikov describes his pleasant recollection of the six months as ______.\nA: a warm Spring day\nB: unaccustomed independence\nC: collaborative striving and willing deprivation\nD: the modifications he made to his life in Petersburg\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'unaccustomed independence' = partially maps to 'enjoyed so much freedom' (lines 2–3) but that describes the GENERAL FEELING of the period, not the specific CONTENT of his happy memories. C: 'working-class struggle + solidarity' → COLLABORATIVE STRIVING ✓ / 'readiness for sacrifice' → WILLING DEPRIVATION ✓ = direct paraphrase of the happy memories content ✓",
+        "C is wrong — 'collaborative striving' is not in the passage",
+        "B is correct — 'freedom' = 'unaccustomed independence' is the best match",
+        "A is correct — 'sunny May day' = the pleasant recollection"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Wrong Target: 'freedom' (lines 2–3) = general period feeling, not the specific content of 'happy memories'. C = correct: working-class struggle + solidarity → collaborative striving / readiness for sacrifice → willing deprivation ✓",
+      "explanation": "[Targeting — TWO different things]\nLines 2–3: 'enjoyed so much FREEDOM' = describes the GENERAL FEELING of the six months\nLines 4–6: 'happy memories of WORKING-CLASS STRUGGLE, SOLIDARITY AND READINESS FOR SACRIFICE' = describes the SPECIFIC CONTENT of what he remembers fondly\n\n[B wrong target]\nB: 'unaccustomed independence' ≈ 'enjoyed so much freedom'\n= this maps to lines 2–3 (general feeling), NOT lines 4–6 (happy memories content)\n= the question asks about his pleasant RECOLLECTION = the specific content of happy memories ✓\n\n[C correct paraphrase chain]\n'working-class STRUGGLE + SOLIDARITY' → COLLABORATIVE STRIVING ✓\n(struggle together as a group = collaborative / striving = struggle)\n'READINESS FOR SACRIFICE' → WILLING DEPRIVATION ✓\n(readiness = willing / sacrifice = deprivation of comfort/resources)\n\n[A eliminated]\nA: 'warm Spring day' = the SIMILE used to describe how fast the time passed ('flew past like a sunny May day')\n= this is a metaphor for the speed/pleasantness, not the CONTENT of the memories\n\n[Key scan protocol]\nQuestion says 'pleasant recollection' → scan for 'happy memories' in passage → read the NOUN PHRASES immediately following it\n= 'working-class struggle, solidarity and readiness for sacrifice' = the content to paraphrase",
+      "action": "Action Rule (Q9): 'Pleasant recollection' → scan for 'happy memories' → read the SPECIFIC CONTENT after it (not the general feeling earlier). B = Wrong Target: 'freedom' (general feeling, lines 2–3) ≠ content of happy memories (lines 4–6). C = correct: struggle + solidarity → collaborative striving / readiness for sacrifice → willing deprivation ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u57_q10_targeting_abroad_not_moscow",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 57 — Q10 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q10 — Targeting: Proper Noun Fill-In Trap — 'abroad' ≠ 'Moscow']\n\nPassage I (lines 9–12):\n'my proletarian friends raised the Item of International Communication and contacts with our CENTRAL COMMITTEE ABROAD. All these tasks could be accomplished best by myself, so comrades proposed that I take the job and not apply for a Russian passport but make use of my privileges as an alien to MAKE A TRIP ABROAD.'\n\nQ: Shlyapnikov was convinced to leave Petersburg in order to ______.\nA: travel overseas\nB: continue the struggle in other parts of Russia\nC: meet with Moscow members of the Central Committee\nD: acquaint people in other countries with the Russian struggle\n\nYour pick — C / Correct — A",
+      "options": [
+        "C: 'Moscow' = NOT IN THE PASSAGE. 'Central Committee ABROAD' = the committee is located OVERSEAS, not in Moscow. Student infers Russia's Central Committee = Moscow = classic proper noun fill-in error. A: 'make a trip ABROAD' → 'travel OVERSEAS' ✓ = direct paraphrase of the passage's exact words.",
+        "A is wrong — the passage doesn't say he went overseas",
+        "C is correct — Central Committee = Moscow, that's implied",
+        "D is correct — the passage mentions international communication"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Proper Noun Fill-In Trap: 'Central Committee ABROAD' = overseas, not Moscow. 'Moscow' is never mentioned. A = correct: 'make a trip abroad' → 'travel overseas' ✓",
+      "explanation": "[C — Proper Noun Fill-In Trap]\n'contacts with our Central Committee ABROAD'\n= ABROAD = overseas, outside Russia\n= student's brain fills in: Central Committee → Soviet institution → Moscow\n= BUT the text says the Central Committee is ABROAD (overseas), not in Moscow\n= 'Moscow' is never mentioned in the passage\n= importing a proper noun not in the text = classic GAMSAT trap\n\n[A correct paraphrase chain]\n'make a trip ABROAD' → 'travel OVERSEAS' ✓\n= abroad = overseas = exact synonym, direct paraphrase ✓\n\n[B eliminated]\n'continue the struggle in OTHER PARTS OF RUSSIA' = the destination is Russia\n= passage says 'abroad' = outside Russia, opposite direction\n\n[D eliminated]\n'acquaint people in other countries with the Russian struggle' = his mission purpose\n= passage says the PURPOSE was 'contacts with Central Committee + International Communication'\n= D over-extrapolates the reason for leaving into a specific outreach mission not stated",
+      "action": "Action Rule (Q10): NEVER import proper nouns (city names, institution names) not explicitly in the passage. 'Central Committee abroad' = overseas committee, NOT Moscow. Passage says 'make a trip abroad' → 'travel overseas' (A) = direct paraphrase. Rule: for place/location questions, use ONLY the text's exact directional words (abroad, overseas, home, local)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u57_q11_paraphrase_negation_never_wanted_to_leave",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 57 — Q11 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q11 — Paraphrase: Negation Missed — 'never wanted to... go wandering']\n\nPassage I (lines 6–8):\n'I have NEVER WANTED TO THINK that it would again be necessary to go WANDERING \"across frontiers\", adjust to new conditions and TEAR MYSELF AWAY from the day-to-day struggle of the Russian proletariat...'\n\nQ: A central implication of the passage is that Shlyapnikov was ______.\nA: happy to stay and continue his rebellious lifestyle\nB: looking for a new challenge after six months in Petersburg\n\nYour pick — B / Correct — A",
+      "options": [
+        "B: 'looking for a NEW CHALLENGE' = opposite of what the passage says. Passage: 'NEVER WANTED to go wandering' + 'tear myself AWAY from' (reluctance to leave). A: 'happy to STAY and continue his rebellious lifestyle' = 'never wanted to leave' + 'happy-go-lucky rebellious lifestyle' ✓. B = classic Negation Miss: 'never wanted' → student reads as 'wanted' and inverts the meaning.",
+        "A is wrong — 'happy-go-lucky' means he was hiding his true feelings",
+        "B is correct — comrades convinced him to leave = he wanted a challenge",
+        "D is correct — he was in danger and forced to leave against his judgment"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Negation Miss: 'NEVER wanted to go wandering' = he wanted to STAY, not find new challenges. A = correct: happy to stay + continue rebellious lifestyle ✓",
+      "explanation": "[B — Negation Miss]\n'I have NEVER WANTED TO THINK that it would again be necessary to go wandering'\n= he NEVER WANTED to leave = he wanted to STAY\n'tear myself AWAY from the day-to-day struggle'\n= 'tear away from' = reluctance to leave = he was attached to staying\nB says: 'looking for a NEW CHALLENGE' = actively wanting to leave and try something new\n= exact OPPOSITE of 'never wanted to go wandering'\n\n[A correct paraphrase chain]\n'happy-go-lucky way of life... happy memories' = HAPPY ✓\n'never wanted to... go wandering... tear myself away' = wanted to STAY ✓\n'rebellious... working-class struggle, solidarity' = REBELLIOUS LIFESTYLE ✓\n→ 'happy to STAY and CONTINUE his REBELLIOUS LIFESTYLE' ✓\n\n[Why D is wrong]\nD: 'in danger and against his judgment, his friends persuaded him to leave'\n= passage says comrades PROPOSED the task, no mention of danger or reluctance to follow judgment\n= going abroad was framed as a mission he was best suited for, not a forced escape\n\n[Key negation rule for GAMSAT]\nWhen passage contains: never, not, nor, no\n→ the sentence direction is REVERSED from what follows\n→ 'never wanted to go wandering' = wanted to STAY (positive of the opposite)\n→ Missing the negation → entire meaning inverts → wrong answer",
+      "action": "Action Rule (Q11): NEGATION WORDS (never, not, nor, no) reverse the sentence direction 180°. 'NEVER wanted to go wandering' = wanted to STAY. B = Negation Miss: reads 'wanted to go' without 'never'. When you see a negation in a passage, explicitly flip the meaning: 'never wanted X' = 'wanted NOT-X'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u57_q13_paraphrase_bigotry_overstated_parents",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 57 — Q13 오답 이해 (B = bigotry 과장, 정답 A)",
+    "quiz": {
+      "question": "[Q13 — Overstatement: 'bigotry' vs. 'faith' — Passage II]\n\nPassage II (lines 1–6):\n'Women and old men worked without a murmur, submissively bending their backs for pauper's wages... My family were all Old Believers and LIVED ONLY FOR THEIR FAITH and their own households. When PERSECUTION of Old Believers with their chapels, books and icons, ceased, the number of adherents began to drop. \"Suffering for the faith\" was now difficult... by FORBEARANCE, SUFFERING, PRAYER AND FAST...'\n\nQ: According to the passage, Shlyapnikov's parents lived a life of ______.\nA: poverty and labour\nB: poverty and bigotry\n\nWhy is B wrong?",
+      "options": [
+        "B: 'BIGOTRY' = extreme intolerance/prejudice toward others' beliefs (타인에 대한 극심한 편견과 배척). Passage describes parents as: 'lived only for their faith' / suffered persecution / survived by prayer and fasting = DEVOUT and PASSIVE, not intolerant toward others. Bigotry = projecting prejudice OUTWARD / parents' faith = inward devotion + passive endurance. A: 'pauper's wages' + 'worked without murmur' + 'submissively bending backs' = poverty (✓) + labour (✓) ✓",
+        "B is correct — deeply religious people are always bigoted",
+        "A is wrong — the passage doesn't mention poverty directly",
+        "D is correct — selfishness is implied by 'their own households'"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Overstatement: 'bigotry' = intolerance toward others (NOT in passage). Parents = devout + passive endurance of persecution (faith directed INWARD). A = correct: pauper's wages (poverty) + worked submissively (labour) ✓",
+      "explanation": "[Bigotry definition — why B fails]\nBIGOTRY (편견, 맹신) = extreme intolerance/prejudice TOWARD OTHERS who hold different beliefs\n= projecting hostility OUTWARD toward those who differ\n\n[Passage describes the OPPOSITE]\nParents: 'lived only for their faith' = devotion directed INWARD\nThey were VICTIMS of persecution (Old Believers persecuted by the state)\n= they endured bigotry from OTHERS, not directed bigotry toward others\n'forbearance, suffering, prayer and fast' = passive, inward endurance\n= no evidence they persecuted or showed intolerance toward anyone\n\n[GAMSAT overstatement rule]\nStrong religious devotion ≠ bigotry\nBeing an 'Old Believer' ≠ being intolerant of others\n= the passage never describes them showing hostility toward outsiders\n= importing 'bigotry' from religious devotion = unjustified leap\n\n[A correct chain]\n'PAUPER'S wages' → poverty ✓\n'WORKED without a murmur, submissively bending their backs' → labour ✓\n= straightforward factual paraphrase ✓",
+      "action": "Action Rule (Q13): 'Lived only for their faith' ≠ 'bigotry'. Bigotry = intolerance toward OTHERS (outward). Parents = devout + passively endured persecution (inward). Never equate strong faith with intolerance toward others unless the passage explicitly describes outward hostility. A = poverty (pauper's wages) + labour (worked submissively) = direct factual paraphrase ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u57_q14_paraphrase_solidarity_forbearance_furthest_apart",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 57 — Q14 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q14 — Paraphrase: Word Pair Furthest Apart in Contextual Meaning]\n\nWord pairs (as used in their respective passages):\nA: comrades (P1, line 10) vs adherents (P2, line 4)\nB: sacrifice (P1, line 6) vs suffering (P2, line 5)\nC: solidarity (P1, line 5) vs forbearance (P2, line 7)\nD: struggle (P1, line 8) vs struggle (P2, line 6)\n\nQ: Which pair is FURTHEST APART in meaning as used in their respective passages?\nYour pick — A / Correct — C",
+      "options": [
+        "A: comrades (political collective for revolution) vs adherents (religious followers) = both = people united by shared belief/purpose = same STRUCTURAL PROPERTY (group membership). C: solidarity (P1) = ACTIVE + COLLECTIVE + OUTWARD (workers uniting to fight together) vs forbearance (P2) = PASSIVE + INDIVIDUAL + INWARD (enduring persecution alone/quietly). Opposite on all three dimensions: active/passive, collective/individual, outward/inward ✓",
+        "C is wrong — solidarity and forbearance both involve group support",
+        "B is correct — sacrifice and suffering are the most different",
+        "D is correct — struggle is used completely differently in both passages"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Not furthest: comrades and adherents share the same structural property (group united by shared purpose/belief). C = correct: solidarity (active, collective, outward) vs forbearance (passive, individual, inward) = opposite on all three dimensions ✓",
+      "explanation": "[Comparison framework: three dimensions]\nDimension 1: Active vs Passive\nDimension 2: Collective vs Individual\nDimension 3: Outward (projecting energy) vs Inward (containing energy)\n\n[C — solidarity vs forbearance = MAXIMUM distance]\nSolidarity (P1 line 5): 'working-class struggle, SOLIDARITY'\n= ACTIVE (workers actively unite and fight)\n= COLLECTIVE (all workers together)\n= OUTWARD (directing energy against external oppression)\n\nForbearance (P2 line 7): 'by FORBEARANCE, suffering, prayer and fast'\n= PASSIVE (enduring without action)\n= INDIVIDUAL (personal inner discipline)\n= INWARD (containing/suppressing response to external force)\n→ Opposite on ALL THREE dimensions = furthest apart ✓\n\n[A — comrades vs adherents = NOT furthest]\nComrades: people united around political revolution\nAdherents: people united around religious faith\nBOTH = people with shared commitment to a collective cause\n= same structural property (group membership by shared belief)\n= direction differs (political vs religious) but NATURE of the relationship is similar\n\n[B — sacrifice vs suffering = close]\nSacrifice: voluntarily giving up something for a cause\nSuffering: experiencing pain/hardship for a cause\nBoth = enduring hardship for a larger purpose\n= sacrifice slightly more active, suffering slightly more passive\n= meaningful difference but NOT maximum contrast\n\n[D — struggle vs struggle = same word]\nP1 struggle = political/physical fight\nP2 struggle = psychological/spiritual perseverance\n= the WORD is the same, context shifts, but question asks about meaning distance\n= sharing the same word reduces perceived distance",
+      "action": "Action Rule (Q14): 'Furthest apart in contextual meaning' = compare on 3 dimensions: Active/Passive, Collective/Individual, Outward/Inward. Solidarity (active, collective, outward) vs Forbearance (passive, individual, inward) = opposite on ALL THREE = C ✓. A = comrades vs adherents = same structural property (group by shared belief) = NOT furthest."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
