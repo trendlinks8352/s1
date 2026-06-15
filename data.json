@@ -7105,6 +7105,69 @@
     "cycleIdx": 0
   },
   {
+    "id": "u55_q48_paraphrase_wealth_vs_public_standing",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 55 — Q48 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q48 — Paraphrase: Surface Action vs. Underlying Motive — 'personal wealth' vs 'public standing']\n\nPassage (lines 14–18):\nMORE: And buy, what?\nRICH: (sudden ferocity) Some decent clothes!\nMORE: (with sympathy) Ah.\nRICH: I want a gown like yours.\n\nContext: Rich rejected the teaching post (£50/year + house + servant = material security). He plans to sell the silver cup. More asks what he'll buy with the money.\n\nQ: More perceives that Rich's most important aim in life at this time is to gain ______.\nC: personal wealth\nD: public standing\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'personal wealth' = having money in the bank. But Rich's plan with the money = buy 'A GOWN LIKE YOURS' (More's gown = symbol of high official status). Rich rejected a SECURE INCOME (teaching post) = not motivated by wealth itself. He wants to LOOK like a person of status. D: 'public standing' = how you appear to others in terms of status/importance ✓. 'Gown like yours' = visual signal of high position = public standing ✓",
+        "D is wrong — Rich just wants money to buy clothes",
+        "C is correct — Rich plans to sell the cup for money = he wants wealth",
+        "A is correct — Rich wanted a well-paid position"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Surface Action Trap: 'sell for money' → student assumes wealth = the goal. But Rich REJECTED secure income (teaching post) + spending money on GOWN LIKE YOURS (status symbol) = goal is PUBLIC STANDING, not wealth. D = correct ✓",
+      "explanation": "[Two-step logic required]\nStep 1: What does Rich DO with the money?\n→ Buy 'a gown LIKE YOURS' (More's gown = gown of a high official)\n→ the money is merely the MEANS, not the END\n\nStep 2: What does that purchase SIGNIFY?\n→ 'Gown like yours' = looking like a person of high official status\n→ = appearing important to others = PUBLIC STANDING ✓\n\n[C — Surface Action Trap]\nRich wants to sell the cup → get money → student stops here\n→ assumes goal = wealth (having money)\nBUT Rich REJECTED the teaching post = £50/year + house + servant\n= he already had the opportunity for material security and REJECTED it\n= wealth itself is NOT his primary motivation\n= what he craves = looking like More (a powerful official) = PUBLIC STANDING\n\n[More's reaction]\nMore says 'Ah.' with SYMPATHY\n= More has seen through Rich's desire for STATUS (not money)\n= More understands Rich's vanity about outward appearance\n= More's sympathy = he recognises Rich's hunger for recognition/standing\n\n[Key dramatic context]\nRich: 'I want a gown LIKE YOURS'\n= not 'I want a warm gown' or 'I want expensive clothes'\n= specifically wants a gown identical to the symbol of More's OFFICIAL STATUS\n= PUBLIC STANDING is the explicit motivation ✓",
+      "action": "Action Rule (Q48): 'Sell for money' = MEANS, not END. Ask: what does he DO with the money? 'Gown like yours' = symbol of official status = PUBLIC STANDING (D) ✓. He rejected secure income (teaching post) = wealth is not the goal. Surface action (selling cup) ≠ underlying motive (status display)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u55_q49_least_likely_keep_vs_sell_factcheck",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 55 — Q49 LEAST Likely (C→D)",
+    "quiz": {
+      "question": "[Q49 — LEAST Likely: Fact Check — 'keep' vs. 'sell' (direct contradiction)]\n\nPassage (lines 13–14):\nMORE: You'll sell it, won't you?\nRICH: Yes, I think so. Yes I will.\n\nQ: Which is the LEAST likely reason that More smiles (line 27)?\nA: He is amused that Rich will risk corruption in his upward climb\nB: He realises Rich does not see he is being bought by More through the 'gift'\nC: He contrasts the level of risk to reputation that the cup presents to More and to Rich\nD: He surmises Rich will KEEP the cup to illustrate More's patronage during Rich's time of advancement\n\nYour pick — C / Correct — D",
+      "options": [
+        "D: says More thinks Rich will KEEP the cup. But Rich EXPLICITLY SAID 'Yes, I will [sell it]' (lines 13–14). If Rich plans to SELL it, More cannot surmise he will KEEP it. D = direct factual contradiction with stated dialogue = LEAST likely ✓. B and C require complex inference but are plausible. A is directly supported by the context of corruption risk.",
+        "D is correct — 'keep' is implied by Rich accepting the gift",
+        "C is the least likely — contrasting reputation risk is too complex",
+        "A is the least likely — More wouldn't find corruption amusing"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Complex inference but plausible. D = correct LEAST likely: Rich EXPLICITLY said he will SELL the cup (lines 13–14), so More cannot surmise he will KEEP it = direct factual contradiction ✓",
+      "explanation": "[LEAST likely question strategy]\nIn 'least likely' questions: eliminate plausible reasons → the one that CONTRADICTS the passage = least likely\n\n[D — Direct Factual Contradiction]\nD says: Rich will KEEP the cup\nPassage lines 13–14:\nMORE: 'You'll sell it, won't you?'\nRICH: 'YES, I THINK SO. YES I WILL.' = unambiguous statement to SELL\n= More KNOWS Rich will sell the cup (More is the one who asked)\n= More cannot surmise Rich will KEEP it when Rich explicitly said he'll SELL\n= D contradicts the stated fact = LEAST likely ✓\n\n[B — plausible (irony)]\nMore passed on a bribe to Rich / Rich doesn't realise he's being manipulated\n= More could smile at this irony of Rich being unwittingly 'bought' ✓\n\n[C — plausible (risk contrast)]\nMore = high official = cup as bribe = severe reputation risk\nRich = no status to lose = cup = minimal risk ('I'll risk it')\n= More could smile at this asymmetry of risk ✓\n\n[A — plausible (corruption amusement)]\n'I'll risk it' = Rich willing to risk corruption for upward climb\n= More's smile could be ironic amusement at Rich's recklessness ✓\n\n[Why C seems less likely but isn't LEAST]\nC requires inference but is logically consistent with the dialogue\nD requires ignoring explicit stated dialogue = factual impossibility\n= always eliminate the factually impossible before the complex inference",
+      "action": "Action Rule (Q49): In LEAST likely questions, always FACT-CHECK first before evaluating plausibility of complex inferences. Rich EXPLICITLY said he will SELL the cup → D says More thinks he'll KEEP it = direct factual contradiction = LEAST likely ✓. Rule: factual impossibility beats complex-but-plausible inference in LEAST likely questions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u55_q55_targeting_cromwell_perceives_more",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 55 — Q55 Targeting (B→A/D)",
+    "quiz": {
+      "question": "[Q55 — Targeting: Cromwell's Perception of More — 'resolute obstacle' vs. other options]\n\nPassage (Passage 3 — Cromwell–Rich dialogue):\n• Cromwell asks Rich about More: 'Come along, Rich, he gave you a silver goblet...'\n• Cromwell: 'It was a gift from a litigant, a woman, wasn't it?' (using the cup evidence against More)\n• Cromwell: 'Well, there are these men — you know — 'upright', 'steadfast', men who want themselves to be the constant factor in the situation. Which of course they can't be. The situation rolls forward in any case.'\n• Cromwell: (not liking his tone, coldly) 'If they've any sense they get out of its way.'\n\nQ: Cromwell perceives More mainly as ______.\nA: a resolute obstacle yet to be overcome\nB: a corrupt official who should be exposed\nC: an exemplar of moral virtue in public but hollow within\nD: a foe resisting challenges to Cromwell's authority and power\n\nYour pick — B / Correct — A (타게팅오류)",
+      "options": [
+        "B: 'corrupt official who should be exposed' = Cromwell is USING the cup evidence strategically, not because he believes More is genuinely corrupt. Cromwell's own description: More is 'upright', 'steadfast', 'wants to be the constant factor' = Cromwell acknowledges More's genuine integrity but sees it as an OBSTACLE. A: 'resolute obstacle yet to be overcome' = 'upright/steadfast' + 'wants to be constant factor' (cannot be) + 'get out of its way' = More is seen as a fixed, resolute resistance = obstacle to be dealt with ✓",
+        "A is wrong — Cromwell respects More too much to see him as an obstacle",
+        "D is correct — Cromwell sees More as a direct enemy",
+        "C is correct — Cromwell thinks More is hollow inside"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Intent Misread: Cromwell uses corruption evidence as a TOOL, not because he believes More is corrupt. His own words describe More as 'upright/steadfast' = genuine integrity acknowledged. A = correct: 'steadfast/constant factor/get out of its way' = resolute obstacle ✓",
+      "explanation": "[B — Intent Misread]\nCromwell asks Rich about the cup → seems to be building a corruption case against More\nStudent infers: Cromwell thinks More is corrupt → wants to expose him\nBUT: Cromwell's own description of More (lines 16–19):\n'these men — 'upright', 'steadfast', men who want themselves to be THE CONSTANT FACTOR'\n= Cromwell ACKNOWLEDGES More's genuine integrity (upright, steadfast)\n= he is not calling More corrupt\n= he is using the cup as a STRATEGIC WEAPON, not as evidence he genuinely believes More is corrupt\n\n[A correct — key paraphrase chain]\n'upright', 'steadfast' = RESOLUTE (단호한, 흔들리지 않는) ✓\n'wants to be the CONSTANT FACTOR in the situation' = cannot be moved = OBSTACLE ✓\n'get out of its way' (coldly) = the obstacle must be removed ✓\n→ 'resolute obstacle yet to be overcome' = Cromwell's perception ✓\n\n[D — distinction from A]\nD: 'foe resisting challenges to Cromwell's AUTHORITY AND POWER'\n= frames the conflict as a personal power struggle\nPassage: Cromwell describes it in terms of 'the situation rolls forward' = historical/political inevitability\n= not personal power challenge but ideological/political obstruction\nA is more precise: More is an obstacle to the forward-rolling situation, not primarily a personal enemy to Cromwell's authority\n\n[C eliminated]\nC: 'exemplar of moral virtue in public but hollow within'\n= implies hypocrisy (public virtue = private corruption)\n= Cromwell never suggests More is hollow inside\n= his description is consistent: More genuinely IS upright and steadfast",
+      "action": "Action Rule (Q55): Distinguish STRATEGIC USE OF EVIDENCE from GENUINE BELIEF. Cromwell uses the cup as a weapon but describes More as 'upright/steadfast' = acknowledges genuine integrity. B = Intent Misread (corrupt official). A = correct: 'steadfast/constant factor/get out of its way' = resolute obstacle ✓. D = too personal (authority challenge); passage frames it as political inevitability."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
