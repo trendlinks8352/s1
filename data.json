@@ -7168,6 +7168,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "great_expectations_q47_strained_vs_sombre",
+    "type": "tone",
+    "isMCQ": true,
+    "source": "Great Expectations (Dickens) — Q47 Tone (D→C)",
+    "quiz": {
+      "question": "[Q47 — Tone: 'sombre' contradicts the festive/theatrical atmosphere]\n\nPassage evidence:\n• Pip 'squeezed in at an acute angle of the tablecloth' (physical discomfort, lines 18–19)\n• Adults 'stick the point into me' (lines 25) — Pip compared to 'an unfortunate little bull' in a Spanish arena pierced by 'moral goads'\n• Mr. Wopsle says grace with 'THEATRICAL DECLAMATION' like a religious cross of the Ghost in Hamlet (lines 28–29)\n• Uncle Pumblechook presents gifts with the SAME flourish every year ('compliments of the season')\n\nQ: From Pip's perspective, the occasion he describes in this passage is ______.\nC: strained and confronting\nD: stifled by sombre formality\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: 'SOMBRE' = gloomy, mournful, like a funeral atmosphere. But the passage describes a LOUD, THEATRICAL, gift-giving Christmas scene (Pumblechook's annual flourish, Wopsle's theatrical declamation) = the OPPOSITE of sombre. C: 'strained' = physical discomfort (squeezed in) + 'confronting' = adults repeatedly attacking him ('stick the point into me', compared to a bull pierced by goads) = correct tone match ✓",
+        "D is correct — 'stifled' captures Pip's suppressed voice",
+        "C is wrong — 'confronting' is too aggressive a word for a family dinner",
+        "A is correct — the occasion is elegant and refined given the formal grace"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Tone Mismatch: 'sombre' (gloomy/mournful) contradicts the loud, theatrical, festive atmosphere described. C = correct: strained (physical discomfort) + confronting (adults repeatedly attack him) ✓",
+      "explanation": "[D — Tone Mismatch Error]\n'SOMBRE' = dark, gloomy, mournful (보통 장례식이나 무거운 분위기)\nBut the passage shows: Pumblechook's loud annual gift presentation ('compliments of the season', same words every year, lines 12–13), Mr. Wopsle's 'THEATRICAL DECLAMATION' for grace (line 28) compared to a dramatic stage performance\n= the atmosphere is LOUD, PERFORMATIVE, FESTIVE — not gloomy or muted\n= 'sombre' directly contradicts this theatrical, celebratory tone\n\n[C — correct tone chain]\n'STRAINED' (긴장된, 불편한):\n→ Pip 'squeezed in at an acute angle of the tablecloth' (physical discomfort, lines 18–19)\n→ physically uncomfortable position throughout dinner\n\n'CONFRONTING' (대립적인, 위협적인):\n→ adults 'stick the point into me' (line 25) = repeatedly directing conversation AT Pip to criticise him\n→ Pip likens himself to 'an unfortunate little bull' in a Spanish arena pierced by 'moral goads' (lines 25–27)\n= Pip is the target of constant moral criticism = CONFRONTING ✓\n\n[Why D was tempting]\n'stifled' (line: implied by Pip not being allowed to speak) seems to fit Pip's suppressed voice\nBUT D pairs it with 'SOMBRE FORMALITY' = the WRONG modifier\n= D correctly captures ONE half (stifled) but pairs it with an incompatible tone (sombre)\n= overall atmosphere is not gloomy/formal-quiet but loud/theatrical/critical",
+      "action": "Action Rule (Q47): 'Sombre' = gloomy/mournful tone — check if passage describes LOUD/THEATRICAL/FESTIVE elements (Pumblechook's flourish, Wopsle's theatrical declamation) that CONTRADICT sombre. C = strained (physical discomfort) + confronting (adults attack Pip) = correct tone match for a loud, critical, uncomfortable Christmas dinner."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "great_expectations_q48_passing_interest_vs_rude_remarks",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Great Expectations (Dickens) — Q48 Targeting (B 오답 명확화, 정답 A)",
+    "quiz": {
+      "question": "[Q48 — Targeting: Victim–Perpetrator Reversal — Pip cannot make 'rude remarks' since he's not allowed to speak]\n\nPassage evidence:\n• Line 20: 'I was not allowed to speak (I didn't want to speak)'\n• Line 16: Uncle Pumblechook addresses Pip as 'Sixpennorth of halfpence' instead of by name — reducing him to a small coin/trivial amount\n• Adults direct moral criticism AT Pip throughout dinner ('stick the point into me')\n\nQ: Uncle Pumblechook appears to regard Pip as ______.\nA: a person warranting only passing interest as an individual\nB: a difficult child, prone to making rude personal remarks\n\nWhy is B impossible given the passage?",
+      "options": [
+        "B: 'PRONE TO MAKING rude personal remarks' = implies PIP is the one being rude/difficult. But line 20 explicitly states 'I was NOT ALLOWED TO SPEAK' = Pip CANNOT make any remarks, rude or otherwise. B reverses victim and perpetrator: it is the ADULTS who make rude remarks AT Pip ('stick the point into me'), not Pip making remarks. A: 'Sixpennorth of halfpence' (line 16) = reducing Pip to a trivial coin nickname = passing/dismissive interest, not full personhood ✓",
+        "B is correct — Pip's internal narration shows rudeness toward the adults",
+        "A is wrong — Pumblechook clearly takes Pip seriously by addressing him directly",
+        "D is correct — Pumblechook finds Pip fascinating"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Victim–Perpetrator Reversal: Pip is FORBIDDEN to speak (line 20) = cannot make remarks at all. The adults are the ones making rude remarks AT Pip. A = correct: 'Sixpennorth of halfpence' nickname = trivial/dismissive, passing interest ✓",
+      "explanation": "[B — Victim–Perpetrator Reversal — direct textual impossibility]\nLine 20: 'I was NOT ALLOWED TO SPEAK (I didn't want to speak)'\n= Pip is EXPLICITLY FORBIDDEN from speaking during dinner\n= logically impossible for him to be 'prone to making rude personal remarks' if he cannot speak at all\nB describes PIP as the source of rudeness\nBUT the passage shows the OPPOSITE: adults 'stick the point into me' = THEY direct rude/critical remarks AT Pip\n= B completely reverses who is doing the rude behaviour (adults → Pip mislabeled)\n\n[A — correct paraphrase chain]\nLine 16: Pumblechook greets Pip not by name but as 'Sixpennorth of halfpence'\n= a nickname reducing Pip to a small/trivial sum of money\n= treating him as a passing curiosity/trivial object, not a full individual deserving genuine attention\n→ 'a person warranting only PASSING INTEREST as an individual' ✓\n= the nickname itself demonstrates dismissive, surface-level regard\n\n[Key textual proof for elimination]\nWhenever a choice attributes an ACTION to a character that the passage explicitly states they CANNOT do (e.g., 'not allowed to speak'), that choice is automatically eliminated — this is a hard factual contradiction, not just unlikely inference.",
+      "action": "Action Rule (Q48): Check if a choice attributes behaviour to someone explicitly FORBIDDEN from it in the text. 'Not allowed to speak' (line 20) = Pip cannot make any remarks = B is a factual impossibility (Victim-Perpetrator Reversal). A = correct: 'Sixpennorth of halfpence' nickname = trivialising, passing interest, not full personhood."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
