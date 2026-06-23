@@ -7210,6 +7210,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "olga_masters_q64_anger_at_situation_vs_love_for_joan",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Olga Masters short story — Q64 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q64 — Targeting: Anger at Situation vs. Love for Person — separating two different targets]\n\nPassage evidence:\n• Lines 14–18: Ted angry — 'Who else would turn our happy home into a kindergarten... Now it's like arriving behind the Pied Piper. I don't come any more.'\n• Lines 20–21: 'PLEADING replaced Ted's anger. \"Come away with me, Joan,\" he said.'\n• Lines 1–4: 'If you really love me, Joan, come away with me... like it was in the beginning.'\n• Lines 36–38: 'Come out for the day with me. Let them make their own lunch... Or we could sit by the harbour and talk about going away together.'\n\nQ: Ted's love for Joan ______.\nB: has deteriorated with the coming of the grandchildren\nC: is maintained despite the pressures of a changing lifestyle\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: conflates TWO SEPARATE TARGETS — Ted's anger is directed at the SITUATION (home turned into kindergarten, grandchildren visits) NOT at Joan herself. Immediately after his anger (lines 14–18), 'PLEADING replaced Ted's anger' (line 20) = he begs Joan to come away WITH HIM = love for Joan is intact. C: 'pressures of a changing lifestyle' = grandchildren/family demands / 'is maintained' = Ted repeatedly asks Joan to escape together (lines 1–4, 36–38) = love persists despite the pressure ✓",
+        "C is wrong — Ted's repeated pleading shows desperation, not love",
+        "B is correct — Ted's anger directly proves his feelings for Joan have changed",
+        "D is correct — Ted's love has fully ended and he seeks distraction"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Target Conflation: anger at SITUATION (grandchildren, busy lifestyle) ≠ anger at JOAN. C = correct: love is maintained — Ted repeatedly pleads to escape WITH Joan despite the lifestyle pressure ✓",
+      "explanation": "[Two separate targets in the passage]\nTarget 1: Ted's feelings about the SITUATION/LIFESTYLE\n→ 'turn our happy home into a kindergarten' / 'I don't come any more' = frustration with CURRENT FAMILY DEMANDS\n\nTarget 2: Ted's feelings toward JOAN herself\n→ Immediately AFTER his anger: 'PLEADING replaced Ted's anger' (line 20)\n→ 'Come away with me, Joan' = he WANTS to be alone with her, repeatedly\n→ Lines 1–4 (opening): 'If you really love me, Joan, come away with me... like it was in the beginning'\n→ Lines 36–38: 'Come out for the day with me... we could sit by the harbour and talk about going away together'\n= THREE separate instances of Ted asking Joan to escape together = sustained desire for connection with HER specifically\n\n[B — Target Conflation Error]\nB merges 'Ted is angry (about grandchildren)' with 'Ted's love for Joan has deteriorated'\n= these are TWO DIFFERENT OBJECTS of feeling\n= anger toward the SITUATION (lifestyle pressure) ≠ diminished feeling toward JOAN\n= the passage explicitly separates them via the anger→pleading transition (line 20)\n\n[C correct]\n'pressures of a changing lifestyle' = grandchildren visits, busy household (lines 14–18, 41–44)\n'is maintained' = despite this pressure, Ted continues to seek Joan out specifically (3 separate pleas)\n= love for Joan persists THROUGH the changing lifestyle, not despite Joan herself\n\n[Key lesson — Section 1 inference rule]\nWhen two characters argue, do NOT infer 'conflict = diminished love' without checking WHO/WHAT the anger targets\nHere: anger targets the SITUATION / persistent pleading targets JOAN = love intact, situation is the strain",
+      "action": "Action Rule (Q64): When a character shows anger, identify the EXACT TARGET of that anger — situation/circumstance vs. the other person. Ted's anger = directed at grandchildren/lifestyle changes (lines 14–18), NOT at Joan. Immediately after, pleading to be alone WITH Joan (line 20+) = love for her is intact. B = Target Conflation (anger at situation ≠ diminished love for person). C = correct: love maintained despite lifestyle pressure."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
