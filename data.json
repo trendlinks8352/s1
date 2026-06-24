@@ -7231,6 +7231,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "education_attainment_q62_smallest_group_cross_reference",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Education Attainment Histograms — Q62 (해석부족/페러프레이징오류 → C)",
+    "quiz": {
+      "question": "[Q62 — Data Interpretation: Cross-Referencing Two Differently-Normalized Graphs]\n\nTop graph: X-axis = FATHER's education → bars show CHILDREN's distribution within each father group (each father-group cluster sums to 100%)\nBottom graph: X-axis = PERSON's (child's) own education → bars show FATHER's distribution within each child group (each child-group cluster sums to 100%)\n\nBottom graph data (approx.):\n• Children 'without post-school': Father without ~65% / Father with trade ~28% / Father with degree ~7%\n• Children 'with trade': Father without ~52% / Father with trade ~40% / Father with degree ~8%\n• Children 'with degree': Father without ~43% / Father with trade ~32% / Father with degree ~25%\n\nQ: Which of the following was the SMALLEST group of fathers in the survey, or is A the correct response?\nA: Not possible to decide on the evidence\nC: Fathers with degree or diploma\n\nWhy is A wrong, and how is C derived without knowing actual N?",
+      "options": [
+        "A: seems correct since exact total N (number of people) is never given. BUT the bottom graph normalizes by CHILD's education = the three child-groups together comprise the ENTIRE surveyed population (mutually exclusive, exhaustive). In ALL THREE child-group clusters, 'Father with degree' has the SMALLEST percentage (~7%, ~8%, ~25% — always smallest of the three bars). If a category is the minority in EVERY subgroup of an exhaustive partition, it must be the minority OVERALL. C: Fathers with degree = smallest group ✓ — this is a valid logical deduction, not insufficient evidence.",
+        "A is correct — without knowing exact sample sizes, percentages alone cannot determine absolute group size",
+        "C is wrong — percentages within child-groups don't tell us about father-group sizes",
+        "D is correct — Fathers with trade consistently appear as a middle-sized group"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Insufficient Evidence Trap: exact N is unknown but NOT needed. C = correct: 'Father with degree' is the smallest sub-group share in EVERY one of the three exhaustive child-education partitions → must be smallest overall ✓",
+      "explanation": "[The key indexing step — WHICH graph to use]\nTop graph (X-axis = father's education): tells you child outcomes WITHIN each father group — does NOT let you compare absolute SIZES of father groups, because each father-cluster is independently normalized to its own 100%.\nBottom graph (X-axis = child's education): the three child-group clusters are MUTUALLY EXCLUSIVE and EXHAUSTIVE — together they represent the ENTIRE survey population. This is the graph that allows valid group-size comparison.\n\n[The logical deduction — without needing actual N]\nScan 'Father with degree' (darkest bar) across all three child-group clusters:\n• Children without post-school: Father with degree ≈ 7% (SMALLEST of the three bars in this cluster)\n• Children with trade: Father with degree ≈ 8% (SMALLEST of the three bars in this cluster)\n• Children with degree: Father with degree ≈ 25% (SMALLEST of the three bars in this cluster)\n= in EVERY single partition of the total population, 'Father with degree' is the minority share\n= if a subgroup is the minority in every exhaustive partition, it MUST be the minority in the combined total\n= this is a structural/logical proof, not requiring exact numbers\n\n[Why A is the trap]\nStudent reasoning: 'we don't know the actual headcount (N), so we can't determine absolute group sizes' → A seems safe\nBUT: the question only asks for RELATIVE smallest group, which can be proven through consistent proportional dominance across an exhaustive partition — exact N is irrelevant to this specific logical structure\n= A is the 'safe but wrong' choice that ignores a valid structural inference",
+      "action": "Action Rule (Q62): When two graphs normalize by different variables, identify which graph's clusters are MUTUALLY EXCLUSIVE + EXHAUSTIVE of the total population — use THAT graph for absolute comparisons. If one category is the smallest share in EVERY partition of an exhaustive split, it is the smallest overall — this is valid even without knowing exact N. Don't default to 'insufficient evidence' (A) when a structural/proportional deduction is possible."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
