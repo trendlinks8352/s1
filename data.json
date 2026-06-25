@@ -7252,6 +7252,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "mental_health_q60_paraphrase_distortion_omission_societal",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Mental Health (Salli Saari) — Q60 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q60 — Paraphrase: Distortion + Omission — 'social levels' ≠ 'societal underpinnings']\n\nPassage (lines 8–11):\n'To prevent emotional or mental disorders effectively, we need to know their DEVELOPMENTAL PROCESS and the INTERVENTIONS to change them. However, our knowledge of the CAUSATION of emotional disorders is both limited and gross, as are our TECHNIQUES AND POWER TO EFFECT CHANGE, particularly at the broader SOCIAL LEVELS.'\n\nQ: The major areas of inadequacy [in current knowledge] are ______.\nB: in societal underpinnings and adequate methods to change these\nD: in the early factors that lead to abnormalities and the points where interposing is effective\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'societal underpinnings' = DISTORTS 'particularly at the broader social levels' (which modifies WHERE techniques fail, not WHAT we lack knowledge of) into 'foundations of society' itself. Also OMITS the entire first knowledge gap: 'causation'/'developmental process'. D: 'early factors that lead to abnormalities' = developmental process + causation ✓ / 'points where interposing is effective' = interventions/techniques to effect change ✓ = captures BOTH knowledge gaps the author identifies.",
+        "B is correct — 'social levels' directly means 'societal underpinnings'",
+        "D is wrong — 'interposing' is not a word used in the passage",
+        "B is correct — the passage is mainly about social change, not individual causation"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Distortion + Omission: 'social levels' (modifier of where change is hard) twisted into 'societal underpinnings' (foundations of society) + omits the 'causation' knowledge gap entirely. D = correct: captures BOTH gaps — causation (early factors) AND intervention (interposing) ✓",
+      "explanation": "[Passage's TWO knowledge gaps]\nGap 1: CAUSATION / DEVELOPMENTAL PROCESS\n'we need to know their developmental process' + 'knowledge of the causation... is limited and gross'\n\nGap 2: INTERVENTIONS / TECHNIQUES\n'the interventions to change them' + 'techniques and power to effect change'\n('particularly at the broader social levels' = MODIFIES where techniques are weakest, i.e., social-level interventions are especially hard — it does NOT mean 'lack of knowledge about society's foundations')\n\n[D — correct, captures BOTH gaps]\n'early factors that lead to abnormalities' → DEVELOPMENTAL PROCESS / CAUSATION ✓\n'points where interposing is effective' → INTERVENTIONS / TECHNIQUES TO EFFECT CHANGE ✓ (interposing = intervening, inserting oneself between cause and effect)\n= D balances BOTH areas the author identifies ✓\n\n[B — two-layer error]\nError 1 — DISTORTION:\n'particularly at the broader social levels' (passage) = describes WHERE technique/power is weakest (a qualifier on intervention difficulty)\nB twists this into 'societal underpinnings' = the FOUNDATIONS of society itself\n= converts a qualifier on intervention scope into a separate, larger claim about lacking knowledge of society's structure\n\nError 2 — OMISSION:\nB only addresses the INTERVENTION/CHANGE gap ('adequate methods to change these')\nB completely DROPS the CAUSATION/DEVELOPMENTAL PROCESS gap (the passage's FIRST and primary knowledge gap)\n= B captures only half of the author's argument, and distorts the half it does include",
+      "action": "Action Rule (Q60): Identify ALL knowledge gaps the author lists before matching to choices — here TWO gaps: causation/developmental process AND interventions/techniques. B = Omission (drops causation gap) + Distortion ('social levels' qualifier → 'societal underpinnings' claim). D = correct: captures both gaps (early factors = causation / interposing = intervention) ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
