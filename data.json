@@ -7273,6 +7273,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "youth_happy_endings_q57_messages_vs_conclusive_inconclusive",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Youth & Happy Endings — Q57 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q57 — Paraphrase: Wrong Comparison Axis — 'conclusive/inconclusive' ≠ 'happy/dismal']\n\nPassage:\n'That's the thing with the young these days... They watch too many HAPPY ENDINGS. Everyone has learned, found love, seen the error of their ways, discovered the joys of monogamy, or fatherhood, or filial duty, or life itself. IN MY DAY, people GOT SHOT AT THE END of films, after learning only that LIFE IS HOLLOW, DISMAL, BRUTISH and short.'\n\nQ: The author here is comparing ______.\nB: the messages received from the media now and in previous times\nD: the ratio of conclusive to inconclusive endings to youth entertainment now and in previous generations\n\nYour pick — D / Correct — B",
+      "options": [
+        "D: 'conclusive vs INCONCLUSIVE' = WRONG AXIS. Past films also end conclusively — 'people GOT SHOT at the end' = a definite, conclusive ending (death), not an open/inconclusive one. The real contrast is the TONE/CONTENT of the lesson learned: HAPPY (love, joy, monogamy) vs DISMAL/BRUTISH (life is hollow). B: 'these days' vs 'in my day' + 'learned/discovered X' vs 'learning only that life is hollow' = messages received from media, now vs previous times ✓",
+        "B is wrong — the passage is about endings, not messages",
+        "D is correct — 'wrapped up' directly means 'conclusive'",
+        "A is correct — the author is comparing his own views of life, not media content"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Wrong Comparison Axis: both past and present films have CONCLUSIVE endings (death is just as conclusive as a happy ending) — the real contrast is the CONTENT/TONE of the lesson (happy vs. dismal), not conclusiveness. B = correct: media messages compared across two time periods ✓",
+      "explanation": "[D — Wrong Comparison Axis Error]\nD frames the contrast as: CONCLUSIVE (now) vs INCONCLUSIVE (then)\nBUT the passage's past description: 'people GOT SHOT AT THE END of films'\n= getting shot = a very definite, CONCLUSIVE ending (death is final, not open-ended)\n= the OLD films were just as conclusive as the new ones — both 'wrap up'\n= D mistakes 'wrapped up' (tied to HOW the ending feels — neat/positive) for 'conclusive' (a structural property of whether the plot resolves)\n= D imports a structural dimension (conclusive/inconclusive) that the passage never actually contrasts\n\n[B — correct comparison axis]\nThe REAL contrast = WHAT LESSON/MESSAGE the audience receives:\nNOW: 'learned, found love, seen the error of their ways, discovered the joys of monogamy/fatherhood/filial duty/life itself' = POSITIVE, MORAL, AFFIRMING messages\nTHEN (in my day): 'learning only that life is hollow, dismal, brutish and short' = NEGATIVE, NIHILISTIC messages\n= both eras have media (films) with endings, but the MESSAGE/LESSON delivered is opposite in TONE\n→ 'the messages received from the media now and in previous times' = B ✓\n\n[Key paraphrase chain for B]\n'these days' / 'in my day' → NOW vs PREVIOUS TIMES ✓\n'watch... films... has learned/discovered X' → MESSAGES RECEIVED FROM THE MEDIA ✓\n\n[GAMSAT lesson]\nWhen a passage describes two endings (happy vs. shot/death), do NOT assume the contrast is about whether the plot RESOLVES (conclusive/inconclusive) — check whether BOTH scenarios actually resolve, just with different EMOTIONAL/MORAL CONTENT. Here both resolve; the content of the lesson differs.",
+      "action": "Action Rule (Q57): 'Wrapped up' (positive, neat) ≠ 'conclusive' (structurally resolved) — both past and present endings ARE conclusive (shot = definite death). The real axis of comparison = CONTENT/TONE of the message (happy/moral vs. dismal/nihilistic), not plot resolution. D = Wrong Comparison Axis. B = correct: messages received from media, now vs. previous times."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
