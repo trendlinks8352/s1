@@ -7294,6 +7294,90 @@
     "cycleIdx": 0
   },
   {
+    "id": "brain_hemisphere_q53_multistep_synthesis_right_hemisphere_speech",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Right-Hand Dominance — Q53 Multi-Step Data Synthesis (A→C)",
+    "quiz": {
+      "question": "[Q53 — Multi-Step Data Synthesis: Combining population ratio + hemisphere ratio + inversion]\n\nPassage data (scattered across two paragraphs):\n• Para 4 (lines 14–16): 'In approximately 90% of the world's population the right eye is dominant... including the right hand' → 90% right-handed / 10% left-handed\n• Para 5 (lines 23–25): 'The brain's LEFT hemisphere... is also the speech centre of approximately 98% of right-handers and more than 50% of left-handers'\n\nQ: According to data given in the passage, the percentage of the population who use the RIGHT hemisphere as their speech centre is closest to ______.\nA: 50%\nC: 7%\n\nYour pick — A / Correct — C",
+      "options": [
+        "A: locks onto '50% of left-handers' from line 25 — but this number is (1) for LEFT hemisphere, not RIGHT, and (2) only for the left-hander SUBGROUP, not the WHOLE population. Need: invert for right hemisphere (100-98=2% of right-handers, 100->50=~50% of left-handers) AND weight by population share (90% right-handed, 10% left-handed). C: (90%×2%) + (10%×50%) = 1.8% + 5.0% = 6.8% ≈ 7% ✓",
+        "C is wrong — the passage never gives a 7% figure directly",
+        "A is correct — '50% of left-handers' directly answers the question",
+        "B is correct — 10% matches the left-hander population percentage"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Targeting Error: grabbed the '50%' figure without checking (1) which hemisphere it describes (LEFT, not right) or (2) which population it's based on (left-handers only, not total population). C = correct via 3-step synthesis: invert + weight + sum = 6.8% ≈ 7% ✓",
+      "explanation": "[Why A is the trap]\nLine 25 states '50% of LEFT-HANDERS' use the LEFT hemisphere for speech\nStudent grabs '50%' because it's the only standalone percentage near the keyword 'left-handers'\nBUT this number fails the question on TWO counts:\n(1) WRONG HEMISPHERE: question asks RIGHT hemisphere; passage gives LEFT hemisphere %\n(2) WRONG DENOMINATOR: question asks % of TOTAL POPULATION; passage gives % WITHIN the left-hander subgroup only\n\n[Step 1 — Population ratio (Para 4)]\n'90% of world's population' = right-eye/right-hand dominant → 90% right-handed, 10% left-handed\n\n[Step 2 — Invert for RIGHT hemisphere (Para 5)]\nRight-handers: 98% use LEFT hemisphere for speech → 100-98 = 2% use RIGHT hemisphere\nLeft-handers: >50% use LEFT hemisphere for speech → 100-50 = <50% (≈50%) use RIGHT hemisphere\n\n[Step 3 — Weight by population share and sum]\nRight-handers contribution: 90% × 2% = 1.8%\nLeft-handers contribution: 10% × 50% = 5.0%\nTotal = 1.8% + 5.0% = 6.8% ≈ 7% → C ✓\n\n[Three-part checklist for multi-step data synthesis]\n1. Identify if the question's TARGET (right hemisphere) is the OPPOSITE of what's stated (left hemisphere) → requires inversion (100-X)\n2. Identify if the question's DENOMINATOR (total population) differs from the passage's stated denominator (subgroup: left-handers only) → requires re-weighting by subgroup population share\n3. Combine weighted subgroup values via addition for the total population figure",
+      "action": "Action Rule (Q53): Multi-step data synthesis checklist: (1) Check if the question's target is the INVERSE of the stated figure (right vs. left hemisphere → 100-X). (2) Check if the question's denominator (total population) differs from the stated denominator (subgroup only) → re-weight by subgroup share. (3) Sum weighted subgroup contributions. Never grab a standalone percentage without verifying BOTH the hemisphere/direction AND the population base it describes."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "shapiro_q46_paraphrase_hierarchy_pecking_order",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Bruce G Shapiro (Dialects) — Q46 Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q46 — Paraphrase + Targeting: 'hierarchy of power' → 'pecking order']\n\nPassage (lines 2–5):\n'...it is EXTREMELY IMPORTANT to view the cast of characters as a set of very particularised relationships. These relationships reflect a HIERARCHY OF POWER peculiar to the drama that separates its characters and strongly influences the nuances of dialect needed for each actor's performance.'\n\nQ: Shapiro sees as most important to the development of suitable dialects in a play ______.\nA: the pecking order among the various characters\nD: similarities between the characters and the actors who represent them\n\nYour pick — D / Correct — A",
+      "options": [
+        "D: 'similarities between CHARACTERS and ACTORS' = a relationship between two different categories (fictional character vs. real actor) that the passage NEVER mentions. A: 'hierarchy of power' (lines 3–4) → PECKING ORDER ✓ — direct synonym for a power ranking among characters. Question's 'most important' matches passage's 'extremely important' (line 2) → targets THIS specific sentence about character relationships/hierarchy.",
+        "A is wrong — 'pecking order' is too informal a term for the passage's tone",
+        "D is correct — actors must resemble their characters to perform well",
+        "B is correct — relationships between major actors is the key point"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Invented Comparison: actor-character similarity is NEVER discussed in the passage. A = correct: 'hierarchy of power' → pecking order (direct synonym) ✓",
+      "explanation": "[Targeting]\nQuestion: 'most important' → passage: 'EXTREMELY important' (line 2) = direct match\nThe sentence this introduces: 'view the cast of characters as a set of... relationships' which 'reflect a HIERARCHY OF POWER' (lines 3–4)\n\n[A — correct paraphrase]\n'hierarchy of power' = a ranked system of who has more/less power\n→ PECKING ORDER = exact synonym (informal term for social/power ranking) ✓\n\n[D — Invented Comparison Error]\nD discusses 'similarities between the CHARACTERS and the ACTORS who represent them'\n= compares FICTIONAL characters to the REAL actors playing them\n= this comparison (character vs actor likeness) is NEVER mentioned anywhere in the passage\n= the passage discusses relationships BETWEEN characters (within the play), not between characters and their actors\n= D imports an entirely external/invented concept",
+      "action": "Action Rule (Q46): 'Most important' (question) = 'extremely important' (passage, line 2) — direct keyword match for targeting. 'Hierarchy of power' → pecking order (A) = correct paraphrase. D = Invented Comparison: actor-character similarity never appears in the passage — always check if a choice introduces an entity/relationship absent from the text."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "shapiro_q47_paraphrase_overtones_connotations_not_race",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Bruce G Shapiro (Dialects) — Q47 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q47 — Paraphrase: 'overtones' → 'connotations' + eliminating imported terms (race, colour)]\n\nPassage (lines 6–9):\n'...much more needs to be taken into account in order to express the VOCAL WORLD of the drama in the actors' performances. Religious, marital, sexual, psychological and political OVERTONES need to be respected in the development of the drama's vocal world.'\n\nQ: 'Vocal world' (lines 7 and 9) is best defined as the range of ______.\nC: aspects of race, colour and creed that the play encompasses\nD: dialects and connotations that are introduced through the dialogue\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'creed' loosely echoes 'Religious' (line 8) but 'RACE' and 'COLOUR' are NEVER mentioned anywhere in the passage — imported external/distractor terms. D: 'overtones' (line 8) → CONNOTATIONS ✓ (exact synonym for implied/underlying meaning); 'vocal world' itself = the dialects + the layered meanings (religious/marital/sexual/psychological/political overtones) expressed through dialogue ✓",
+        "D is wrong — 'connotations' is too abstract compared to the passage's concrete list",
+        "C is correct — 'religious' directly supports 'creed' so the whole option is valid",
+        "B is correct — 'vocal world' is just about word usage by actors"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Partial Match + Imported Terms: 'creed' echoes 'religious' but 'race'/'colour' are absent from the passage entirely. D = correct: overtones → connotations (exact synonym) + dialects = vocal world's components ✓",
+      "explanation": "[C — Partial Match + Imported Terms Error]\n'creed' (신념/신조) loosely connects to 'Religious' (line 8) → makes C feel attractive\nBUT 'race' (인종) and 'colour' (피부색) are NEVER mentioned anywhere in the passage\n= even though ONE word in the option matches, TWO other words are completely external\n= a choice needs ALL its components grounded in the text, not just one matching word\n\n[D — correct paraphrase chain]\n'overtones' (religious, marital, sexual, psychological, political) → CONNOTATIONS ✓\n(overtone = an implied or secondary meaning = connotation, exact synonym)\n'dialects' = directly stated as the passage's subject throughout (title: dialects and accents)\n= 'vocal world' = the dialects PLUS the layered connotations (religious/marital/etc.) expressed through the dialogue ✓\n\n[Scanning lesson]\nWhen a choice contains a list of nouns, verify EACH noun against the passage — one matching word does not validate the whole option. Eliminate choices with even ONE clearly absent/external term (race, colour).",
+      "action": "Action Rule (Q47): When an option lists multiple nouns/terms, check EACH one against the passage individually. C: 'creed' partially matches 'Religious' but 'race' and 'colour' are absent from the text entirely = eliminate. D = correct: overtones → connotations (exact synonym), dialects = the passage's core subject."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "shapiro_q48_paraphrase_direction_reversal_tune_influences_character",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Bruce G Shapiro (Dialects) — Q48 Paraphrase (D→C, Direction Reversal)",
+    "quiz": {
+      "question": "[Q48 — Paraphrase: Direction Reversal — 'scenic tune influences character' ≠ 'actor's tune changes relationships']\n\nPassage (lines 12–14):\n'...each scene creates its own special tune. Sometimes this SCENIC TUNE INFLUENCES THE CHARACTERS, subtly SHIFTING THE WAY A CHARACTER MAY SPEAK from scene to scene.'\n\nQ: In the third paragraph Shapiro indicates that ______.\nC: the scenic tune can modify the progression of notes that the actors play\nD: the actor's individual tune changes the relationships on which the play is based\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: reverses the causal direction. Passage: SCENE'S TUNE (cause) → influences CHARACTER'S SPEECH (effect). D: ACTOR'S TUNE (cause) → changes RELATIONSHIPS (effect) = subject and object completely swapped — neither the direction nor the target (relationships, not speech) matches. C: 'scenic tune' (cause, unchanged) → 'modify the progression of notes' = metaphor for shifting how actors speak (effect, matches 'shifting the way a character may speak') ✓",
+        "C is wrong — 'progression of notes' is not mentioned literally in the passage",
+        "D is correct — actors naturally influence the dynamics of their scenes",
+        "B is correct — same characters always produce the same tune"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Direction Reversal: swaps cause (scenic tune) and effect (character's speech) into actor's tune → relationships, an entirely different cause-effect pair. C = correct: scenic tune (cause) → notes/speech (effect) matches the passage exactly ✓",
+      "explanation": "[Passage's cause-effect structure]\nCAUSE: 'this SCENIC TUNE' (the tune created by each scene)\nEFFECT: 'influences the CHARACTERS, subtly SHIFTING THE WAY A CHARACTER MAY SPEAK'\n= Scene's tune → affects how characters speak\n\n[C — correct, preserves direction]\n'scenic tune' (unchanged cause) → 'modify the progression of NOTES that the actors play' (notes = metaphor for spoken lines/speech, matching 'the way a character may speak')\n= SAME cause (scenic tune), SAME effect (speech pattern) — correctly preserved direction and target ✓\n\n[D — Direction Reversal Error]\nD swaps BOTH the cause and the target:\nCause swapped: 'the ACTOR'S INDIVIDUAL tune' (NOT the scene's tune)\nEffect/target swapped: 'changes the RELATIONSHIPS on which the play is based' (NOT how a character speaks)\n= D inverts who is acting on whom (actor → relationships, instead of scene → character speech)\n= this is a completely different causal claim than what the passage states\n\n[Key GAMSAT pattern]\nWhen a passage states 'X influences Y', watch for distractor options that flip it to 'Y influences X' or substitute a DIFFERENT cause/effect pair entirely while reusing similar vocabulary (tune, characters, relationships).",
+      "action": "Action Rule (Q48): Identify the EXACT cause and effect stated in the passage: scenic tune (cause) → character's speech (effect). D = Direction Reversal: swaps to actor's tune (cause) → relationships (effect) — both elements changed, not just reversed. C = correct: preserves scenic tune as cause, speech/notes as effect."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
