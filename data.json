@@ -7378,6 +7378,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "war_and_peace_q45_visual_cannonballs_not_nest",
+    "type": "visual",
+    "isMCQ": true,
+    "source": "War and Peace (Tolstoy cover) — Q45 Visual Indexing (A→B, self-corrected)",
+    "quiz": {
+      "question": "[Q45 — Visual Indexing: Symbol Misread — cannonballs ≠ nest]\n\nImage description:\n• A DOVE holding an OLIVE BRANCH stands ON TOP of a pyramid of BLACK ROUND OBJECTS\n• The black round objects are stacked in a classic cannonball pyramid arrangement\n\nQ: The illustration on the cover of War and Peace is appropriate because ______.\nA: the bird still builds its nest despite the war\nB: the symbols are those of aggression, hope and compromise\n\nYou initially chose A but self-corrected to B.\nWhat is the visual misread error in A, and why is B correct?",
+      "options": [
+        "A: misidentifies the BLACK ROUND OBJECTS as a 'NEST'. Cannonballs stacked in a pyramid = a classic military/war symbol = AGGRESSION. A 'nest' would be made of twigs/branches, not round objects in a geometric military stack. B: DOVE + OLIVE BRANCH = peace/HOPE and COMPROMISE (universal symbol). CANNONBALL PYRAMID = WAR/AGGRESSION. Together: aggression (war) + hope and compromise (peace) = both themes of the novel's title covered ✓",
+        "B is wrong — olive branches represent something other than hope and compromise",
+        "A is correct — birds nest in any environment, symbolising life overcoming war",
+        "C is correct — the branch is in stark contrast to the bird's tail"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Visual Misread: cannonball pyramid (military stack = aggression) ≠ nest (organic twigs = life). B = correct: cannonball pyramid (aggression/war) + dove with olive branch (hope and compromise/peace) = both concepts of the title visualised ✓",
+      "explanation": "[Visual indexing step — identify symbols BEFORE reading choices]\nObject 1: DOVE + OLIVE BRANCH\n= Universal peace symbol / hope and compromise\n= Maps to: 'Peace' in the title\n\nObject 2: PYRAMID OF BLACK ROUND OBJECTS\n= CANNONBALLS (포탄) stacked in military pyramid formation\n= Classic symbol of WAR / AGGRESSION\n= Maps to: 'War' in the title\n\n[Why A was the trap — Visual Misread]\nThe pyramid of round objects → brain pattern-matches to 'rounded pile' → 'nest'\nBUT: a nest = made of twigs, branches, organic material, irregular shape\nCannonball pyramid = perfectly round spheres in geometric military stack\n= the shape and arrangement is a MILITARY display, not an organic structure\n= 'still builds its nest' = a narrative interpretation (bird surviving war)\n= the image is a SYMBOLIC juxtaposition, not a narrative scene\n\n[B — correct symbol paraphrase]\ncannonballs → AGGRESSION ✓ (not 'nest')\ndove + olive branch → HOPE AND COMPROMISE ✓\n'the symbols are those of...' = correctly identifies the image as symbolic, not literal\n\n[GAMSAT visual lesson]\nFor book cover/illustration questions:\nStep 1: Index EACH visual element independently (dove, branch, black objects)\nStep 2: Identify the CONVENTIONAL SYMBOL meaning of each (do NOT interpret narratively)\nStep 3: Match to the title/context ('War and Peace' = the two symbols must represent both)\nStep 4: Check choices against your indexed meanings — eliminate any that misname an element",
+      "action": "Action Rule (Q45): For visual/illustration questions, INDEX each element independently BEFORE reading choices: (1) dove + olive branch = peace/hope/compromise, (2) black round pyramid = cannonballs = aggression/war. NEVER interpret visually ambiguous elements narratively (round pile ≠ nest) — identify the conventional symbolic meaning first. B = aggression + hope and compromise = both War and Peace concepts covered ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
