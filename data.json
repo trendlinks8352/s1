@@ -7399,6 +7399,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "ad_orientem_q40_paraphrase_between_estranged_not_entrapped",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Ad Orientem (Gwen Harwood) — Q40 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q40 — Paraphrase: Spatial Preposition Meaning — 'between' = separation ≠ 'entrapped in']\n\nPoem (lines 6–8):\n'Darkness and fear / rose up BETWEEN me and her prayer'\n\nQ: The patient ______.\nA: was grateful for the sister's prayer\nB: was ungrateful for the sister's prayer\nC: became entrapped IN the sister's prayer\nD: became estranged FROM the sister's prayer\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'entrapped IN' = surrounded/enclosed BY the prayer = the prayer contains the patient. But 'between' = BETWEEN two separate things = they are separated from each other, not one inside the other. D: 'estranged FROM' = separated/distanced FROM = exactly what 'between X and Y' means structurally — darkness/fear arose BETWEEN them, creating distance/separation = estrangement ✓",
+        "D is wrong — 'estranged' means something hostile happened, but the patient was only in pain",
+        "C is correct — 'between me and her prayer' implies he is surrounded by it",
+        "A is correct — even in pain, the patient was grateful for the sister's presence"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Spatial Error: 'entrapped IN' = enclosed by / surrounded by (patient is inside the prayer). 'Between' = something rose UP BETWEEN two things = separation, not enclosure. D = correct: 'estranged FROM' = separated/distanced from = the logical meaning of 'between' as a barrier ✓",
+      "explanation": "[The spatial/relational logic of 'between']\n'Darkness and fear rose up BETWEEN me and her prayer'\n= a barrier appeared in the space SEPARATING two things (me ↔ prayer)\n= the patient and the prayer are ON OPPOSITE SIDES of this barrier\n= result: they are SEPARATED from each other = estranged\n\n[D — correct paraphrase]\n'estranged FROM the sister's prayer'\n= ESTRANGED = distanced, separated, cut off from a relationship or connection\n= 'FROM' = the direction is AWAY from the prayer (outward separation)\n= perfectly captures the spatial barrier implied by 'between' ✓\n\n[C — Spatial Error]\n'entrapped IN the sister's prayer'\n= IN = INSIDE, enclosed by, surrounded by\n= implies the patient is within the prayer, enveloped by it\n= this is INSIDE the prayer, not separated FROM it\n= geometrically opposite to 'between' (which creates separation, not enclosure)\n\n[Key distinction]\n'between X and Y' = X and Y are SEPARATED by something in the middle → estranged FROM ✓\n'entrapped in X' = X surrounds/contains you → INSIDE, not separated\n= C confuses spatial direction: between (separation outward) vs. in (enclosure inward)",
+      "action": "Action Rule (Q40): 'Between A and B' = a barrier separating A from B = ESTRANGED FROM (separated, distanced). NOT 'entrapped in' (enclosed by, surrounded by — the opposite direction). When a poem uses spatial prepositions (between, in, from, within), identify the directional relationship: separation (between/from) vs. enclosure (in/within)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "ad_orientem_q44_sister_charity_eventually_embraced_echo",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Ad Orientem (Gwen Harwood) — Q44 Targeting (근거 확인, 정답 C)",
+    "quiz": {
+      "question": "[Q44 — Targeting: Structural Echo — 'all suffering men' (line 5) mirrored in 'all suffering and rejoicing men' (line 27)]\n\nPoem key lines:\n• Line 4–5: Sister 'sat to pray / for me, as for ALL SUFFERING MEN' (sister prays for/blesses all)\n• Lines 27–28: Patient 'sang its hope, and BLESSED / ALL SUFFERING AND REJOICING MEN' (patient does the same act)\n• Line 29: 'I SLIPPED FROM PAIN'S EMBRACE, and slept'\n\nQ: The sister's charity was ______.\nA: progressively embraced by the patient\nC: eventually embraced by the patient\n\nWhy C and not A? (명확한 근거 확인용 카드)",
+      "options": [
+        "A: 'PROGRESSIVELY' = gradually/step-by-step throughout the poem. But the poem shows: Stanza 1 = BLOCKED (darkness between patient and prayer), Stanza 2 = still in pain/grip, Stanza 3 = dawn arrives (external event breaks the night), Stanza 4 = patient blesses others (same act as sister). There is NO gradual incremental embrace — it happens EVENTUALLY (after the pain lifts, after dawn comes) not progressively. C: 'EVENTUALLY' = finally, after all the struggle — the patient ends up performing the same charitable act of blessing others = embraced the sister's charity at the END ✓",
+        "A is correct — the poem shows a gradual change through each stanza",
+        "D is correct — the patient rejected the sister's charity when she stopped praying",
+        "B is correct — the patient progressively rejected the prayer as his pain increased"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Timing Error: 'progressively' = gradual/continuous, but Stanza 1 shows TOTAL BLOCKAGE (not partial, not beginning to embrace). C = correct: 'eventually' = after the night of pain ends + dawn breaks = the patient ultimately performs the same act (blessing others) = charity embraced at the END ✓",
+      "explanation": "[Structural echo — the poem's key signpost]\nLine 4–5: Sister 'prays for me, as for ALL SUFFERING MEN'\n= the sister's charity = praying/blessing for others broadly\n\nLines 27–28: Patient 'blessed ALL SUFFERING AND REJOICING MEN'\n= the patient now performs THE SAME ACT\n= the patient has INTERNALISED the sister's charity and REPRODUCED it\n= this is the clearest possible textual evidence that the charity was EMBRACED ✓\n\n[Why 'eventually' (C), not 'progressively' (A)]\nStanza 1 (night, pain begins): 'Darkness and fear rose up BETWEEN me and her prayer' = TOTAL BLOCKAGE, not partial embrace\n= if it were progressive, there would be evidence of SOME embrace in Stanza 1 — there is NONE\n\nStanza 2 (pain peak): 'violator thrust hard, hard into a throbbing wound' = still blocked\n\nStanza 3 (dawn arrives): 'A cock crowed, and the sister rose, yawning' = EXTERNAL EVENT (dawn) breaks the pattern\n\nStanza 4 (resolution): Patient blesses all = charity FINALLY embraced\n= the embrace happens AT THE END, after the night of pain = EVENTUALLY ✓\n= not gradually throughout, but only at the conclusion\n\n[Bonus: 'pain's embrace' → 'slipped FROM pain's embrace']\nLine 29: 'I slipped from pain's embrace'\n= pain's 'embrace' = the grip of pain was holding him entrapped\n= SLIPPED FROM = escaped from = pain no longer blocking him\n= NOW he can embrace the charity he was blocked from earlier ✓",
+      "action": "Action Rule (Q44): 'Progressively' = gradual throughout. But Stanza 1 shows TOTAL BLOCKAGE (no partial embrace) → not progressive. 'Eventually' = finally, at the end = correct. Key signpost = structural echo: sister 'blesses all suffering men' (line 5) → patient 'blessed all suffering and rejoicing men' (line 27) = patient performs the same charitable act = eventually embraced ✓. Scan for repeated phrases across poem start/end for the clearest structural evidence."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
