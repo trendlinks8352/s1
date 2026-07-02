@@ -7441,6 +7441,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "gocics_q38_chart_vs_map_progress_tracking",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Gocics Renovation — Q38 Data Interpretation (근거 못 찾음→D)",
+    "quiz": {
+      "question": "[Q38 — Data Interpretation: Map vs. Chart — identifying the MAJOR/UNIQUE advantage]\n\nMap (node diagram): shows task number, START week (Q), and PLANNED DURATION (R). Static plan — no mechanism to record what has actually happened.\n\nChart (Gantt bar chart): empty boxes = planned schedule / dark line inside each box = ACTUAL PROGRESS to date. Week V marker shows current position (week 16).\n\nQ: What is the major advantage to the Gocics of the chart compared to the map?\nA: The jobs are presented on a time line\nC: They can easily see how far out their original estimates were\nD: Every week the progress of the various major jobs can be charted\n\n(근거 못 찾겠음 — all choices seem correct)",
+      "options": [
+        "D: the UNIQUE capability the chart has that the map CANNOT — the map only has fixed Q (start week) and R (planned duration), with NO field for recording what actually happened. The chart's dark line shows ACTUAL progress vs. planned box, and this can be UPDATED EVERY WEEK. A: is a feature of the chart, but the map ALSO presents tasks on a timeline/sequence. C: is a CONSEQUENCE of using the chart retrospectively, not the chart's primary/ongoing purpose. D = the chart's core function that the map structurally lacks: weekly real-time progress recording ✓",
+        "D is wrong — the map also allows weekly progress to be tracked",
+        "C is correct — seeing estimation errors is the most valuable insight",
+        "A is correct — the timeline presentation is the key innovation over the map"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = correct: the chart's UNIQUE function vs. the map = weekly real-time PROGRESS RECORDING (dark line inside box). A = also applies to the map / C = retrospective insight, not the core ongoing function. D captures what the map structurally CANNOT do ✓",
+      "explanation": "[Key question: what can the CHART do that the MAP CANNOT?]\nMAP structure: each node has Task# / Q (start week) / R (planned duration)\n= ONLY captures the PLAN — no field for 'what actually happened'\n= a static snapshot of intentions, not a tracking tool\n\nCHART structure: each task has a box (planned period) + a dark line (actual progress)\n= the dark line is drawn IN as the work progresses\n= can be updated EVERY WEEK to reflect current status\n= provides real-time comparison: planned box vs. actual dark line\n\n[Why D is the MAJOR advantage]\nD: 'Every WEEK the PROGRESS of the various major jobs CAN BE CHARTED'\n= captures the chart's core dynamic feature: ongoing, weekly real-time progress recording\n= this is IMPOSSIBLE with the map (the map has no 'actual progress' mechanism)\n→ D = the unique capability that defines the chart's value over the map ✓\n\n[Why A is insufficient]\nA: 'jobs are presented on a TIME LINE'\n= the MAP also presents tasks in sequence/timeline (arrows show order, Q shows timing)\n= this is NOT unique to the chart = not the MAJOR advantage over the map\n\n[Why C is insufficient]\nC: 'can easily see how far out their original estimates were'\n= this is a RETROSPECTIVE/EVALUATIVE benefit (looking back at how wrong your estimates were)\n= useful, but it's a by-product of the real function, not the primary ongoing purpose\n= also, you can only see 'how far out' at the END of the project, not while managing it weekly\n\n[GAMSAT logic for 'major advantage COMPARED TO X']\nStep 1: Identify what X (the map) can and cannot do\nStep 2: Find the choice that captures what ONLY the chart can do\nStep 3: Reject choices that apply to BOTH, or that capture secondary/retrospective benefits",
+      "action": "Action Rule (Q38): 'Major advantage COMPARED TO the map' = find what the chart can do that the map structurally CANNOT. Map = static plan only (no progress tracking). Chart = weekly real-time progress recording (dark line updated ongoing). D = this unique ongoing function ✓. A = map also has timeline / C = retrospective insight, not core function."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "gocics_q39_chart_progress_remaining_time_not_time_spent",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Gocics Renovation — Q39 Data Interpretation (A→C)",
+    "quiz": {
+      "question": "[Q39 — Data Interpretation: Most PRACTICAL method — 'time spent' ≠ 'progress']\n\nChart mechanics: each task has a BOX (planned weeks) and a DARK LINE inside the box showing actual progress. The line grows from left to right as the task advances.\n\nQ: Once each major task has started, which would be the most practical method to use to determine its progress on the chart?\nA: Mark in the time spent on that task so far\nC: Estimate how long it will take from now to finish that task\n\nYour pick — A / Correct — C",
+      "options": [
+        "A: 'time spent' ≠ 'progress accomplished'. If rain delays work for a week, A would mark a full week of progress (time passed) even though NOTHING was accomplished. This falsely inflates the progress line. C: 'how long it will take FROM NOW to finish' = estimating REMAINING TIME → subtract from the planned box to determine how much progress to fill in = avoids the 'sunk time ≠ work done' problem. Most practical because the chart axis IS time, so 'remaining weeks' directly maps to the dark line position ✓",
+        "C is wrong — estimating future time is uncertain and therefore not practical",
+        "A is correct — time spent is the most objective and measurable indicator",
+        "B is correct — determining what percentage is done is the most accurate method"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Time Fallacy: 'time spent' ≠ 'work accomplished' (e.g., rain delays pass time but produce zero progress). C = correct: estimate REMAINING time → determine where the dark line should reach → avoids sunk-time distortion ✓",
+      "explanation": "[Why A fails — the Time Fallacy]\nThe chart tracks PROGRESS (work accomplished), not TIME ELAPSED\nIf a task takes 2 weeks planned, but due to rain, NO work is done in week 1:\nA's method: mark 1 week of dark line (1 week of time was spent)\n= But 0% of the task is actually done\n= A would show ~50% progress when the task hasn't even started properly\n= TIME SPENT is a sunk cost/elapsed time metric, NOT a progress metric\n= Recording time spent = falsifies the progress line\n\n[Why C is the most practical]\nC: 'Estimate how long it will take FROM NOW to finish'\n= This is the 'remaining time' estimate\n= If total planned = 2 weeks, and you estimate 2 weeks remaining → you've accomplished NOTHING yet\n= If you estimate 0 weeks remaining → the task is complete\n= Remaining time directly translates to WHERE the dark line should stop on the chart\n= No conversion needed: the chart axis IS weeks, so remaining weeks directly positions the line\n\n[Why C beats B and D]\nB: 'determine how much of the task has been done already'\n= requires converting work-percentage back to time-units to draw on the chart\n= an extra conversion step = less practical\n\nD: 'calculate progress as a percentage of total work'\n= same issue as B: requires converting % → weeks to mark on the chart\n= less direct than C\n\nC is the most PRACTICAL because it uses the SAME UNIT (time/weeks) as the chart axis = no conversion needed = most direct and implementable method",
+      "action": "Action Rule (Q39): 'Time spent' (A) ≠ 'progress accomplished' — time can pass with zero work (rain delays). The chart tracks WORK DONE, not time elapsed. C = most practical: estimate REMAINING TIME → directly maps to the dark line position on a time-axis chart, no conversion needed. Rule: for a time-axis chart, the most practical progress metric = remaining time (same units as the axis)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
