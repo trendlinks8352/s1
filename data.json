@@ -7483,6 +7483,69 @@
     "cycleIdx": 0
   },
   {
+    "id": "massacre_truth_q32_targeting_publicly_debated_not_academic",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Massacre of the Truth (Duffy) — Q32 Targeting (D→C)",
+    "quiz": {
+      "question": "[Q32 — Targeting: Reason professors declare 'no reputation as historian' — extend scan to lines 22–23]\n\nPassage (lines 17–23):\n'Three professors wrote that the newspaper should not have published an article by Windschuttle because he \"has no reputation as an historian\"... Windschuttle holds a first-class honours degree in history and has taught Australian history at university — not that this should make any difference to whether he is right or not. He also has written several original books, AS WELL AS A SERIES OF PUBLICLY DEBATED ARTICLES about fake Aboriginal massacres.'\n\nQ: Among the statements that Duffy makes about Windschuttle, which is most likely to be the reason for the three professors to declare that Windschuttle 'has no reputation as an historian' (lines 17–18)?\nC: Windschuttle's allegations are previously published and debated\nD: Whether Windschuttle is right or not will have no effect on written history\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: 'right or not will have no effect on written history' = NOT stated in the passage as a reason the professors give or Duffy attributes to them. This is outside the passage's stated content. C: 'PUBLICLY DEBATED ARTICLES' (lines 22–23) = the key targeting point. From academics' perspective, publishing in POPULAR/PUBLIC debate (not peer-reviewed journals) = the basis for denying 'reputation as historian'. Duffy's point: professors use this as an excuse, but Duffy finds it 'disturbing' (line 24) ✓",
+        "C is wrong — 'publicly debated' means his work has more exposure, not less credibility",
+        "D is correct — the passage says history won't change regardless of who is right",
+        "A is correct — not being a practising academic is the core reason"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Outside Passage: 'no effect on written history' is never stated as a reason the professors give. C = correct: 'publicly debated articles' (lines 22–23) = the characteristic academic establishment uses to deny historian reputation (popular debate ≠ peer-reviewed scholarship) ✓",
+      "explanation": "[Targeting — extend beyond the initial summary]\nLines 17–20: Duffy SUMMARISES the professors' stated reason: 'no university position'\n= but Duffy immediately DISMISSES this ('not that this should make any difference')\n= then continues listing Windschuttle's credentials (lines 20–23)\n\nLines 22–23: 'a series of PUBLICLY DEBATED ARTICLES about fake Aboriginal massacres'\n= KEY TARGET: this is what academic insiders would use as grounds for 'no reputation'\n= PUBLICLY DEBATED (in newspapers/popular media) ≠ PEER-REVIEWED ACADEMIC PUBLICATION\n= from the establishment's perspective: publishing in public debate forums = not legitimate scholarly work = 'no reputation as historian'\n\n[Why D fails]\nD: 'Whether Windschuttle is right or not will have no effect on written history'\n= This idea is NOT stated in the passage at all\n= Duffy actually says the OPPOSITE: 'if Windschuttle is right, quite a lot will change' (line 14)\n= D contradicts the passage AND attributes an unstated reason to the professors\n\n[Why C is correct]\nThe professors' implicit reasoning: historian credibility = academic/peer-reviewed publishing\nWindschuttle published 'PUBLICLY DEBATED articles' = outside traditional academic channels\n= this is exactly what 'has no reputation as AN HISTORIAN' (in academic terms) targets\n= C captures this: 'allegations are previously published and debated' (publicly, not academically) ✓",
+      "action": "Action Rule (Q32): When question asks 'which of Duffy's STATEMENTS is the REASON', extend the scan BEYOND the initial summary to the specific details listed after it (lines 22–23: 'publicly debated articles'). D = Outside Passage (contradicts line 14). C = correct: publicly debated (popular media) ≠ peer-reviewed = the basis for denying historian reputation ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "massacre_truth_q33_targeting_survived_unquestioned_not_alone",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Massacre of the Truth (Duffy) — Q33 Targeting (C→D)",
+    "quiz": {
+      "question": "[Q33 — Targeting: Source of Duffy's doubt — 'survived unquestioned for so long' = not discredited by others]\n\nPassage (lines 31–35):\n'As most of the references in Ryan's work are to documents held in Tasmania, it would have been difficult for most academics or readers to check them. Even so, IT SEEMS AMAZING THAT a book as important as Ryan's The Aboriginal Tasmanians... could have SURVIVED UNQUESTIONED FOR SO LONG if Windschuttle is right.'\n\nQ: Duffy expresses some doubt about the allegations made by Windschuttle. These doubts are based on ______.\nC: the fact that Windschuttle alone is making these claims\nD: the fact that Ryan's scholarship has not been discredited by others\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'Windschuttle alone is making these claims' = focuses on WHO is making claims. But the passage focuses on WHY Ryan's book wasn't challenged earlier — the doubt is about the BOOK surviving, not about Windschuttle's isolation. D: 'survived UNQUESTIONED for SO LONG' = Ryan's scholarship went unchallenged by anyone else = 'has not been discredited by others' ✓. Duffy's amazement: if Windschuttle is right, how could a major book remain unchallenged for so long = doubt about Windschuttle's claims based on the book's apparent credibility track record.",
+        "D is wrong — Duffy never says Ryan's scholarship was credible",
+        "C is correct — Duffy's doubt comes from Windschuttle being the only one to challenge Ryan",
+        "A is correct — the professors' opposition creates the doubt"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Wrong Focus: focuses on WHO (Windschuttle alone), but passage focuses on the BOOK surviving unchallenged. D = correct: 'survived unquestioned for so long' = Ryan's scholarship not discredited by others = the basis for Duffy's amazement/doubt ✓",
+      "explanation": "[Duffy's doubt — structural analysis]\nDuffy's reasoning (lines 31–35):\nPremise: Ryan's sources are in Tasmania = difficult for others to check (lines 31–33)\nConclusion of doubt: 'it seems AMAZING that... [the book] could have SURVIVED UNQUESTIONED for SO LONG if Windschuttle is right' (lines 33–35)\n\n= The doubt: IF Windschuttle is correct that Ryan fabricated evidence, THEN why didn't ANYONE ELSE challenge the book for decades?\n= The assumption: if the errors were this significant, SOME OTHER scholar should have noticed\n= Result: the book's long unchallenged history = indirect evidence that maybe Ryan's work WASN'T obviously wrong = doubt about Windschuttle's claims\n\n[D — correct paraphrase]\n'survived UNQUESTIONED for SO LONG' = NO ONE discredited it during that time\n→ 'Ryan's scholarship has NOT BEEN DISCREDITED by others' ✓\n= direct paraphrase of 'survived unquestioned'\n\n[C — Wrong Focus]\nC focuses on 'Windschuttle ALONE is making these claims'\n= this is about Windschuttle's isolation as a claimant\n= but the passage's doubt is about the BOOK's durability, not about whether others are also claiming what Windschuttle claims\n= C confuses 'no one else challenges RYAN' with 'no one else makes WINDSCHUTTLE's same accusations'\n= these are different propositions",
+      "action": "Action Rule (Q33): Target 'survived unquestioned for so long' (lines 33–35) = the book went unchallenged by others = Ryan's scholarship not discredited. D = correct paraphrase. C = Wrong Focus: confuses 'Windschuttle alone challenges Ryan' (C) with 'Ryan's work survived unchallenged by anyone' (D). The doubt = if errors were this clear, why did no one else catch them?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "massacre_truth_q34_paraphrase_dealt_with_investigated_not_upheld",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Massacre of the Truth (Duffy) — Q34 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q34 — Paraphrase: 'dealt with' ≠ 'upheld' — process vs. outcome]\n\nPassage (lines 37–38):\n'Whether these charges are DEALT WITH or just buried will tell us a lot about academic honesty and political correctness in this country.'\n\nQ: Duffy claims that Australian universities' reputation for academic honesty will be tested by whether ______.\nB: Windschuttle's accusations are upheld\nC: Ryan's use of sources is investigated\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'upheld' = the accusations are confirmed/validated as true = a specific OUTCOME. But 'dealt with' = handled, processed, investigated = just the PROCESS of taking the charges seriously, regardless of outcome. Academic honesty = shown by WHETHER charges are investigated fairly (not buried), NOT whether they end up being confirmed. C: 'investigated' = 'dealt with' (process of examining) ✓ / 'Ryan's use of sources' = the core charges/allegations = 'these charges' ✓",
+        "C is wrong — 'investigated' implies suspicion while 'dealt with' is neutral",
+        "B is correct — 'upheld' directly means the charges were dealt with successfully",
+        "D is correct — 'Ryan's thesis is upheld' = the charges are dismissed = also a form of dealing with them"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Process vs. Outcome Error: 'upheld' = charges CONFIRMED as true (specific outcome) ≠ 'dealt with' = handled/investigated (the process). Academic honesty = shown by the PROCESS (investigating fairly vs. burying), not the OUTCOME (whether charges are upheld). C = correct: investigated (process) + Ryan's use of sources (the charges) ✓",
+      "explanation": "[The passage's core distinction]\n'whether these charges are DEALT WITH or just BURIED'\n= two options: investigated/addressed (dealt with) vs. covered up/ignored (buried)\n= the test of academic honesty = whether the PROCESS of investigation happens\n= NOT whether the charges turn out to be correct (upheld) or incorrect (dismissed)\n\n[B — Process vs. Outcome Error]\n'upheld' = the charges are CONFIRMED TRUE (a specific outcome)\n= this adds an additional condition beyond what the passage states\n= passage: academic honesty = dealing with the charges, regardless of outcome\n= if universities investigate and find Ryan was NOT guilty: still shows academic honesty\n= if universities investigate and find Ryan WAS guilty: also shows academic honesty\n= the honesty is in the INVESTIGATION PROCESS, not in the VERDICT\n= B conflates 'dealing with charges' (process) with 'confirming charges are true' (outcome)\n\n[C — correct paraphrase]\n'DEALT WITH' → INVESTIGATED ✓ (same process meaning: to handle, examine, address)\n'these charges' = about Ryan's use of sources (the book's alleged fabrication) → 'Ryan's use of sources' ✓\n= C correctly captures the PROCESS (investigated) and the SUBJECT (Ryan's sources) ✓",
+      "action": "Action Rule (Q34): 'Dealt with' = PROCESS (investigated, handled, addressed) ≠ 'upheld' = OUTCOME (confirmed as true). Academic honesty = shown by whether charges are investigated (process), not whether they are confirmed (outcome). B = Process vs. Outcome Error. C = correct: investigated (process) + Ryan's use of sources (charges) ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
