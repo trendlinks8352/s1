@@ -7546,6 +7546,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "mortality_q29_all_categories_poisoning_counterexample",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Mortality Statistics — Q29 Data Interpretation (B→C)",
+    "quiz": {
+      "question": "[Q29 — Data Interpretation: 'all categories' = find ONE counterexample + residual subtraction]\n\nTable data (Mean annual mortality rate per 100,000, Males vs Females, age 25–64):\nFalls: M 1.7 / F 0.3 → ratio 5.7:1\nTransport: M 17.1 / F 7.1 → ratio 2.4:1\nPoisoning: M 2.7 / F 1.5 → ratio 1.8:1 ← KEY\nFire: M 0.7 / F 0.3 → ratio 2.3:1\nDrownings: M 2.0 / F 0.5 → ratio 4:1\nOther unintentional: M 2.4 / F 0.7 → ratio 3.4:1\nTotal unintentional: 26.5 / Total intentional: 26.8 / All injuries: 58.8\n\nQ: Which of the following is most likely to be true?\nB: The ratio of accidental deaths of males to females in ALL categories exceeds 2:1\nC: There are at least five deaths per 100,000 males not substantially categorised in the data\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'ALL categories' = every single category. COUNTEREXAMPLE: Poisoning M=2.7 / F=1.5 → ratio = 2.7/1.5 = 1.8 < 2:1. ONE counterexample kills 'all'. C: All injuries (58.8) - [Total unintentional (26.5) + Total intentional (26.8)] = 58.8 - 53.3 = 5.5 ≥ 5. C = true ✓",
+        "B is correct — most categories clearly exceed 2:1, so 'all' is safe to assume",
+        "C is wrong — the remaining 5.5 could be part of the listed subcategories",
+        "D is correct — gassing deaths are shown by the bottom graph's bar"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = 'All categories' absolute claim demolished by ONE counterexample: Poisoning (1.8:1 < 2:1). C = correct: 58.8 - (26.5 + 26.8) = 5.5 ≥ 5 = at least five uncategorised deaths ✓",
+      "explanation": "[B — One Counterexample Destroys 'All']\nStep 1: The claim is 'ALL categories exceed 2:1'\nStep 2: Scan each unintentional category for the ratio:\nFalls: 1.7/0.3 = 5.7 ✓\nTransport: 17.1/7.1 = 2.4 ✓\nPoisoning: 2.7/1.5 = 1.8 ✗ ← COUNTEREXAMPLE\nFire: 0.7/0.3 = 2.3 ✓\nDrownings: 2.0/0.5 = 4.0 ✓\nOther: 2.4/0.7 = 3.4 ✓\n= Poisoning 1.8 < 2.0 = the claim 'ALL exceed 2:1' is FALSE\n= ONE counterexample is enough to eliminate B entirely\n\n[C — Residual Subtraction]\nStep 1: Sum the two clearly defined category totals:\nTotal unintentional = 26.5 (male)\nTotal intentional = 26.8 (male)\nSum = 26.5 + 26.8 = 53.3\n\nStep 2: Subtract from All injuries:\nAll injuries = 58.8\n58.8 - 53.3 = 5.5 per 100,000\n\nStep 3: Compare to claim: 'at least five'\n5.5 ≥ 5 ✓\n\n= There are 5.5 per 100,000 male deaths that are NOT classified under either the unintentional or intentional subtotals → 'not substantially categorised in the data' ✓\n\n[GAMSAT data rule for absolute terms]\nWhen a choice uses 'ALL', 'EVERY', 'ALWAYS', 'NEVER' → the strategy is:\n1. Immediately look for a SINGLE counterexample\n2. If one exists, the choice is FALSE — stop scanning\n3. DO NOT rely on 'most seem to match' as validation",
+      "action": "Action Rule (Q29): When a choice uses 'ALL categories' — immediately scan for ONE counterexample to disprove it. Poisoning (1.8:1 < 2:1) kills B. C = residual subtraction: All injuries (58.8) - Total unintentional (26.5) - Total intentional (26.8) = 5.5 ≥ 5 ✓. Rule: absolute terms (all/every/always/never) → find ONE counterexample first."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
