@@ -7567,6 +7567,69 @@
     "cycleIdx": 0
   },
   {
+    "id": "moral_thought_q26_central_theme_accountability_unwritten_laws",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Moral Thought (Spinoza) — Q26 Central Theme (C→D)",
+    "quiz": {
+      "question": "[Q26 — Paraphrase: Over-Extrapolation — 'obligations/precedence' not in passage]\n\nPassage (lines 3–5, 10–12):\n'a private morality is no more possible than a private language'\n'Moral education is... becoming part of a community with a particular tradition, history and way of life.'\n\nQ: Which of the following best sums up the central theme of the passage?\nC: Obligations to the community take precedence over self-fulfilment\nD: Accountability to the unwritten laws of others is fundamental to morality\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'obligations' and 'self-fulfilment' are IMPORTED concepts not in the passage. The passage never frames morality as a duty-vs-self conflict or priority ranking ('take precedence'). D: 'community with a particular tradition, history' → 'unwritten laws of others' (shared norms of community) ✓ / 'private morality is no more possible than a private language' → morality requires shared norms = 'fundamental to morality' ✓",
+        "D is wrong — 'unwritten laws' is not in the passage",
+        "C is correct — the passage is about community duties overriding individual desires",
+        "B is correct — trust in humankind is the passage's core message"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Over-Extrapolation: 'obligations' and 'precedence over self-fulfilment' = concepts absent from the passage. D = correct: community + tradition → unwritten laws of others / private morality impossible → fundamental to morality ✓",
+      "explanation": "[C — Over-Extrapolation Error]\n'Obligations to the community' = imports a DUTY framework (moral obligation)\n'take PRECEDENCE over self-fulfilment' = imports a PRIORITY RANKING (community wins vs. self)\n= the passage NEVER frames this as a conflict between community duty and personal fulfilment\n= the passage argues: genuine morality CANNOT EXIST without community/tradition\n= the relationship is DEPENDENCY (morality requires community), not PRIORITY (community over self)\n\n[D — correct paraphrase chain]\n'community with a particular tradition, history' = shared norms built over time\n→ 'UNWRITTEN LAWS of others' = the implicit, shared rules of a community ✓\n\n'private morality is no more possible than a private language' = you cannot have morality alone\n→ 'accountability to... others is FUNDAMENTAL TO morality' = others are necessary for morality to exist ✓\n\n= D captures the DEPENDENCY relationship (community/tradition = necessary foundation) correctly\n\n[Key distinction]\nC = obligation/priority conflict (community vs. self = who wins)\nD = dependency/necessity (community = what makes morality possible at all)\n= the passage argues D's logic, not C's logic",
+      "action": "Action Rule (Q26): 'Obligations' and 'take precedence over self-fulfilment' are imported frameworks (duty vs. self-priority) absent from the passage. The passage's logic = DEPENDENCY (morality cannot exist without community/tradition), not PRIORITY. D = accountability to unwritten laws of others is fundamental = correct dependency framing ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "moral_thought_q27_inarticulate_cry_meaningless_moan",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Moral Thought (Spinoza) — Q27 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q27 — Paraphrase: Evaluative Distortion — 'overreaction' not in text]\n\nPassage (lines 6–7):\n'argued that moral talk was mere emotion. The word \"wrong\" was an INARTICULATE CRY masquerading as speech.'\n\nQ: Which of the following is closest in meaning to 'inarticulate cry' (line 7)?\nA: meaningless moan\nB: illogical overreaction\n\nYour pick — B / Correct — A",
+      "options": [
+        "B: 'OVERREACTION' = adds an evaluative judgment (the response is excessive/too much) that is NOT in the passage. The passage says moral talk is 'mere emotion' — describing its NATURE (emotional, not reasoned), not its DEGREE (excessive). A: 'inarticulate' = lacking coherent language form = MEANINGLESS (no semantic content) ✓ / 'cry' = a raw emotional sound (not structured speech) = MOAN (a low, expressive sound, not speech) ✓",
+        "A is wrong — 'meaningless' is too strong; 'inarticulate' just means unclear",
+        "B is correct — 'inarticulate cry' implies an uncontrolled, excessive reaction",
+        "C is correct — 'incomprehensible demand' captures the masquerading aspect"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Evaluative Distortion: 'overreaction' adds a judgment of excess not in the passage. The passage describes the NATURE (mere emotion = not reasoned speech), not the DEGREE. A = correct: inarticulate → meaningless / cry → moan ✓",
+      "explanation": "[B — Evaluative Distortion Error]\n'illogical OVERREACTION' = contains two import:\n(1) 'illogical' = reasonably maps to 'not rational/mere emotion' ≈ partial match\n(2) 'OVERREACTION' = claims the emotional response is EXCESSIVE (more than warranted)\n= the passage says moral talk = 'mere emotion' (describing ITS NATURE as emotional, not reasoned)\n= the passage NEVER says the emotion is excessive or disproportionate\n= 'overreaction' adds an external evaluative judgment not present in the text\n\n[A — correct paraphrase chain]\n'INARTICULATE' = unable to express clearly in language / not formed into coherent words\n→ MEANINGLESS (without semantic content, not structured as speech) ✓\n\n'CRY' = a raw, emotional vocalization / not structured speech\n→ MOAN (a low emotional sound — not an articulate utterance) ✓\n\n'masquerading as speech' = passes itself off as meaningful talk but isn't\n→ 'meaningless' captures this perfectly (it SEEMS like speech but has no meaning) ✓\n\n[Key GAMSAT rule]\nWhen paraphrasing emotional or tonal descriptions:\n= capture the TYPE/NATURE of the expression (emotional, raw, incoherent)\n= do NOT add evaluative judgments about DEGREE (excessive, overblown, disproportionate)\n= unless the text explicitly signals degree with words like 'too much', 'extreme', 'disproportionate'",
+      "action": "Action Rule (Q27): 'Inarticulate cry' = NATURE (emotional, not structured speech) NOT DEGREE (excessive). B = Evaluative Distortion: 'overreaction' imports 'excessive' which is absent from the passage. A = correct: inarticulate → meaningless / cry → moan. Rule: paraphrasing emotional expressions — capture TYPE, not DEGREE unless passage explicitly indicates excess."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "moral_thought_q28_fundamentalist_sects_way_of_life",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Moral Thought (Spinoza) — Q28 Application (B→D)",
+    "quiz": {
+      "question": "[Q28 — Application: Map new situation (fundamentalist sects) to correct passage concept]\n\nPassage (lines 10–12):\n'Moral education is... becoming part of a community with a particular TRADITION, HISTORY AND WAY OF LIFE.'\nPassage (lines 7–8):\n'far from reaching a STATE OF SOPHISTICATION, we have REGRESSED to a moral childhood'\n\nQ: In recent times close-knit fundamentalist sects have developed. The author would hold that moral education in these sects is best characterised as ______.\nA: 'mere emotion' (line 6)\nB: 'a state of sophistication' (lines 7–8)\nC: 'a moral childhood' (line 8)\nD: a 'way of life' (line 11)\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'state of sophistication' = the author presents this as an UNACHIEVED IDEAL that modern society has REGRESSED AWAY FROM — not what fundamentalist sects offer. The passage says 'far from reaching a state of sophistication, WE HAVE REGRESSED'. D: fundamentalist sects = strong, closed community with specific tradition and shared practices = EXACTLY matches 'community with a particular tradition, history and WAY OF LIFE' (line 11) ✓. Moral education in such sects = becoming immersed in a shared way of life ✓",
+        "D is wrong — fundamentalist sects are extreme, not the community type the author endorses",
+        "B is correct — fundamentalist sects achieve the sophisticated moral community the author wants",
+        "C is correct — fundamentalist sects regress members to moral childhood through obedience"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Direction Error: 'state of sophistication' = the unachieved ideal that modern society REGRESSED FROM, not what sects provide. D = correct: fundamentalist sects = closed community + specific tradition + shared practices = 'way of life' (line 11) = exactly the type of moral education the author describes ✓",
+      "explanation": "[Application question protocol]\nStep 1: Identify the key features of the new situation:\nFundamentalist sects = CLOSE-KNIT community, specific religious TRADITION, shared PRACTICES and RULES, immersive lifestyle\n\nStep 2: Match to passage concepts:\n'community with a particular TRADITION, HISTORY AND WAY OF LIFE' (lines 10–11)\n= close-knit community + specific tradition + way of life = FUNDAMENTALIST SECTS\n\nStep 3: Select the phrase that best labels this:\nD: 'way of life' (line 11) = the passage's exact term for community-based moral immersion ✓\n\n[B — Direction Error]\n'State of sophistication' (lines 7–8) context:\n'far from reaching a STATE OF SOPHISTICATION, WE HAVE REGRESSED'\n= 'sophistication' = the IDEAL we have moved AWAY FROM\n= the author views sophistication as something modern individualistic society FAILS to achieve\n= NOT what fundamentalist sects represent\n= fundamentalist sects are the OPPOSITE of individualistic sophistication — they are community-immersed\n= B misapplies the phrase to the WRONG CONTEXT (sophistication = individualistic/modern ideal, not traditional community immersion)\n\n[Why D is correct even if sects are extreme]\nThe author doesn't say only moderate communities count\nThe author's definition: moral education = 'becoming part of a community with a particular tradition and way of life'\nFundamentalist sects = an extreme but clear EXAMPLE of exactly this definition\n= D is correct precisely because it maps to the author's stated framework",
+      "action": "Action Rule (Q28): For application questions, map the new situation's KEY FEATURES to passage concepts before selecting a phrase. Fundamentalist sects = close-knit community + tradition + shared practices = 'way of life' (D) ✓. B = Direction Error: 'state of sophistication' = the UNACHIEVED IDEAL modern society regressed FROM (not what sects provide). Always check whether a phrase describes something achieved or unachieved in the passage."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
