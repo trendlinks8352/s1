@@ -7630,6 +7630,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "genius_quotes_q24_not_in_accord_structural_grouping",
+    "type": "tone",
+    "isMCQ": true,
+    "source": "Genius Quotations — Q24 Structural Grouping (C→B)",
+    "quiz": {
+      "question": "[Q24 — Structural Grouping: Identify the ODD ONE OUT by argument direction]\n\nFour quotations:\nA (O Wilde): 'The public is wonderfully tolerant. It forgives everything except genius.'\nB (GC Lichtenberg): 'Sometimes men come by the name of genius... not because they have a hundred feet, but because most people can't count above fourteen.'\nC (RG Ingersoll): 'In the republic of mediocrity, genius is dangerous.'\nD (J Swift): 'When a true genius appears... you may know him by this sign, that the dunces are all in confederacy against him.'\n\nQ: Which quotation is NOT in accord with the position towards genius taken in the other three?\nYour pick — C / Correct — B",
+      "options": [
+        "C: 'In the republic of MEDIOCRITY, genius is DANGEROUS' = majority (mediocrity = dull average people) sees genius as a threat = same pattern as A (public rejects genius) and D (dunces attack genius). B is the odd one out: B is about the PUBLIC'S STUPIDITY causing FAKE geniuses to be elevated (not about real genius being persecuted). Direction: A/C/D = majority attacks REAL genius / B = majority too dumb to recognise who is actually gifted ✓",
+        "B is wrong — Lichtenberg is still saying people misjudge genius, so it fits with the others",
+        "C is correct — 'mediocrity' and 'dangerous' suggest a different type of conflict",
+        "D is correct — Swift is talking about persecution not rejection"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = same theme as A and D (majority persecutes/rejects real genius). B = DIFFERENT direction: majority too ignorant to correctly identify genius → fake geniuses get elevated. B = the odd one out ✓",
+      "explanation": "[Structural grouping — argument DIRECTION test]\n\nA (O Wilde):\nSubject: The PUBLIC (= majority)\nAction: cannot TOLERATE genius / forgives everything EXCEPT genius\nDirection: majority → REJECTS real genius ↓\n\nC (RG Ingersoll):\n'republic of MEDIOCRITY' = majority/average people in power\n'genius is DANGEROUS' = real genius is threatened/persecuted in such a society\nDirection: majority → THREATENS real genius ↓\n\nD (J Swift):\n'the DUNCES are all in confederacy AGAINST him'\nDunces = stupid majority / confederacy = organised attack\nDirection: majority → ATTACKS real genius ↓\n\n= A, C, D all share: [majority/dull people] → [persecute/reject/attack real genius]\n= C fits this pattern perfectly: 'republic of mediocrity' = A's 'public' = D's 'dunces'\n\nB (GC Lichtenberg):\n'men come by the NAME of genius... not because they have a hundred feet, but because most people CAN'T COUNT ABOVE FOURTEEN'\n= the public's STUPIDITY causes ORDINARY/MEDIOCRE people to be MISTAKENLY LABELLED as genius\n= a person gets called 'genius' not due to exceptional ability, but because the public is too dumb to measure accurately\nDirection: majority's ignorance → ELEVATES fake genius ↑ (completely opposite direction)\n\n[Why C was mistaken for the odd one out]\n'mediocrity' = a different-sounding word (society of average people)\nBut 'republic of mediocrity' = metaphor for a society run by/for average/dull people = exactly A's 'public' and D's 'dunces'\n= the TONE is the same (majority is dull and endangers/rejects genuine talent)\n= C is NOT the odd one out",
+      "action": "Action Rule (Q24): For 'NOT in accord' questions, abstract each quotation to its ARGUMENT DIRECTION before grouping. A/C/D = [majority/dull people] → [persecute/reject real genius] (same direction). B = [majority's ignorance] → [elevates fake genius] (opposite direction). The odd one out = B. 'Republic of mediocrity' = paraphrase of 'the public' and 'the dunces' — same conceptual group."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
