@@ -7651,6 +7651,111 @@
     "cycleIdx": 0
   },
   {
+    "id": "woolly_thesaurus_q22_additional_words_count_exclude_self",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Woolly Thesaurus — Q22 Counting (A→B)",
+    "quiz": {
+      "question": "[Q22 — Counting: Exclude base word ('woolly') from the additional words count]\n\nLittle Oxford Thesaurus, 'woolly' meaning 2 (existing words):\ncuddly, downy, fleecy, furry, fuzzy, hairy\n\nAdditional entries given (downy / furry / hairy entries):\ndowny: feathery, fleecy, fluffy, furry, fuzzy, velvety, woolly\nfurry: bristly, downy, feathery, fleecy, fuzzy, hairy, woolly\nhairy: bearded, bristly, downy, feathery, fleecy, furry, fuzzy\n\nAll words from additional entries combined:\nfeathery, fleecy, fluffy, furry, fuzzy, velvety, woolly, bristly, downy, hairy, bearded\n\nQ: How many ADDITIONAL words to those found in the entry for woolly are available through consulting these additional entries?\nA: 6\nB: 5\n\nYour pick — A / Correct — B",
+      "options": [
+        "A: counted 6, likely included 'woolly' itself. But 'woolly' is the HEAD WORD being looked up — it cannot be a new synonym of itself. Exclude: already in existing list (downy, fleecy, furry, fuzzy, hairy) AND 'woolly' itself. Remaining new words: feathery, fluffy, velvety, bristly, bearded = 5 ✓",
+        "B is wrong — 'woolly' should count because it appears in another entry",
+        "A is correct — bearded counts as additional AND woolly counts because it appears fresh in the other entries",
+        "C is correct — some words are duplicated across the three additional entries"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = counted 6 by including 'woolly' itself. But woolly = the HEAD WORD being looked up = cannot be its own additional synonym. Exclude: 5 already in existing list + 'woolly' itself. Remaining: feathery + fluffy + velvety + bristly + bearded = 5 (B) ✓",
+      "explanation": "[Three-step counting protocol]\nStep 1: List ALL words appearing in the three additional entries (combined, deduplicated):\nfeathery, fleecy, fluffy, furry, fuzzy, velvety, woolly, bristly, downy, hairy, bearded\n\nStep 2: Remove words ALREADY in the Little Oxford entry for 'woolly' meaning 2:\nAlready listed: cuddly, downy, fleecy, furry, fuzzy, hairy\nRemove from collected list: ~~fleecy~~, ~~furry~~, ~~fuzzy~~, ~~downy~~, ~~hairy~~\n= Remaining: feathery, fluffy, velvety, woolly, bristly, bearded\n\nStep 3: Remove the HEAD WORD itself:\n~~woolly~~ = the word being looked up cannot be a new synonym of itself\n= you are collecting synonyms FOR woolly, so woolly cannot count as a NEW word added to the list\n= Remaining: feathery, fluffy, velvety, bristly, bearded = 5 words\n\n[Why A=6 was wrong]\nA=6 most likely counted 'woolly' as one of the additional words\n= common trap: 'woolly' appears in the additional entries (downy and furry both list 'woolly')\n= but these say: downy = ...woolly (i.e., woolly is a synonym OF downy)\n= it does NOT add woolly as a new synonym TO the woolly entry\n= the question asks for additional words available for the woolly entry\n= woolly already IS the woolly entry head word",
+      "action": "Action Rule (Q22): In counting tasks with thesaurus cross-referencing, always EXCLUDE: (1) words already in the original entry, AND (2) the HEAD WORD itself (cannot be its own synonym). Counting protocol: collect all → remove existing → remove head word → count remainder. A=6 included 'woolly' itself. B=5 is correct: feathery + fluffy + velvety + bristly + bearded."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "woolly_thesaurus_q23_collins_definition_made_of_wool_phrase",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Woolly Thesaurus — Q23 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q23 — Targeting: Dictionary definition hidden among synonyms — 'made of wool' as a phrase]\n\nCollins English Dictionary and Thesaurus entry:\n'woolly adj 1 fleecy, hairy, MADE OF WOOL, shaggy, woollen. 2 blurred, clouded, confused...'\n\nQ: Which, if any, section of the Collins entry contains the DICTIONARY DEFINITION of woolly?\nA: 1 (section 1)\nB: 2 (section 2)\nC: antonyms\nD: the meaning is not defined\n\nYour pick — D / Correct — A",
+      "options": [
+        "D: 'the meaning is not defined' = student scanned section 1 and saw what looked like a list of synonyms (fleecy, hairy, shaggy, woollen) and didn't notice the phrase embedded in the middle. A: 'MADE OF WOOL' (section 1) = a PHRASE/DEFINITION, not a synonym word. Synonyms are single adjectives (fleecy, hairy, shaggy, woollen). 'Made of wool' = a explanatory phrase describing what 'woolly' MEANS = dictionary definition ✓",
+        "A is wrong — 'made of wool' is just another synonym like 'fleecy'",
+        "B is correct — section 2 is the definition part",
+        "C is correct — antonyms section also defines by contrast"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Scanning Miss: 'made of wool' looks like just another item in the comma-separated synonym list but is actually a PHRASE (not a single-word synonym) = dictionary definition. A = correct: section 1 contains 'made of wool' = an explanatory phrase = a definition ✓",
+      "explanation": "[Key distinction: synonym vs. definition]\nA THESAURUS provides SYNONYMS = single words or very short equivalents:\nfleecy, hairy, shaggy, woollen = all single-word adjectives = synonyms\n\nA DICTIONARY provides DEFINITIONS = phrases that explain meaning:\n'MADE OF WOOL' = 3-word phrase explaining what woolly MEANS\n= not a synonym (you wouldn't replace 'woolly hat' with 'made of wool hat')\n= it's an explanation: woolly = consisting of/made from wool\n\n[Why Collins can include definitions]\nCollins ENGLISH DICTIONARY AND THESAURUS = a combined reference\n= it includes BOTH synonyms (thesaurus function) AND definitions (dictionary function)\n= section 1 is a MIXED entry: some synonyms + one definition phrase embedded\n\n[Why D was chosen — Scanning Pattern Miss]\nThe entry reads: 'fleecy, hairy, MADE OF WOOL, shaggy, woollen'\n= ALL items are comma-separated, making 'made of wool' look like just another item\n= student's brain auto-categorises everything comma-separated = synonyms\n= 'made of wool' is visually CAMOUFLAGED as a synonym by the comma formatting\n\n[Scanning correction]\nWhen scanning comma-separated lists in combined dictionary/thesaurus entries:\n→ pause at any MULTI-WORD PHRASE (not a single adjective)\n→ check if it DEFINES the meaning (made of wool = what woolly means) vs. REPLACES the word (fleecy = another way to say woolly)\n→ multi-word explanatory phrase = dictionary definition",
+      "action": "Action Rule (Q23): In combined Dictionary-Thesaurus entries, comma-separated lists may HIDE definitions among synonyms. Signal: single-word adjectives (fleecy, hairy) = synonyms / multi-word phrases (MADE OF WOOL) = dictionary definition. 'Made of wool' = explanatory phrase = section 1 contains the definition ✓. Pause at every multi-word item in comma-separated synonym lists."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "mr_bleaney_q14_pronoun_reference_he_egged_her",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Mr Bleaney (Larkin) — Q14 Pronoun Reference (B→D)",
+    "quiz": {
+      "question": "[Q14 — Targeting: Pronoun Reference — who egged whom?]\n\nPoem (lines 13–15):\n'Stuffing my ears with cotton-wool, to drown\nThe jabbering set HE EGGED HER ON to buy.\nI know his habits — what time he came down,'\n\nKey: HE = Mr Bleaney (tenant) / HER = the proprietor (landlady)\n\nQ: Which of the following best describes Larkin's view of the boarding house proprietor?\nB: coarse and interfering\nD: unadventurous and hidebound\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'interfering' = the proprietor FORCES her will on others. But line 14: 'HE egged HER on to buy' = Bleaney (he) pressured the landlady (her) to buy the radio. The landlady is the PASSIVE recipient of Bleaney's requests, not the interfering party. D: the landlady passively followed Bleaney's wishes (egged on = led by someone else), kept frayed curtains unchanged, recites Bleaney's old habits = UNADVENTUROUS (no initiative) and HIDEBOUND (stuck in past patterns) ✓",
+        "D is wrong — the landlady clearly influences what goes on in her own house",
+        "B is correct — 'egged her on' means she pushed the tenant to do things",
+        "C is correct — the landlady is friendly and accommodating"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Pronoun Reversal: misread 'he egged her' as landlady (her) pressuring others. Correct: Bleaney (he) pressured the landlady (her) = she is passive. D = correct: landlady = passive, unchanging, stuck in Bleaney's patterns = unadventurous and hidebound ✓",
+      "explanation": "[Pronoun reference — careful parsing]\nLine 14: 'The jabbering set HE egged HER on to buy'\n= HE = subject = Mr Bleaney (the previous tenant)\n= HER = object = the proprietor (landlady)\n= Bleaney pressured the landlady to purchase the radio\n\n[What this reveals about the landlady]\nShe was EGGED ON (= persuaded by someone else) to buy the radio\n= she did not decide independently = PASSIVE\nShe still has 'flowered curtains, thin and FRAYED' (line 3) = no updates or changes\nShe recites Bleaney's exact habits, preferences, holiday patterns = STUCK IN THE PAST\n→ UNADVENTUROUS (no initiative, follows others' leads)\n→ HIDEBOUND (rigid, confined to established patterns) ✓\n\n[Why B fails]\nB: 'coarse and INTERFERING' = the landlady imposes on or controls others\nBut the poem shows the OPPOSITE: others (Bleaney) imposed on her\n= the landlady is the RECIPIENT of interference, not the agent of it\n= B reverses the direction of influence\n\n[Key scan rule]\nWhenever 'he/she/they' appears in a poem, immediately identify WHO each pronoun refers to\n= this is especially critical in poems about multiple people (Larkin, Bleaney, the landlady)\n= 'he egged her on' = Bleaney (he) → landlady (her), not the other way around",
+      "action": "Action Rule (Q14): In poems with multiple characters, always resolve pronoun references immediately: 'HE egged HER on' = Bleaney (tenant) pressured landlady (proprietor) to buy the radio. Landlady = passive, unchanged, stuck in Bleaney's habits = unadventurous and hidebound (D). B = Pronoun Reversal: interfering implies she imposes on others, but the text shows she was imposed upon."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "mr_bleaney_q16_wonders_assessment_not_ambivalent",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Mr Bleaney (Larkin) — Q16 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q16 — Paraphrase: 'ambivalent' ≠ 'I don't know' — wondering vs. mixed feelings]\n\nPoem (lines 21–28 — final two stanzas):\n'But if he stood and watched the frigid wind...\nTelling himself that this was home, and grinned,\nAnd shivered, without shaking off the dread\nThat how we live measures our own nature...\nHe warranted no better, I don't know.'\n\nQ: In assessing Mr Bleaney by his surroundings, Philip Larkin ______.\nB: is ambivalent about the kind of man he was\nD: wonders about Mr Bleaney's assessment of himself\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'AMBIVALENT' = having MIXED FEELINGS (both positive and negative) about Bleaney. But the poem shows NO positive feelings toward Bleaney at all — the description is uniformly bleak (frayed curtains, hired box, no books or bags). The 'I don't know' at the end = UNCERTAINTY about Bleaney's own self-assessment, not mixed feelings about him. D: 'WONDERS about Mr Bleaney's assessment of HIMSELF' = the final stanza asks: did Bleaney evaluate himself as 'warranted no better' (deserved this) or did he feel 'dread'? Larkin can't answer = wonders/uncertain ✓",
+        "D is wrong — 'I don't know' means Larkin is confused about his own feelings",
+        "B is correct — 'grinned' shows some positive moments balanced by 'dread'",
+        "C is correct — Larkin realises Bleaney was poor but happy"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Paraphrase Error: 'ambivalent' = mixed positive and negative feelings about Bleaney, but poem has NO positive assessment of him. D = correct: 'I don't know' = Larkin is uncertain about HOW BLEANEY ASSESSED HIMSELF (not Larkin's mixed feelings) ✓",
+      "explanation": "[B — Paraphrase Error: ambivalent]\nAmbivalent = simultaneously holding BOTH positive AND negative feelings\n= for this to be true, the poem must show Larkin LIKING something about Bleaney\nBut the entire poem = uniformly bleak description:\n'frayed' curtains / 'hired box' / no room for books or bags / fusty bed / frigid wind\n= there is NO positive assessment of Bleaney anywhere\n= Larkin is not AMBIVALENT about Bleaney — he views Bleaney's life as poor throughout\n= what he is UNCERTAIN about is BLEANEY'S OWN SELF-ASSESSMENT\n\n[D — correct reading of the final stanza]\n'But IF he stood... Telling himself this was home... grinned / And shivered, without shaking off the dread'\n= the entire final section is a CONDITIONAL/HYPOTHETICAL ('if')\n= Larkin imagines: did Bleaney stand there thinking 'this is home' and feel OK ('grinned')\n= OR did he feel existential DREAD (that how we live = our own nature = he deserved no better)\n= 'He warranted no better, I DON'T KNOW'\n= Larkin ends with uncertainty about how BLEANEY HIMSELF evaluated his own life\n→ WONDERS ABOUT MR BLEANEY'S ASSESSMENT OF HIMSELF ✓\n\n[Key distinction]\nB = Larkin is ambivalent ABOUT Bleaney (how Larkin feels about him)\nD = Larkin wonders about Bleaney's OWN ASSESSMENT of himself (how Bleaney felt about himself)\n= the poem's uncertainty is about Bleaney's inner life, not Larkin's contradictory feelings",
+      "action": "Action Rule (Q16): 'Ambivalent' requires BOTH positive AND negative feelings — absent from this poem. The 'I don't know' = Larkin is uncertain about HOW BLEANEY ASSESSED HIMSELF (not Larkin's mixed feelings). D = correct: wonders about Bleaney's self-assessment. Distinguish: Larkin's view OF Bleaney (consistently bleak) vs. Larkin's uncertainty about BLEANEY'S OWN SELF-VIEW."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "mr_bleaney_q17_main_concern_he_too_may_achieve_little",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Mr Bleaney (Larkin) — Q17 Main Concern (D→A)",
+    "quiz": {
+      "question": "[Q17 — Targeting: Poem's main concern — the speaker's existential self-projection]\n\nPoem key lines:\n• Line 11: 'I lie / Where Mr Bleaney lay' = speaker occupies the SAME SPACE as Bleaney\n• Lines 24–27: 'That how we live measures our own nature, / And at his age having no more to show / Than one hired box should make him pretty sure / He warranted no better, I don't know.'\n\nQ: Larkin's main concern in the poem is that ______.\nA: he too may achieve little\nD: the proprietor expects he will behave like the room's previous occupant\n\nYour pick — D / Correct — A",
+      "options": [
+        "D: 'the proprietor expects him to behave like the previous occupant' = focuses on EXTERNAL PRESSURE from the landlady. But the poem's emotional weight is not about the landlady's expectations — it's about the speaker's INTERNAL FEAR of resembling Bleaney's life. A: 'how we live measures our own nature' (line 24) = if living in this 'hired box' reflects one's worth, and the SPEAKER NOW LIES WHERE BLEANEY LAY (line 11), then HE TOO may have achieved nothing = the speaker fears his own life parallels Bleaney's emptiness ✓",
+        "A is wrong — the poem is about Bleaney, not about Larkin's own life",
+        "D is correct — the landlady's recitation of Bleaney's habits creates social pressure",
+        "C is correct — the speaker regrets choosing this accommodation"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = External Pressure Trap: focuses on the landlady's expectations (external). The poem's real concern = the speaker's INTERNAL EXISTENTIAL FEAR that he, like Bleaney, may warrant no better. A = correct: 'I lie where Bleaney lay' + 'how we live measures our own nature' → the speaker fears he too achieves little ✓",
+      "explanation": "[The poem's structure — shift from observation to self-projection]\nLines 1–13: OBSERVATION of Bleaney's life and room (external, third person 'he')\nLine 10–11: 'I lie / Where Mr Bleaney lay' = PIVOT — speaker identifies with Bleaney\nLines 21–28: HYPOTHETICAL — speaker imagines Bleaney's inner life and PROJECTS\n\n[Lines 24–27 — the key to the main concern]\n'That HOW WE LIVE MEASURES OUR OWN NATURE'\n= if the WAY you live = your worth and achievement\n= and the speaker now lives in the same 'hired box'\n= then the SPEAKER TOO may 'warrant no better' = have achieved little\n→ 'he too may achieve little' (A) = the speaker's existential dread for HIMSELF ✓\n\n[Why D is wrong — External Pressure Trap]\nD focuses on 'the proprietor expects him to behave like the previous occupant'\n= this is about the LANDLADY'S EXPECTATIONS (external social pressure)\n= but the poem's emotional climax is about the SPEAKER'S OWN FEAR of living an insignificant life\n= the landlady's role is incidental — she provides context but is not the main concern\n= D mistakes the CONTEXT (landlady recites habits) for the CONCERN (speaker's fear of insignificance)\n\n[I lie where Bleaney lay = the pivotal line]\nThe speaker is NOT just observing Bleaney from outside\n= he is occupying the SAME PHYSICAL SPACE\n= this physical identification triggers the existential question:\n= if living here defines Bleaney's worth, does it now define the speaker's worth too?",
+      "action": "Action Rule (Q17): The poem's main concern = the speaker's INTERNAL SELF-PROJECTION, not external pressure from the landlady (D). Key lines: 'I lie where Bleaney lay' (physical identification) + 'how we live measures our own nature' (existential logic) → speaker fears HE TOO achieves little (A). D = External Pressure Trap: focuses on the landlady's expectations rather than the speaker's existential self-reflection."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
