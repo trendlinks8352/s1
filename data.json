@@ -7756,6 +7756,132 @@
     "cycleIdx": 0
   },
   {
+    "id": "french_rev_q7_passage1_dishonesty_rife_own_kind",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "French Revolution Passage 1 — Q7 Paraphrase (B→?질문이해잘못함)",
+    "quiz": {
+      "question": "[Q7 — Question Scope: 'period WHEN' = the defining characteristic of that era]\n\nPassage 1 (lines 5–9):\n'They were not only inexperienced; they were also, for the most part, poor men... the temptation to \"make something out of it\" must have been very strong; and whose low salaries and insecurity of TENURE urged them to lose no time in doing so. Before the Revolution there had been LITTLE ATTEMPT TO PUNISH DISHONEST ADMINISTRATORS.'\n\nQ: The inexperienced administrators who took over Government after the French Revolution had lived through a period WHEN ______.\nA: dishonesty was rife among their own kind\nB: businesses were small and crooked deals were an accepted part of life\n\n질문의 'when'이 묻는 것: 혁명 이전(Before the Revolution)의 시대적 특성은 무엇이었는가?",
+      "options": [
+        "B: 'businesses were small and crooked deals accepted' = focuses on COMMERCIAL LIFE. But the passage is about ADMINISTRATIVE/GOVERNMENT dishonesty, not business culture. A: 'little attempt to punish dishonest administrators' (line 9) = dishonesty among government administrators was RIFE (widespread) and tolerated = 'dishonesty was rife among their own kind' (their own kind = administrators) ✓",
+        "A is wrong — 'rife' is too strong; the passage only says little attempt to punish",
+        "B is correct — 'making something out of it' refers to business opportunities",
+        "D is correct — fair trading was the norm before the Revolution"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Scope Error: passage is about ADMINISTRATIVE dishonesty, not business/commercial life. A = correct: 'little attempt to punish dishonest administrators' = dishonesty among administrators was tolerated/widespread = rife among their own kind ✓",
+      "explanation": "[The 'when' question — target the pre-Revolution era]\nThe question asks about the period WHEN the administrators had lived = BEFORE the Revolution\nLine 9: 'Before the Revolution there had been LITTLE ATTEMPT TO PUNISH DISHONEST ADMINISTRATORS'\n= dishonesty in administration was TOLERATED, not punished\n= not punished = widespread = RIFE among their own kind (administrators)\n\n[A correct paraphrase]\n'little attempt to punish dishonest administrators' → 'dishonesty was RIFE among their own kind'\n= dishonest administrators = 'their own kind' (same class of government officials)\n= tolerated/unpunished = 'rife' (widespread, common) ✓\n\n[B — Scope Error]\nB focuses on 'businesses' and 'crooked deals'\n= the passage discusses GOVERNMENT ADMINISTRATION, not commercial/business culture\n= 'making something out of it' = exploiting their government position for personal gain\n= NOT about commercial businesses making deals\n= B imports a commercial/business context absent from the passage",
+      "action": "Action Rule (Q7): 'Period when' = scan for pre-Revolution characteristics. 'Little attempt to punish dishonest administrators' = dishonesty among administrators was RIFE (widespread, tolerated). A = correct. B = Scope Error: passage = administrative/government dishonesty, not business/commercial deals."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "french_rev_q8_passage1_aligned_aims_punishment",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "French Revolution Passage 1 — Q8 Targeting (D→질문이해잘못함)",
+    "quiz": {
+      "question": "[Q8 — Structural Understanding: 'most closely aligned' = share the same CATEGORY (aims vs. methods)]\n\nPassage 1 — St. Just's fourfold aim:\n1. 'everything may tend towards GOOD' (line 12)\n2. 'factions may find themselves hurried to the SCAFFOLD' (line 13)\n3. 'a virile energy may turn the national mind towards JUSTICE' (line 14)\n4. 'secure at home that CALM necessary to establish HAPPINESS of the people' (line 14–15)\n\nPassage conclusion (lines 17–21):\n'But though they were IDEALIST IN THEIR AIMS, their METHODS WERE REALISTIC;\nand they saw no more effective way to secure purity and efficiency of administration\nthan by a POLICY OF PUNISHMENT.'\n\nQ: Which of the following combinations are most closely aligned?\nA: 1 & 2  B: 2 & 3  C: 3 & 4  D: 4 & 1",
+      "options": [
+        "D: 4 & 1 = 'happiness of the people' + 'everything tends towards good' = BOTH idealistic moral AIMS (the ends). B: 2 & 3 = 'scaffold' (execution/punishment) + 'virile energy' (forceful power) = BOTH realistic METHODS/MEANS (the instruments). The passage's concluding contrast: idealist AIMS vs. realistic METHODS = 1&4 align (idealist aims) / 2&3 align (realistic methods = punishment). Correct answer = B (2 & 3) ✓",
+        "B is wrong — scaffold and virile energy have opposite meanings",
+        "C is correct — justice and calm are both positive outcomes",
+        "A is correct — good outcomes and scaffold are linked as cause and effect"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Misreading of 'most closely aligned': 4&1 are both idealist AIMS (positive ends), but B = 2&3 are BOTH realistic METHODS (instruments of punishment/force) = more tightly aligned as same category ✓",
+      "explanation": "[The conclusion's structural key]\nPassage conclusion: 'IDEALIST IN THEIR AIMS' vs. 'METHODS WERE REALISTIC'\n= Aims = good things they wanted to achieve (idealistic)\n= Methods = punitive/forceful means they used to achieve them (realistic)\n\n[Categorising the four aims]\nAims category (idealistic, ends):\n#1: 'everything may tend towards GOOD' = virtuous outcome\n#4: 'HAPPINESS of the people' = virtuous outcome\n= 1 and 4 = both describe the positive moral GOALS\n\nMethods category (realistic/punitive, means):\n#2: 'factions hurried to the SCAFFOLD' = punishment/execution\n#3: 'VIRILE ENERGY' turning national mind towards justice = forceful/powerful means\n= 2 and 3 = both describe the INSTRUMENTS of enforcement (punishment + force)\n\n[Why B=2&3 is the answer]\nThe question asks 'most closely ALIGNED' = most similar in nature\n2&3: both describe PUNITIVE/FORCEFUL METHODS = tightly aligned as instruments\n1&4: also aligned as IDEALIST AIMS, but the passage's emphasis is on the 2&3 pairing as the realistic means\n= B = 2 & 3 ✓\n\n[Why D was chosen — question understanding error]\nStudent saw 4 (happiness) and 1 (good) and recognised both as positive\nBut missed that 2 (scaffold) and 3 (virile energy) are BOTH on the METHODS side\n= the question's 'most closely aligned' = same functional category (not just both positive or both negative)",
+      "action": "Action Rule (Q8): 'Most closely aligned' = identify which items belong to the SAME FUNCTIONAL CATEGORY (aims vs. methods). 2&3 = BOTH punitive/forceful methods (scaffold + virile energy) = most tightly aligned. 1&4 = both idealist aims, but the passage emphasises the 2&3 pairing as 'realistic methods'. Look for structural parallelism, not just similar tone."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "french_rev_q9_paraphrase_pragmatic_punitive_not_ethical",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "French Revolution Passage 1 — Q9 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q9 — Paraphrase: 'methods realistic' + 'policy of punishment' → pragmatic/punitive]\n\nPassage 1 (lines 17–21):\n'But though they were idealist in their aims, their METHODS WERE REALISTIC;\nand they saw no more effective way to secure purity and efficiency of administration\nthan by a POLICY OF PUNISHMENT.'\n\nQ: Passage 1 indicates that Robespierre and St. Just were ______.\nC: more concerned with ethical issues than with effective government\nD: pragmatic in their application of punitive measures in the face of corruption\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'more concerned with ETHICAL ISSUES than effective government' = contradicts the passage. They saw 'no more effective way than punishment' = they prioritised EFFICIENCY OF ADMINISTRATION (effective government) and used punishment as the pragmatic tool. D: 'methods were realistic' → PRAGMATIC ✓ / 'policy of punishment' → PUNITIVE MEASURES ✓ / context = corruption in administration ✓",
+        "D is wrong — 'pragmatic' implies cold calculation which the passage doesn't say",
+        "C is correct — they called for virtue and moral order above all else",
+        "B is correct — they were unfamiliar with everyday practicalities"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Direction Reversal: passage says they prioritised 'efficiency of administration' (effective government) and used punishment = pragmatic means. D = correct: methods realistic → pragmatic / policy of punishment → punitive measures ✓",
+      "explanation": "[C — Direction Reversal Error]\nC: 'more concerned with ETHICAL ISSUES than with EFFECTIVE GOVERNMENT'\n= implies ethics OVER effectiveness\nBUT passage lines 19–21: 'secure PURITY AND EFFICIENCY OF ADMINISTRATION than by a policy of punishment'\n= they used punishment to achieve BOTH purity (ethical) AND EFFICIENCY (effective government)\n= passage: they pursued BOTH moral aims AND administrative efficiency\n= C incorrectly implies they sacrificed effectiveness for ethical purity\n= the OPPOSITE is true: they used pragmatic (realistic) methods (punishment) to achieve their goals\n\n[D — correct paraphrase chain]\n'methods were REALISTIC' → PRAGMATIC ✓ (realistic, practical, results-oriented)\n'policy of PUNISHMENT' → PUNITIVE MEASURES ✓\n'secure purity and efficiency of administration' = context of battling CORRUPTION ✓\n→ pragmatic in their application of punitive measures in the face of corruption ✓\n\n[Key phrase — 'no more... than']\n'no more effective way to secure... than by a policy of punishment'\n= punishment = THE MOST EFFECTIVE method = they chose it pragmatically (not just morally)\n= this is PRAGMATIC (effective means), not purely ethical/moral thinking",
+      "action": "Action Rule (Q9): 'Methods realistic' + 'policy of punishment' = PRAGMATIC + PUNITIVE. C = Direction Reversal: passage shows they prioritised efficiency (effective government) AND used punishment to achieve it. D = correct: realistic → pragmatic / punishment → punitive measures. Note: 'no more effective way than punishment' = pragmatic choice, not moral idealism."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "french_rev_q10_paraphrase_ideals_practices_misallied",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "French Revolution Passage 2 — Q10 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q10 — Paraphrase: Over-inference — 'personality split' vs. 'ideals and practices misallied']\n\nPassage 2 structure:\n• 1791 speeches: advocated legal safeguards / opposed capital punishment / demanded revocation of property qualification → IDEALS\n• Later: swept aside legal safeguards / administered the Terror (mass executions) → PRACTICES\n• Line 9: 'the difference between Robespierre the philosophical democrat and Robespierre the administrator of the Terror'\n\nQ: The central implication of passage 2 is that Robespierre's ______.\nA: personality was split, adhering to different views at different times\nD: ideals and practices were often misallied\n\nYour pick — A / Correct — D",
+      "options": [
+        "A: 'PERSONALITY WAS SPLIT' = psychological/personal character deficit = OVER-INFERENCE. The passage describes a contrast between his STATED BELIEFS (ideals, speeches) and his ACTIONS (practices, Terror) — a political/philosophical contradiction, not a clinical personality disorder. D: 'ideals' (speeches/beliefs) vs. 'practices' (actions as Terror administrator) = MISALLIED (not aligned with each other) = structurally describes what the passage shows without over-inferring about his psychology ✓",
+        "D is wrong — 'misallied' is too mild; the passage shows complete contradiction",
+        "A is correct — the passage literally describes two different Robespierres",
+        "B is correct — loyalty to himself explains both his speeches and his Terror administration"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Over-Inference: 'personality split' = psychological/personal claim not in the passage. The passage describes a political/philosophical contradiction between ideals (speeches) and practices (Terror). D = correct: ideals (stated beliefs) vs. practices (actions) = misallied ✓",
+      "explanation": "[Passage 2's structural argument]\nThe passage catalogues CONTRASTS:\nSpeech 1 (ideals): legal safeguards → Later action (practice): swept aside legal safeguards\nSpeech 2 (ideals): opposed capital punishment → Later (practice): administrator of Terror = mass executions\nLine 9: 'difference between Robespierre the philosophical DEMOCRAT and Robespierre the ADMINISTRATOR OF THE TERROR'\n= this is a political/philosophical split between stated beliefs and actions\n\n[D — correct paraphrase]\n'ideals' = the philosophical positions stated in his speeches\n'practices' = what he actually did as administrator\n'MISALLIED' = improperly paired, not matching, inconsistent\n= 'ideals and practices were often misallied' = exactly describes the pattern the passage shows ✓\n\n[A — Over-Inference Error]\n'PERSONALITY WAS SPLIT' = implies a psychological/personal character disorder\n= the passage makes NO claim about Robespierre's mental state or personal psychology\n= it describes a POLITICAL contradiction (words vs. deeds) not a CHARACTER flaw\n= 'split personality' over-extrapolates from observable political contradiction to internal psychological state\n\n[Key principle]\nWhen describing a character's contradictions in GAMSAT:\n= stick to what the passage STRUCTURALLY SHOWS (ideals ≠ practices)\n= do NOT infer PSYCHOLOGICAL CAUSES (personality split) unless the passage explicitly states them",
+      "action": "Action Rule (Q10): 'Personality split' = psychological claim over-inferred from political contradiction. Passage shows: ideals (speeches) ≠ practices (Terror actions) = political/philosophical inconsistency. D = correct: ideals and practices misallied = objective structural description without psychological over-inference."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "french_rev_q11_least_likely_author_individual_rights_over_law",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "French Revolution Passage 2 — Q11 LEAST Likely (B→D)",
+    "quiz": {
+      "question": "[Q11 — LEAST Likely: Author's stance = needs controls on speech → opposite = D]\n\nPassage 2 (lines 4–6):\nRobespierre's speech 'in favour of complete freedom of speech, which seems to ignore the risk of a palace of truth becoming a WHISPERING-GALLERY FOR EVERY KIND OF SLANDER'\n\nAuthor's implied stance: complete freedom of speech = DANGEROUS (enables slander) = some legal controls are necessary\n\nQ: Which of the following is LEAST likely to be an opinion of the author?\nB: Defamation should be kept in check by the ability to seek redress under the law\nD: The rights of individuals to articulate their viewpoints are more important than laws to control them\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'Defamation should be kept in check by laws' = the author AGREES with this (author warns against unchecked freedom enabling slander = defamation control is needed). B is LIKELY to be the author's opinion. D: 'individual rights MORE IMPORTANT than laws to control them' = prioritises free speech over legal controls = the OPPOSITE of the author's implied stance (some controls needed to prevent slander). D = LEAST likely to be the author's opinion ✓",
+        "D is the most likely opinion — the author supports free speech in principle",
+        "B is the least likely — the author doesn't discuss defamation law",
+        "A is the least likely — vilification is the same as slander, which the author opposes"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = author AGREES (defamation control = needed = consistent with warning against slander enabling). D = correct LEAST LIKELY: 'individual rights > laws to control' = the OPPOSITE of author's implied stance (controls are needed to prevent slander) ✓",
+      "explanation": "[Author's stance — establish this FIRST]\nPassage describes complete freedom of speech as seeming 'to ignore the risk of...becoming a WHISPERING-GALLERY FOR EVERY KIND OF SLANDER'\n= author views: unchecked free speech = enables slander = DANGEROUS\n= implied stance: SOME LEGAL CONTROLS ARE NECESSARY to prevent defamation/slander\n\n[B — consistent with author's stance → NOT the least likely]\nB: 'Defamation should be kept in check BY THE ABILITY TO SEEK REDRESS UNDER THE LAW'\n= proposes legal mechanisms to control defamation\n= ALIGNS with author's warning: slander is a risk that needs to be addressed legally\n= author WOULD agree with B → B is NOT the least likely opinion\n\n[D — OPPOSITE of author's stance → IS the least likely]\nD: 'Rights of individuals to articulate viewpoints MORE IMPORTANT than laws to control them'\n= prioritises individual free speech OVER legal controls\n= CONTRADICTS the author's implied stance that unchecked speech enables dangerous slander\n= the author would NOT hold this view → D = LEAST likely ✓\n\n[LEAST LIKELY question protocol]\nStep 1: Identify the author's implied stance (slander is dangerous = controls needed)\nStep 2: Find the choice that CONTRADICTS this stance most directly\nStep 3: That choice = LEAST LIKELY to be the author's opinion",
+      "action": "Action Rule (Q11): LEAST LIKELY = find the choice that CONTRADICTS the author's implied stance. Author: unchecked freedom of speech = enables slander = controls needed. D: individual rights > laws to control = NO controls = directly contradicts author. B: legal defamation control = supports author's stance = NOT least likely. Protocol: establish author's stance first, then find the opposite."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "french_rev_q12_paraphrase_marc_dargent_property_qualification",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "French Revolution Passage 2 — Q12 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q12 — Paraphrase: Appositional 'or' — 'marc d'argent OR property qualification']\n\nPassage 2 (lines 12–13):\n'revocation of the marc d'argent, OR property qualification DISENFRANCHISING so large a part of the working class.'\n\nKey: 'or' here = APPOSITIONAL (not 'alternatively') = 'i.e., in other words'\nmarc d'argent = property qualification = law requiring property ownership to have voting rights\n\nQ: The marc d'argent was most likely a law designed to ______.\nB: pass on the property of the nobility to the working class\nD: require ownership of property as a prerequisite for participation in government\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'pass on property of nobility TO working class' = WEALTH REDISTRIBUTION — nowhere in the passage. The passage only says the law DISENFRANCHISED the working class (denied them voting rights). B confuses 'property QUALIFICATION' (requirement to OWN property) with 'passing on property' (giving property to someone). D: 'property qualification' → require ownership of property ✓ / 'disenfranchising the working class' → removing their participation in government (voting = participation) ✓",
+        "D is wrong — 'participation in government' is too broad",
+        "B is correct — 'property qualification' means redistributing property",
+        "A is correct — 'revocation' means the law would rob working class of property"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Lexical Confusion: 'property qualification' (a requirement to own property) ≠ 'passing property to someone' (giving it away). D = correct: property qualification → require ownership of property / disenfranchising → prerequisite for participation in government ✓",
+      "explanation": "[The 'or' as apposition — critical grammar point]\nLine 12–13: 'the marc d'argent, OR property qualification disenfranchising so large a part of the working class'\n= 'or' = 'i.e., in other words' = NOT 'alternatively'\n= marc d'argent IS the property qualification = same thing stated twice\n\n[What 'property qualification' means]\nPROPERTY QUALIFICATION = a requirement that a person must own a certain amount of property to be eligible to vote\n= NOT about distributing or transferring property\n= it's a VOTING ELIGIBILITY REQUIREMENT based on property ownership\n\n[D — correct paraphrase chain]\n'property qualification' → REQUIRE OWNERSHIP OF PROPERTY ✓ (the qualification = the ownership requirement)\n'disenfranchising' → removing from participation in government ✓\n(disenfranchise = to deprive of voting rights = to exclude from government participation)\n→ D: 'require ownership of property AS A PREREQUISITE for PARTICIPATION IN GOVERNMENT' = perfect paraphrase ✓\n\n[B — Lexical Confusion]\nB: 'PASS ON the property of the nobility TO the working class'\n= confuses 'property qualification' (owning property as a condition/requirement)\nwith 'TRANSFERRING property' (giving property to someone)\n= these are completely different concepts\n= 'property qualification' = a barrier/requirement, NOT a redistribution\n\n[Vocabulary note]\nDisenfranchise = 선거권/참정권을 박탈하다\n= to deprive of the right to vote = to exclude from participation in government",
+      "action": "Action Rule (Q12): 'Property qualification' = a REQUIREMENT to own property (to be eligible to vote) ≠ 'passing property to someone' (redistribution). 'Or' in this context = appositional ('i.e.', not 'alternatively'). D = correct: property qualification → require ownership / disenfranchising → prerequisite for participation in government. Vocabulary: disenfranchise = to deprive of voting rights."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
