@@ -7882,6 +7882,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "waiting_godot_q3_estragon_views_vladimir_dreamer_useful",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Waiting for Godot (Beckett) — Q3 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q3 — Paraphrase: 'stupid' = over-judgment, 'dreamer' = textual evidence]\n\nText evidence:\n• Lines 13–16: Vladimir thinks shouts = Godot / Estragon says 'The wind in the reeds' = Estragon corrects Vladimir's wishful thinking with reality\n• Lines 18–31: Vladimir has food (carrot/turnip) and provides it to Estragon = Estragon depends on Vladimir for food\n• Intro: Vladimir 'waiting in hope' for Godot = idealistically hopeful\n\nQ: Estragon regards Vladimir as ______.\nA: a dreamer but a useful friend\nB: stupid but Estragon puts up with him\n\nYour pick — B / Correct — A",
+      "options": [
+        "B: 'STUPID' = intellectual deficiency — too extreme a judgment with no textual evidence. Estragon is frustrated with Vladimir but the passage shows Vladimir's problem = WISHFUL THINKING / IDEALISM (thinks wind = Godot) not stupidity. A: 'DREAMER' = waiting in hope for Godot who never comes + hears Godot in wind ✓ / 'USEFUL FRIEND' = Vladimir is the one with food who provides for Estragon ✓",
+        "A is wrong — Vladimir is too passive to be called 'useful'",
+        "B is correct — Estragon finds Vladimir's reasoning stupid",
+        "D is correct — Vladimir hoards the food until tricked into sharing"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Over-Judgment: 'stupid' = too extreme, not supported by text. Vladimir's issue = idealistic wishful thinking, not intellectual deficit. A = correct: dreamer (waits in hope, mishears wind as Godot) + useful friend (has and provides food) ✓",
+      "explanation": "[Evidence for A]\n'DREAMER' evidence:\n→ Intro: Vladimir 'waiting in HOPE' for Godot who has not come\n→ Lines 13–16: Vladimir thinks he hears shouts, believes 'I could have SWORN I heard shouts' = mishears natural sounds as meaningful signals\n→ Estragon reality-checks him: 'The wind in the reeds'\n= from Estragon's perspective: Vladimir indulges in wishful interpretations = DREAMER\n\n'USEFUL FRIEND' evidence:\n→ Lines 18–31: When Estragon is hungry, Vladimir rummages and provides food (turnip, then carrot)\n→ 'There, dear fellow' (line 29) = Vladimir cares for Estragon\n= Vladimir is Estragon's food source = USEFUL ✓\n\n[Why B is wrong]\n'STUPID' = intellectual incapacity or inability to reason\n= the passage NEVER presents Vladimir as incapable of reasoning\n= his 'error' (thinking wind = Godot) = WISHFUL THINKING, not stupidity\n= 'stupid' is a harsh personal judgment that goes beyond what the text supports\n\n[Key distinction]\nWishful/idealistic thinker ≠ stupid\nDreamer (chasing hopes, misinterpreting reality) = accurate characterisation ✓",
+      "action": "Action Rule (Q3): Vladimir = 'DREAMER' (waits in hope, mishears wind as Godot = wishful thinking) + 'USEFUL FRIEND' (provides food to Estragon). B = 'stupid' is over-judgment — Vladimir's issue = idealism, not intellectual deficit. Always choose the most textually supported characterisation: dreamer and useful ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "waiting_godot_q6_muck_ingrained_not_conviction",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Waiting for Godot (Beckett) — Q6 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q6 — Paraphrase: 'get used to the muck AS I GO ALONG' → ingrained over time, NOT conviction]\n\nVladimir (line 62): 'I get used to the MUCK as I GO ALONG.'\n\n• muck = unpleasant, dirty, grim conditions (here = the bleak, meaningless waiting)\n• 'get used to' = gradually become accustomed to (passive habituation)\n• 'as I go along' = as time passes, during the process\n\nQ: As well as its implication about food, Vladimir's statement implies that his beliefs ______.\nA: come from conviction\nB: become ingrained over time\n\nYour pick — A / Correct — B",
+      "options": [
+        "A: 'CONVICTION' = a firmly held, actively chosen belief = POSITIVE and INTENTIONAL. But 'I get used to the muck' = passive habituation to something UNPLEASANT = he doesn't choose muck; he merely adapts to it. B: 'get used to' → BECOME INGRAINED (deeply embedded through repetition/habit) ✓ / 'as I go along' → OVER TIME ✓ = correct degree-matched paraphrase: beliefs develop through passive exposure, not active conviction",
+        "B is wrong — 'ingrained' suggests permanence which the passage doesn't confirm",
+        "A is correct — 'get used to' means accepting something through conviction",
+        "C is correct — the muck reference implies religious devotion"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Tone Mismatch: 'conviction' = active, positive, intentional belief. 'Get used to the muck' = passive, negative, habitual adaptation. B = correct: get used to → ingrained / as I go along → over time ✓",
+      "explanation": "[The key phrase decoded]\n'I get used to the MUCK as I GO ALONG'\n= MUCK: unpleasant, dirty, grim = the bleakness of their meaningless waiting\n= GET USED TO: gradually become accustomed (NOT actively embracing)\n= AS I GO ALONG: as time passes, in the process of living\n→ meaning: through prolonged exposure to unpleasant/grim circumstances, one gradually becomes accustomed to them\n\n[B — correct paraphrase chain]\n'get used to' → BECOME INGRAINED ✓\n= ingrained = deeply embedded through habit/repetition = gradually adopted without deliberate choice\n'as I go along' → OVER TIME ✓\n= time passing while continuing to do something = over the course of time\n\n[A — Tone Mismatch Error]\nCONVICTION = a firmly held belief that is ACTIVELY CHOSEN based on strong personal commitment\n= implies: Vladimir CHOSE this belief positively and holds it with certainty\nBUT: 'get used to the muck' = he doesn't CHOOSE the muck\n= he merely ADAPTS to it through exposure\n= adaptation/habituation ≠ conviction\n= the tone of 'muck' (unpleasant, dirty) FURTHER contradicts conviction (positive commitment)\n\n[The double meaning]\nFood level: Vladimir gets used to the increasingly bad carrot as he eats it\nBelief level: Vladimir's bleak worldview/philosophy is not chosen with conviction\nbut rather gradually absorbed through living in grim circumstances = ingrained over time ✓",
+      "action": "Action Rule (Q6): 'Get used to the muck AS I GO ALONG' = passive habituation to something UNPLEASANT over time. A = Tone Mismatch: 'conviction' = active, positive, deliberate choice. B = correct: ingrained (passive gradual absorption) + over time (as I go along). Rule: 'get used to' + unpleasant noun = habituation, NOT conviction."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
