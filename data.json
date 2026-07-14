@@ -7924,6 +7924,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "sound_mountain_q81_free_indirect_discourse_surely",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Sound of the Mountain (Kawabata) — Q81 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q81 — Targeting: Free Indirect Discourse — find the sentence where narrator enters Shingo's thoughts]\n\nQ: In which sentence is the narrator entering directly into Shingo's thoughts rather than simply describing them?\nA: 'He drank about half of it, changed to a cotton kimono, and took his cup out to the verandah, sipping as he went' (lines 5–6)\nB: 'He looked out at the garden' (line 8)\nC: 'Shingo could see them flickering past gaps in the leaves, MORE THAN ONE BUTTERFLY, SURELY' (lines 11–12)\nD: 'He began to feel that there was some sort of special little world apart over behind the shrubbery' (lines 14–15)\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'He looked out at the garden' = EXTERNAL ACTION description in 3rd person observer mode. The narrator records what Shingo DID (looked), not what he THOUGHT. C: 'more than one butterfly, SURELY' — the word 'surely' is the key signal. 'Shingo could see them flickering' = narrator's description, BUT 'more than one butterfly, surely' = Shingo's inner voice/silent thought, reproduced directly by the narrator without quotation marks = Free Indirect Discourse ✓",
+        "C is wrong — 'surely' is just the narrator making a confident observation",
+        "B is correct — looking at the garden shows Shingo's internal engagement",
+        "D is correct — 'began to feel' directly states Shingo's internal experience"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = External Action: 'looked out' = physical action description, not internal thought. C = correct: 'more than one butterfly, SURELY' = the word 'surely' signals Free Indirect Discourse — it reproduces Shingo's own inner reasoning without quotation marks ✓",
+      "explanation": "[What 'entering directly into thoughts' means]\nSimply DESCRIBING = 3rd person observer records external facts or states feelings in authorial voice\nENTERING THOUGHTS = reproducing the character's internal voice as if from inside their consciousness\n\n[A — external action narrative]\n'drank... changed to kimono... took his cup out... sipping' = a sequence of PHYSICAL ACTIONS = pure external narrative ✗\n\n[B — external action]\n'He LOOKED OUT at the garden' = records a physical action (his eyes moved toward the garden)\n= what the narrator OBSERVES from outside = external fact ✗\n\n[C — Free Indirect Discourse — the key signal: 'SURELY']\n'Shingo could see them flickering past gaps in the leaves' = narrator's third-person observation\n'MORE THAN ONE BUTTERFLY, SURELY' = CRITICAL SIGNAL\n= 'surely' = an epistemic marker expressing personal certainty/reasoning\n= this is NOT the narrator saying 'the narrator is sure it was more than one butterfly'\n= this is SHINGO'S OWN MIND reasoning: 'it must be more than one...surely'\n= the narrator has adopted Shingo's inner voice directly = Free Indirect Discourse ✓\n\n[D — close but authorial mediation remains]\n'He began to FEEL that there was some sort of special little world' = the narrator TELLS us Shingo felt something\n= still one step removed: narrator reports the feeling rather than directly reproducing Shingo's inner voice\n= C is more direct because 'surely' IS Shingo's voice, not the narrator's report of his feeling",
+      "action": "Action Rule (Q81): Free Indirect Discourse signal = epistemic/modal words ('surely', 'perhaps', 'after all') embedded in what looks like narrator description. These words are NOT the narrator's certainty — they are the CHARACTER's inner voice reproduced without quotation marks. B = external action (looked). C = 'surely' = Shingo's reasoning voice = narrator entering his thoughts directly ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "sound_mountain_q82_unfettered_untended_wild_paraphrase",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Sound of the Mountain (Kawabata) — Q82 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q82 — Paraphrase: Multiple descriptors → single higher-order concept]\n\nPassage — garden descriptors that captivate Shingo:\n• Line 8: 'The grass was rough and UNTENDED'\n• Lines 9–10: 'so tall that it ALMOST LOOKED WILD'\n• Lines 12–14: butterflies 'fluttering through the leaves' freely\n• Lines 14–16: 'special little world apart... extraordinarily beautiful'\n\nContrast: Shingo's routine = fatigue, effort, regulated schedule\n\nQ: In this passage, Shingo seems to gain the most pleasure from things that are ______.\nA: complicated\nB: unfettered\nC: colourful\nD: familiar\n\nYour pick — D / Correct — B",
+      "options": [
+        "D: 'familiar' = Shingo's DAILY ROUTINE (tea, kimono change, verandah) is familiar. But the passage shows his routine exhausts him ('seemed too much of an effort'). The garden gives him pleasure precisely because it is the OPPOSITE of his controlled routine. B: 'UNTENDED' + 'almost looked WILD' + butterflies 'FLUTTERING' freely = all describe a state WITHOUT control or constraint = UNFETTERED (not restrained, free from regulation) ✓",
+        "B is wrong — 'unfettered' is too abstract for what the passage describes",
+        "D is correct — Shingo finds comfort in the familiar garden he sees every day",
+        "C is correct — the description of butterflies emphasises their bright colours"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Wrong Source: familiar = Shingo's daily ROUTINE, which exhausts him (too much effort). The garden = the OPPOSITE of his routine. B = correct: untended + wild + fluttering freely = all without constraint = UNFETTERED ✓",
+      "explanation": "[The contrast structure — key to Q82]\nShingo's DAILY ROUTINE (familiar):\n'seemed too much of an effort' = exhausting and burdensome = the FAMILIAR = gives NO pleasure\n\nThe GARDEN (unfamiliar, uncontrolled):\n'rough and UNTENDED' (line 8) = not managed\n'almost looked WILD' (lines 9–10) = escaped human control\nbutterflies 'FLUTTERING THROUGH the leaves' freely (line 13) = moving without constraint\n'special little world APART' (line 14) = separate from the controlled human domain\n= the garden's LACK OF CONTROL gives Shingo pleasure\n\n[B — correct higher-order paraphrase]\nuntended + wild + fluttering freely + apart from human control\n→ all instances of being WITHOUT RESTRAINT/CONTROL\n→ UNFETTERED = not controlled, not constrained, free from regulation ✓\n= a single word that encompasses ALL the garden's qualities that attract Shingo\n\n[D — Wrong Source Error]\n'familiar' = Shingo's established daily habits (hot tea, kimono, verandah)\n= these ARE familiar but give him NO pleasure — they are described as burdensome ('too much effort')\n= the passage explicitly CONTRASTS the burdensome familiar routine with the pleasurable wild garden\n= D confuses what is familiar (routine = no pleasure) with what gives pleasure (garden = unfettered)\n\n[GAMSAT paraphrase type: multiple descriptors → single concept]\nPattern: passage uses several specific words ('untended', 'wild', 'fluttering') → correct answer = one abstract word that encompasses ALL of them ('unfettered')\n= always ask: what PROPERTY do all these descriptors share?\n= here: all = lack of control/constraint = unfettered ✓",
+      "action": "Action Rule (Q82): When multiple passage descriptors (untended, wild, fluttering) all share a common property (absence of control/constraint), the correct answer = the single abstract word that encompasses them all = UNFETTERED. D = Wrong Source: familiar = Shingo's exhausting routine, NOT the garden that gives him pleasure. Always contrast what is familiar (burdensome routine) with what gives pleasure (wild, uncontrolled garden)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
