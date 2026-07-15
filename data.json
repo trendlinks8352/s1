@@ -7966,6 +7966,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "freedom_enterprise_q55_question_interpretation_disappearance_not_freedom",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Freedom of Enterprise — Q55 Question Interpretation (C→D)",
+    "quiz": {
+      "question": "[Q55 — Question Interpretation: The SUBJECT of the question ≠ what the passage calls 'achievement']\n\nPassage (lines 1–5):\n'Freedom of enterprise is not altogether a blessing. As the liberty to WORK OR TO STARVE, it spells TOIL, INSECURITY AND FEAR for the vast majority of the population. However, if the individual were no longer compelled to prove himself on the market... the DISAPPEARANCE OF THIS KIND OF FREEDOM would be one of the GREATEST ACHIEVEMENTS OF CIVILISATION.'\n\nQ: The author implies that the freedom to choose one's line of work ______.\nC: is one of the foremost accomplishments of our culture\nD: encompasses the worker in uncertainty and anxiety\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'greatest achievements of civilisation' → 'foremost accomplishments of culture' = looks like a perfect paraphrase. BUT: what is called the 'greatest achievement'? The DISAPPEARANCE of this freedom (lines 3–5), NOT the freedom itself. The question asks about 'the freedom to choose one's line of work' = the thing the passage CRITICISES, not celebrates. D: passage lines 1–2: freedom of enterprise = 'toil, INSECURITY and FEAR' → 'UNCERTAINTY and ANXIETY' ✓",
+        "D is wrong — the passage ends with a positive vision of the future",
+        "C is correct — 'greatest achievements of civilisation' is about the freedom to work",
+        "A is correct — freedom of work choice = lifestyle determination"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Subject Swap Error: 'greatest achievement' in the passage = the DISAPPEARANCE of work-freedom, NOT the freedom itself. D = correct: freedom of work = 'toil, insecurity and fear' → uncertainty and anxiety ✓",
+      "explanation": "[The Subject Swap — the critical targeting error]\nLines 3–5: 'the DISAPPEARANCE OF THIS KIND OF FREEDOM would be one of the GREATEST ACHIEVEMENTS OF CIVILISATION'\n= what is the 'greatest achievement'? = the DISAPPEARANCE of work-freedom\n= NOT the existence of work-freedom\n\nQ55 asks about: 'the freedom to choose one's line of work'\n= this IS the thing described as 'toil, insecurity and fear'\n= C attributes 'greatest achievement' to the FREEDOM itself (the wrong subject)\n= but the passage attributes it to the DISAPPEARANCE of the freedom (the opposite)\n= C = Subject Swap: freedom ↔ disappearance of freedom\n\n[D — correct paraphrase chain]\n'TOIL' (line 2) = hard, exhausting work (not directly mirrored in D)\n'INSECURITY' (line 2) → UNCERTAINTY ✓\n'FEAR' (line 2) → ANXIETY ✓\n= D correctly paraphrases the passage's characterisation of work-freedom\n\n[Key GAMSAT pattern]\nWhen passage says 'the DISAPPEARANCE of X is a great achievement', a choice attributing the greatness to X itself = Subject Swap Error\n= Always check: what EXACTLY does the passage say is the achievement, the freedom or its disappearance?",
+      "action": "Action Rule (Q55): 'Greatest achievement of civilisation' in passage = DISAPPEARANCE of work-freedom, NOT the freedom itself. C = Subject Swap: attributes achievement to the freedom when passage attributes it to the freedom's disappearance. D = correct: freedom of enterprise = toil + insecurity + fear → uncertainty + anxiety ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "freedom_enterprise_q57_alien_not_his_own_making_contrast",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Freedom of Enterprise — Q57 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q57 — Paraphrase: 'alien' meaning from context — CONTRAST with 'his own']\n\nPassage (lines 8–10):\n'...the individual would be liberated from the work world's imposing upon him ALIEN needs and alien possibilities. The individual would be free to exert autonomy over A LIFE THAT WOULD BE HIS OWN.'\n\nQ: Which of the following is closest to the meaning of 'alien' as used in line 8?\nC: other than of his own making\nD: forced upon him by decisions already made\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: 'forced upon him by DECISIONS ALREADY MADE' = focuses on HOW they were imposed (past decisions). But 'alien' in the passage is about WHO created the needs (not him). C: 'other than OF HIS OWN MAKING' = focuses on WHO creates the needs (NOT him) ✓. The antithesis in the next sentence: 'alien needs' ↔ 'a life that would be HIS OWN' = the contrast = not-his-own vs. his-own. C captures this: 'alien' = 'not of his own making' = not his ✓",
+        "C is wrong — 'of his own making' is about creation, but alien means foreign/external",
+        "D is correct — 'imposing' in the same sentence confirms the forced-upon meaning",
+        "A is correct — alien possibilities = imaginative and inventive alternatives"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Wrong Focus: 'decisions already made' focuses on HOW/WHEN the needs were created (past decisions) not WHO created them. C = correct: 'other than of HIS OWN MAKING' = the needs are NOT created by him = direct antithesis of 'a life that would be HIS OWN' ✓",
+      "explanation": "[The contrast method — reading 'alien' through its antithesis]\nLine 8: 'ALIEN needs and alien possibilities'\nLine 10: 'a life that would be HIS OWN'\n= the structure: liberated FROM alien → free to live HIS OWN life\n= ALIEN ↔ HIS OWN = these are antonyms in this context\n\n[Decoding 'alien' through antithesis]\nIf HIS OWN = created by himself, chosen by himself, self-determined\nThen ALIEN = NOT created by himself, NOT chosen by himself, externally imposed\n→ 'OTHER THAN OF HIS OWN MAKING' = made by others, not by himself ✓\n\n[C — correct]\n'other than of HIS OWN MAKING' = not made/created by him = alien\n= perfectly mirrors the contrast: alien (not his own) ↔ his own (the opposite)\n\n[D — Wrong Focus Error]\n'forced upon him by DECISIONS ALREADY MADE'\n= focuses on TIMING (already made = in the past) and MECHANISM (forced, imposed)\n= the word 'imposing' in the same sentence (line 8) makes D seem attractive\n= BUT: the key property of 'alien' in context = SOURCE (not his own) not TIMING (already decided)\n= the passage is asking WHO made the decisions (others vs. himself), not WHEN they were made\n= D correctly identifies 'imposed' but misidentifies the relevant property (timing vs. source)\n\n[GAMSAT in-context meaning rule]\nFor in-context meaning questions: identify the ANTITHESIS structure\n'alien' is directly contrasted with 'his own'\n= the correct answer must capture what makes alien = NOT-HIS-OWN\n= C: 'other than of his own making' = exactly captures not-his-own ✓",
+      "action": "Action Rule (Q57): For in-context meaning, find the ANTITHESIS in the passage. 'Alien needs' ↔ 'a life that would be HIS OWN' = alien = NOT his own. C = 'other than of his own making' = not created by him = correct antithesis match ✓. D = Wrong Focus: 'decisions already made' focuses on TIMING (past), but the passage's contrast is about SOURCE (his vs. others'). Always use the antithesis structure to decode contextual meaning."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
