@@ -8008,6 +8008,27 @@
     "cycleIdx": 0
   },
   {
+    "id": "sentimental_q59_universal_definition_swayed_not_refined",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Sentimental (meaning across periods) — Q59 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q59 — Paraphrase: Temporal Condition — 'no matter what period since 18th century']\n\nPassage evidence:\n18th century meaning: 'cultivation of fine feeling', 'delicate sensations', 'tender emotions' = refined/elevated\nModern meaning: 'readiness to weep', 'tendency toward excessive emotion' = sentiment is out of fashion\n\nQ: Which of the following definitions of 'sentimental' would be acceptable, NO MATTER WHAT PERIOD, since the eighteenth century?\nA: apt to be swayed by sentiment\nC: characterised by or exhibiting refined and elevating feeling\n\nYour pick — C / Correct — A",
+      "options": [
+        "C: 'refined and ELEVATING feeling' = perfectly paraphrases the 18th century meaning. BUT modern usage: 'excessive emotion', 'readiness to weep' = NOT refined or elevating = NEGATIVE. Modern speakers would NOT accept C as a valid definition. A: 'SWAYED BY sentiment' = neutral enough to cover BOTH eras: 18th century (positively influenced by fine feelings) AND modern (negatively swept by excessive emotion) = 'swayed' covers both without specifying positive/negative ✓",
+        "A is wrong — 'swayed' is too vague to be a useful definition",
+        "C is correct — the question asks for the best definition and 18th century was the original meaning",
+        "D is correct — the modern meaning is the most current and therefore most acceptable"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Era-Specific Trap: perfectly paraphrases 18th century meaning but FAILS for modern era ('excessive emotion' ≠ 'refined and elevating'). A = correct: 'swayed by sentiment' is temporally neutral — covers both positive (18th century) and negative (modern) valences ✓",
+      "explanation": "[The temporal condition — the key to this question]\n'NO MATTER WHAT PERIOD' = the definition must work across ALL eras since the 18th century\n= must be valid for: 18th century speakers AND modern (19th–21st century) speakers\n\n[Why C fails the temporal condition]\nC: 'refined and ELEVATING feeling' = 18th century meaning ✓\nBUT: Modern usage = 'readiness to WEEP', 'tendency toward EXCESSIVE emotion'\n= 'sentiment is OUT OF FASHION' = modern view of sentimental = NEGATIVE\n= modern speakers would NOT describe 'sentimental' as 'refined and elevating'\n= C = era-specific (18th century only) ✗ for the temporal condition\n\n[Why A satisfies the temporal condition]\nA: 'apt to be SWAYED BY sentiment'\n= SWAYED = influenced/moved/carried away by — NEUTRAL word (no positive/negative judgment)\n18th century: swayed = positively moved by fine, delicate feelings ✓\nModern: swayed = negatively carried away by excessive emotion ✓\n= 'swayed by sentiment' = the COMMON CORE meaning that applies ACROSS BOTH ERAS ✓\n= the quality ('refined' vs 'excessive') changes by era, but the STRUCTURAL RELATIONSHIP (sentiment moves/sways the person) remains constant\n\n[GAMSAT pattern — universal/time-transcendent definition questions]\nWhen question asks 'no matter what period / across all eras / in any context':\n→ reject choices that are specific to ONE time period or context\n→ find the most ABSTRACT/NEUTRAL formulation that covers all instances",
+      "action": "Action Rule (Q59): 'No matter what period' = definition must work for BOTH historical AND modern usage. C = 18th century specific ('refined and elevating') fails for modern era ('excessive emotion'). A = neutral 'swayed by sentiment' covers both: 18th century (positively moved by fine feeling) AND modern (negatively swept by excessive emotion) ✓. For universal definition questions, find the temporally neutral formulation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
