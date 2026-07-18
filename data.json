@@ -8029,6 +8029,90 @@
     "cycleIdx": 0
   },
   {
+    "id": "arthur_adams_q6_slouches_undreamt_lazy_directionless",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Arthur Adams (The Australian, 1899) — Q6 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q6 — Paraphrase: Mock-Heroic Tone Trap — 'slouches' and 'undreamt-of' are the key words]\n\nVerse:\n'So, toward UNDREAMT-OF destinies\nHe SLOUCHES down the centuries.'\n\nQ: For Arthur Adams, Australians are ______.\nA: noble and visionary\nC: lazy and directionless\n\nYour pick — A / Correct — C",
+      "options": [
+        "A: 'noble' and 'visionary' = EPIC/HEROIC descriptors. The trap: 'destinies' and 'centuries' = epic scale words that make the verse SOUND heroic. But the KEY modifier words: SLOUCHES = lazy, slovenly posture (not noble or dignified) / UNDREAMT-OF destinies = heading toward futures he hasn't even imagined = NO direction or vision. C: SLOUCHES → lazy / UNDREAMT-OF (no dream = no vision) → directionless ✓",
+        "C is wrong — 'undreamt-of' means surprising and exciting, not directionless",
+        "A is correct — 'destinies' and 'centuries' confirm a noble and visionary quality",
+        "D is correct — 'slouches' implies arrogance and self-satisfaction"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Mock-Heroic Tone Trap: 'destinies'/'centuries' = epic scale words that DISGUISE the critical message. C = correct: SLOUCHES → lazy (not noble) / UNDREAMT-OF → directionless (no dream = no vision) ✓",
+      "explanation": "[The mock-heroic trap structure]\nEpic-scale words (the disguise): 'DESTINIES', 'CENTURIES'\n= these words evoke grandeur and historical importance\n= trap: student reads these and selects A (noble, visionary)\n\nBUT: the KEY MODIFIER words undercut the epic scale:\nSLOUCHES: physically = hunched, slouchy, slovenly posture\n= metaphorically = moving without energy, purpose, or dignity\n→ NOT noble (which requires dignified bearing/conduct)\n→ → LAZY ✓\n\nUNDREAMT-OF: = has never been dreamed of, never imagined\n= heading toward futures that were never envisioned\n= no dream = no goal = no direction\n→ NOT visionary (which requires seeing and pursuing a future)\n→ DIRECTIONLESS ✓\n\n[Why A is the mock-heroic trap]\nThe verse is MOCK-HEROIC = it uses epic language (destinies, centuries) to describe something UN-heroic (slouching aimlessly)\n= the grand words are IRONIC containers for a lazy, directionless reality\n= reading only the epic words (destinies, centuries) → A\n= reading the MODIFIER words (slouches, undreamt-of) → C ✓\n\n[Connection to Q7 — mock-heroic style]\nMock-heroic = applying grand/epic language to trivial or unimpressive subjects\n= 'down the centuries' = epic TIME SCALE for a SLOUCHING movement = the ironic contrast\n= C (lazy + directionless) is the CONTENT / mock-heroic is the STYLE used to present it",
+      "action": "Action Rule (Q6): In mock-heroic verse, do NOT be fooled by epic-scale words (destinies, centuries). ALWAYS check the MODIFIER/VERB words for the actual meaning: SLOUCHES = lazy / UNDREAMT-OF = directionless. A = Mock-Heroic Tone Trap (reads the epic packaging, not the critical content). C = correct: lazy (slouches) + directionless (undreamt-of = no vision) ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "arthur_adams_q7_mock_heroic_style_analysis",
+    "type": "tone",
+    "isMCQ": true,
+    "source": "Arthur Adams (The Australian, 1899) — Q7 Style (정답 B=mock-heroic 근거 확인)",
+    "quiz": {
+      "question": "[Q7 — Style: Mock-Heroic — why is B=mock-heroic the correct style label?]\n\nVerse:\n'So, toward UNDREAMT-OF destinies\nHe SLOUCHES down the CENTURIES.'\n\nStyle choices:\nA: conversational\nB: mock-heroic\nC: patriotic\nD: flippant\n\nCorrect — B (mock-heroic)\n\nWhat is the structural definition of mock-heroic, and how does this verse demonstrate it?",
+      "options": [
+        "B: MOCK-HEROIC = applying GRAND/EPIC language and form to describe something TRIVIAL or UNIMPRESSIVE — creating ironic contrast. Evidence: EPIC WORDS ('destinies', 'centuries' = grand historical scale) used to describe SLOUCHING (lazy, slovenly movement). The contrast between the epic container (centuries, destinies) and the unimpressive content (slouching, undreamt-of) = the definition of mock-heroic ✓",
+        "B is wrong — mock-heroic implies deliberate parody which is too strong a claim",
+        "C is correct — 'destinies' and 'centuries' show patriotic pride in Australia",
+        "D is correct — the verse's light tone makes it flippant"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = correct: MOCK-HEROIC = EPIC LANGUAGE (destinies, centuries) applied to UN-HEROIC SUBJECT (slouching, directionless movement) = ironic contrast ✓",
+      "explanation": "[Definition: Mock-Heroic]\nMOCK-HEROIC = using the elevated language, form, or conventions of EPIC/HEROIC poetry to describe something that is TRIVIAL, ORDINARY, or UNIMPRESSIVE\n= the gap between the GRAND EXPRESSION and the HUMBLE REALITY creates irony and often satire\n\n[How this verse demonstrates mock-heroic]\nEPIC ELEMENTS (the 'heroic' part):\n'DESTINIES' = grand, fateful, historically significant\n'CENTURIES' = vast time scale, millennial significance\n= the language SOUNDS like a grand epic about a great historical figure\n\nUN-HEROIC REALITY (the 'mock' part):\n'SLOUCHES' = lazy, drooping, undignified movement (physically slovenly)\n'UNDREAMT-OF' = has never even thought about or imagined these destinies\n= the SUBJECT is NOT heroic at all: aimless + lazy\n\n[The ironic contrast = mock-heroic]\n'He SLOUCHES down the CENTURIES' = applies the grandeur of centuries to the slovenly act of slouching\n= this juxtaposition IS the mock-heroic technique\n= Adams uses it to SATIRISE/CRITICISE Australians as directionless and lazy\n\n[Why other choices fail]\nA conversational: the language is NOT casual/everyday; 'destinies', 'centuries' = elevated register\nC patriotic: the verse CRITICISES Australians (lazy, directionless) = ANTI-patriotic\nD flippant: flippant = not serious/dismissive; this verse has a satirical critical intent, not casual dismissal",
+      "action": "Action Rule (Q7): Mock-heroic = EPIC LANGUAGE + UN-HEROIC SUBJECT = ironic contrast. Here: 'destinies'/'centuries' (epic) + 'slouches'/'undreamt-of' (lazy, directionless) = mock-heroic ✓. Connects directly to Q6: the mock-heroic STYLE (B) is the vehicle for the critical CONTENT (C: lazy and directionless). Always link style to content in tone questions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "trollope_q26_not_more_than_equal_comparison",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Fanny Trollope (1836) — Q26 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q26 — Paraphrase: Negative Comparative 'not more X than Y' = 'as much X as Y']\n\nPassage (lines 3–7):\n'The dome of the Invalides, the towers of Notre Dame... [famous monuments of Paris]\ndo NOT COME HOME TO THE MIND as more ESSENTIALLY BELONGING TO PARIS\nTHAN DOES the aspect which caps, bonnets, frills, shawls... assume,\nwhen worn by Parisian women in the city of Paris.'\n\nLogical structure: A (famous monuments) is NOT MORE essentially Parisian THAN B (fashion accessories on Parisian women)\n= A and B are EQUALLY essential to Paris's identity\n\nQ: Which statement best summarises the second paragraph (lines 3–7)?\nA: The style with which Parisian women wear fashion accessories is as much a defining feature of Paris as are its famous monuments\nB: One should observe stylish Parisian women in their familiar surroundings to capture the essence of Paris\n\nYour pick — B / Correct — A",
+      "options": [
+        "B: TWO ERRORS: (1) Omission — drops the MONUMENT comparison entirely (the key logical structure of the passage). (2) Register Shift — 'should observe' (prescriptive: what one OUGHT to do) ≠ passage's descriptive claim (what IS the case). A: 'NOT more X than Y' → 'as much X AS Y' (equal comparison) ✓ / 'famous monuments' preserved ✓ = correct paraphrase of the negative comparative structure ✓",
+        "A is wrong — 'as much as' implies monuments and fashion are equally important, which is too strong",
+        "B is correct — the passage's main point is that one must see Parisian women to understand Paris",
+        "D is correct — Parisian monuments are driven from the mind by the sight of Parisian women"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Omission + Register Shift: drops the monument comparison (key structure) AND converts descriptive claim into prescriptive advice. A = correct: 'not more than' → 'as much as' (equal comparison) / preserves both terms (monuments + fashion) ✓",
+      "explanation": "[Negative comparative structure]\n'A is NOT MORE essentially Parisian THAN B'\n= LOGICAL EQUIVALENT: A and B are EQUALLY essentially Parisian\n= 'not more than' → 'as much as' (correct paraphrase of equality) ✓\n\n[A — correct]\n'fashion accessories = AS MUCH A DEFINING FEATURE as famous monuments'\n= preserves BOTH terms of the comparison (monuments + fashion) ✓\n= correctly renders the equal-value claim ✓\n\n[B — Error 1: Omission of one comparison term]\nThe passage's entire logical structure = comparing MONUMENTS and FASHION ACCESSORIES as equally Parisian\n= B drops 'monuments' entirely → loses the COMPARATIVE LOGIC\n= B only mentions 'stylish Parisian women' without the monument anchor\n= a summary missing the comparison term is INCOMPLETE ✓\n\n[B — Error 2: Register Shift — Descriptive → Prescriptive]\nPassage: 'caps, bonnets...do not come home to the mind as more essentially belonging to Paris than does the aspect...'\n= DESCRIPTIVE: states a fact about what IS the case (monuments ≠ more Parisian than fashion)\n\nB: 'One SHOULD OBSERVE stylish Parisian women'\n= PRESCRIPTIVE: gives advice about what one OUGHT to do\n= the passage never tells you what you should do — it makes a factual claim about equal Parisian identity\n\n[GAMSAT negative comparative rule]\n'A is NOT MORE X THAN B' → 'A is AS MUCH X AS B' (same thing stated positively)\n= both terms must appear in the summary\n= must preserve the DESCRIPTIVE (not prescriptive) register",
+      "action": "Action Rule (Q26): 'NOT more X than Y' → 'as much X as Y' (equal value). Correct summary must: (1) preserve BOTH comparison terms (monuments AND fashion), (2) remain DESCRIPTIVE (not prescriptive). B = Omission (drops monuments) + Register Shift (should observe ≠ factual claim). A = correct ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "trollope_q27_aspect_visual_effect_not_direction",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Fanny Trollope (1836) — Q27 In-Context Meaning (D→C)",
+    "quiz": {
+      "question": "[Q27 — In-Context Meaning: 'aspect' used with 'assume' = visual effect, not directional view]\n\nPassage (line 5):\n'...than does the ASPECT which caps, bonnets, frills, shawls, aprons, belts... ASSUME,\nwhen worn by Parisian women in the city of Paris.'\n\nKey verb: ASSUME = take on, adopt (a quality or appearance)\n\nQ: Which possible meaning of 'aspect' best matches its use in line 5?\nC: visual effect\nD: view in a certain direction\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: 'view in a certain direction' = the SPATIAL/DIRECTIONAL meaning of aspect (e.g., 'the room has a southern aspect'). But clothing and accessories cannot ASSUME a direction — they don't face a direction. C: 'aspect' = appearance, the way something looks to the eye. When clothing ASSUMES an aspect = takes on a particular VISUAL EFFECT/LOOK when worn. 'Assume' (take on) + 'aspect' (appearance/look) = the visual effect clothing takes on when worn by Parisian women ✓",
+        "C is wrong — 'visual effect' is too modern a term for a passage from 1836",
+        "D is correct — 'aspect' always refers to a directional view",
+        "B is correct — 'aspect' means status in the context of fashion"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Spatial Meaning Trap: 'view in a certain direction' = physical/spatial aspect (e.g., the house has a northern aspect). Clothing cannot face a direction. C = correct: aspect = appearance/look + assume (take on) = the visual effect clothing takes on when worn ✓",
+      "explanation": "[The verb 'assume' is the key]\nASSUME in this context: to take on, adopt, display (a quality, appearance, form)\nNOT: to presume or assume a fact\n= 'the aspect which caps, bonnets...ASSUME when worn'\n= the APPEARANCE/LOOK that these accessories TAKE ON when worn by Parisian women\n\n[C — correct: 'visual effect']\nASPECT = the way something appears to the eye; the visual impression it creates\n'assume an aspect' = take on a particular visual appearance\n= when worn by Parisian women, the accessories take on a particular VISUAL EFFECT/LOOK\n= this is HOW they look — their visual character — ✓\n\n[D — Spatial Meaning Trap]\n'View in a certain direction' = architectural/geographical aspect\nExample: 'The building has a southern aspect' = it faces south\n= this is the DIRECTIONAL meaning of 'aspect'\nBUT: clothing/accessories cannot FACE a direction\n= 'the aspect which caps ASSUME' cannot mean 'the direction caps face'\n= D imports the wrong semantic field (spatial) into a visual/aesthetic context\n\n[Context test for in-context meaning]\nStep 1: identify the KEY VERB used with 'aspect' = ASSUME (take on, adopt)\nStep 2: ask: what can clothing ASSUME?\n= not a direction (clothing cannot face north/south)\n= yes: a visual look/effect (clothing can look elegant or ordinary)\n→ C: visual effect = what clothing ASSUMES = ✓",
+      "action": "Action Rule (Q27): For in-context meaning questions with 'aspect', identify the KEY VERB: ASSUME = take on/adopt. What can clothing ASSUME? A visual effect (look/appearance) ✓, NOT a direction. D = Spatial Meaning Trap (directional aspect applies to buildings, not clothing). C = visual effect = the look clothing takes on when worn ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
