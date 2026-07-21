@@ -8113,6 +8113,101 @@
     "cycleIdx": 0
   },
   {
+    "id": "vocab_petrified",
+    "type": "vocab",
+    "isMCQ": false,
+    "source": "Vocabulary",
+    "quiz": {
+      "question": "petrified\n\n뜻과 사용 예를 떠올려보세요.",
+      "options": [],
+      "correctIdx": 0,
+      "answer": "① 겁에 질린, 공포로 얼어붙은 (극도로 두려운)\n② 석화된, 돌이 된 (화석화)\n\n[예문]\n• She was PETRIFIED when she heard the noise. (그녀는 소리를 듣고 공포로 얼어붙었다)\n• PETRIFIED wood found in the desert. (사막에서 발견된 석화목)\n\n[Collocation]\n• petrified with fear / terror\n• absolutely petrified\n• petrified forest",
+      "explanation": "[어원] Latin petra (돌) + facere (만들다) → 돌로 만들다 → 겁에 질려 돌처럼 굳다\n[핵심] GAMSAT 문맥에서는 주로 ①번 의미 (극도의 공포) / 지질학·과학 지문에서는 ②번 의미",
+      "action": "petrified = ① 공포로 얼어붙은 / ② 석화된. 문맥에 따라 구분. 감정 묘사 = ①, 과학/자연 묘사 = ②"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "vocab_forge",
+    "type": "vocab",
+    "isMCQ": false,
+    "source": "Vocabulary",
+    "quiz": {
+      "question": "forge\n\n뜻과 사용 예를 떠올려보세요. (명사/동사 모두)",
+      "options": [],
+      "correctIdx": 0,
+      "answer": "① [동사] 위조하다 (서류·서명 등을 가짜로 만들다)\n② [동사] (쇠를) 단조하다, 불에 달궈 두드려 만들다\n③ [동사] (관계·합의를) 구축하다, 만들어내다\n④ [명사] 대장간, 용광로\n\n[예문]\n• He FORGED her signature. (그는 그녀의 서명을 위조했다)\n• FORGE personal statements from a common language. (공통 언어로 개인적 발언을 만들어내다) ← Fanny Trollope 지문\n• They FORGED a strong alliance. (그들은 강력한 동맹을 구축했다)\n\n[Collocation]\n• forge a document / signature (위조)\n• forge ahead (앞으로 나아가다)\n• forge an alliance / relationship (구축하다)",
+      "explanation": "[GAMSAT 출제 포인트] Unit 42 Fanny Trollope 지문: 'musicians FORGE personal statements from a common commercial language' = ③ 만들어내다/구축하다 의미. 단순한 '위조(①)'로 오해하면 지문 이해 실패.",
+      "action": "forge = ① 위조 / ② 단조(금속) / ③ 구축·만들어내다 / ④ 대장간. GAMSAT에서는 ③번 의미가 중요: forge personal statements = 개인적 표현을 만들어내다."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "nano_q64_biology_faster_than_physics_convergence",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Unit 41 Nano Scale — Q64 Data Interpretation (C→B)",
+    "quiz": {
+      "question": "[Q64 — Data Interpretation: Nano Scale diagram — direction of curves]\n\nNano Scale diagram structure:\n• Y-axis (top→bottom): Physics → Biology → Chemistry (arranged by scale: millimetre → micrometre → nanometre)\n• Biology curve starts around 1960 at 'Cellular biology' level (micrometre scale)\n• By 2000–2020: Biology has converged with Physics at the nano/quantum level (Quantum effects, Functional molecule design, Biochips)\n• Physics started at millimetre scale and moved gradually to nanometre\n• Biology moved MORE RAPIDLY downward (from micrometre toward nanometre) in a shorter time\n\nQ: The illustration Nano Scale indicates that ______.\nB: progress in biology has occurred much more rapidly than in physics\nC: progress in physics has occurred much more rapidly than in biology\n\nYour pick — C / Correct — B",
+      "options": [
+        "C: looks at the STARTING position of Physics (high = millimetre scale, started earlier) and Biology (lower = micrometre scale, started later). But the question is about RATE OF PROGRESS (speed of descent toward nanometre). B: Biology's curve descends MORE STEEPLY in a SHORTER TIME toward the nano scale compared to Physics's more gradual descent over a longer period = biology progressed more RAPIDLY ✓",
+        "B is wrong — physics started much earlier so it has made more overall progress",
+        "C is correct — physics moved from millimetre to nanometre first",
+        "A is correct — physics and biology were well integrated by the 1980s"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Rate vs. Position Confusion: 'rapid progress' = speed of descent toward nano, not starting position or total time. B = correct: biology's curve descends more steeply in a shorter timeframe = progressed MORE RAPIDLY ✓",
+      "explanation": "[What to measure: RATE not POSITION]\nC reads the STARTING POSITION: Physics started at millimetre scale (higher/older)\n= concludes physics has made 'more rapid' progress because it started earlier\n= but STARTING POSITION ≠ RATE OF PROGRESS\n\n[B — correct reading of SLOPE/RATE]\nRATE = steepness of descent on the diagram = how quickly the critical size dimension decreased\nPhysics: gradual descent over many decades (gentle slope)\nBiology: rapid descent from micrometre to nanometre-adjacent in 1960s–2020 (steep slope)\n= Biology descended more steeply in a shorter time = FASTER RATE of progress ✓\n\n[Key data reading principle]\nFor 'rate of progress' questions on declining curves:\n= measure the SLOPE (steepness) not the absolute starting position\n= steeper slope in shorter time = faster rate\n= total distance covered across many decades ≠ rapid progress",
+      "action": "Action Rule (Q64): 'More rapidly' = RATE = slope steepness in a given timeframe, NOT starting position or total historical coverage. Biology's steeper descent (1960s→2020) outpaces Physics's gradual slope = biology progressed more rapidly ✓. C = Rate vs. Position Confusion."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "nano_q65_nanotechnology_depends_on_reducing_critical_size",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Unit 41 Nano Scale — Q65 Data Interpretation (B→D)",
+    "quiz": {
+      "question": "[Q65 — Data Interpretation: Both diagrams → what does progress DEPEND ON?]\n\nNano Age diagram: progress across all technological periods = critical size dimension DECREASING (Y-axis going down from 10^-1 to 10^-12 metres)\nNano Scale diagram: Biology, Physics, Chemistry all converge toward nano scale = all moving toward SMALLER critical size dimension\nText: 'developments...related to our increasing ability to MEASURE AND UTILISE OBJECTS OF DECREASING SIZES'\n\nQ: The illustrations suggest that progress in nanotechnology depends on ______.\nB: research and development\nD: reducing the critical size dimension\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: 'research and development' = a GENERAL process that applies to ANY technology — it is not specific to what NANOTECHNOLOGY progress depends on. D: BOTH diagrams show the SAME pattern: progress = moving toward SMALLER critical size dimensions (downward on Y-axis). The text explicitly states: 'developments...related to our increasing ability to measure and utilise objects of DECREASING SIZES' = progress specifically depends on REDUCING the critical size dimension ✓",
+        "D is wrong — 'reducing critical size dimension' is the RESULT of progress, not what it depends on",
+        "B is correct — all technological progress depends on research and development",
+        "A is correct — the convergence of Physics, Biology, Chemistry shows academic cooperation"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Too General: 'research and development' applies to any field — not specific to what NANOTECHNOLOGY progress depends on. D = correct: both diagrams show progress = DECREASING critical size dimension / text confirms: 'utilise objects of decreasing sizes' ✓",
+      "explanation": "[What BOTH diagrams share — the common pattern]\nNano Age diagram: Y-axis = critical size dimension descending (10^-1 → 10^-12 metres) as technology advances\nNano Scale diagram: all three fields (Physics, Biology, Chemistry) converge toward SMALLER scale (nano/nanometre level)\n= the SHARED pattern across both diagrams = progress means MOVING TOWARD SMALLER critical size\n\n[Text corroboration]\n'Developments...related to our increasing ability to MEASURE AND UTILISE OBJECTS OF DECREASING SIZES'\n= explicitly states that progress = ability to work with DECREASING sizes\n= D: 'reducing the critical size dimension' = direct paraphrase ✓\n\n[Why B is too general]\n'Research and development' = a universal activity that ALL technologies depend on\n= not specific to WHAT makes nanotechnology progress distinct\n= the illustrations are specifically about CRITICAL SIZE DIMENSION decreasing\n= the correct answer must be specific to what the DIAGRAMS show\n\n[GAMSAT diagram synthesis rule]\nWhen two diagrams show the SAME pattern:\n= that shared pattern = the answer to 'what does this depend on'\n= here: both diagrams show decreasing critical size = progress depends on size reduction ✓",
+      "action": "Action Rule (Q65): When synthesising two diagrams, identify their SHARED PATTERN = the answer. Both diagrams show progress = decreasing critical size dimension. D = correct: reducing critical size dimension ✓. B = Too General: R&D applies to any technology, not specific to what nanotechnology progress depends on. Text confirms: 'utilise objects of decreasing sizes'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "abs_family_q37_denominator_third_not_half",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "ABS Family Statistics (Unit 39) — Q37 Data Interpretation (D→C)",
+    "quiz": {
+      "question": "[Q37 — Data Interpretation: Wrong Denominator — 'just under half' vs. 'about one-third']\n\nTable (55–64 age group, thousands):\n         With children / Without children / Total\n2006:    586 / 1125 / 1711\n2011:    660 / 1303 / 1963\n2016:    712 / 1398 / 2110\n2021:    743 / 1475 / 2218\n\nD states: 'just under half the couple families in the 55–64 age group will have dependent children'\n\nQ: The figures indicate that ______.\nC: there will be a big increase from 2006 to 2021 in the number of family couples in the 55–64 age group\nD: right through to 2021 just under half the couple families in the 55-64 age group will have dependent children\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: 'just under HALF' = ~45–49% of total. BUT the actual ratio: With children / Total = 586/1711 = 34% (2006) → 743/2218 = 33% (2021) = consistently about ONE-THIRD, not half. The denominator in D = total couple families (with + without), not just the without-children group. C: 55–64 total: 1711 (2006) → 2218 (2021) = increase of 507,000 = a BIG INCREASE ✓",
+        "C is wrong — the increase is not large enough to be called 'big'",
+        "D is correct — 586 vs 1125 shows that children-families are close to half of no-children families",
+        "A is correct — the 35-44 peak shows women delay childbirth to that age group"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Wrong Fraction (Denominator Error): 'just under half' = ~49%, but actual ratio = with children / TOTAL = ~34% (one-third). Student compared with-children to without-children (2:1 ratio) instead of with-children to total. C = correct: 55-64 total grows from 1,711K to 2,218K = big increase ✓",
+      "explanation": "[D — Denominator Error: Two different ratios]\nWhat student calculated: 586 (with) vs 1125 (without) ≈ 1:2 ratio → with-children = ~half of without-children\n= this is: with-children ÷ WITHOUT-CHILDREN = 52% (approximately)\n\nWhat D actually claims: 'just under half the couple families IN THE 55-64 AGE GROUP'\n= the denominator = ALL couple families in the group = with + without\n= correct calculation: 586 ÷ (586+1125) = 586 ÷ 1711 = 34%\n\n'Just under HALF' = ~45-49% → 34% does NOT qualify as 'just under half'\n34% is closer to 'about ONE-THIRD' → D is factually wrong\n\n[Cross-year verification]\n2006: 586/1711 = 34.3%\n2011: 660/1963 = 33.6%\n2016: 712/2110 = 33.7%\n2021: 743/2218 = 33.5%\n= consistently ~one-third, NOT 'just under half'\n\n[C — correct: big increase in 55-64 total]\n2006 total: 586+1125 = 1,711,000\n2021 total: 743+1475 = 2,218,000\nIncrease: 507,000 = ~30% growth = a BIG INCREASE ✓\n\n[Why A and B are eliminated]\nA: 'most women will delay having first child until 35+' = the table shows couples by age, NOT women's age at first child = cannot infer from this data\nB: '55-64 age group will have significant divorce rate' = the table shows presence/absence of children, NOT cause = divorce vs. death vs. empty-nesters cannot be inferred",
+      "action": "Action Rule (Q37): ALWAYS identify the correct DENOMINATOR for fraction claims. D says 'just under half of couple families' = denominator = ALL couples (with + without). Actual ratio: with-children ÷ total = ~34% = one-third, NOT half. Trap: comparing with-children to without-children (≈1:2) gives a misleading 50% impression. C = big increase: 1,711K → 2,218K ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
