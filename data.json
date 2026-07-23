@@ -8208,6 +8208,90 @@
     "cycleIdx": 0
   },
   {
+    "id": "fuzzy_logic_q57_causal_chain_area_cultivation",
+    "type": "data_interpretation",
+    "isMCQ": true,
+    "source": "Unit 38 Fuzzy Logic Map — Q57 Causal Chain Tracing (C→D)",
+    "quiz": {
+      "question": "[Q57 — Causal Chain: Trace ALL pathways from 'international police ↑' to 'drug usage']\n\nConditions: Local police = CONSTANT / International police = STEPPED UP (↑)\nGoal: Lower drug usage\n\nMap relationships (sign = effect direction when source increases):\n• International police ↑ → Profits – (Profits ↓)\n• International police ↑ → Area under cultivation – (Area ↓)\n• International police ↑ → Cartels effectiveness + (Cartels ↑) ← PROBLEM PATHWAY\n• Cartels ↑ → Area under cultivation + (Area ↑) ← counters the direct reduction\n• Area under cultivation ↑ → Drug availability + → Drug usage +\n\nQ: Which of the following elements ALSO needs to be decreased by other means to help lower drug usage?\nC: price of cocaine\nD: area under cultivation\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'Price of cocaine' → Drug usage: Price ↑ → Drug usage – (lower price = more usage, higher price = less usage). This is a valid route to reduce usage. BUT: the question asks what is ALSO needed given the SPECIFIC problem that international police creates. The UNRESOLVED conflict: International police ↑ → Cartels ↑ → Area ↑ → Drug availability ↑ → Drug usage ↑. D: Area under cultivation is the PIVOT POINT of this unresolved conflict — directly reducing it by other means neutralises the Cartels' counteraction ✓",
+        "D is wrong — international police already directly decreases area under cultivation",
+        "C is correct — price of cocaine is the most direct route to lower drug usage",
+        "A is correct — corruption needs to be decreased"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Missing the Unresolved Conflict: price of cocaine is a valid lever BUT not the specific problem created by international police ↑. D = correct: international police → Cartels ↑ → Area ↑ (COUNTERACTS the direct reduction) → must SEPARATELY decrease Area under cultivation to close this loophole ✓",
+      "explanation": "[Full causal chain analysis from international police ↑]\n\nDirect effects of international police ↑:\n→ Profits – (direct suppression ✓)\n→ Area under cultivation – (direct suppression ✓)\n→ Cartels effectiveness + (UNINTENDED CONSEQUENCE ✗)\n\nProblem pathway through Cartels:\nCartels ↑ → Area under cultivation + (Cartels fill the vacuum created by police)\n= this COUNTERACTS the direct reduction of Area under cultivation by international police\n= net effect on Area under cultivation = UNCERTAIN (two opposing forces)\n= if Cartels effect > direct police effect → Area may INCREASE despite police action\n→ Area ↑ → Drug availability ↑ → Drug usage ↑\n\n[Why D is correct]\nAREA UNDER CULTIVATION is the pivot node of the unresolved conflict:\n→ international police simultaneously DECREASES it (direct) and INCREASES it (via Cartels)\n→ to ensure Area decreases, we need ADDITIONAL OTHER MEANS to reduce it\n→ D: area under cultivation must ALSO be decreased by other means ✓\n\n[Why C falls short]\nPrice of cocaine → Drug usage –\n= a valid negative relationship\nBUT: this doesn't address the SPECIFIC UNRESOLVED CONFLICT that international police creates\n= the question asks: given that international police ↑ creates this Cartels→Area problem, what ALSO needs to be reduced?\n= the answer must close the SPECIFIC gap created, not just provide another general lever\n\n[Causal chain tracing rule]\nFor fuzzy logic map questions:\n1. Trace ALL pathways from the changed variable\n2. Find UNINTENDED/COUNTERACTING pathways (usually via a node that has BOTH + and – inputs)\n3. Identify the PIVOT NODE in the conflict\n4. That pivot node = the answer to 'what also needs to be decreased'",
+      "action": "Action Rule (Q57): Always trace ALL pathways including indirect ones. International police ↑ creates a CONFLICT at Area under cultivation: direct (–) vs. via Cartels (+). The pivot node = Area under cultivation. Must decrease it by OTHER MEANS (D) to close the loophole. C = valid lever but not the specific unresolved conflict node. Protocol: find the node with competing +/– inputs = that's what needs additional intervention."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "sketches_q24_anxiety_q_not_p",
+    "type": "visual",
+    "isMCQ": true,
+    "source": "Four Sketches (Waiting) — Q24 Visual (A→B)",
+    "quiz": {
+      "question": "[Q24 — Visual: 'greatest level of anxiety' — which bodily gesture signals most anxiety?]\n\nSketch descriptions:\np: Woman seated, leaning forward, hands clasped/fidgeting in lap, tense posture\nq: Elderly person hunched low, deep lean, scarf wrapped, very compressed/inward posture\nr: Person with legs crossed high, chin resting on hand, thoughtful/brooding\ns: Man with arms tightly crossed, glasses, upright but closed-off posture\n\nQ: Which person's bodily gestures exhibit the GREATEST level of anxiety?\nA: p\nB: q\n\nYour pick — A / Correct — B",
+      "options": [
+        "A: p shows tension (hands fidgeting, leaning forward) = some anxiety. B: q shows the most COMPRESSED, INWARD, HUNCHED posture — body language at its most contracted and self-protective. Hunching deeply + wrapping into a scarf = extreme withdrawal/anxiety. The DEGREE of physical contraction in q exceeds p. The more inward/compressed the posture, the greater the anxiety signal ✓",
+        "B is wrong — q looks relaxed and tired, not anxious",
+        "A is correct — p's forward lean and fidgeting are classic anxiety signals",
+        "C is correct — r's pensiveness shows the most anxiety"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Degree Error: p shows some anxiety (fidgeting, lean) but q shows MAXIMUM CONTRACTION — hunched deeply, compressed, withdrawn into scarf. B = correct: q's extreme inward posture = greatest anxiety ✓",
+      "explanation": "[Anxiety in body language — key signals]\nAnxiety in body language = protective, self-minimising, inward-turning gestures:\n• Hunching: making body smaller (protective)\n• Self-wrapping (scarf, crossed arms): self-soothing/protective\n• Compressed posture: withdrawal from external environment\n\n[p vs. q — comparison]\np: Forward lean (engaging with environment), hands fidgeting = TENSION/MILD ANXIETY\n= forward direction = still oriented toward the world = moderate anxiety level\n\nq: Deep HUNCH, body compressed, wrapped in scarf, head drawn in\n= MAXIMUM INWARD WITHDRAWAL = extreme contraction away from environment\n= the body is as compressed and self-protective as possible\n= GREATER anxiety level than p's forward-leaning tension\n\n[Why A was chosen]\nFidgeting and forward lean are recognisable anxiety signals → student selects p\nBUT: the DEGREE of anxiety shown by total bodily compression in q exceeds individual fidgeting\nRule: for 'greatest' degree questions, compare the INTENSITY of the signal, not just its presence",
+      "action": "Action Rule (Q24): For 'greatest anxiety' in body language, measure the DEGREE of physical contraction/withdrawal. Fidgeting (p) = anxiety present. Deep hunch + body compression + self-wrapping (q) = anxiety at maximum degree. Always compare INTENSITY, not just presence of the signal. B = q ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "sketches_q25_boredom_distasteful_q_not_s",
+    "type": "visual",
+    "isMCQ": true,
+    "source": "Four Sketches (Waiting) — Q25 Visual (D→B)",
+    "quiz": {
+      "question": "[Q25 — Visual: 'finds boredom DISTASTEFUL' — which posture shows active RESISTANCE to boredom?]\n\nKey concept: 'finds boredom distasteful' ≠ 'appears bored'\n= the person DISLIKES boredom / RESISTS being idle / is internally ACTIVE despite waiting\n\nSketch descriptions:\np: Woman leaning forward, engaged, hands active\nq: Elderly person hunched, but with scarf and interesting details suggesting individuality\nr: Thoughtful person, chin on hand, eyes alert, engaged in own thinking\ns: Man with arms crossed, upright, possibly impatient or contained energy\n\nQ: Which sketch depicts someone who finds boredom DISTASTEFUL?\nA: p\nB: q\nD: s\n\nYour pick — D / Correct — B",
+      "options": [
+        "D: s's crossed arms + upright posture = CLOSED-OFF / IMPATIENT, but this reads more as social defensiveness or mild irritation, not specifically aversion to boredom. B: q despite hunched posture shows an internally RICH, TEXTURED figure (layered clothing, scarf details) — someone with a complex inner world who would find mere waiting distasteful. The richness of character/texture in q suggests a person who finds stillness/boredom offensive to their nature ✓",
+        "B is wrong — q's hunched posture suggests acceptance of boredom, not resistance",
+        "A is correct — p's forward lean shows active engagement and dislike of waiting",
+        "D is correct — s's crossed arms show impatience = boredom distaste"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Surface Reading: crossed arms = impatient/defensive, but this is more social distance than boredom-distaste. B = correct: q's textured, complex character suggests someone whose inner richness finds idle waiting offensive ✓",
+      "explanation": "['Finds boredom distasteful' — what to look for]\nNOT: someone who LOOKS bored\nNOT: someone who APPEARS impatient in a social sense\nBUT: someone whose CHARACTER/INNER WORLD is rich enough that boredom = an insult to their nature\n= they have too much going on internally to tolerate emptiness\n\n[Why q = finds boredom distasteful]\nq appears hunched/waiting, but the TEXTURE and COMPLEXITY of the figure:\n= layered clothing, scarf, details suggesting an elderly person of character and depth\n= a person with a rich interior life who is never truly idle even while waiting\n= they INTERNALLY resist the emptiness of waiting (distaste for boredom is internal)\n= the outward hunch may reflect physical age/discomfort, not acceptance of boredom\n\n[Why s falls short]\ns's crossed arms = a DEFENSIVE posture OR mild irritation/impatience\n= this is more social boundary-setting than a sign of finding boredom offensive to one's nature\n= s appears socially closed-off, not internally rich/active\n\n[Key visual question type]\nFor 'finds X distasteful' questions: don't look for the person who DISPLAYS X (bored)\nLook for the person whose character/internal state shows they RESIST X = their character opposes it",
+      "action": "Action Rule (Q25): 'Finds boredom distasteful' = person whose inner complexity/richness means they cannot tolerate idle emptiness. NOT the person who merely looks impatient (s). Look for RICHNESS OF CHARACTER/TEXTURE in the sketch. q = complex, layered figure whose inner world makes boredom offensive. D = Surface Reading: crossed arms = social defensiveness, not boredom-distaste."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "sketches_q26_father_daughter_pose_inheritance_s_p",
+    "type": "visual",
+    "isMCQ": true,
+    "source": "Four Sketches (Waiting) — Q26 Visual (A→C)",
+    "quiz": {
+      "question": "[Q26 — Visual: 'characteristic poses passed on but REINTERPRETED by offspring']\n\nKey concept: FATHER and DAUGHTER share a SIMILAR core pose but the daughter's version is SOFTER/YOUNGER/REINTERPRETED\n= same fundamental gesture expressed differently by different generation/gender\n\nSketch descriptions:\np: Young woman, seated, leaning forward, hands in lap/fidgeting, floral dress\nq: Elderly man, hunched deeply, scarf, compressed posture\nr: Young person (possibly female), legs crossed, chin on hand, brooding\ns: Middle-aged man, arms tightly crossed, upright, suit\n\nQ: If characteristic poses are passed on but reinterpreted by offspring, which could most likely be father and daughter?\nA: q & p\nC: s & p\n\nYour pick — A / Correct — C",
+      "options": [
+        "A: q & p — q (hunched, compressed, elderly) and p (forward lean, fidgeting). The CORE gestures are DIFFERENT: q = inward withdrawal / p = outward lean. These don't share a reinterpreted version of the same base pose. C: s & p — s (arms crossed, upright, closed posture, suit = contained/restrained energy) and p (forward lean, hands fidgeting, young woman). SHARED CORE: both show a form of CONTAINED/CONTROLLED energy and self-directed focus. s = rigidly controlled (crossed arms) / p = its softer, younger, feminine reinterpretation (fidgeting forward instead of crossing arms) ✓",
+        "C is wrong — s and p have completely different body positions",
+        "A is correct — q's hunch is reinterpreted as p's lean",
+        "D is correct — s and r share similar brooding qualities"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Different Core Poses: q (inward withdrawal) and p (outward lean) don't share a reinterpretable base gesture. C = correct: s (arms crossed = contained energy) and p (fidgeting forward = the same contained energy, reinterpreted in a younger, feminine, softer form) ✓",
+      "explanation": "['Poses passed on but REINTERPRETED' — what to look for]\nMUST share: a RECOGNISABLE CORE GESTURE/ENERGY\nMUST differ: the expression is REINTERPRETED by offspring (softer, different gender expression, different life stage)\n\n[C — s & p: shared core = contained/focused energy]\ns (father candidate): arms TIGHTLY CROSSED, upright, suit\n= contained energy, self-controlled, focused inward, masculine/formal expression\n\np (daughter candidate): leaning forward, HANDS FIDGETING in lap\n= the same self-directed, contained focus BUT expressed as:\n- forward (not closed off)\n- hands active (not arms crossed)\n- softer, more open, younger, feminine reinterpretation\n= the RESTRAINED/CONTAINED ENERGY of s = REINTERPRETED in p as fidgeting forwardness ✓\n\n[Why A fails: q & p]\nq: EXTREME INWARD COMPRESSION, hunch\np: OUTWARD LEAN, forward engagement\n= these are OPPOSITE directions of energy (inward vs. outward)\n= a reinterpretation would keep the same direction but modify expression\n= q → p would require inverting the entire direction of the gesture, not just reinterpreting it",
+      "action": "Action Rule (Q26): 'Poses passed on but reinterpreted' = same CORE ENERGY/DIRECTION, expressed differently by generation/gender. s & p (C): s's contained energy (crossed arms) → p's softer reinterpretation (fidgeting forward). They share the self-directed, contained quality. q & p (A) = different directions (inward vs. outward) = not the same base pose. Look for SHARED DIRECTION OF ENERGY, not just visual similarity."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
