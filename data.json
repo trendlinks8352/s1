@@ -8355,6 +8355,48 @@
     "cycleIdx": 0
   },
   {
+    "id": "cezanne_q11_restraint_to_connivance_attitude_shift",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Chasing Cézanne (Peter Mayle) — Q11 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q11 — Paraphrase: Attitude Shift — 'self-defeat → self-reliance' vs. 'restraint → connivance']\n\nPassage evidence:\nEARLY: 'Her voice, when she broke the silence, was TENTATIVE' (line 6) = cautious/restrained\n→ 'Camilla decided that any comment from her would be ILL-ADVISED' (lines 11–12) = chose to say nothing = RESTRAINT\n\nLATER: 'look on the BRIGHT SIDE, sweetie. April in Paris.' (lines 12–13)\n→ rationale: she ACCEPTS Holtz's abusive behaviour in exchange for the Paris trip reward = CONNIVANCE (willingness to overlook wrongdoing for personal benefit)\n\nQ: Camilla's attitude changes from ______.\nB: restraint to connivance\nC: self-defeat to self-reliance\n\nYour pick — C / Correct — B",
+      "options": [
+        "C: 'self-defeat' = extreme failure/collapse of self — passage shows caution/restraint, not collapse. 'Self-reliance' = independent, self-determined action — but Camilla is still executing Holtz's orders (booking flights/hotel). B: RESTRAINT = tentative voice + deciding not to comment (ill-advised) → CONNIVANCE = rationalising the situation ('bright side, Paris') = willingly accepting/overlooking Holtz's abusive behaviour for the benefit of the Paris trip ✓",
+        "B is wrong — 'connivance' implies deliberate wrongdoing which is too strong",
+        "C is correct — Camilla goes from being defeated by Holtz to acting independently",
+        "D is correct — Camilla starts cooperative and ends feeling sorry for herself"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Over-Intensity + Direction Error: 'self-defeat' overstates caution as collapse / 'self-reliance' overstates passive acceptance as independence. B = correct: RESTRAINT (tentative + choosing not to speak) → CONNIVANCE (rationalising abuse away, embracing the Paris trip) ✓",
+      "explanation": "[EARLY attitude: RESTRAINT]\n'Her voice was TENTATIVE' (line 6) = cautious, holding back\n'decided any comment would be ILL-ADVISED' (lines 11–12)\n= she CHOOSES SILENCE = RESTRAINT (not self-defeat; she's making a strategic decision)\n\n[LATER attitude: CONNIVANCE]\n'look on the bright side, sweetie. April in Paris.'\n= she RATIONALISES Holtz's abusive, aggressive behaviour\n= finds a personal incentive (Paris trip) to accept/overlook the wrongdoing\n= CONNIVANCE = willingness to overlook/tacitly accept wrongdoing for personal benefit ✓\n\n[Why C fails]\n'SELF-DEFEAT': implies she has given up on herself / collapsed completely\n= the passage shows STRATEGIC SILENCE (calculated restraint), not self-defeat\n\n'SELF-RELIANCE': implies she acts independently, on her own terms\n= she is still EXECUTING HOLTZ'S INSTRUCTIONS (call the Ritz, start packing)\n= she has not become self-reliant — she is compliant while internally positive\n\n[B: the trajectory]\nRESTRAINT (holding back, tentative) → CONNIVANCE (embracing the situation by rationalising the reward)\n= the shift from cautious silence to active internalisation of the situation ✓",
+      "action": "Action Rule (Q11): 'Tentative voice' + 'ill-advised to comment' = RESTRAINT (not self-defeat — she's strategic). 'Look on the bright side / April in Paris' = CONNIVANCE (rationalising abusive behaviour for the reward of Paris trip). C = overclaims in both directions. B = correct arc: strategic silence → willing acceptance of the situation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "cezanne_q12_weather_literal_not_metaphor_packing",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Chasing Cézanne (Peter Mayle) — Q12 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q12 — Targeting: Literal vs. Metaphorical — 'weather' in the CONTEXT OF PACKING]\n\nPassage (lines 13–14):\n'She went off to make the calls and start PACKING.\nSpring was so difficult, she thought.\nOne never knew what the WEATHER MIGHT DO.'\n\nQ: Camilla's concern 'One never knew what the weather might do' (line 14) relates to ______.\nB: how Holtz's mood might change in response to a new environment\nD: what outfits Camilla should pack for herself\n\nYour pick — B / Correct — D",
+      "options": [
+        "B: reads 'weather' as a METAPHOR for Holtz's unpredictable mood (common literary device). But the IMMEDIATE CONTEXT: Camilla is physically PACKING (line 13). 'Spring was so difficult' → thinking about spring clothing. 'One never knew what the weather might do' → practical concern about what clothes to pack for Paris. D: weather concern → clothes to pack = direct, literal reading grounded in the physical action of packing ✓",
+        "D is wrong — the passage has been describing Holtz's volatile mood, so weather must refer to that",
+        "B is correct — weather is clearly a metaphor for Holtz's unpredictability",
+        "C is correct — Camilla is thinking about what clothes to pack for Holtz"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Metaphorical Over-Extension: weather CAN metaphorically represent mood in literature, but here the IMMEDIATE PHYSICAL CONTEXT = packing. D = correct: 'start packing' (line 13) + 'spring' + 'weather' = what to wear in Paris = what outfits to pack ✓",
+      "explanation": "[The 'grounding' principle — anchor to physical context]\nLine 13: 'She went off to make the calls and START PACKING'\n= immediate, concrete physical action = PACKING\n\nLine 13–14 (in Camilla's thoughts WHILE PACKING):\n'Spring was so DIFFICULT' = thinking about spring season clothing\n'One never knew what the WEATHER might do' = uncertainty about what the weather will be = what to wear\n→ these thoughts naturally arise WHILE PACKING for a trip to Paris in spring\n→ D: 'what OUTFITS Camilla should pack for HERSELF' = direct literal paraphrase ✓\n\n[B — Metaphorical Over-Extension]\nWeather = metaphor for mood = a valid literary device in general\nBUT: this passage has just moved from Holtz-interaction scene → Camilla packing scene\n= the context has SHIFTED from emotional confrontation to PRACTICAL PREPARATION\n= Camilla is now thinking practically (packing), not about Holtz's mood\n= applying the weather-as-mood metaphor here = reading a PAST CONTEXT into a NEW CONTEXT\n\n[The key distinction]\nWhen weather appears:\n(a) During emotional confrontation scenes → metaphor for mood is plausible\n(b) During PACKING for a trip → literal practical concern about what to wear\nHere = case (b): Camilla is literally starting to pack → weather = literal ✓\n\n[Why C was excluded correctly]\nC: 'clothes to pack for HOLTZ' = not supported; Holtz's packing needs are not mentioned\nD: 'outfits for HERSELF' = she is the one packing, thinking about her own wardrobe ✓",
+      "action": "Action Rule (Q12): When 'weather' appears WHILE A CHARACTER IS PACKING, treat it literally first. Grounding principle: anchor meaning to the IMMEDIATE PHYSICAL CONTEXT (packing for a spring trip to Paris). B = Metaphorical Over-Extension: importing Holtz's mood theme into a scene that has shifted to practical preparation. D = correct: weather concern = what to pack for spring = outfits ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
