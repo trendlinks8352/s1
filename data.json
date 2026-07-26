@@ -8292,6 +8292,69 @@
     "cycleIdx": 0
   },
   {
+    "id": "punch_cartoon_q28_surface_reading_her_problem_not_his",
+    "type": "visual",
+    "isMCQ": true,
+    "source": "Pick of Punch Cartoon — Q28 Visual (A→B)",
+    "quiz": {
+      "question": "[Q28 — Visual: Surface vs. Deep Reading — 'timing' vs. 'blame']\n\nCartoon: Woman leaving with luggage (serious situation). Man seated with back to her, watching large TV.\nCaption: 'Couldn't you at least wait until half-time so we could discuss \"communication problems\"?'\n\nKey visual/textual signals:\n• 'communication problems' in QUOTATION MARKS → man doesn't take it seriously / treats it as HER label, not his concern\n• Man asks HER to wait → frames HER timing as the problem\n• Man's back to her, TV blocking view → he's not engaged at all\n\nQ: The attitude of the male in the cartoon is mostly that ______.\nA: there is a time for everything\nB: if a problem exists it is hers not his\n\nYour pick — A / Correct — B",
+      "options": [
+        "A: 'there is a time for everything' = a PHILOSOPHICAL STANCE about timing. But the man is NOT making a philosophical point — he's prioritising sport over his wife leaving. The 'wait until half-time' framing is surface. The DEEP meaning: 'communication problems' in quotes = he dismisses the issue as HER concern, not something HE owns. B: he asks HER to change timing → responsibility placed on her ✓",
+        "B is wrong — the man's concern about timing shows he does want to discuss things",
+        "A is correct — the man acknowledges there is a right time for discussion",
+        "D is correct — the quotation marks show he doesn't think it's serious"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Surface Reading: 'wait until half-time' LOOKS like 'timing philosophy' but the DEEP meaning = he frames HER departure as HER timing problem, not his responsibility. B = correct: quotation marks on 'communication problems' + asking HER to wait = the problem is attributed to her, not him ✓",
+      "explanation": "[Surface vs. Deep reading]\nSURFACE: 'Couldn't you WAIT until half-time' = seems to be about scheduling/timing\n→ A: 'there is a time for everything' = reads the surface\n\nDEEP: WHO is being asked to change/wait? SHE is.\n= he is NOT adapting his behaviour at all (still watching TV)\n= he frames her DEPARTURE (the crisis) as HER timing problem\n= 'communication problems' in QUOTATION MARKS = he treats this as her label/complaint, not a real issue he owns\n= he's saying: 'IF there's even a thing called that, talk about it at MY convenience'\n\n[B — correct deep reading]\nHe asks HER to wait → burden of solving the problem = on HER\n'communication problems' in quotes → dismisses the seriousness / treats it as HER perception\n= his attitude: whatever problem there is = hers, not his\n= he himself is not the problem in his view ✓\n\n[D was also attractive but falls short]\nD: 'the communication problem is not really serious'\n= partially captures the dismissiveness of the quote marks\nBUT: B is more precise — it attributes the problem TO her rather than just minimising its seriousness",
+      "action": "Action Rule (Q28): Quotation marks on 'communication problems' = man distances himself from ownership of the issue. Asking HER to wait = placing the burden on her. B = the problem is attributed to her, not him ✓. A = Surface Reading: 'wait until half-time' LOOKS like timing philosophy but is actually blame-shifting."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "punch_cartoon_q31_humour_common_experience_unusual_twist",
+    "type": "visual",
+    "isMCQ": true,
+    "source": "Pick of Punch Cartoon — Q31 Humour Source (A→C)",
+    "quiz": {
+      "question": "[Q31 — Visual: Source of humour — 'unusual twist to a COMMON EXPERIENCE']\n\nCartoon: Woman leaving with luggage. Man watching TV, doesn't turn around.\nCaption: 'Couldn't you at least wait until half-time so we could discuss \"communication problems\"?'\n\nQ: The humour in the cartoon derives from ______.\nA: the position of the TV\nB: the apparent rewarding of the indolent\nC: an unusual twist to a common experience\nD: different opinions on the importance of sport\n\nYour pick — A / Correct — C",
+      "options": [
+        "A: the TV position is a VISUAL DEVICE that reinforces the theme (blocking connection). But it is not the PRIMARY source of the humour — it's supporting detail. C: COMMON EXPERIENCE: spouse absorbed in TV/sport ignoring the relationship = relatable scenario many recognise. UNUSUAL TWIST: normally a partner leaving with luggage = crisis requiring urgent response. But the man treats it as an INCONVENIENT INTERRUPTION to half-time, suggesting she schedule her departure around sport = the absurdity of this twist creates the humour ✓",
+        "C is wrong — the situation is too extreme to be called a 'common experience'",
+        "A is correct — the TV blocking the woman is the visual punchline",
+        "D is correct — the disagreement about sport vs. relationship is the core joke"
+      ],
+      "correctIdx": 0,
+      "answer": "① A = Supporting Detail Trap: TV position reinforces the theme but is not the primary humour mechanism. C = correct: common experience (husband absorbed in TV, ignoring relationship) + unusual twist (treating partner's dramatic departure as merely an inconvenient half-time interruption) = the absurd juxtaposition = the humour ✓",
+      "explanation": "[The structure of cartoon humour]\nMost effective cartoons: RECOGNISABLE SITUATION + ABSURD/UNEXPECTED TWIST = humour\n\n[COMMON EXPERIENCE — what makes it relatable]\n= husband watching sport / ignoring wife / 'communication problems' in a marriage\n= many people recognise this general dynamic (TV-absorbed partner vs. neglected spouse)\n= the audience thinks: 'ah yes, I know this kind of situation'\n\n[UNUSUAL TWIST — the absurdity that creates the joke]\nEXPECTED response when wife is leaving with luggage: panic, pleading, urgent engagement\nACTUAL response: 'couldn't you WAIT until half-time?'\n= he treats a potentially permanent departure as a minor scheduling inconvenience\n= suggests she PLAN her exit around the sport schedule\n= the catastrophic-situation + the trivial-treatment = the ABSURD MISMATCH = the punchline ✓\n\n[Why A falls short]\nTV position = excellent VISUAL METAPHOR for disconnection and his self-absorption\n= but TV position is a SUPPORTING ELEMENT that makes the situation legible\n= the HUMOUR arises from the NARRATIVE TWIST (how he responds), not from where the TV sits\n\n[Why B is not the primary humour source]\nB: 'rewarding the indolent' = would require the cartoon to show the man benefiting/winning\n= the cartoon doesn't show a reward — it shows an ABSURD response, not a reward",
+      "action": "Action Rule (Q31): Cartoon humour structure = COMMON EXPERIENCE (relatable domestic situation) + UNUSUAL TWIST (treating a serious departure as a half-time scheduling issue). C = correct. A = Supporting Detail Trap: TV position reinforces theme but is not the punchline mechanism. Always find the NARRATIVE TWIST (what the character does unexpectedly), not just the visual detail."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "hornby_q48_imposed_upon_maureen_not_martin",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Nick Hornby (A Long Way Down) — Q48 Targeting (C→D)",
+    "quiz": {
+      "question": "[Q48 — Targeting: 'imposed upon' — who is MOST EASILY burdened without pushing back?]\n\nPassage evidence:\n• Line 1: Jess proposes 'either at MAUREEN'S or somewhere in Islington' — treats Maureen's private home as a casual venue option\n• Lines 5–6: 'So to KEEP HIM HAPPY, we met up there' — the group goes to Martin's chosen place TO PLEASE MARTIN\n• Martin: found a 'snooty little coffee bar' = has and asserts strong preferences\n• Maureen: has NO voice in the choice of venue / her home is the default fallback option\n• JJ: says what he's 'not into' = asserts preferences\n\nQ: Who in the group does Jess regard as being most easily IMPOSED UPON?\nC: Martin\nD: Maureen\n\nYour pick — C / Correct — D",
+      "options": [
+        "C: 'snooty' describes the COFFEE BAR Martin chose, not Martin himself. 'To keep HIM happy' = the group adapted to Martin's preference = Martin gets his way = NOT imposed upon. D: Maureen's private HOME is casually listed as a venue option without any evidence she agreed or was consulted = she is the default person whose space/goodwill can be assumed available = most easily imposed upon ✓",
+        "D is wrong — Maureen is not mentioned enough to determine her role",
+        "C is correct — Martin's 'snooty' nature makes him easily exploitable",
+        "A is correct — JJ is the one who gets overruled by the group"
+      ],
+      "correctIdx": 0,
+      "answer": "① C = Adjective Mismatch + Direction Error: 'snooty' = the coffee bar, not Martin. 'To keep him happy' = Martin gets his way = Martin is NOT imposed upon — he's the one imposing. D = correct: Maureen's home casually offered as venue = she can be assumed to accommodate without pushback ✓",
+      "explanation": "['Imposed upon' decoded]\nIMPOSED UPON = someone whose goodwill/space/time is assumed available / who doesn't (or can't) refuse\n= the person others take for granted / place burdens on without asking\n\n[D — Maureen: textual evidence]\nLine 1: 'either at MAUREEN'S or somewhere in Islington'\n= Maureen's private HOME is offered as an equivalent to a public district\n= Jess didn't write 'if Maureen is OK with it' — she treats it as automatically available\n= Maureen has NO VOICE in the entire discussion about where to meet\n= she is the assumed default / the path of least resistance\n→ most easily imposed upon ✓\n\n[C — Martin: why he is NOT imposed upon]\nError 1 — Adjective Mismatch:\n'snooty little coffee bar' = 'snooty' describes THE PLACE, not Martin\n= student reads: Martin = snooty → Martin is vulnerable to criticism → easily imposed upon\n= WRONG: 'snooty' is never applied to Martin as a person\n\nError 2 — Direction Error:\n'to keep HIM happy, we met up there' = the GROUP adapted to MARTIN'S preference\n= Martin's choice was honoured by others\n= he gets his way = he is the one doing the imposing, not the one being imposed upon\n= Martin is the OPPOSITE of someone easily imposed upon\n\n[Key scan technique]\nFor 'most easily imposed upon': find the person who:\n(a) has no voice in decisions that affect them\n(b) whose resources (home, time) are casually assumed available\n(c) is never mentioned as pushing back or asserting preferences",
+      "action": "Action Rule (Q48): 'Imposed upon' = taken for granted, assumed to accommodate without resistance. Check who gets their way (Martin → 'to keep him happy' = he gets his way = NOT imposed upon) vs. who has no voice (Maureen → home casually offered as venue with no consultation = imposed upon). C = Adjective Mismatch ('snooty' = the bar) + Direction Error (Martin imposes, not being imposed upon). D = Maureen ✓."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
