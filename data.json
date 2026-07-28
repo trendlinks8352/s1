@@ -8397,6 +8397,90 @@
     "cycleIdx": 0
   },
   {
+    "id": "media_q82_rendition_ethics_primary_consideration",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Has the Media Gone Too Far? — Q82 Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q82 — Paraphrase: 'rendition' of RS's statement — what does RS ACTUALLY mean?]\n\nRS (news director) original statement (lines 17–19):\n'It's certainly a very tough business. You're expected to do as well as or better than the opposition in these cases. However, NO JOURNALIST WOULD EVER BE ORDERED TO BEHAVE UNETHICALLY.'\n\nContext clues:\n• 'expected to do as well as or better than the opposition' = competitive pressure to get the story\n• 'no journalist would EVER be ordered' = strong formal denial of unethical orders\n• BUT: this comes AFTER implying competitive necessity ('beat the opposition')\n\nQ: In context, a more accurate rendition of this comment is ______.\nA: I expect my journalists to be prepared to do absolutely anything, so long as it's ethical\nD: There's no way that I'd want my staff to behave unethically. I'd expect them to find other ways of getting material through sheer hard work.\n\nYour pick — D / Correct — A",
+      "options": [
+        "D: 'sheer hard work' as the alternative to unethical behaviour = NOT in the original. RS never mentions 'hard work' as the substitute. A: 'prepared to do ABSOLUTELY ANYTHING, so long as it's ethical' = captures RS's actual subtext: the competitive pressure to do WHATEVER IT TAKES ('as well as or better than opposition') + the caveat 'so long as it's ethical' = the formal ethical disclaimer that actually masks the 'do whatever it takes' pressure ✓",
+        "A is wrong — 'absolutely anything' is too strong; RS only said 'as well as or better'",
+        "D is correct — RS clearly means journalists should work harder, not unethically",
+        "C is correct — RS means ethics are secondary to competition"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Invention: 'sheer hard work' as the alternative is NOT in RS's statement — imported concept. A = correct: 'expected to do as well as or BETTER than opposition' → 'prepared to do ABSOLUTELY ANYTHING' + 'no journalist would be ordered unethically' → 'so long as it's ethical' = accurate rendition of the competitive-pressure-with-ethical-disclaimer subtext ✓",
+      "explanation": "['Rendition' = what it ACTUALLY means beneath the surface]\nRS's formal statement = 'no journalist would EVER be ordered to behave unethically'\n= sounds like a clear ethical commitment\n\nBUT: RS's first sentence = 'You're expected to do as well as or BETTER than the opposition'\n= the implicit message: do whatever is needed to beat the competition\n= the ethical caveat ('no ordering to be unethical') = COVERS the competitive pressure, not replaces it\n\n[A — correct rendition]\n'prepared to do ABSOLUTELY ANYTHING' = paraphrase of 'expected to do as well as or better than opposition' = competitive pressure ✓\n'SO LONG AS IT'S ETHICAL' = the formal disclaimer ('no journalist would be ordered unethically') ✓\n= A captures the ACTUAL message: maximum competitive effort + the ethical fig leaf\n\n[D — Invention Error]\n'SHEER HARD WORK' as the alternative to unethical behaviour\n= RS never mentions 'hard work' anywhere in his statement\n= D invents a resolution that RS did not propose\n= D is what SHOULD be said in an ethical news environment, not what RS actually said",
+      "action": "Action Rule (Q82): 'Rendition' = what the statement ACTUALLY means beneath the surface. RS says: 'do as well as or better than opposition' (compete at all costs) + 'no ordering to be unethical' (formal disclaimer). A = correct rendition: 'absolutely anything, so long as it's ethical' = competitive pressure + ethical cover. D = Invention: 'sheer hard work' is not in RS's statement."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "media_q84_dw_professional_integrity_insulted",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Has the Media Gone Too Far? — Q84 Targeting (D→B)",
+    "quiz": {
+      "question": "[Q84 — Targeting: DW's aggression — what caused it?]\n\nDW's statement (lines 42–43):\n'How much did you get paid? It was one of the biggest stories of all time and you kept it away from everybody.'\n\nContext: LT (whose brother was found after months in Nepal) said the media besieged her brother's hospital room and kept the payment secret from everyone.\n\nDW's perspective: as a journalist, he was NOT involved in the story / it was kept from him → he missed out\n\nQ: The aggression shown by DW appears to be caused by anger that ______.\nB: his professional integrity was insulted\nD: LT had twisted the facts to her advantage\n\nYour pick — D / Correct — B",
+      "options": [
+        "D: 'LT had twisted the facts' = implies LT was dishonest/manipulative. But DW's own words focus on the PAYMENT and the story being kept secret — he's not accusing LT of lying. B: DW is a journalist who found out a 'biggest story of all time' was bought/kept secret FROM people like him. His question 'how much did you get paid?' = indignation that financial transaction was used to control the story = HIS ACCESS/INTEGRITY as a journalist was bypassed by the payment system ✓",
+        "B is wrong — DW seems to be questioning LT about facts, not defending his integrity",
+        "D is correct — LT is clearly distorting events to make the media look bad",
+        "A is correct — DW is upset he missed a good story"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Attribution Error: DW doesn't accuse LT of twisting facts — he's reacting to the SECRECY of the payment system. B = correct: 'kept it away from everybody' = professional journalists like DW were bypassed = his professional integrity/access was insulted by the payment-for-exclusivity system ✓",
+      "explanation": "[DW's actual complaint]\n'How much did you get paid?' = DW knows a payment was involved\n'It was one of the biggest stories of all time AND YOU KEPT IT AWAY FROM EVERYBODY'\n= the story was bought for exclusivity and kept from other journalists\n= DW (as a journalist) was one of the 'everybody' excluded\n\n[B — correct reading]\nPROFESSIONAL INTEGRITY INSULTED:\n= as a journalist, his job is to access important stories\n= finding out a 'biggest story of all time' was kept secret through a payment deal\n= means the normal journalistic process (competing fairly to get the story) was bypassed\n= his professional standing/identity = insulted by being shut out via a financial arrangement\n\n[D — Attribution Error]\n'LT had twisted the facts to her advantage'\n= would require DW to accuse LT of lying or misrepresentation\n= DW never says LT lied\n= his anger = at the SYSTEM (payment for exclusivity) not at LT's honesty\n= D imports an accusation of dishonesty that DW doesn't make",
+      "action": "Action Rule (Q84): DW's anger = 'biggest story kept away from everybody' = his professional access was bypassed by the payment-for-exclusivity system. B = correct: professional integrity insulted by being shut out. D = Attribution Error: DW doesn't accuse LT of twisting facts — he's angry at the payment system, not at LT's honesty."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "media_q85_mc_comment_back_to_main_topic",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Has the Media Gone Too Far? — Q85 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q85 — Targeting: MC's comment function — 'bringing back' or 'totally irrelevant'?]\n\nContext before MC speaks:\n• Discussion had drifted into DW challenging LT about payment for the story\n• The MAIN TOPIC = 'Has the Media Gone Too Far?'\n\nMC (retired journalist, lines 55–57):\n'What is this? An inquisition of this woman? I think we can take it as read that you pay for stories. It's been going on since the time of Disraeli. What I'd like to say is simply this — I think we've LOST TRACK OF WHAT MAKES NEWS.'\n\nQ: The comment by MC is ______.\nB: totally irrelevant to the discussion\nC: bringing the discussion back to the main topic\n\nYour pick — B / Correct — C",
+      "options": [
+        "B: 'totally irrelevant' = the comment has NO connection to the discussion. But MC ends with 'I think we've LOST TRACK OF WHAT MAKES NEWS' — this DIRECTLY reconnects to the programme's main question ('Has the Media Gone Too Far?'). C: MC redirects from the DW–LT payment argument back to the CORE QUESTION about journalism standards/what makes news ✓",
+        "C is wrong — MC's comment about Disraeli is too historical to be relevant",
+        "B is correct — the mention of Disraeli takes the discussion in a completely new direction",
+        "D is correct — MC's comment is out of touch with the preceding discussion"
+      ],
+      "correctIdx": 0,
+      "answer": "① B = Ignores the Concluding Statement: MC's closing line 'lost track of what makes news' DIRECTLY returns to the programme's main topic. C = correct: MC redirects from the payment dispute back to the core question about journalism/media standards ✓",
+      "explanation": "[MC's comment structure]\nOpening: 'What is this? An inquisition of this woman?' = challenges DW's aggressive questioning of LT\nMiddle: 'take it as read that you pay for stories... since Disraeli' = normalises/dismisses the payment issue as historically established\nClosing: 'I think we've LOST TRACK OF WHAT MAKES NEWS' = redirects to the MAIN TOPIC\n\n[Why C is correct]\nThe programme = 'Has the Media Gone Too Far?' = a discussion about what journalism is and should be\nMC says: 'we've LOST TRACK OF WHAT MAKES NEWS' = directly speaks to journalism's core purpose\n= this is a RETURN TO THE MAIN TOPIC of the programme ✓\n\n[Why B is wrong]\n'Totally irrelevant' = NO connection to the discussion\nBUT: MC's final line EXPLICITLY reconnects to the programme's core question\n= 'lost track of what makes news' = the heart of 'Has the Media Gone Too Far?'\n= B ignores the CONCLUDING statement and focuses only on the historical detour (Disraeli)\n\n[The structural function of MC's comment]\n= interrupts the payment dispute\n= brushes aside the payment argument as historically normal\n= pivots to the REAL question: what is good journalism?\n= function = BRINGING DISCUSSION BACK TO MAIN TOPIC ✓",
+      "action": "Action Rule (Q85): Always read a comment's CONCLUDING statement to determine its function. MC ends with 'lost track of what makes news' = directly reconnects to the programme's main topic (Has the Media Gone Too Far?). B = ignores the concluding pivot; C = correct. Rule: when a speaker shifts from a detour back to the core theme, that comment's function = bringing discussion back to main topic."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "media_q86_contradiction_tp_lt_throwing_journalists",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Has the Media Gone Too Far? — Q86 Targeting (D→C)",
+    "quiz": {
+      "question": "[Q86 — Targeting: Contradiction of TP's statement 'An individual has the right at any time to tell us that they don't want to see us' (lines 25–26)]\n\nTP's claim = individuals can ALWAYS refuse/reject media contact at any time\n\nQ: Which one of the following provides an instance of a CONTRADICTION of TP's statement?\nC: LT: 'I was physically throwing journalists out of his hospital room' (lines 48–49)\nD: MC: 'I think we can take it as read that you pay for stories' (lines 55–56)\n\nYour pick — D / Correct — C",
+      "options": [
+        "D: TP said individuals can refuse. MC says payment is normal. These are SEPARATE TOPICS — MC's comment about payment doesn't contradict the right to refuse media. C: LT HAD TO PHYSICALLY THROW journalists out of her brother's hospital room. If TP's claim were true ('individuals can refuse at any time'), LT should have been able to simply SAY 'go away' and journalists would leave. Instead, she had to use PHYSICAL FORCE = journalists did NOT leave when told to go = contradicts TP's claim ✓",
+        "C is wrong — throwing journalists out is itself an act of refusing, which supports TP",
+        "D is correct — payment for stories contradicts the idea that individuals have rights",
+        "A is correct — JK's acknowledgment of emotional impact contradicts TP"
+      ],
+      "correctIdx": 0,
+      "answer": "① D = Irrelevant Topic: MC's payment comment is about financial practice, not about the individual's right to refuse media access. C = correct: LT had to PHYSICALLY EJECT journalists = they would NOT leave when asked = contradicts TP's claim that individuals can 'at any time tell us they don't want to see us' ✓",
+      "explanation": "[TP's claim structure]\n'An individual has the right AT ANY TIME to TELL US THAT THEY DON'T WANT TO SEE US'\n= if the individual says 'go away', journalists leave\n= the verbal refusal = sufficient\n\n[C — direct contradiction]\nLT: 'I was PHYSICALLY THROWING JOURNALISTS OUT OF HIS HOSPITAL ROOM'\n= LT and family had to use PHYSICAL FORCE to remove journalists\n= if TP's claim were true: saying 'we don't want to see you' = journalists go\n= but LT had to resort to physical ejection = verbal refusal was NOT sufficient\n= journalists DID NOT leave when told to go\n→ this DIRECTLY contradicts TP's claim that individuals can TELL them to leave at any time ✓\n\n[D — why it's irrelevant to THIS contradiction]\nMC: 'you pay for stories'\n= about financial payment practices in journalism\n= doesn't address whether individuals can refuse media access\n= no logical connection to TP's statement about individual refusal rights\n= D = a DIFFERENT TOPIC, not a contradiction of the specific claim\n\n[GAMSAT contradiction-finding rule]\nTo find a contradiction:\n1. Identify the EXACT CLAIM (TP: individuals can verbally refuse media access at any time)\n2. Find an example where the OPPOSITE is true (LT had to physically remove journalists)\n3. The contradiction = an instance where the claimed outcome DOES NOT occur",
+      "action": "Action Rule (Q86): To find a contradiction, identify the EXACT CLAIM (verbal refusal = journalists leave) and find where the OPPOSITE happened (physical ejection required). C = LT had to physically throw journalists out = verbal refusal was NOT sufficient = contradicts TP. D = different topic (payment) with no logical connection to the refusal-rights claim. Protocol: exact claim → find instance where the claimed outcome fails."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
     "id": "u76_q15_targeting_reciprocity_repayment",
     "type": "targeting",
     "isMCQ": true,
